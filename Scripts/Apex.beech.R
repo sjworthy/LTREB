@@ -208,8 +208,19 @@ kruskal.test(RGR ~ Period, data = apex.arb.long.12)
 
 PC = apex.arb.long %>% 
   filter(Block == "PC")
+
+PC.arb.means.rgr = PC %>% 
+  group_by(Period) %>% 
+  summarise(mean.RGR = mean(RGR, na.rm = TRUE),
+            sd.RGR = sd(RGR, na.rm = TRUE))
+
 SC = apex.arb.long %>% 
   filter(Block == "SC")
+
+SC.arb.means.rgr = SC %>% 
+  group_by(Period) %>% 
+  summarise(mean.RGR = mean(RGR, na.rm = TRUE),
+            sd.RGR = sd(RGR, na.rm = TRUE))
 
 # both sites declining but not significantly
 test.PC = lm(RGR~ Time, PC)

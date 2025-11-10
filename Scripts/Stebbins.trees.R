@@ -56,6 +56,12 @@ steb.beech$RGR.22.24 = (steb.beech$log.dbh.2024 - steb.beech$log.dbh.2022)/2
 
 t.test(steb.beech$RGR.12.14,steb.beech$RGR.20.22) # significant
 
+# change NA RGR values to 0 because that individual died
+
+steb.beech = steb.beech %>% 
+  mutate(across(c(RGR.12.14,RGR.14.17,RGR.17.20,RGR.20.22,RGR.22.24),
+         ~ replace(., is.na(.),0)))
+
 # convert data to long format
 
 steb.beech.long = pivot_longer(data = steb.beech, cols = 17:21, 

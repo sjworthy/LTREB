@@ -1,0 +1,316 @@
+﻿Canopy_Tag_ID,Year,Date,Season,Canopy Cover,Percent_Class,Categories,Dominant_Category,Max_Category,Blight_Score,DBH,Alive,Comments
+PB1-41,2015,23-Sep-15,F,,1,"0,1,2,3,4",2,4,32,86.7,Y,Couple small dead branches
+PB1-42,2015,23-Sep-15,F,,1,"0,1,2",1,2,26,77.9,Y,
+PB1-43,2015,23-Sep-15,F,,1,"0,1",1,1,25,66.3,Y,few small dead branches; one larger dead branch
+PB1-44,2015,23-Sep-15,F,,1,"0,1,3",1,3,27,56.4,Y,Only one category3 leaf; sizeable wooly aphid colony; one medium-sized dead branch
+PB1-45,2015,23-Sep-15,F,,1,"0,1",1,1,25,61.3,Y,"very few leaves with symptoms; several bark splits, seeps"
+SB1-41,2015,1-Oct-15,F,,1,"0,1,2,3",2,3,31,55,Y,low-moderate mite damage on lowest branches; blight concentrated on lower strata; blight clustered
+SB1-42,2015,1-Oct-15,F,,1,"0,1,2",2,2,30,63.5,Y,"Crown thinning, early fall senescence?; blight is vertically distributed; overall <10%"
+SB1-43,2015,1-Oct-15,F,,1,"0,1,2,3",2,3,31,58.5,Y,Blight limited to lower branches; lowest branches >50% blighted
+SB1-44,2015,1-Oct-15,F,,1,"0,1,2",2,2,30,83.3,Y,Sooty mold(?) on many lower leaves and bark; aphid colony; blight is vertically distributed
+SB1-45,2015,1-Oct-15,F,,1,"0,1,2,3,4",2,4,32,79.5,Y,blight is vertically distributed and clustered; lowest branches >75% blight
+SC1-41,2015,8-Oct-15,F,,0,0,0,0,0,61,Y,"Thinning crown, yellowing leaves; likely due to fall senescence"
+SC1-42,2015,8-Oct-15,F,,0,0,0,0,0,61,Y,"Thinning crown, yellowing leaves; likely due to fall senescence. Double leader, one leader w substantial spiral fracture"
+SC1-43,2015,8-Oct-15,F,,0,0,0,0,0,59.5,Y,"Thinning crown, yellowing leaves; likely due to fall senescence"
+SC1-44,2015,8-Oct-15,F,,0,0,0,0,0,46,Y,"Thinning crown, yellowing leaves; likely due to fall senescence"
+SC1-45,2015,8-Oct-15,F,,0,0,0,0,0,51.5,Y,"Thinning crown, yellowing leaves; likely due to fall senescence. Old, mostly healed injury on W side of trunk"
+PB1-41,2016,3-Jun-16,S,,1,"0,1,2,3,4",2,4,32,0,Y,Bottom 1/4 of canopy ~75% symptomatic; many small dead branches; dominated by cat4
+PB1-42,2016,3-Jun-16,S,,1,"1,2",2,2,30,0,Y,Symptoms most severe in lowest branches
+PB1-43,2016,3-Jun-16,S,,1,"1,2,3,4",2,4,32,0,Y,Vertical pattern in symptoms
+PB1-44,2016,3-Jun-16,S,,1,"1,2,3,4",2,4,32,0,Y,"Vertical pattern in symptoms; 2 in dom, but many 3s and 4s."
+PB1-45,2016,3-Jun-16,S,,1,"1,2",2,4,32,0,Y,Vertical pattern in symptoms; very low % symptomatic (
+SB1-41,2016,6-Jun-16,S,,1,1234,3,4,36,0,Y,Many 2s and 4s; several dead/dying/leafless branches; top 2/3 
+SB1-42,2016,6-Jun-16,S,,1,1234,2,4,32,0,Y,"Few 4s, many 3s. Top 2/3 <"
+SB1-43,2016,6-Jun-16,S,,1,1234,2,4,32,0,Y,"Many dead, dying, leafless twigs and branches; symptoms extend further up canopy than other trees"
+SB1-44,2016,6-Jun-16,S,,1,1234,3,4,36,0,Y,Symptoms limited to bottom 10%
+SB1-45,2016,6-Jun-16,S,,1,1234,3,4,36,0,Y,"Symptoms limited to bottom 25%, many 2s, 4s uncommon."
+SC1-41,2016,27-May-16,S,,1,12,2,2,30,0,Y,Found 2 leaves with symptoms
+SC1-42,2016,27-May-16,S,,0,0,0,0,0,0,Y,
+SC1-43,2016,27-May-16,S,,1,2,2,2,30,0,Y,2 small leaves with symptoms
+SC1-44,2016,27-May-16,S,,0,0,0,0,0,0,Y,
+SC1-45,2016,27-May-16,S,,1,1,1,1,25,0,Y,1 leaf with a stripe
+PB1-41,2016,10-Oct-16,F,4,1,1234,2,4,32,0,Y,many small leafless branches and small pale leaves; dead buds; dead leaf tissue on many leaves; BLD >75% on lower 1/4 of tree; close to 25% overall
+PB1-42,2016,10-Oct-16,F,5,1,12,1,2,26,0,y,"few leafless branches; few dead buds; some BLD near top but most at bottom; 2 is very common, almost dominant"
+PB1-43,2016,10-Oct-16,F,5,1,12,1,2,26,0,y,BLD scattered through lower parts; clustered at tips; v few dead branches or dead buds; 1 med sized dead branch
+PB1-44,2016,10-Oct-16,F,5,1,12,1,2,26,0,y,some empty branches; failed buds; two dead med sized branch
+PB1-45,2016,10-Oct-16,F,5,1,1,1,1,25,0,y,very few leaves w BLD; many leafless twigs and dead small branches; some yellowing curling leaves
+SB1-41,2016,12-Oct-16,F,5,1,1234,2,4,32,0,y,"20-25% w BLD; dead and leafless branches low on tree; early fall color, leaf drop at top of canopy"
+SB1-42,2016,12-Oct-16,F,4,1,12,1,2,26,0,y,lots of early leaf drop at top of tree; several small to med sized branches w no leaves at bottom
+SB1-43,2016,12-Oct-16,F,4,1,123,2,3,31,0,y,"BLD symptoms visible more than half way up tree; lots of early fall color and leaf drop at top; many dead, leafless branches low"
+SB1-44,2016,12-Oct-16,F,5,1,1234,2,4,32,0,y,early fall color everywhere and leaf drop at top; few small to med sized dead branches; large hole/hollow at base
+SB1-45,2016,12-Oct-16,F,4,1,1234,2,4,32,0,y,"early fall color and leaf drop, especially at top; many small to med sized branches are dead/leafless low"
+SC1-41,2016,11-Oct-16,F,5,1,1,1,1,25,0,y,single BLD leaf observed
+SC1-42,2016,11-Oct-16,F,5,0,,0,0,0,0,y,
+SC1-43,2016,11-Oct-16,F,5,0,,0,0,0,0,y,
+SC1-44,2016,11-Oct-16,F,5,0,,0,0,0,0,y,
+SC1-45,2016,11-Oct-16,F,5,0,,0,0,0,0,y,
+SC1-41,2017,25-May-17,S,4,1,12,2,2,30,0,y,"canopy visibly thin; many branches w unopened bud; v few BLD, clustered"
+SC1-42,2017,25-May-17,S,5,1,123,2,3,31,0,y,crown somewhat thin; dead? unopened buds especially at top; BLD is clustered
+SC1-43,2017,25-May-17,S,4,1,12,2,2,30,0,y,crown visibly thin; dead? unopened buds especially at top; BLD is clustered
+SC1-44,2017,25-May-17,S,4,1,12,1,2,26,0,y,crown visibly thin; dead? unopened buds especially at top; BLD is clustered
+SC1-45,2017,25-May-17,S,5,1,12,1,2,26,0,y,"crown visibly thin; dead? unopened buds especially at top; v few BLD leaves, clustered"
+PB1-41,2017,24-May-17,S,5,4,1234,3,4,96,0,y,lower 1/2 of tree ~100% BLD; crown visibly thin due to undersized leaves
+PB1-42,2017,24-May-17,S,5,3,1234,2,4,72,0,y,vertical pattern less apparent; crown visibly thin due to undersized leaves
+PB1-43,2017,24-May-17,S,5,2,1234,2,4,52,0,y,"crown fuller than #41, 42, 44"
+PB1-44,2017,24-May-17,S,4,2,1234,2,4,52,0,y,"crown thin, partly due to physical damage, but also many leafless branches and twigs"
+PB1-45,2017,24-May-17,S,5,1,12,2,2,30,0,y,
+SB1-41,2017,31-May-17,S,5,2,1234,2,4,52,0,y,canopy nearly a 4; nearly 100%BLD in lower 1/2 of tree;; 10-25% in upper; many 3s and 4s.
+SB1-42,2017,31-May-17,S,4,2,1234,2,4,52,0,y,"top canopy very thin, many buds appear to be dead"
+SB1-43,2017,31-May-17,S,5,2,1234,2,4,52,0,y,"top canopy very thin, many buds appear to be dead"
+SB1-44,2017,31-May-17,S,5,2,1234,2,4,52,0,y,"top canopy very thin, many buds appear to be dead"
+SB1-45,2017,31-May-17,S,5,1,1234,1,4,28,0,y,"canopy a bit thin, BLD limited to bottom 1/2 of tree"
+PB1-41,2017,27-Sep-17,F,4,2,1234,3,4,56,85.9,y,bottom 1/3 of tree nearly leafless; middle 1/3 thinning; v top also thin; BLD evident in lower 2/3 of tree
+PB1-42,2017,27-Sep-17,F,4,2,1234,2,4,52,79.6,y,lower 1/3 v thin; top thinning (senescence?); middle pretty healthy; BLD 50% in bottom 1/2 of tree
+PB1-43,2017,27-Sep-17,F,5,1,123,2,3,31,66.4,y,"noticeably thin, but not "
+PB1-44,2017,27-Sep-17,F,4,2,123,2,3,51,55.6,y,several large leafless branches; BLD 50%+ in lower 1/3; canopy thinning
+PB1-45,2017,27-Sep-17,F,5,1,123,2,3,31,61.6,y,"noticeably thin, but not "
+SC1-41,2017,25-Sep-17,F,4,1,12,1,2,26,60.9,y,particularly thin at top of canopy; heavy see production; v. few leaves w BLD
+SC1-42,2017,25-Sep-17,F,3,1,12,2,2,30,60.7,y,v thin canopy
+SC1-43,2017,25-Sep-17,F,3,1,12,2,2,30,58.9,y,v thin at top; heavy see production; v few leaves w BLD
+SC1-44,2017,25-Sep-17,F,4,1,1,1,1,25,46,y,only 2 leaves w BLD seen
+SC1-45,2017,25-Sep-17,F,4,1,12,2,2,30,51.3,y,
+SB1-41,2017,28-Sep-17,F,4,2,1234,2,4,52,54.6,y,"canopy noticeably thin (early fall leaf drop?); lower 1/4 thin from BLD; BLD near 100% in lowest branches, many nearly leafless"
+SB1-42,2017,28-Sep-17,F,4,2,123,2,3,51,64.6,y,thin at top but still relatively full at lower levels; BLD >75% in lower 1/4 of tree; top 1/4 appears clean
+SB1-43,2017,28-Sep-17,F,4,2,1234,2,4,52,58.9,y,"crown and bottom are thinnest; BLD worst in lower 2/3, visible on few leaves at v top of tree"
+SB1-44,2017,28-Sep-17,F,5,2,123,2,3,51,83.4,y,"looks healthy despite large injury/hollow at base; BLD 75% in bottom 1/2 of tree, sparse in upper 1/3"
+SB1-45,2017,28-Sep-17,F,5,2,1234,2,4,52,78.2,y,thin at top but lower 3/4 looks pretty good.
+PB1-41,2018,31-May-18,S,4,4,1234,2,4,92,0,y,"noticeably thin throughout; BLD through entire canopy, worse lower; low branches leafless or nearly so"
+PB1-42,2018,31-May-18,S,5,3,123,3,3,75,0,y,approaching 75%
+PB1-43,2018,31-May-18,S,5,4,1234,3,4,96,0,y,100% BLD in lower 1/3; 75% in middle; 
+PB1-44,2018,31-May-18,S,5,2,123,2,3,51,0,y,"thinning, but >75% leaf cover"
+PB1-45,2018,31-May-18,S,5,3,123,2,3,71,0,y,BLD throughout but most prevalent low; noticeably thin at top
+SC1-41,2018,29-May-18,S,5,1,123,2,3,31,0,y,thin @ very top; few dead small branches; few BLD leaves at very top of canopy; but most BLD in lower 1/3
+SC1-42,2018,29-May-18,S,4,1,1234,2,4,32,0,y,large branch w spiral fracture; many small-medium sized dead branches; very few 4s; >50% with BLD in bottom 1/3 of tree
+SC1-43,2018,29-May-18,S,5,1,12,2,2,30,0,y,canopy noticeably thinning; large dead branch and many small dead branches
+SC1-44,2018,29-May-18,S,5,1,123,2,3,31,0,y,noticeably fuller canopy than others
+SC1-45,2018,29-May-18,S,5,1,123,2,3,31,0,y,injury on S-side of tree; canopy thinning; BLD mostly in lower 1/4 of tree
+SB1-41,2018,30-May-18,S,5,3,1234,3,4,76,0,y,upper canopy noticeable thin; lower tier 100% BLD; mid tier 50%; upper nearly 25%; many failed buds in lower parts
+SB1-42,2018,30-May-18,S,5,2,1234,2,4,52,0,y,"canopy thinning, but less so that #41; lower tiers ~75% BLD; 25% at top of tree"
+SB1-43,2018,30-May-18,S,4,3,1234,3,4,76,0,y,quite thin at top on SE side; ~75% BLD in lower 2/3; very top ~25%; many bare twigs and failed buds
+SB1-44,2018,30-May-18,S,5,3,1234,3,4,76,0,y,"noteiceably thinning; BLD near 100% in lower 1/3, but rare at top; many bare twigs and failed buds"
+SB1-45,2018,30-May-18,S,4,3,1234,2,4,72,0,y,many bare twigs at top; nearly 100% in bottom 1/4; 50-75% in mid part of tree
+PB1-41,2018,5-Oct-18,F,4,3,1234,2,4,72,87.6,y,BLD visible at top of canopy; Beech scale very low
+PB1-42,2018,5-Oct-18,F,4,2,123,2,3,51,79.3,y,No beech scale found
+PB1-43,2018,5-Oct-18,F,5,2,1234,2,4,52,65.5,y,canopy thinning; appears clean at top; Beech scale very low
+PB1-44,2018,5-Oct-18,F,5,2,123,2,3,51,55.8,y,canopy thinning; no BLD near top; Beech scale low
+PB1-45,2018,5-Oct-18,F,5,1,12,2,2,30,62,y,Beech scale very low
+SC1-41,2018,28-Sep-18,F,5,1,12,2,2,30,61.3,y,Canopy noticeably thin; beech scale very low
+SC1-42,2018,28-Sep-18,F,4,2,123,2,3,51,60.9,y,very few BLD in canopy; no beech scale found
+SC1-43,2018,28-Sep-18,F,4,1,123,2,3,31,59.4,y,Beech scale very low
+SC1-44,2018,28-Sep-18,F,5,1,123,2,3,31,46.6,y,No beech scale found
+SC1-45,2018,28-Sep-18,F,5,1,12,2,2,30,51.4,y,Very few BLD; only in lower 1/4; Beech scale very low
+SB1-41,2018,8-Oct-18,F,5,2,1234,2,4,52,54.8,y,But noticeably thin; symptoms >1/2 way to top @50%; but BLD low at very top; Beech scale very low
+SB1-42,2018,8-Oct-18,F,5,1,123,2,3,31,63.6,y,Very little BLD at top; ~25% in lower part; No beech scale found
+SB1-43,2018,8-Oct-18,F,5,2,123,2,3,51,59.4,y,"canopy noticeably thin; BLD visible near the top, but low; No beech scale found"
+SB1-44,2018,8-Oct-18,F,5,2,1234,2,4,52,83.8,y,Canopy noticeably thin' >75% in lower 2/3 of tree; difficult to see top; Beech scale low; few dense patches
+SB1-45,2018,8-Oct-18,F,4,1,1234,2,4,32,78.8,y,"Large gap at top, S-side; unknown cause; BLD very low at top; Beech scale very low"
+PB1-41,2019,25-Jun-19,S,4,4,234,3,4,96,0,y,lower 1/2 of canopy very thin; top 1/2 notably thinning
+PB1-42,2019,25-Jun-19,S,5,4,1234,2,4,92,0,y,"thinning, most in lower 1/2"
+PB1-43,2019,25-Jun-19,S,5,4,1234,3,4,96,0,y,nearly 100% BLD
+PB1-44,2019,25-Jun-19,S,5,4,1234,3,4,96,0,y,thinning - near category 4; nearly 100% BLD
+PB1-45,2019,25-Jun-19,S,5,3,123,2,3,71,0,y,"thinning - near category 4, most notable in lower 1/2"
+SC1-41,2019,11-Jun-19,S,5,2,12,2,2,50,61.4,y,
+SC1-42,2019,11-Jun-19,S,5,1,12,2,2,30,60.8,y,noteably thin at top
+SC1-43,2019,11-Jun-19,S,5,1,12,1,2,26,59.9,y,noteably thin at top
+SC1-44,2019,11-Jun-19,S,5,1,12,1,2,26,46.7,y,
+SC1-45,2019,11-Jun-19,S,5,1,12,1,2,26,51.5,y,noteably thin at top
+SB1-41,2019,1-Jul-19,S,4,4,1234,2,4,92,0,y,"very thin below, noticeable thin at top; BLD throughout but worse in bottom; many 3s"
+SB1-42,2019,1-Jul-19,S,5,2,123,2,3,51,0,y,some thinning; BLD light throughout; worse in lower 1/2
+SB1-43,2019,1-Jul-19,S,4,4,123,2,3,91,0,y,thin in lower 1/2 and some upper; BLD throughout but very light at top
+SB1-44,2019,1-Jul-19,S,5,4,1234,2,4,92,0,y,noticeably thin belowe but full above; nearly as many 3s as 2s
+SB1-45,2019,1-Jul-19,S,5,3,1234,2,4,72,0,y,"some thinning throughout, BLD ~ 100% in lower 1/2; lighter in upper 1/2"
+PB1-41,2019,4-Oct-19,F,4,3,123,2,3,71,86.8,y,leaf cover very low 4
+PB1-42,2019,4-Oct-19,F,4,3,1234,2,4,72,79.3,y,
+PB1-43,2019,4-Oct-19,F,4,3,1234,2,4,72,65.8,y,%BLD nearly 4; lots of browning on leaves (anthracnose?)
+PB1-44,2019,4-Oct-19,F,4,3,1234,2,4,72,55.8,y,%BLD nearly 4; many 3s; browning (anthracnose?)
+PB1-45,2019,4-Oct-19,F,5,3,123,2,3,71,62.4,y,%BLD low 3; lots of browning (anthracnose?)
+SC1-41,2019,26-Sep-19,F,5,1,12,1,2,26,61.6,y,canopy notably thin
+SC1-42,2019,26-Sep-19,F,5,2,123,2,3,51,61,y,large broken branch
+SC1-43,2019,26-Sep-19,F,4,1,12,1,2,26,59.3,y,some discoloration
+SC1-44,2019,26-Sep-19,F,5,1,123,1,3,27,46.9,y,
+SC1-45,2019,26-Sep-19,F,4,1,1,1,1,25,51.5,y,
+SB1-41,2019,3-Oct-19,F,4,4,1234,2,4,92,54.9,y,very thin in lower 1/3; 3 is dominant in lower 1/2
+SB1-42,2019,3-Oct-19,F,5,4,1234,2,4,92,64.4,y,neraly 100% BLD in lower 1/2
+SB1-43,2019,3-Oct-19,F,4,4,1234,2,4,92,60,y,lower 1/2 nearly leafless; browning on leaves (anthracnose?)
+SB1-44,2019,3-Oct-19,F,5,4,1234,2,4,92,84,y,leaf cover very low 5; browning (anthracnose?)
+SB1-45,2019,3-Oct-19,F,5,3,1234,2,4,72,79.1,y,3 is dominant in lower 1/2
+PB1-41,2020,30-Jun-20,S,4,3,1234,2,4,72,0,y,lower 1/2 of the tree is nearly leafless; top notably thinning
+PB1-42,2020,30-Jun-20,S,5,3,123,2,3,71,0,y,BLD throughout
+PB1-43,2020,30-Jun-20,S,5,3,1234,2,4,72,0,y,
+PB1-44,2020,30-Jun-20,S,4,3,123,2,3,71,0,y,thin throughout worse in lower 1/2
+PB1-45,2020,30-Jun-20,S,4,2,123,2,3,51,0,y,"notably thin throughout, but more in lower 1/2"
+SC1-41,2020,10-Jun-20,S,5,1,123,2,3,31,0,y,bit thin; BLS low throughout
+SC1-42,2020,10-Jun-20,S,4,2,1234,3,4,56,0,y,"BLD near 100% in lower 1/2, but very little at top"
+SC1-43,2020,10-Jun-20,S,5,2,123,2,3,51,0,y,"bit thin, but generally healthy; lower 1/3 50-75% BLD; upper only 10-25%"
+SC1-44,2020,10-Jun-20,S,5,1,123,2,3,31,0,y,"BLD a bit worse lower, but overall fairly low"
+SC1-45,2020,10-Jun-20,S,4,1,123,1,3,27,0,y,very thin (almost leafless) in lower 3/4; top thin
+SB1-41,2020,8-Jun-20,S,3,4,1234,3,4,96,0,y,Nearly 100% BLD; lower 1/2 nearly leafless; upper 1/2 ~50-75 leaf cover
+SB1-42,2020,8-Jun-20,S,5,3,1234,2,4,72,0,y,patchy thin spotsl but overal healthy canopy
+SB1-43,2020,8-Jun-20,S,4,4,1234,2,4,92,0,y,thin below (~25% cover in lower 1/2); upper canopy notably thin
+SB1-44,2020,8-Jun-20,S,4,4,1234,3,4,96,0,y,"thin throughout, but worse in lower 1/2"
+SB1-45,2020,8-Jun-20,S,5,4,1234,2,4,92,0,y,"very thin in lower 2/3; very top of tree has low BLD, but symptoms to the top"
+PB1-41,2020,10-Sep-20,F,4,3,123,2,3,71,87.5,Y,lower 1/2 nearly leafless
+PB1-42,2020,10-Sep-20,F,5,2,123,2,3,51,80.7,Y,leaf cover is a low 5; % with BLD near category 3
+PB1-43,2020,10-Sep-20,F,5,2,123,2,3,51,66,Y,leaf cover is a low 5; most BLD leaves in lower 2/3 of tree
+PB1-44,2020,10-Sep-20,F,4,2,123,2,3,51,56.1,Y,most BLD in lower 2/3; lowest 1/3 is nearly leafless
+PB1-45,2020,10-Sep-20,F,5,2,123,2,3,51,62.6,Y,
+SB1-41,2020,14-Sep-20,F,3,4,1234,2,4,92,55.3,y,lower 2/3 of tree nearly leafless
+SB1-42,2020,14-Sep-20,F,5,4,1234,2,4,92,64.6,y,%BLD is a low 4
+SB1-43,2020,14-Sep-20,F,4,4,1234,2,4,92,60.1,y,Canopy cover a low 4; lower 1/2 of tree much 
+SB1-44,2020,14-Sep-20,F,4,4,1234,2,4,92,85.9,y,"thin throughout, but more in the lower 1/2"
+SB1-45,2020,14-Sep-20,F,4,3,1234,2,4,72,79.2,y,Canopy cover a low 4; nearly leafless in lower 1/3
+SC1-41,2020,11-Sep-20,F,5,1,123,2,3,31,62.4,y,"minor damage from large SUMA; canopy notably thin, in part from fallen tree; low 5"
+SC1-42,2020,11-Sep-20,F,5,2,123,2,3,51,61.2,y,spiralling split up 2nd leader
+SC1-43,2020,11-Sep-20,F,4,2,123,2,3,51,59.5,y,some damage from fallen SUMA; one medium sized branch is dead
+SC1-44,2020,11-Sep-20,F,5,2,123,2,3,51,47.2,y,
+SC1-45,2020,11-Sep-20,F,4,1,12,2,2,30,51.9,y,"damage, including woodpecker on SW side, seepy"
+PB1-41,2021,1-Oct-21,F,4,3,1234,2,4,72,87.5,y,"leaf cover approaching 50%; lower 2/3 of tree very thin; only top 1/2 of tree has good leaf cover, but thinning"
+PB1-42,2021,1-Oct-21,F,4,2,123,2,3,51,80.7,y,looks better than other canopy trees
+PB1-43,2021,1-Oct-21,F,4,3,123,2,3,71,66.1,y,
+PB1-44,2021,1-Oct-21,F,3,2,123,2,3,51,56.4,y,"canopy very thin, just below 50%"
+PB1-45,2021,1-Oct-21,F,4,3,1234,2,4,72,63.1,y,"notably thin, but still above 50%; BLD throughout, but less in top 1/4"
+SC1-41,2021,20-Sep-21,F,5,3,123,2,3,71,63.4,y,leaves @ top are mostly clean
+SC1-42,2021,20-Sep-21,F,5,3,123,2,3,71,61.4,y,"thin in some areas, but overall a low 5"
+SC1-43,2021,20-Sep-21,F,4,2,12,2,2,50,59.1,y,"low 4; very thin in crown; BLD very low, especially at top"
+SC1-44,2021,20-Sep-21,F,4,2,12,1,2,46,47.7,y,notably thin; BLD very low in top 3/4; relatively low in bottom 1/4
+SC1-45,2021,20-Sep-21,F,,,,,,,,n,DEAD - broken off at 25-30ft; no evidence of live tissue
+SB1-41,2021,24-Sep-21,F,4,4,1234,2,4,92,55.3,y,
+SB1-42,2021,24-Sep-21,F,4,4,1234,3,4,96,64.4,y,
+SB1-43,2021,24-Sep-21,F,4,4,1234,3,4,96,60.6,y,
+SB1-44,2021,24-Sep-21,F,5,3,123,2,3,71,86.2,y,notably fuller canopy than other trees
+SB1-45,2021,24-Sep-21,F,5,3,1234,2,4,72,79.3,y,low 5 leaf cover
+PB1-41,2021,24-Jun-21,S,4,4,1234,2,4,92,89,y,very thin in lower 1/2; notably thinning at top; BLD at top >50%; nearly 100% BLD below
+PB1-42,2021,24-Jun-21,S,5,3,123,2,3,71,80.8,y,canopy thinning but not below 75%
+PB1-43,2021,24-Jun-21,S,5,4,1234,2,4,92,66.6,y,canopy at ~80%; BLD all the way to the top
+PB1-44,2021,24-Jun-21,S,4,3,1234,2,4,72,56.3,y,thin throughout
+PB1-45,2021,24-Jun-21,S,5,3,123,2,3,71,62.9,y,many leaves brown/dead at the outer 1/2; canopy ~80-90%
+SC1-41,2021,25-Jun-21,S,5,2,123,2,3,51,62.3,Y,L.C. 80-90%; nearby treefall --> canopy gap to NW of this tree; BLD quite low and almost absent at top; split in trunk on NW side
+SC1-42,2021,25-Jun-21,S,5,3,123,2,3,71,61.9,Y,spiral crack on major limb and some die back; BLD notably worse that on other trees; more BLD at top
+SC1-43,2021,25-Jun-21,S,4,2,123,2,3,51,59.2,Y,"tree fall to W; some damage; leaf cover just below 75%, may be impact from tree fall; BLD almost exclusively in lower 1/3"
+SC1-44,2021,25-Jun-21,S,5,2,123,2,3,51,47.5,Y,BLD limited to lower 1/3; tree fall and light gap to S side of tree
+SC1-45,2021,25-Jun-21,S,0,0,,0,0,0,51.6,N,DEAD; broken off at 25-30ft by storm damage
+SB1-41,2021,2-Jul-21,S,4,4,1234,3,4,96,0,y,"lower branches nearly leafless; very few non-BLD leaves, even at top"
+SB1-42,2021,2-Jul-21,S,4,3,123,2,3,71,0,y,many leafless twigs visible at top of canopy; lower branches w >75% BLD
+SB1-43,2021,2-Jul-21,S,4,3,1234,2,4,72,0,y,thin throughout; BLD >75% low; Top ~25% BLD
+SB1-44,2021,2-Jul-21,S,5,3,1234,3,4,76,0,y,"a bit thin in places, but much better leaf cover than other canopy AMBE; BLD pretty consistent throughout"
+SB1-45,2021,2-Jul-21,S,5,4,1234,3,4,96,0,y,75-80% leaf cover; nearly 100% BLD in lower 1/2; many 4s
+SC1-41,2022,12-Jul-22,S,5,2,1234,3,4,56,63,y,higher canopy 75%; notably thin but still >75% canopy cover
+SC1-42,2022,12-Jul-22,S,5,1,1234,3,4,36,61.6,y,"BLD ~50% in lower, very low in upper"
+SC1-43,2022,12-Jul-22,S,5,2,1234,3,4,56,59.6,y,higher canopy very low BLD; lower canopy thin and high BLD; some old storm damage
+SC1-44,2022,12-Jul-22,S,5,2,1234,3,4,56,48,y,lower canopy nearly 100% BLD; canopy cover high cat 5
+SC1-45,2022,12-Jul-22,S,0,0,,0,0,0,51.5,n,dead - storm damage
+SC1-41,2022,30-Sep-22,F,4,3,1234,2,4,72,63,y,"thin low and thinning higherl BLD very high in upper, very low in lower canopy"
+SC1-42,2022,30-Sep-22,F,4,3,1234,3,4,76,61.6,y,"reduced canopy cover due to broken branch (storm damage?); BLD throughout, but worst at top"
+SC1-43,2022,30-Sep-22,F,3,3,123,2,3,71,59.4,y,"lots of damage from fallen tree/branch; BLD very low at top, but near 100% in lower canopy"
+SC1-44,2022,30-Sep-22,F,5,3,1234,2,4,72,48.4,y,"canopy thinning, but still >75%; BLD throughout lower at top"
+SC1-45,2022,30-Sep-22,F,0,0,,0,0,0,0,n,dead
+PB1-41,2022,14-Jul-22,S,3,4,1234,2,4,92,86.8,y,"very thin low, upper canopy better but notably thinning; BLD throughout"
+PB1-42,2022,14-Jul-22,S,4,2,123,2,3,51,81.9,y,"BLD noticeably lower than any other canopy tree, but many dead twigs"
+PB1-43,2022,14-Jul-22,S,4,4,1234,3,4,96,66.2,y,"lower 1/2 of tree very thin; BLD all the way to the top, but worst lower"
+PB1-44,2022,14-Jul-22,S,4,3,1234,2,4,72,56.3,y,"very top of tree looks healthy, no visible BLD; very thin in lower 1/3"
+PB1-45,2022,14-Jul-22,S,3,4,1234,2,4,92,63.5,y,"thinning throughout; BLD throughout, very top mostly clean, BLD high everywhere else"
+PB1-41,2022,5-Oct-22,F,3,4,132,2,3,91,87.1,y,"thin throughout, especially low"
+PB1-42,2022,5-Oct-22,F,4,4,123,2,3,91,80.7,y,canopy cover lower 4
+PB1-43,2022,5-Oct-22,F,4,4,1234,2,4,92,66.2,y,BLD very high in lower canopy and high in upper
+PB1-44,2022,5-Oct-22,F,4,3,123,2,3,71,56.5,y,BLD fairly low in upper 1/3
+PB1-45,2022,5-Oct-22,F,4,4,123,2,3,91,63.2,y,"thin throughout, canopy cover low 4"
+SB1-41,2022,25-Jul-22,S,4,3,1234,2,4,72,,y,very top of canopy looks pretty good; thin and lots of BLD in lower 2/3
+SB1-42,2022,25-Jul-22,S,5,3,123,2,3,71,,y,"canopy dense despite high BLD, even lower branches are ok (but thinning)"
+SB1-43,2022,25-Jul-22,S,4,3,1234,2,4,72,,y,"many brown leaves or leaves that are partially brown; very thin low, but upper 1/2 OK"
+SB1-44,2022,25-Jul-22,S,4,4,1234,3,4,96,,y,"nearly 100% BLD even at very top; thin throughout, only slightly above 50% leaf cover"
+SB1-45,2022,25-Jul-22,S,4,4,1234,3,4,96,,y,"some leaves at very top appear clean, but otherwise very high BLD; canopy quite thin except NE side"
+SB1-41,2022,4-Oct-22,F,3,4,1234,2,4,92,56.5,y,"very thin canopy, especially low"
+SB1-42,2022,4-Oct-22,F,4,3,123,2,3,71,64.9,y,"top of canopy looks OK, but lower 1/3 is very thin; BLD near 100% in lower canopy, very low at top"
+SB1-43,2022,4-Oct-22,F,3,4,1234,2,4,92,60.6,y,"very thin low, notable thinning at top"
+SB1-44,2022,4-Oct-22,F,3,4,1234,2,4,92,86.3,y,uniformally very thin throughout
+SB1-45,2022,4-Oct-22,F,3,4,1234,3,4,96,79.5,y,top broken by fallen tree - partly responsible for low canopy cover score
+SB1-41,2023,3-Jul-23,S,3,4,1234,2,4,92,55.5,y,BBD scale = low; lots of apparently dead branches
+SB1-42,2023,3-Jul-23,S,4,4,1234,2,4,92,65.3,y,BBD scale = low;
+SB1-43,2023,3-Jul-23,S,4,4,1234,3,4,96,61,y,BBD scale = very low; nearly 100% BLD
+SB1-44,2023,3-Jul-23,S,5,4,1234,2,4,92,87.3,y,BBD scale = medium-low
+SB1-45,2023,3-Jul-23,S,4,4,1234,2,4,92,80.9,y,BBD scale = very low
+SC1-41,2023,12-Jun-23,S,4,2,123,2,3,51,63.3,y,"old would on S side, some splitting at base of trunk; BBD scale = low"
+SC1-42,2023,12-Jun-23,S,5,2,123,2,3,51,62.1,y,leaf cover score accounting for loww of 1 large branch due to storm
+SC1-43,2023,12-Jun-23,S,4,1,123,2,3,31,59.4,y,some storm damage; low BBD scale
+SC1-44,2023,12-Jun-23,S,4,2,1234,2,4,52,48.6,y,many small twigs without leaves in upper canopy
+SC1-45,2023,12-Jun-23,S,,,,,,,,n,dead
+PB1-41,2023,21-Jun-23,S,3,4,1234,2,4,92,87.4,y,very thin throughout
+PB1-42,2023,21-Jun-23,S,4,4,1234,2,4,92,81.1,y,canopy thinning throughout; lots of fissures in bark; trunk hollowing
+PB1-43,2023,21-Jun-23,S,5,4,1234,2,4,92,66.2,y,"some thinning, approaching 75% canopy; BBD scale = low; BLD worse below"
+PB1-44,2023,21-Jun-23,S,3,3,1234,2,4,72,56.3,y,"very thin throughout, ~33% canopy; BLD relative low at top; BLD scale = low"
+PB1-45,2023,21-Jun-23,S,3,3,1234,2,4,72,63.3,y,"canopy very thin, worse in lower 1/2, but top is thin too"
+SB1-41,2023,29-Sep-23,F,3,3,1234,2,4,72,55.5,y,almost leafless in lower 1/3
+SB1-42,2023,29-Sep-23,F,4,3,1234,3,4,76,65,y,
+SB1-43,2023,29-Sep-23,F,4,3,1234,3,4,76,61,y,BLD near 100% in lower parts of tree
+SB1-44,2023,29-Sep-23,F,4,4,1234,3,4,96,87.2,y,
+SB1-45,2023,29-Sep-23,F,3,4,1234,2,4,92,79.7,y,
+SC1-41,2023,19-Sep-23,F,4,3,1234,2,4,72,63.5,y,crack at base of trunk
+SC1-42,2023,19-Sep-23,F,4,3,123,2,3,71,62.2,y,
+SC1-43,2023,19-Sep-23,F,3,3,1234,2,4,72,59.9,y,
+SC1-44,2023,19-Sep-23,F,3,3,123,2,3,71,48.3,y,
+SC1-45,2023,19-Sep-23,F,,,,,,,,n,DEAD
+PB1-41,2023,3-Oct-23,F,3,3,1234,2,4,72,88.2,y,
+PB1-42,2023,3-Oct-23,F,4,3,1234,3,4,76,82.1,y,thinning throughout; some yellowing leaves; understory SUMA starting to block view of canopy
+PB1-43,2023,3-Oct-23,F,4,4,1234,2,4,92,67.2,y,
+PB1-44,2023,3-Oct-23,F,3,4,1234,2,4,92,56.4,y,nearly leafless in lower 1/3; understory SUMA blocking view - moved ~4ft for canopy photo
+PB1-45,2023,3-Oct-23,F,3,3,1234,3,4,76,63.4,y,
+SB1-41,2024,27-Jun-24,S,5,4,1234,2,4,92,,y,
+SB1-42,2024,27-Jun-24,S,5,3,123,2,3,71,,y,looks good
+SB1-43,2024,27-Jun-24,S,4,4,123,2,3,91,,y,
+SB1-44,2024,27-Jun-24,S,4,4,1234,2,4,92,,y,nearly 100% BLD
+SB1-45,2024,27-Jun-24,S,4,3,123,2,3,71,,y,
+SC1-41,2024,24-Jun-24,S,4,4,1234,2,4,92,,y,leaning
+SC1-42,2024,24-Jun-24,S,5,3,123,2,3,71,,y,"1 large limb broken, assume storm damage; assessing remaining canopy"
+SC1-43,2024,24-Jun-24,S,5,2,123,2,3,51,,y,storm damage; canopy thinning but pretty healthy
+SC1-44,2024,24-Jun-24,S,5,3,1234,2,4,72,,y,"thin, but >75%; many 1s"
+SC1-45,2024,24-Jun-24,S,0,0,,0,0,0,,n,DEAD
+PB1-41,2024,3-Jul-24,S,3,3,1234,2,4,72,,y,
+PB1-42,2024,3-Jul-24,S,4,4,1234,2,4,92,,y,
+PB1-43,2024,3-Jul-24,S,4,3,1234,2,4,72,,y,
+PB1-44,2024,3-Jul-24,S,3,3,1234,2,4,72,,y,
+PB1-45,2024,3-Jul-24,S,4,3,1234,2,4,72,,y,
+SB1-41,2024,27-Sep-24,F,4,3,1234,2,4,72,56,y,
+SB1-42,2024,27-Sep-24,F,5,2,123,2,3,51,65.6,y,"BLD very low, especially at the top"
+SB1-43,2024,27-Sep-24,F,4,3,1234,2,4,72,61.5,y,BLD very high at lower levels; and canopy very thin low
+SB1-44,2024,27-Sep-24,F,4,3,1234,2,4,72,87.3,y,
+SB1-45,2024,27-Sep-24,F,5,2,123,2,3,51,79.9,y,
+SC1-41,2024,20-Sep-24,F,4,2,123,2,3,51,64.4,y,leaning; some older storm damage -- forgot DBH
+SC1-42,2024,20-Sep-24,F,4,2,123,2,3,51,62.6,y,storm damage -- forgot DBH
+SC1-43,2024,20-Sep-24,F,3,2,123,2,3,51,60,y,tag broken off; older storm damage; forgot DBH
+SC1-44,2024,20-Sep-24,F,4,3,1234,2,4,72,48.9,y,forgot DBH
+SC1-45,2024,20-Sep-24,F,,,,,,,,n,DEAD
+PB1-41,2024,2-Oct-24,F,4,4,1234,2,4,92,88.2,y,leaf cover just over 50%
+PB1-42,2024,2-Oct-24,F,,,,,,,,n,Dead -- storm damage
+PB1-43,2024,2-Oct-24,F,,,,,,,,n,"Top off, appears dead -- storm damage"
+PB1-44,2024,2-Oct-24,F,3,3,123,2,3,71,56.7,y,some storm damage
+PB1-45,2024,2-Oct-24,F,3,2,123,2,3,51,63.6,y,BLD very low; canopy thin throughout
+PB1-41,2025,15-Jul-25,S,3,4,1234,3,4,96,,y,
+PB1-42,2025,15-Jul-25,S,,,,,,,,n,
+PB1-43,2025,15-Jul-25,S,,,,,,,,n,
+PB1-44,2025,15-Jul-25,S,3,4,1234,3,4,96,,y,
+PB1-45,2025,15-Jul-25,S,3,4,1234,3,4,96,,y,
+SB1-41,2025,14-Jul-25,S,3,4,1234,3,4,96,,y,
+SB1-42,2025,14-Jul-25,S,3,4,1234,2,4,92,,y,
+SB1-43,2025,14-Jul-25,S,3,4,1234,3,4,96,,y,
+SB1-44,2025,14-Jul-25,S,3,4,1234,3,4,96,,y,
+SB1-45,2025,14-Jul-25,S,3,4,1234,3,4,96,,y,
+SC1-41,2025,11-Jul-25,S,5,4,234,3,4,96,,y,
+SC1-42,2025,11-Jul-25,S,5,3,1234,2,4,72,,y,
+SC1-43,2025,11-Jul-25,S,4,4,234,3,4,96,,y,
+SC1-44,2025,11-Jul-25,S,4,4,1234,3,4,96,,y,
+SC1-45,2025,11-Jul-25,S,,,,,,,,n,
+PB1-41,2025,30-Sep-25,F,3,4,1234,3,4,96,0,y,
+PB1-42,2025,30-Sep-25,F,,,,,,,,n,dead - storm damage
+PB1-43,2025,30-Sep-25,F,,,,,,,,n,dead - storm damage
+PB1-44,2025,30-Sep-25,F,3,4,1234,3,4,96,0,y,
+PB1-45,2025,30-Sep-25,F,3,4,1234,3,4,96,0,y,
+SC1-41,2025,16-Sep-25,F,4,4,123,2,3,91,0,y,thin at very top; leaning into neighbor tree; could not get canopy photo of #41's crown
+SC1-42,2025,16-Sep-25,F,4,4,123,2,3,91,0,y,understory blocking view - cannot get canopy photo
+SC1-43,2025,16-Sep-25,F,4,4,1234,2,4,92,0,y,
+SC1-44,2025,16-Sep-25,F,3,4,123,3,3,95,0,y,
+SC1-45,2025,16-Sep-25,F,,,,,,,,n,dead - storm damage
+SB1-41,2025,29-Sep-25,F,2,4,1234,3,4,96,0,y,
+SB1-42,2025,29-Sep-25,F,2,4,1234,3,4,96,0,y,
+SB1-43,2025,29-Sep-25,F,2,4,1234,3,4,96,0,y,
+SB1-44,2025,29-Sep-25,F,2,4,1234,3,4,96,0,y,
+SB1-45,2025,29-Sep-25,F,4,3,1234,2,4,72,0,y,
