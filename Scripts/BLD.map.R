@@ -12,6 +12,7 @@ library(readxl)
 # BIEN ranges are WG84
 
 (FAGR.range.sf <- BIEN_ranges_load_species('Fagus grandifolia'))
+test = BIEN_ranges_species(species = "Fagus grandifolia")
 
 ggplot(FAGR.range.sf)+
   geom_sf()
@@ -46,8 +47,13 @@ FAGR.range.4 = st_as_sf(FAGR.range.3)
 
 ggplot()+
   geom_sf(data = states.map, fill = "white")+
-  geom_sf(dat = FAGR.range.4)+
+  geom_sf(data = FAGR.range.4)+
+  geom_sf_text(data = states.map, aes(label = STUSPS), size = 4)+
+  labs(x = "Longitude", y = "Latitude")+
   theme_classic()
+
+ggsave("./Plots/us.map.pdf", width = 8, height = 10)
+
 
 # Combine all polygons into a single geometry for the outer border
 FAGR.range.outer <- st_union(FAGR.range.4)
@@ -58,7 +64,7 @@ ggplot() +
   theme_classic()
 
 BLD_counties = counties(state = c("MI","OH","PA","NY","NJ","MD","DE","VT","NH",
-                                  "MA","CT","RI","ME","VA","WV"))
+                                  "MA","CT","RI","ME","VA","WV"), cb = TRUE)
 
 BLD_counties.2 = st_drop_geometry(BLD_counties)
 write.csv(BLD_counties.2, file = "Formatted.Data/BLD.counties.csv")
@@ -105,11 +111,27 @@ BLD.counties.sf.3 <- BLD.counties.sf.2 %>%
   mutate(BLD.Year = na_if(BLD.Year, "NA"))
 
 ggplot()+
-  geom_sf(data = states.map.BLD,fill = NA, color = "black", linewidth = 1)+
   geom_sf(data = BLD.counties.sf.3,aes(fill = BLD.Year), color = "black",linewidth = 0.15) +
   scale_fill_viridis_d(option = "plasma", name = "Year", na.value = "gray80") +
+  geom_sf(data = states.map.BLD,fill = NA, color = "black", linewidth = 1)+
   theme_classic()
 
+cols = wes_palette("Zissou1", n=13, type = "continuous")
+cols.2 = rev(cols)
 
+ggplot()+
+  geom_sf(data = BLD.counties.sf.3,aes(fill = BLD.Year), color = "black",linewidth = 0.15) +
+  scale_fill_manual(values = c(cols.2,"gray80"), na.value = "gray80", name = "Year",
+                    drop = TRUE, na.translate = FALSE)+
+  geom_sf(data = states.map.BLD,fill = NA, color = "black", linewidth = 1)+
+  theme_classic()
 
+ggsave("./Plots/BLD.map.png", width = 8, height = 8)
+
+# state map with labels
+
+library(usmap)
+
+plot_usmap(regions = "states", exclude = c("AK","HI"), labels = TRUE) + 
+  theme(panel.background=element_blank())
 

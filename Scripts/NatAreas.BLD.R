@@ -416,3 +416,61 @@ ggplot(gap.2, aes(x = as.numeric(Year), y = Percent.Gap)) +
 test = lm(Percent.Gap~as.factor(Year),data = gap.2)
 anova(test)
 TukeyHSD(aov(test))
+
+#### Seedlings ####
+
+seedlings = read.csv("Formatted.Data/NatAreas_BLD_Seedlings.csv")
+
+seedlings.fall = seedlings %>% 
+  filter(Season == "F")
+
+seedlings.spring = seedlings %>% 
+  filter(Season == "S")
+
+ggplot(seedlings.fall, aes(y = Avg_Percent, x = as.factor(Year)))+
+  geom_boxplot()+
+  geom_jitter()
+
+seedlings.fall.mean = seedlings.fall %>% 
+  group_by(Year) %>% 
+  summarise(mean.avg.percent = mean(Avg_Percent),
+            sd.avg.percent = sd(Avg_Percent))
+
+ggplot(seedlings.fall, aes(x = Year, y = Avg_Percent))+
+  geom_line(aes(group = Site_ID))+
+  geom_smooth(method = "lm")+
+  theme_classic(base_size = 15) +
+  labs(y = "Mortality Rate (%)", x = "Year",
+       title="Canopy and Small Trees")
+
+#### saplings ####
+
+saplings = read.csv("Formatted.Data/NatAreas_BLD_Sapling.csv")
+
+saplings.fall = saplings %>% 
+  filter(Season == "F")
+
+saplings.fall$Alive[saplings.fall$Alive == "y"] <- "Y"
+saplings.fall$Alive[saplings.fall$Alive == "n"] <- "N"
+saplings.fall$Alive[saplings.fall$Alive == "missing"] <- "NA"
+saplings.fall$Alive[saplings.fall$Alive == ""] <- "NA"
+saplings.fall$Alive[saplings.fall$Alive == "?"] <- "NA"
+  
+mort.table.fall = saplings.fall %>%
+  filter(Alive %in% c("Y","N")) %>% 
+  count(Year, Alive)
+
+mort.table.fall.wide = pivot_wider(mort.table.fall,
+                                   id_cols = Year,
+                                   names_from = Alive,
+                                   values_from = n,
+                                   names_prefix = "Status_")
+
+mort.table.fall.wide[1,3] = 0
+mort.table.fall.wide[2,3] = 0
+mort.table.fall.wide$Status_Y = as.numeric(mort.table.fall.wide$Status_Y)
+mort.table.fall.wide$Status_N = as.numeric(mort.table.fall.wide$Status_N)
+mort.table.fall.wide$Total = mort.table.fall.wide$Status_Y + mort.table.fall.wide$Status_N
+mort.table.fall.wide$Mortality.Rate = (mort.table.fall.wide$Status_N/mort.table.fall.wide$Total)*100
+
+  
