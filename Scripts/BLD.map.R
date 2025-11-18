@@ -53,6 +53,7 @@ ggplot()+
   theme_classic()
 
 ggsave("./Plots/us.map.pdf", width = 8, height = 10)
+ggsave("./Plots/us.map.svg", width = 8, height = 10)
 
 
 # Combine all polygons into a single geometry for the outer border
