@@ -224,6 +224,8 @@ fall = combined %>%
 spring = combined %>% 
   filter(Season == "S")
 
+table(fall$Year,fall$Percent_Class)
+
 fall.BLD.mean = fall %>%
   group_by(Year) %>% 
   summarise(mean.BLD = mean(Percent_Class, na.rm = TRUE),
@@ -309,6 +311,18 @@ ggplot(mort.table.fall.wide, aes(x = factor(Year), y = Mortality.Rate))+
        title="Canopy and Small Trees")
 
 ggsave("Plots/NatAreas.BLD.Mortality.Rate.Canopy.Small.Tree.Fall.png", height = 7, width = 7)
+
+# calculate yearly mortality rate
+
+mort.table.fall.yearly <- mort.table.fall.wide %>%
+  arrange(Year) %>%
+  mutate(
+    annual_deaths = Status_N - lag(Status_N, default = 0),
+    population_at_risk = 75 - lag(Status_N, default = 0),
+    mortality_rate = (annual_deaths / population_at_risk) * 100
+  )
+test = mort.table.fall.yearly$mortality_rate[c(2:11)]
+mean(test) # 3.55% average yearly mortality
 
 mort.table.spring = combined %>%
   filter(Alive %in% c("Y","N")) %>% 

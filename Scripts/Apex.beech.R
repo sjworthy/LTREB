@@ -2,7 +2,7 @@ library(tidyverse)
 
 # working with the APEX beech data
 # 3 blocks/sites, PC and SC on site, SV (CWRU)
-# not sure which plots are the control so working at the plot level for now
+# 6 control plots at PC+SC, but only 5 with beech
 
 apex = read.csv("Formatted.Data/Apex.beech.csv")
 
@@ -50,7 +50,10 @@ ggplot(apex, aes(y = DBH2010, x = Year.factor))+
 apex.controls = apex %>% 
   filter(correct.treatments == "Control")
 
-# make wide formate
+apex.controls.arb = apex.controls %>% 
+  filter(Block %in% c("PC","SC"))
+
+# make wide format
 
 apex.ctrl.wide = pivot_wider(data = apex.controls, 
                              id_cols = c(Block, Plot, Tag, correct.treatments),

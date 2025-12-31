@@ -1,8 +1,17 @@
 library(tidyverse)
 library(lmerTest)
 library(performance)
+library(emmeans)
 
-seedlings = read.csv("./Formatted.Data/WW_Seedlings.csv")
+# merge all years together
+og.seedlings = read.csv("./Formatted.Data/WW_Seedlings.csv")
+seeds.2025 = read.csv("./Formatted.Data/WW_Seedlings_2025.csv")
+seeds.2025$Leaves = as.character(seeds.2025$Leaves)
+seeds.2025$Herb = as.character(seeds.2025$Herb)
+
+seedlings = full_join(og.seedlings,seeds.2025)
+
+write.csv(seedlings, file = "./Formatted.Data/all.seedling.years.csv")
 
 # split by early and late
 
@@ -40,7 +49,6 @@ abundance.plot$scale.Year = scale(abundance.plot$Year, center = TRUE, scale = FA
 abund.model = glmer.nb(alive~Treatment*scale.Year + Block + (1|Plot_ID), data = abundance.plot)
 summary(abund.model)
 plot(abund.model)
-check_model(abund.model)
 slopes = emtrends(abund.model, specs = "Treatment", var = "scale.Year")
 pairs(slopes)
 
@@ -374,6 +382,39 @@ summary(QURU.recruit.mod)
 slope = emtrends(QURU.recruit.mod, ~ Treatment, var = "scale.Year")
 pairs(slope)
 
+#### oak recruitment ####
+seedlings.2 = seedlings %>% 
+  filter(Banded_Year != 2019)
+
+early = seedlings.2 %>% 
+  filter(Period == "early")
+
+early.sub = early %>% 
+  filter(Species %in% c("QURU","QUAL"))
+
+recruits = early.sub %>% 
+  group_by(Plot_ID,Treatment,Year,Block,Species) %>%
+  summarise(recruits = sum(Banded_Year == Year, na.rm = TRUE), .groups = "drop")
+
+recruits$Year.fact = as.factor(recruits$Year)
+
+ggplot(recruits, aes(x = Year.fact, y = recruits, color = Treatment))+
+  geom_boxplot()+
+  facet_wrap(~Species)
+
+recruits$scale.Year = scale(recruits$Year, center = TRUE, scale = FALSE)
+
+QURU = recruits %>% 
+  filter(Species == "QURU")
+
+QURU.recruit.mod = glmer.nb(recruits ~ Treatment*scale.Year+ (1|Plot_ID), 
+                            data = QURU,
+                            control = glmerControl(
+                              optimizer = "bobyqa"))
+summary(QURU.recruit.mod)
+slope = emtrends(QURU.recruit.mod, ~ Treatment, var = "scale.Year")
+pairs(slope)
+
 #### Mortality Rate ####
 
 abundance.plot = early %>% 
@@ -415,4 +456,28 @@ mort.rate.mod = glmer(y ~ Treatment*scale.Year + Block + (1|Plot_ID),
 summary(mort.rate.mod)
 slopes = emtrends(mort.rate.mod, specs = "Treatment", var = "scale.Year")
 pairs(slopes)
+
+
+#### Seeding to Sapling ###
+# sapling is dbh > 1 cm
+
+sapling = early %>% 
+  filter(Diameter >= 10)
+
+# split by treatment
+C.sapling = sapling %>% 
+  filter(Treatment == "Control")
+IC.sapling = sapling %>% 
+  filter(Treatment == "IC")
+IC.TSI.sapling = sapling %>% 
+  filter(Treatment == "IC+TSI")
+
+# split early by treatment
+C.early = early %>% 
+  filter(Treatment == "Control")
+IC.early = early %>% 
+  filter(Treatment == "IC")
+IC.TSI.early = early %>% 
+  filter(Treatment == "IC+TSI")
+
 

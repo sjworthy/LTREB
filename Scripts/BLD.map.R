@@ -6,7 +6,8 @@ options(tigris_use_cache = TRUE)
 library(sf)
 library(terra)
 library(readxl)
-
+library(wesanderson)
+library(cowplot)
 
 # get range map from BEIN
 # BIEN ranges are WG84
@@ -50,10 +51,31 @@ ggplot()+
   geom_sf(data = FAGR.range.4)+
   geom_sf_text(data = states.map, aes(label = STUSPS), size = 4)+
   labs(x = "Longitude", y = "Latitude")+
-  theme_classic()
+  theme_classic(base_size = 15)
 
-ggsave("./Plots/us.map.pdf", width = 8, height = 10)
+ggsave("./Plots/us.map.png", width = 8, height = 10, dpi = 300)
 ggsave("./Plots/us.map.svg", width = 8, height = 10)
+
+map.1 = 
+  ggplot()+
+  geom_sf(data = states.map, fill = "white")+
+  geom_sf(data = FAGR.range.4)+
+  geom_sf_text(data = states.map, aes(label = STUSPS), size = 4)+
+  labs(x = "Longitude", y = "Latitude")+
+  theme_classic(base_size = 15)
+
+map.2 = 
+  ggplot()+
+  geom_sf(data = states.map, fill = "white")+
+  geom_sf(data = FAGR.range.4)+
+  geom_sf_text(data = states.map, aes(label = STUSPS), size = 4)+
+  labs(x = "Longitude", y = "Latitude")+
+  theme_classic(base_size = 15)
+
+plot_grid(map.1, map.2, labels = c("A.", "B."), ncol = 2)
+
+ggsave("./Plots/Fig.1.letters.png", width = 8, height = 10, dpi = 300)
+
 
 
 # Combine all polygons into a single geometry for the outer border
@@ -125,9 +147,12 @@ ggplot()+
   scale_fill_manual(values = c(cols.2,"gray80"), na.value = "gray80", name = "Year",
                     drop = TRUE, na.translate = FALSE)+
   geom_sf(data = states.map.BLD,fill = NA, color = "black", linewidth = 1)+
-  theme_classic()
+  theme_classic(base_size = 15)+
+  theme(legend.position = "none")+
+  labs(x = "Longitude", y = "Latitude")
 
-ggsave("./Plots/BLD.map.png", width = 8, height = 8)
+ggsave("./Plots/BLD.map.no.legend.png", width = 8, height = 10, dpi = 300)
+ggsave("./Plots/BLD.map.legend.png", width = 8, height = 10, dpi = 300)
 
 # state map with labels
 
