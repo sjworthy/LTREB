@@ -1,0 +1,465 @@
+,Tree,Species,Plot_ID,Treatment,Treatment_2019,TreatmentYear,Block,Size,Notes,Valid,DBH2018,DBH2019,SmallTreeDBH2018,SmallTreeHeight2018,Smalltree2018measurementnotes,BandPresent2018,BandPresent2019,HerbSurveys2018,HerbSurveys2019,EphemeralSurveys2019,SeedlingPlots2018,SeedlingPlots2019,FourmSurveys2018,TenmSurveys2018,VisualCover2018,VisualCover2019,Greaterthan20_2019,MeanPercentopenness2018,MeanPercentopenness2019,PhotoObstruction,HemiDifference,meanVWC2019,meanVWC2019_corrected,meanPER2019,VWC_ref,PER_ref
+1,1,red maple,IC+TSI-18-S,IC+TSI,IC+TSI,2018,South,Large,,Yes,28.5,29,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,29.405,Yes,NA,21.9,21.9,1.4585,31.975,1.61625
+2,10,sugar maple,IC+TSI-18-S,IC+TSI,IC+TSI,2018,South,Large,,Yes,8.9,9,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,33.8875,Yes,NA,21.725,21.725,1.45575,31.975,1.61625
+3,100,sugar maple,IC-19-M,IC,Control,2019,Middle,Large,,Yes,10.6,10.7,NA,NA,NA,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,28.6275,23.6025,No,-5.025,8.05,8.81786552,1.2415,28.925,1.5675
+4,101,red maple,IC-18-M,IC,IC,2018,Middle,Large,,Yes,10.3,10.7,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,27.7975,31.07,No,3.2725,25.1,25.1,1.507,31.975,1.61625
+5,102,red maple,IC-19-M,IC,Control,2019,Middle,Large,,Yes,13.4,13.6,NA,NA,NA,Yes,Yes,No,Yes,No,No,Yes,No,No,Yes,Yes,No,NA,41.8525,Yes,NA,20.6,21.40531665,1.43925,30.725,1.5965
+6,103,sugar maple,IC-19-M,IC,Control,2019,Middle,Large,,Yes,9.5,9.6,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,21.0975,No,NA,21.175,21.60545348,1.448,31.325,1.60625
+7,104,red maple,IC-19-M,IC,Control,2019,Middle,Large,,Yes,12.3,12.4,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,27.4225,No,NA,21.95,22.39620798,1.4595,31.325,1.60625
+8,105,red maple,IC-19-M,IC,Control,2019,Middle,Large,,Yes,14.4,14.7,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,39.69,Yes,NA,19.475,20.23633698,1.4225,30.725,1.5965
+9,106,tulip poplar,IC-19-M,IC,Control,2019,Middle,Large,,Yes,24.3,24.8,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,31.685,No,NA,22.475,22.93188038,1.46775,31.325,1.60625
+10,107,red maple,IC-19-M,IC,Control,2019,Middle,Large,,Yes,15.2,15.3,NA,NA,NA,Yes,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,NA,37.9425,No,NA,22.25,22.70230649,1.46425,31.325,1.60625
+11,108,tulip poplar,IC-19-M,IC,Control,2019,Middle,Large,,Yes,14.1,14.5,NA,NA,NA,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,29.2975,36.385,No,7.0875,25.825,26.8345778,1.519,30.725,1.5965
+12,109,red maple,IC-19-M,IC,Control,2019,Middle,Large,,Yes,18.5,18.8,NA,NA,NA,Yes,Yes,No,Yes,No,No,Yes,No,No,Yes,Yes,No,NA,42.935,Yes,NA,22.625,23.50948006,1.47,30.725,1.5965
+13,11,red maple,IC+TSI-18-S,IC+TSI,IC+TSI,2018,South,Large,,Yes,26.6,27,NA,NA,NA,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,No,NA,37.915,Yes,NA,25.85,25.85,1.519,31.975,1.61625
+14,110,red maple,IC-18-M,IC,IC,2018,Middle,Large,,Yes,16.5,16.9,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,32.9275,Yes,NA,26.1,27.12032838,1.527,30.725,1.5965
+15,111,red maple,IC-19-M,IC,Control,2019,Middle,Large,,Yes,9.5,9.6,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,22.065,28.3925,Yes,6.3275,18.1,18.46794371,1.40125,31.325,1.60625
+16,112,red maple,IC-19-M,IC,Control,2019,Middle,Large,,Yes,16.6,16.9,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,32.785,No,NA,21.325,21.75850274,1.45025,31.325,1.60625
+17,113,red maple,IC-18-M,IC,IC,2018,Middle,Large,,Yes,19.9,20.1,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,27.41,Yes,NA,23.775,24.70443706,1.48775,30.725,1.5965
+18,114,red maple,IC-19-M,IC,Control,2019,Middle,Large,,Yes,24.2,24.7,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,29.365,No,NA,17.15,17.49863174,1.386,31.325,1.60625
+19,115,sugar maple,IC-19-M,IC,Control,2019,Middle,Large,,Yes,14.1,14.5,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,25.6,No,NA,10.85,11.07056294,1.288,31.325,1.60625
+20,116,sugar maple,IC-18-M,IC,IC,2018,Middle,Large,,Yes,16.4,16.5,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,28.2175,Yes,NA,20.475,21.27543002,1.437,30.725,1.5965
+21,117,red maple,IC-19-M,IC,Control,2019,Middle,Large,,Yes,13.4,13.5,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,34.195,No,NA,24.95,25.92537138,1.50525,30.725,1.5965
+22,118,red maple,IC-19-M,IC,Control,2019,Middle,Large,,Yes,10.6,10.9,NA,NA,NA,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,33.6425,25.72,Yes,-7.9225,25.9,25.9,1.51975,31.975,1.61625
+23,119,sugar maple,IC-19-M,IC,Control,2019,Middle,Large,,Yes,8.8,8.9,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,24.5725,No,NA,16.65,16.98846755,1.379,31.325,1.60625
+24,12,tulip poplar,IC+TSI-18-S,IC+TSI,IC+TSI,2018,South,Large,,Yes,46.6,47.3,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,38.2575,No,NA,26.475,26.475,1.53125,31.975,1.61625
+25,120,sugar maple,IC-19-M,IC,Control,2019,Middle,Large,,Yes,10.2,10.3,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,36.0675,34.1925,No,-1.875,18.975,19.36073104,1.414,31.325,1.60625
+26,121,sugar maple,IC-18-M,IC,IC,2018,Middle,Large,,Yes,11.5,11.5,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,26.48,No,NA,14.7,14.7,1.3485,31.975,1.61625
+27,122,sugar maple,IC-18-M,IC,IC,2018,Middle,Large,,Yes,14.7,14.9,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,30.60333333,No,NA,34.275,34.275,1.6615,31.975,1.61625
+28,123,sugar maple,IC-18-M,IC,IC,2018,Middle,Large,,Yes,12.4,12.5,NA,NA,NA,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,32.665,28.07,No,-4.595,13.425,13.425,1.33,31.975,1.61625
+29,124,sugar maple,IC-18-M,IC,IC,2018,Middle,Large,,Yes,9.7,9.6,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,32.7375,Yes,NA,17.725,17.725,1.39525,31.975,1.61625
+30,125,tulip poplar,IC-19-M,IC,Control,2019,Middle,Large,,Yes,28.7,29.1,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,28.275,Yes,NA,17.625,17.98328772,1.393,31.325,1.60625
+31,126,sugar maple,IC+TSI-19-S,IC+TSI,Control,2019,South,Large,,Yes,9.8,9.9,NA,NA,NA,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,34.8925,38.055,Yes,3.1625,20.625,22.56010555,1.43975,28.975,1.57225
+32,127,sugar maple,IC+TSI-19-S,IC+TSI,Control,2019,South,Large,,Yes,7.8,7.8,NA,NA,NA,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,44.0025,42.0425,Yes,-1.96,22.95,25.10324473,1.47475,28.975,1.57225
+33,128,tulip poplar,IC+TSI-19-S,IC+TSI,Control,2019,South,Large,,Yes,45.8,46.3,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,33.0175,Yes,NA,24.1,26.36114152,1.49425,28.975,1.57225
+34,129,sugar maple,IC+TSI-19-S,IC+TSI,Control,2019,South,Large,,Yes,8.6,8.6,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,38.0275,Yes,NA,26.45,28.93162627,1.53075,28.975,1.57225
+35,13,tulip poplar,IC+TSI-19-S,IC+TSI,Control,2019,South,Large,,Yes,29.6,30.1,NA,NA,NA,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,27.605,39.0625,Yes,11.4575,18.35,20.07165755,1.40525,28.975,1.57225
+36,130,red maple,IC+TSI-19-S,IC+TSI,Control,2019,South,Large,,Yes,17.9,18.1,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,35.9575,Yes,NA,21.55,23.57189211,1.453,28.975,1.57225
+37,131,tulip poplar,IC+TSI-19-S,IC+TSI,Control,2019,South,Large,,Yes,28.3,28.3,NA,NA,NA,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,40.37,36.8,Yes,-3.57,21.35,23.35312745,1.4505,28.975,1.57225
+38,132,red maple,IC+TSI-19-S,IC+TSI,Control,2019,South,Large,,Yes,23.5,24.1,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,33.6925,Yes,NA,21.125,23.1070172,1.4475,28.975,1.57225
+39,133,tulip poplar,IC-19-M,IC,Control,2019,Middle,Large,,Yes,29.2,29.7,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,36.6175,Yes,NA,24.825,25.79548475,1.5045,30.725,1.5965
+40,134,sugar maple,IC+TSI-18-S,IC+TSI,IC+TSI,2018,South,Large,,Yes,8.9,8.9,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,38.0925,No,NA,26.375,26.375,1.5275,31.975,1.61625
+41,135,red maple,IC-19-M,IC,Control,2019,Middle,Large,,Yes,9.3,9.4,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,27.9475,No,NA,7.275,7.968940579,1.228,28.925,1.5675
+42,136,red maple,IC+TSI-18-S,IC+TSI,IC+TSI,2018,South,Large,,Yes,14.2,14.2,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,34.8875,Yes,NA,21.25,21.25,1.449,31.975,1.61625
+43,137,tulip poplar,IC+TSI-18-S,IC+TSI,IC+TSI,2018,South,Large,,Yes,38.5,39.2,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,35.83,Yes,NA,20.25,20.25,1.43375,31.975,1.61625
+44,138,tulip poplar,IC+TSI-19-S,IC+TSI,Control,2019,South,Large,,Yes,33.6,34,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,33.1575,Yes,NA,21.4,23.40781861,1.45075,28.975,1.57225
+45,139,red maple,IC+TSI-18-S,IC+TSI,IC+TSI,2018,South,Large,,Yes,28.1,28.3,NA,NA,NA,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,31.4675,36.5025,Yes,5.035,17.8,19.47005473,1.39675,28.975,1.57225
+46,14,red maple,IC+TSI-19-S,IC+TSI,Control,2019,South,Large,,Yes,20.3,21.2,NA,NA,NA,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,32.1775,36.035,Yes,3.8575,17.325,18.95048866,1.38925,28.975,1.57225
+47,140,sugar maple,IC+TSI-18-S,IC+TSI,IC+TSI,2018,South,Large,,Yes,7.7,7.7,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,34.0975,Yes,NA,18.875,20.64591478,1.41275,28.975,1.57225
+48,141,tulip poplar,IC+TSI-18-S,IC+TSI,IC+TSI,2018,South,Large,,Yes,40.2,40.9,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,28.665,32.82,No,4.155,20.975,20.975,1.44475,31.975,1.61625
+49,142,sugar maple,,NA,NA,NA,NA,Large,Not in plot,No,21.7,22.1,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,31.805,Yes,NA,NA,NA,NA,24.95,1.5055
+50,143,tulip poplar,IC-19-M,IC,Control,2019,Middle,Large,,Yes,42.1,42.7,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,36.4575,Yes,NA,19.5,20.26231431,1.42225,30.725,1.5965
+51,145,sugar maple,IC-19-S,IC,Control,2019,South,Large,,Yes,13.8,13.9,NA,NA,NA,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,30.2675,36.9425,No,6.675,9.775,13.35177873,1.27075,20.275,1.4355
+52,146,sugar maple,IC-19-S,IC,Control,2019,South,Large,,Yes,8.65,8.8,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,33.175,Yes,NA,21.9,23.95473026,1.45875,28.975,1.57225
+53,147,red maple,IC-19-S,IC,Control,2019,South,Large,,Yes,20.7,22.4,NA,NA,NA,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,35.8825,33.015,Yes,-2.8675,16.85,23.01559812,1.3805,20.275,1.4355
+54,148,tulip poplar,IC-19-S,IC,Control,2019,South,Large,,Yes,23.5,25.2,NA,NA,NA,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,29.5075,33.585,Yes,4.0775,21.275,29.05975371,1.45425,20.275,1.4355
+55,149,red maple,IC-19-S,IC,Control,2019,South,Large,,Yes,15.8,16.4,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,34.4025,Yes,NA,12.775,17.44951134,1.31975,20.275,1.4355
+56,15,sugar maple,IC+TSI-19-S,IC+TSI,Control,2019,South,Large,,Yes,15.1,15.4,NA,NA,NA,Yes,Yes,Yes,No,No,No,No,No,No,Yes,Yes,Yes,NA,30.98,Yes,NA,17.525,19.16925332,1.39225,28.975,1.57225
+57,150,sugar maple,IC-19-S,IC,Control,2019,South,Large,,Yes,20.33,20.9,NA,NA,NA,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,26.845,23.095,No,-3.75,8.3,11.3370602,1.24575,20.275,1.4355
+58,151,tulip poplar,IC-18-S,IC,IC,2018,South,Large,,Yes,NA,14.1,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,27.0725,Yes,NA,26.425,28.78031666,1.5305,29.125,1.572
+59,152,red maple,IC-19-S,IC,Control,2019,South,Large,,Yes,36.28,36.9,NA,NA,NA,Yes,Yes,Yes,No,No,No,No,No,No,Yes,Yes,Yes,NA,32.8175,Yes,NA,16.575,22.63997264,1.37825,20.275,1.4355
+60,153,tulip poplar,IC-19-S,IC,Control,2019,South,Large,,Yes,25.3,25.7,NA,NA,NA,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,24.66,28.56,Yes,3.9,13.925,19.02030884,1.33725,20.275,1.4355
+61,154,sugar maple,IC+TSI-18-S,IC+TSI,IC+TSI,2018,South,small,,Yes,NA,NA,7.5,10.63,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,40.49,Yes,NA,26.275,26.275,1.52575,31.975,1.61625
+62,155,elm,IC+TSI-18-S,IC+TSI,IC+TSI,2018,South,small,,Yes,NA,NA,8,10.37,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,39.85,Yes,NA,28.275,28.275,1.557,31.975,1.61625
+63,156,sugar maple,IC+TSI-18-S,IC+TSI,IC+TSI,2018,South,small,,Yes,NA,NA,6.4,8.61,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,38.78,Yes,NA,29.075,29.075,1.56925,31.975,1.61625
+64,157,elm,IC+TSI-18-S,IC+TSI,IC+TSI,2018,South,small,,Yes,NA,NA,5.3,6.8,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,38.1825,Yes,NA,26.85,26.85,1.53975,31.975,1.61625
+65,158,sugar maple,IC+TSI-19-S,IC+TSI,Control,2019,South,small,,Yes,NA,NA,4.5,5.41,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,33.3525,No,NA,25.3,27.67372948,1.51375,28.975,1.57225
+66,159,elm,IC+TSI-19-S,IC+TSI,Control,2019,South,small,,Yes,NA,NA,5.9,6.32,,NA,NA,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,NA,37.32,No,NA,19.025,20.80998827,1.41525,28.975,1.57225
+67,16,tulip poplar,IC+TSI-19-S,IC+TSI,Control,2019,South,Large,,Yes,30.45,31.2,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,24.9075,Yes,NA,19.85,21.71239249,1.4285,28.975,1.57225
+68,160,red maple,IC+TSI-19-S,IC+TSI,Control,2019,South,small,,Yes,NA,NA,6.6,8.46,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,27.3875,No,NA,17.525,19.16925332,1.3925,28.975,1.57225
+69,161,sugar maple,IC+TSI-19-S,IC+TSI,Control,2019,South,small,,Yes,NA,NA,4.9,7.7,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,32.9925,No,NA,16.075,17.58320954,1.37125,28.975,1.57225
+70,162,sugar maple,IC+TSI-19-S,IC+TSI,Control,2019,South,small,,Yes,NA,NA,5.8,8.48,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,27.0075,No,NA,17.275,18.8957975,1.3885,28.975,1.57225
+71,163,elm,IC+TSI-19-S,IC+TSI,Control,2019,South,small,,Yes,NA,NA,8,11.62,,NA,NA,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,NA,28.02666667,No,NA,15.25,16.68080532,1.358,28.975,1.57225
+72,164,sugar maple,IC+TSI-19-S,IC+TSI,Control,2019,South,small,,Yes,NA,NA,5,6.67,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,35.845,Yes,NA,20.675,22.61479672,1.44,28.975,1.57225
+73,165,tulip poplar,IC-19-M,IC,Control,2019,Middle,Large,,Yes,49.1,49.5,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,27.2775,Yes,NA,22.075,22.52374902,1.46125,31.325,1.60625
+74,166,tulip poplar,IC+TSI-18-S,IC+TSI,IC+TSI,2018,South,Large,,Yes,44.7,45.1,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,28.995,Yes,NA,25.15,25.15,1.508,31.975,1.61625
+75,167,red maple,IC+TSI-19-S,IC+TSI,Control,2019,South,Large,,Yes,8.7,8.6,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,37.8975,No,NA,17.4,19.03252541,1.391,28.975,1.57225
+76,17,red maple,IC+TSI-18-S,IC+TSI,IC+TSI,2018,South,Large,,Yes,17.9,18.1,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,42.19,Yes,NA,29.9,29.9,1.58275,31.975,1.61625
+77,172,red maple,C-18-S,Control,Control,2018,South,Large,,Yes,25,25.6,NA,NA,NA,Yes,Yes,No,Yes,No,No,Yes,No,No,Yes,Yes,No,NA,34.9575,Yes,NA,21.925,21.925,1.4595,31.975,1.61625
+78,173,tulip poplar,IC+TSI-19-S,IC+TSI,Control,2019,South,Large,,Yes,38.2,39,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,35.785,No,NA,14.85,16.243276,1.352,28.975,1.57225
+79,174,tulip poplar,IC+TSI-19-S,IC+TSI,Control,2019,South,Large,,Yes,28.2,28.5,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,33.845,Yes,NA,20,21.87646599,1.4305,28.975,1.57225
+80,175,red maple,C-19-S,Control,Control,2019,South,Large,,Yes,30.4,30.9,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,24.175,28.88,Yes,4.705,26.05,26.57955434,1.5615,31.325,1.60625
+81,176,tulip poplar,IC+TSI-19-S,IC+TSI,Control,2019,South,Large,,Yes,43.2,43.2,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,34.7975,Yes,NA,19.475,21.30220876,1.422,28.975,1.57225
+82,177,sugar maple,C-18-S,Control,Control,2018,South,Large,,Yes,20.1,20.1,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,26.865,28.215,Yes,1.35,24.2,24.2,1.4955,31.975,1.61625
+83,178,sugar maple,IC+TSI-19-M,IC+TSI,Control,2019,Middle,Large,,Yes,24.3,22.3,NA,NA,NA,Yes,Yes,No,Yes,No,No,Yes,No,No,Yes,Yes,No,NA,44.4025,Yes,NA,20.125,20.53410868,1.43175,31.325,1.60625
+84,179,red maple,C-19-S,Control,Control,2019,South,Large,,Yes,13.3,13.3,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,29.65,35.598,No,5.948,24.775,25.27863566,1.50275,31.325,1.60625
+85,18,red maple,IC+TSI-19-S,IC+TSI,Control,2019,South,Large,,Yes,29.1,28.6,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,33.1,Yes,NA,18.4,20.12634871,1.40575,28.975,1.57225
+86,180,sugar maple,C-19-S,Control,Control,2019,South,Large,,Yes,35.9,36.1,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,34.84666667,30.60333333,No,-4.24333334,31.35,31.98729476,1.62625,31.325,1.60625
+87,181,red maple,C-18-S,Control,Control,2018,South,Large,,Yes,16.6,16.7,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,36.8975,No,NA,29,29,1.56875,31.975,1.61625
+88,182,tulip poplar,C-18-S,Control,Control,2018,South,Large,,Yes,43,44.1,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,31.8925,37.3825,No,5.49,25.4,25.4,1.51275,31.975,1.61625
+89,183,sugar maple,C-19-S,Control,Control,2019,South,Large,,Yes,18.5,18.3,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,34.23,35.10333333,No,0.87333333,16.375,16.70787725,1.3745,31.325,1.60625
+90,184,tulip poplar,C-19-S,Control,Control,2019,South,Large,,Yes,28.45,29.1,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,35.9475,37.41,No,1.4625,22.775,23.23797889,1.472,31.325,1.60625
+91,185,sugar maple,IC+TSI-18-M,IC+TSI,IC+TSI,2018,Middle,Large,,Yes,17.5,17.5,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,24.22,38.49,No,14.27,13.075,15.65115324,1.32325,25.675,1.51725
+92,186,tulip poplar,C-18-S,Control,Control,2018,South,Large,,Yes,28.9,29.3,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,34.9775,32.675,Yes,-2.3025,22.425,24.42378812,1.46675,29.125,1.572
+93,187,tulip poplar,C-19-N,Control,Control,2019,North,Large,,Yes,23.1,23.4,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,22.39,26.2,Yes,3.81,19.675,23.55154418,1.42575,25.675,1.51725
+94,188,red maple,IC+TSI-18-N,IC+TSI,IC+TSI,2018,North,Large,,Yes,11.8,11.9,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,20.5425,33.37,Yes,12.8275,12.2,13.87881157,1.30875,27.575,1.546
+95,189,tulip poplar,IC+TSI-19-N,IC+TSI,Control,2019,North,Large,,Yes,21.3,21.3,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,22.2625,28.9875,No,6.725,19.3,23.54026583,1.41875,24.95,1.5055
+96,19,red maple,IC+TSI-19-S,IC+TSI,Control,2019,South,Large,,Yes,19.7,20.1,NA,NA,NA,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,28.185,31.2325,No,3.0475,18.4,20.12634871,1.40625,28.975,1.57225
+97,190,red maple,IC+TSI-18-N,IC+TSI,IC+TSI,2018,North,Large,,Yes,22.6,22.7,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,23.665,30.465,No,6.8,13.15,14.9595387,1.32325,27.575,1.546
+98,191,tulip poplar,IC+TSI-18-N,IC+TSI,IC+TSI,2018,North,Large,,Yes,35.5,35.9,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,20.15,32.87,Yes,12.72,14.15,16.09714621,1.34025,27.575,1.546
+99,192,red maple,IC+TSI-18-M,IC+TSI,IC+TSI,2018,Middle,Large,,Yes,18.4,19.2,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,25.34,37.68,No,12.34,17.05,19.39620798,1.38475,27.575,1.546
+100,193,sugar maple,C-18-S,Control,Control,2018,South,Large,,Yes,16.65,16.7,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,36.2875,Yes,NA,23.9,23.9,1.48975,31.975,1.61625
+101,194,sugar maple,C-18-S,Control,Control,2018,South,Large,,Yes,9.8,10,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,33.46,Yes,NA,25.025,25.025,1.5065,31.975,1.61625
+102,195,tulip poplar,IC+TSI-18-M,IC+TSI,IC+TSI,2018,Middle,Large,,Yes,23.4,23.6,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,27.3825,34.89,Yes,7.5075,14.95,17.00723221,1.353,27.575,1.546
+103,196,sugar maple,IC+TSI-18-N,IC+TSI,IC+TSI,2018,North,Large,,Yes,16.5,16.6,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,20.3175,35.42,No,15.1025,13.95,15.86962471,1.33675,27.575,1.546
+104,197,sugar maple,IC-18-N,IC,IC,2018,North,Large,,Yes,11.45,11.1,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,18.78,28.68,No,9.9,16.9,18.51204066,1.382,28.925,1.5675
+105,198,tulip poplar,IC-18-N,IC,IC,2018,North,Large,,Yes,33.43,33.6,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,22.7025,27.5875,No,4.885,17.65,19.33358092,1.39475,28.925,1.5675
+106,199,red maple,IC+TSI-19-N,IC+TSI,Control,2019,North,Large,,Yes,21.6,12.6,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,20.1625,37.08,Yes,16.9175,16.3,19.88115715,1.37375,24.95,1.5055
+107,2,sugar maple,IC+TSI-18-S,IC+TSI,IC+TSI,2018,South,Large,,Yes,14.4,14.4,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,36.37,No,NA,27.375,27.375,1.542,31.975,1.61625
+108,20,tulip poplar,IC+TSI-19-S,IC+TSI,Control,2019,South,Large,,Yes,34,33.9,NA,NA,NA,Yes,Yes,No,No,No,Yes,No,No,No,Yes,Yes,No,NA,22.975,Yes,NA,16.975,18.56765051,1.383,28.975,1.57225
+109,200,sugar maple,C-19-N,Control,Control,2019,North,Large,,Yes,10.9,11.5,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,14.57,23.1825,Yes,8.6125,13.375,16.01026193,1.32825,25.675,1.51725
+110,201,red maple,IC+TSI-18-S,IC+TSI,IC+TSI,2018,South,Large,,Yes,31.1,31.2,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,39.9925,Yes,NA,22.775,24.91182565,1.472,28.975,1.57225
+111,202,tulip poplar,IC+TSI-18-S,IC+TSI,IC+TSI,2018,South,Large,,Yes,25.9,26.5,NA,NA,NA,Yes,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,NA,32.9275,Yes,NA,18.725,20.48184128,1.411,28.975,1.57225
+112,203,elm,IC-19-S,IC,Control,2019,South,small,,Yes,NA,NA,4.75,5.65,two measures,NA,NA,No,No,No,No,No,No,No,No,Yes,No,NA,42.4525,No,NA,19.45,21.18362001,1.4215,29.125,1.572
+113,204,elm,IC-19-S,IC,Control,2019,South,small,,Yes,NA,NA,3.6,4.95,two measures,NA,NA,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,25.7075,30.5225,Yes,4.815,25.7,35.10390931,1.524,20.275,1.4355
+114,205,elm,IC-19-S,IC,Control,2019,South,small,,Yes,NA,NA,6.2,6.71,two measures,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,31.11,Yes,NA,16.9,23.08389367,1.38325,20.275,1.4355
+115,206,elm,IC-19-S,IC,Control,2019,South,small,,Yes,NA,NA,4.4,4.67,two measures,NA,NA,No,No,No,No,No,No,No,No,Yes,No,NA,42.6625,Yes,NA,24.65,26.84710712,1.5005,29.125,1.572
+116,207,sugar maple,IC-18-S,IC,IC,2018,South,small,,Yes,NA,NA,5.8,9.047,two measures,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,32.1975,Yes,NA,18.65,20.39980454,1.41,28.975,1.57225
+117,208,sugar maple,IC-19-S,IC,Control,2019,South,small,,Yes,NA,NA,6.05,7.2,two measures,NA,NA,No,No,No,No,No,No,No,No,Yes,No,NA,43.765,Yes,NA,20.225,22.02769742,1.4335,29.125,1.572
+118,209,sugar maple,IC+TSI-19-S,IC+TSI,Control,2019,South,small,,Yes,NA,NA,3.5,5.94,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,36.0275,Yes,NA,21.1,23.07967162,1.44825,28.975,1.57225
+119,21,red maple,IC+TSI-19-S,IC+TSI,Control,2019,South,Large,,Yes,10.55,10.7,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,34.1775,Yes,NA,21.825,23.87269351,1.46025,28.975,1.57225
+120,210,elm,IC-19-S,IC,Control,2019,South,small,,Yes,NA,NA,7.9,9.37,two measures,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,28.55,No,NA,14.85,20.28377639,1.3505,20.275,1.4355
+121,211,sugar maple,IC-19-S,IC,Control,2019,South,small,,Yes,NA,NA,5.55,8.69,two measures,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,41.655,Yes,NA,12.7,17.34706802,1.3175,20.275,1.4355
+122,212,elm,IC+TSI-18-S,IC+TSI,IC+TSI,2018,South,small,,Yes,NA,NA,5.9,5.96,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,33.1175,Yes,NA,16.35,17.88401095,1.37575,28.975,1.57225
+123,213,elm,IC+TSI-19-S,IC+TSI,Control,2019,South,small,,Yes,NA,NA,4.8,6.42,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,37.03,Yes,NA,28.2,30.84581705,1.5615,28.975,1.57225
+124,214,red maple,IC-19-S,IC,Control,2019,South,small,Target Tree fallen down,No,NA,NA,3.8,4.99,two measures,NA,NA,No,No,No,No,No,No,No,No,Yes,No,NA,NA,No,NA,NA,NA,NA,NA,NA
+125,215,sugar maple,IC+TSI-18-S,IC+TSI,IC+TSI,2018,South,small,,Yes,NA,NA,2.6,4.01,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,37.4825,No,NA,22.775,24.91182565,1.4685,28.975,1.57225
+126,216,sugar maple,IC+TSI-18-S,IC+TSI,IC+TSI,2018,South,small,,Yes,NA,NA,5.7,9.91,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,33.63,Yes,NA,34.45,34.45,1.6595,31.975,1.61625
+127,217,elm,IC+TSI-18-S,IC+TSI,IC+TSI,2018,South,small,,Yes,NA,NA,4.6,7.27,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,40.81,Yes,NA,19.975,21.84912041,1.4295,28.975,1.57225
+128,218,sugar maple,IC+TSI-18-S,IC+TSI,IC+TSI,2018,South,small,,Yes,NA,NA,4.7,7.72,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,36.1325,No,NA,20.525,20.525,1.438,31.975,1.61625
+129,219,sugar maple,IC+TSI-18-S,IC+TSI,IC+TSI,2018,South,small,,Yes,NA,NA,4.2,5.91,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,34.83,No,NA,29.175,29.175,1.5755,31.975,1.61625
+130,22,tulip poplar,IC-18-S,IC,IC,2018,South,Large,,Yes,34.5,,NA,NA,NA,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,No,NA,33.54,Yes,NA,14.05,20.0039484,1.34025,18.425,1.4065
+131,220,sugar maple,IC+TSI-18-S,IC+TSI,IC+TSI,2018,South,small,,Yes,NA,NA,3.8,5.41,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,36.58,Yes,NA,27.825,27.825,1.554,31.975,1.61625
+132,221,elm,IC+TSI-18-S,IC+TSI,IC+TSI,2018,South,small,,Yes,NA,NA,9.5,7.46,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,38.0175,Yes,NA,18.8,18.8,1.4115,31.975,1.61625
+133,222,sugar maple,IC+TSI-18-S,IC+TSI,IC+TSI,2018,South,small,,Yes,NA,NA,2.3,5.23,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,35.4975,Yes,NA,23.175,23.175,1.47775,31.975,1.61625
+134,223,elm,IC+TSI-18-S,IC+TSI,IC+TSI,2018,South,small,Not in plot,No,NA,NA,5.3,6.61,,NA,NA,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,NA,37.66,No,NA,18.9,18.9,1.41325,31.975,1.61625
+135,224,elm,IC+TSI-18-S,IC+TSI,IC+TSI,2018,South,small,,Yes,NA,NA,8.5,10.7,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,30.425,Yes,NA,20.95,20.95,1.44425,31.975,1.61625
+136,225,sugar maple,IC+TSI-18-S,IC+TSI,IC+TSI,2018,South,small,,Yes,NA,NA,4.5,7.16,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,39.22,Yes,NA,26.8,26.8,1.5335,31.975,1.61625
+137,226,tulip poplar,IC+TSI-18-S,IC+TSI,IC+TSI,2018,South,small,,Yes,NA,NA,8,9.81,,NA,NA,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,NA,36.5625,No,NA,23.4,23.4,1.4815,31.975,1.61625
+138,227,sugar maple,IC-18-M,IC,IC,2018,Middle,small,,Yes,NA,NA,1.8,3.03,,NA,NA,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,NA,35.92,No,NA,23.025,23.025,1.476,31.975,1.61625
+139,228,sugar maple,IC-18-M,IC,IC,2018,Middle,small,,Yes,NA,NA,5.9,9.41,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,33.14,Yes,NA,25.6,26.60078186,1.51475,30.725,1.5965
+140,229,sugar maple,IC-19-M,IC,Control,2019,Middle,small,,Yes,NA,NA,4,5.82,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,23.015,Yes,NA,21.4,21.83502737,1.45125,31.325,1.60625
+141,23,sugar maple,IC+TSI-18-S,IC+TSI,IC+TSI,2018,South,Large,,Yes,13.4,12.8,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,40.535,Yes,NA,26.4,26.4,1.52775,31.975,1.61625
+142,230,sugar maple,IC-18-M,IC,IC,2018,Middle,small,,Yes,NA,NA,4.9,8.32,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,32.505,Yes,NA,25.55,25.55,1.51525,31.975,1.61625
+143,231,red maple,IC-19-M,IC,Control,2019,Middle,small,,Yes,NA,NA,4,5.17,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,28.255,No,NA,21.675,22.11561767,1.4555,31.325,1.60625
+144,232,sugar maple,IC-19-M,IC,Control,2019,Middle,small,,Yes,NA,NA,5.2,7.88,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,30.23,Yes,NA,23.3,23.3,1.48075,31.975,1.61625
+145,233,sugar maple,IC-19-M,IC,Control,2019,Middle,small,,Yes,NA,NA,6.4,10.66,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,25.4225,No,NA,20.275,20.68715794,1.4335,31.325,1.60625
+146,234,red maple,IC-19-M,IC,Control,2019,Middle,small,,Yes,NA,NA,4.75,8.7,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,32.245,Yes,NA,17.425,17.77922205,1.3905,31.325,1.60625
+147,235,sugar maple,IC-18-M,IC,IC,2018,Middle,small,,Yes,NA,NA,5.5,9.68,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,20.7675,Yes,NA,23.7,24.62650508,1.4865,30.725,1.5965
+148,236,sugar maple,IC-19-M,IC,Control,2019,Middle,small,,Yes,NA,NA,3.75,6.84,,NA,NA,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,NA,28.625,Yes,NA,22.525,22.9828968,1.4685,31.325,1.60625
+149,237,elm,IC-19-M,IC,Control,2019,Middle,small,,Yes,NA,NA,4.8,5.9,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,33.0925,No,NA,18.6,20.3741986,1.409,28.925,1.5675
+150,238,elm,IC-19-M,IC,Control,2019,Middle,small,,Yes,NA,NA,3.4,5.51,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,35.135,Yes,NA,24.475,24.97253714,1.49775,31.325,1.60625
+151,239,red maple,IC-19-M,IC,Control,2019,Middle,small,,Yes,NA,NA,7.65,10.66,,NA,NA,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,NA,36.44,No,NA,22.2,22.65129007,1.46375,31.325,1.60625
+152,24,red maple,IC-18-S,IC,IC,2018,South,Large,,Yes,17.7,,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,38.5725,Yes,NA,31.925,34.7705434,1.616,29.125,1.572
+153,240,elm,IC-19-M,IC,Control,2019,Middle,small,,Yes,NA,NA,5.4,6.63,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,40.9275,Yes,NA,22.65,23.53545739,1.4705,30.725,1.5965
+154,241,red maple,IC-18-M,IC,IC,2018,Middle,small,,Yes,NA,NA,4.85,7.48,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,28.9575,Yes,NA,23.05,23.9510946,1.476,30.725,1.5965
+155,242,elm,IC-19-M,IC,Control,2019,Middle,small,,Yes,NA,NA,4.55,6.2,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,39.3825,Yes,NA,19.525,19.92191165,1.42325,31.325,1.60625
+156,243,sugar maple,IC-18-M,IC,IC,2018,Middle,small,,Yes,NA,NA,2.8,4.78,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,24.85,Yes,NA,22.375,23.2497068,1.46575,30.725,1.5965
+157,244,elm,IC-18-M,IC,IC,2018,Middle,small,,Yes,NA,NA,4.9,6.29,,NA,NA,No,No,No,No,No,No,No,No,Yes,No,NA,30.9925,Yes,NA,25,25.97732604,1.506,30.725,1.5965
+158,245,sugar maple,IC-18-M,IC,IC,2018,Middle,small,,Yes,NA,NA,4.7,7.855,,NA,NA,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,NA,32.6775,Yes,NA,26.7,27.74378421,1.532,30.725,1.5965
+159,246,sugar maple,IC-19-M,IC,Control,2019,Middle,small,,Yes,NA,NA,3.9,6.57,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,41.32,Yes,NA,23.2,24.10695857,1.47875,30.725,1.5965
+160,247,sugar maple,IC-19-M,IC,Control,2019,Middle,small,,Yes,NA,NA,2.5,5.125,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,34.58,Yes,NA,22.125,22.57476544,1.46175,31.325,1.60625
+161,248,sugar maple,IC-19-S,IC,Control,2019,South,small,,Yes,NA,NA,6.8,12.26,,NA,NA,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,24.805,30.38,Yes,5.575,19.025,25.98645426,1.42125,20.275,1.4355
+162,249,elm,IC-19-M,IC,Control,2019,Middle,small,,Yes,NA,NA,3.7,4.78,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,32.1025,Yes,NA,25.2,25.71227521,1.5095,31.325,1.60625
+163,25,red maple,IC-18-S,IC,IC,2018,South,Large,,Yes,23.1,24.5,NA,NA,NA,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,22.6675,29.9575,Yes,7.29,34.225,46.74829945,1.65575,20.275,1.4355
+164,250,sugar maple,IC-19-S,IC,Control,2019,South,small,,Yes,NA,NA,4.7,8.21,,NA,NA,No,No,No,No,No,No,No,No,Yes,No,NA,44.2275,Yes,NA,9.75,13.31763096,1.26975,20.275,1.4355
+165,251,red maple,C-18-M,Control,Control,2018,Middle,small,,Yes,NA,NA,4.4,7.13,,NA,NA,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,NA,23.4325,Yes,NA,32,35.05238468,1.616,28.925,1.5675
+166,252,tulip poplar,IC-19-N,IC,Control,2019,North,Large,,Yes,32.2,33.7,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,32.47,44.72,Yes,12.25,18.15,21.72607506,1.402,25.675,1.51725
+167,253,red maple,IC-19-N,IC,Control,2019,North,Large,,Yes,15.55,15.6,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,31.7675,38.9725,Yes,7.205,24.725,29.59654027,1.503,25.675,1.51725
+168,254,tulip poplar,IC+TSI-19-N,IC+TSI,Control,2019,North,Large,,Yes,30.7,30.9,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,31.415,36.7425,Yes,5.3275,11.725,14.30101642,1.30225,24.95,1.5055
+169,255,red maple,IC+TSI-19-N,IC+TSI,Control,2019,North,Large,,Yes,19.7,19.6,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,33.2875,32.685,No,-0.6025,12.15,14.81939015,1.30875,24.95,1.5055
+170,256,sugar maple,IC+TSI-18-N,IC+TSI,IC+TSI,2018,North,Large,,Yes,14.4,14.4,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,17.9375,27.0325,Yes,9.095,13.05,14.84577795,1.32325,27.575,1.546
+171,257,tulip poplar,IC-18-N,IC,IC,2018,North,Large,,Yes,19.35,19.5,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,18.9425,37.9875,Yes,19.045,12.9,14.67513683,1.32075,27.575,1.546
+172,258,sugar maple,IC+TSI-19-N,IC+TSI,Control,2019,North,Large,,Yes,12.1,12.15,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,21.3,32.1575,Yes,10.8575,10.375,12.65441751,1.2795,24.95,1.5055
+173,259,red maple,IC-18-N,IC,IC,2018,North,Large,,Yes,11.73,11.8,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,25.7575,33.925,No,8.1675,29.075,31.84837764,1.57525,28.925,1.5675
+174,26,red maple,IC-18-S,IC,IC,2018,South,Large,,Yes,12.3,13.5,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,36.195,Yes,NA,13.7,19.5056294,1.3335,18.425,1.4065
+175,260,red maple,C-19-N,Control,Control,2019,North,Large,,Yes,12.7,13.1,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,13.72,22.355,Yes,8.635,18.675,22.35451525,1.41,25.675,1.51725
+176,261,sugar maple,IC+TSI-18-N,IC+TSI,IC+TSI,2018,North,Large,Tree Girdled,No,31.5,31.8,NA,NA,NA,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,19.0225,21.89,Yes,2.8675,NA,NA,NA,27.575,1.546
+177,262,tulip poplar,C-18-N,Control,Control,2018,North,Large,,Yes,35.4,35.5,NA,NA,NA,Yes,Yes,No,Yes,No,No,Yes,No,No,Yes,Yes,No,16.4725,31.165,Yes,14.6925,9.25,11.28225176,1.2615,24.95,1.5055
+178,263,red maple,C-18-N,Control,Control,2018,North,Large,,Yes,10.7,10.8,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,13.755,22.31,Yes,8.555,11,13.16731821,1.29025,25.675,1.51725
+179,264,tulip poplar,C-18-N,Control,Control,2018,North,Large,,Yes,21.5,21.5,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,20.805,24.0425,No,3.2375,10.15,12.37998436,1.27625,24.95,1.5055
+180,265,sugar maple,C-18-N,Control,Control,2018,North,Large,,Yes,11.9,11.7,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,18.29,29.3125,Yes,11.0225,11.55,14.08756841,1.2965,24.95,1.5055
+181,266,red maple,C-18-N,Control,Control,2018,North,Large,,Yes,15.3,15.2,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,16.7875,24.62,No,7.8325,6.575,8.01954652,1.215,24.95,1.5055
+182,267,tulip poplar,,NA,NA,NA,NA,Large,Not in plot,No,16.2,SKIP IN 2019,NA,NA,NA,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,No,18.03,NA,No,NA,11.8,14.39249414,1.30375,24.95,1.5055
+183,268,sugar maple,,NA,NA,NA,NA,Large,Not in plot,No,16.5,SKIP IN 2019,NA,NA,NA,Yes,Yes,No,No,No,Yes,No,No,Yes,Yes,No,No,15.475,NA,No,NA,NA,NA,NA,24.95,1.5055
+184,269,tulip poplar,C-19-N,Control,Control,2019,North,Large,,Yes,20.9,20.9,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,16.5075,25.105,Yes,8.5975,13.8,16.51899922,1.33475,25.675,1.51725
+185,27,tulip poplar,IC-18-S,IC,IC,2018,South,Large,,Yes,29.2,29.8,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,24.8725,28.32,Yes,3.4475,15.375,21.89044175,1.36,18.425,1.4065
+186,270,sugar maple,C-19-N,Control,Control,2019,North,Large,,Yes,11.8,11.7,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,19.38,22.91,Yes,3.53,10.725,12.83813526,1.2855,25.675,1.51725
+187,271,sugar maple,,NA,NA,NA,NA,Large,Not in plot,No,22.1,SKIP IN 2022,NA,NA,NA,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,No,18.1175,NA,No,NA,7.15,8.720875683,1.226,24.95,1.5055
+188,272,sugar maple,IC-19-N,IC,Control,2019,North,Large,,Yes,9.85,9.7,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,34.405,39.4825,Yes,5.0775,18.575,22.23481235,1.40825,25.675,1.51725
+189,273,sugar maple,C-18-M,Control,Control,2018,Middle,small,,Yes,NA,NA,2.2,3.82,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,36.3975,Yes,NA,28.55,31.27329945,1.56125,28.925,1.5675
+190,274,sugar maple,C-18-M,Control,Control,2018,Middle,small,,Yes,NA,NA,2.8,5.01,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,35.4025,No,NA,17.225,18.86804144,1.38825,28.925,1.5675
+191,275,red maple,C-19-M,Control,Control,2019,Middle,small,,Yes,NA,NA,2.5,2.29,,NA,NA,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,NA,32.92,Yes,NA,21.55,23.60559031,1.45375,28.925,1.5675
+192,276,red maple,C-19-M,Control,Control,2019,Middle,small,,Yes,NA,NA,3.8,5.81,,NA,NA,No,Yes,No,No,Yes,No,No,Yes,Yes,No,NA,23.92,Yes,NA,23,25.19390149,1.476,28.925,1.5675
+193,277,elm,C-18-M,Control,Control,2018,Middle,small,,Yes,NA,NA,9.8,9.88,,NA,NA,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,NA,31.5225,No,NA,31.95,34.99761533,1.63275,28.925,1.5675
+194,278,sugar maple,IC+TSI-19-M,IC+TSI,Control,2019,Middle,small,,Yes,NA,NA,4.2,7.89,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,39.6275,Yes,NA,20.85,21.27384676,1.44325,31.325,1.60625
+195,279,sugar maple,C-18-M,Control,Control,2018,Middle,small,,Yes,NA,NA,3.9,6.06,,NA,NA,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,NA,33.0675,No,NA,8.325,9.119096951,1.24425,28.925,1.5675
+196,28,tulip poplar,IC-18-S,IC,IC,2018,South,Large,,Yes,44.3,44.6,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,32.9475,Yes,NA,12.4,17.65473026,1.31375,18.425,1.4065
+197,280,red maple,C-18-M,Control,Control,2018,Middle,small,,Yes,NA,NA,4.3,7.81,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,36.525,Yes,NA,29.075,31.84837764,1.56875,28.925,1.5675
+198,281,sugar maple,C-19-M,Control,Control,2019,Middle,small,,Yes,NA,NA,3.7,6.22,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,29.5075,Yes,NA,16.125,17.66311572,1.37125,28.925,1.5675
+199,282,sugar maple,C-18-M,Control,Control,2018,Middle,small,,Yes,NA,NA,2.9,4.89,,NA,NA,No,No,No,No,No,No,No,Yes,No,No,NA,30.15,Yes,NA,17.65,19.33358092,1.394,28.925,1.5675
+200,283,red maple,C-18-M,Control,Control,2018,Middle,small,,Yes,NA,NA,7.6,10.25,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,31.375,No,NA,23.925,26.20713448,1.493,28.925,1.5675
+201,284,sugar maple,IC+TSI-18-N,IC+TSI,IC+TSI,2018,North,small,,Yes,NA,NA,5.1,7.92,,NA,NA,No,No,No,No,No,No,No,No,Yes,No,NA,29.005,Yes,NA,16.625,18.21080923,1.379,28.925,1.5675
+202,285,red maple,C-19-M,Control,Control,2019,Middle,small,,Yes,NA,NA,6.7,8.83,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,37.7,No,NA,20.225,22.1542025,1.43375,28.925,1.5675
+203,286,sugar maple,C-19-M,Control,Control,2019,Middle,small,,Yes,NA,NA,1.9,3.32,,NA,NA,No,Yes,No,No,Yes,No,No,Yes,Yes,No,NA,31.375,No,NA,22.225,24.34497654,1.46575,28.925,1.5675
+204,287,sugar maple,C-18-M,Control,Control,2018,Middle,small,,Yes,NA,NA,3.8,5.67,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,25.9725,Yes,NA,16.075,17.60834637,1.37,28.925,1.5675
+205,288,tulip poplar,IC+TSI-19-N,IC+TSI,Control,2019,North,Large,,Yes,NA,30,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,18.05,31.235,Yes,13.185,10.875,13.26426896,1.2885,24.95,1.5055
+206,288,tulip poplar,IC+TSI-19-N,IC+TSI,Control,2019,North,Large,,Yes,NA,30,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,18.05,31.235,Yes,13.185,10.875,13.26426896,1.2885,24.95,1.5055
+207,289,tulip poplar,IC+TSI-18-M,IC+TSI,IC+TSI,2018,Middle,Large,,Yes,NA,28.2,NA,NA,NA,NA,Yes,No,No,No,No,No,No,No,No,Yes,No,NA,20.53,Yes,NA,13.375,16.01026193,1.32825,25.675,1.51725
+208,29,tulip poplar,IC-18-S,IC,IC,2018,South,Large,,Yes,27.8,28.3,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,33.51666667,Yes,NA,16.35,23.27861611,1.374,18.425,1.4065
+209,290,red oak,IC-18-N,IC,IC,2018,North,Large,,Yes,NA,40.1,NA,NA,NA,NA,Yes,No,No,No,No,No,No,No,No,Yes,No,NA,27,No,NA,8.925,9.776329163,1.25575,28.925,1.5675
+210,291,red oak,IC+TSI-18-M,IC+TSI,IC+TSI,2018,Middle,Large,,Yes,NA,30.5,NA,NA,NA,NA,Yes,No,No,No,No,No,No,No,No,Yes,No,NA,27.7475,No,NA,11.075,12.59900313,1.29125,27.575,1.546
+211,292,red oak,IC-18-N,IC,IC,2018,North,Large,,Yes,NA,18.95,NA,NA,NA,NA,Yes,No,No,No,No,No,No,No,No,Yes,No,NA,30.5775,No,NA,8.825,10.03938624,1.255,27.575,1.546
+212,293,sugar maple,IC-19-N,IC,Control,2019,North,Large,,Yes,NA,15.5,NA,NA,NA,NA,Yes,No,Yes,No,No,Yes,No,No,No,Yes,No,NA,34.9175,Yes,NA,13.625,14.92464816,1.33225,28.925,1.5675
+213,295,tulip poplar,IC-18-M,IC,IC,2018,Middle,Large,,Yes,NA,32.4,NA,NA,NA,NA,Yes,No,No,No,No,No,No,No,No,Yes,No,NA,35.18125,Yes,NA,25.2,26.18514465,1.50875,30.725,1.5965
+214,296,red oak,IC+TSI-18-N,IC+TSI,IC+TSI,2018,North,Large,,Yes,NA,20.85,NA,NA,NA,NA,Yes,No,No,No,No,No,No,No,No,Yes,No,NA,21.83,Yes,NA,10.1,11.48983581,1.2745,27.575,1.546
+215,297,red maple,IC-18-N,IC,IC,2018,North,Large,,Yes,NA,31.1,NA,NA,NA,NA,Yes,No,No,No,No,No,No,No,No,Yes,No,NA,24.9925,Yes,NA,13.625,15.49990227,1.33175,27.575,1.546
+216,299,red maple,IC-18-N,IC,IC,2018,North,Large,,Yes,NA,18,NA,NA,NA,NA,Yes,No,No,No,No,No,No,No,No,Yes,No,NA,29.2925,Yes,NA,18.2,19.93604378,1.4035,28.925,1.5675
+217,3,red maple,IC+TSI-19-S,IC+TSI,Control,2019,South,Large,,Yes,30.5,31,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,43.4475,Yes,NA,14.275,15.6143276,1.342,28.975,1.57225
+218,30,red maple,IC-18-S,IC,IC,2018,South,Large,,Yes,12.8,13.1,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,36.225,Yes,NA,16.625,23.67015247,1.37925,18.425,1.4065
+219,300,tulip poplar,IC-18-N,IC,IC,2018,North,Large,,Yes,NA,48.7,NA,NA,NA,NA,Yes,No,No,No,No,No,No,No,No,Yes,No,NA,26.355,No,NA,19.275,21.92738468,1.4195,27.575,1.546
+220,301,red maple,IC+TSI-19-M,IC+TSI,Control,2019,Middle,Large,,Yes,24,24.1,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,37.3625,No,NA,18.825,20.62066067,1.4115,28.925,1.5675
+221,302,sugar maple,IC+TSI-19-M,IC+TSI,Control,2019,Middle,Large,,Yes,13,12.9,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,42.735,Yes,NA,13.325,14.59603206,1.32725,28.925,1.5675
+222,303,tulip poplar,IC+TSI-19-M,IC+TSI,Control,2019,Middle,Large,,Yes,20.1,20.7,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,36.95,No,NA,30.425,33.32715012,1.595,28.925,1.5675
+223,304,tulip poplar,C-19-M,Control,Control,2019,Middle,Large,,Yes,48.4,40.4,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,20.115,30.9725,No,10.8575,14.575,15.96526583,1.347,28.925,1.5675
+224,305,sugar maple,C-19-M,Control,Control,2019,Middle,Large,,Yes,24.1,24.1,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,17.615,23.015,No,5.4,5.7,6.243706021,1.19925,28.925,1.5675
+225,306,sugar maple,C-19-M,Control,Control,2019,Middle,Large,,Yes,22.3,22.5,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,22.955,34.3225,Yes,11.3675,6.975,7.640324472,1.22175,28.925,1.5675
+226,307,sugar maple,C-18-M,Control,Control,2018,Middle,Large,,Yes,13.2,13.3,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,19.9425,30.2,Yes,10.2575,16,17.52619234,1.369,28.925,1.5675
+227,308,red maple,C-18-M,Control,Control,2018,Middle,Large,,Yes,13.6,5.85,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,25.1575,23.43,Yes,-1.7275,26.625,29.16467944,1.53975,28.925,1.5675
+228,309,red maple,C-18-M,Control,Control,2018,Middle,Large,,Yes,19.9,19.9,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,17.56,34.375,No,16.815,11.875,13.00772088,1.3035,28.925,1.5675
+229,31,red maple,IC-18-S,IC,IC,2018,South,Large,,Yes,11.1,12,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,31.1475,Yes,NA,34.8,37.90179828,1.66675,29.125,1.572
+230,310,sugar maple,C-18-M,Control,Control,2018,Middle,Large,,Yes,16.4,16.3,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,23.705,26.5425,Yes,2.8375,8.25,9.036942925,1.24475,28.925,1.5675
+231,311,red maple,C-18-S,Control,Control,2018,South,small,,Yes,NA,NA,7.2,10.05,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,29.3475,Yes,NA,38.025,41.41424942,1.71875,29.125,1.572
+232,312,red maple,C-19-S,Control,Control,2019,South,small,,Yes,NA,NA,7,8.95,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,23.555,No,NA,22.95,23.41653636,1.47475,31.325,1.60625
+233,313,sugar maple,C-18-S,Control,Control,2018,South,small,,Yes,NA,NA,2.7,5.61,,NA,NA,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,NA,29.3025,Yes,NA,25.65,27.93623925,1.51625,29.125,1.572
+234,314,red maple,C-18-S,Control,Control,2018,South,small,,Yes,NA,NA,4.7,4.99,,NA,NA,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,NA,27.5,No,NA,21.95,21.95,1.45925,31.975,1.61625
+235,315,red maple,C-18-S,Control,Control,2018,South,small,,Yes,NA,NA,6.5,10.88,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,37.995,Yes,NA,20.25,20.66164973,1.4335,31.325,1.60625
+236,316,sugar maple,C-18-S,Control,Control,2018,South,small,,Yes,NA,NA,5.8,10.26,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,34.425,Yes,NA,27.975,27.975,1.554,31.975,1.61625
+237,317,elm,C-18-S,Control,Control,2018,South,small,,Yes,NA,NA,3.7,4.43,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,32.93,Yes,NA,26.45,28.80754496,1.528,29.125,1.572
+238,318,elm,IC+TSI-19-M,IC+TSI,Control,2019,Middle,small,,Yes,NA,NA,3.8,5.23,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,33.3125,Yes,NA,16.35,17.9095778,1.3745,28.925,1.5675
+239,319,elm,C-18-S,Control,Control,2018,South,small,,Yes,NA,NA,5.8,6.9,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,31.1925,Yes,NA,26.125,26.125,1.52375,31.975,1.61625
+240,32,tulip poplar,IC-18-S,IC,IC,2018,South,Large,,Yes,8.8,9,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,30.595,Yes,NA,10.375,14.77159891,1.28125,18.425,1.4065
+241,320,elm,C-18-S,Control,Control,2018,South,small,,Yes,NA,NA,3.5,5.14,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,36.9425,Yes,NA,22.925,22.925,1.4745,31.975,1.61625
+242,321,elm,C-19-S,Control,Control,2019,South,small,,Yes,NA,NA,3.6,3.98,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,30.1225,No,NA,28.7,29.28342455,1.56575,31.325,1.60625
+243,322,sugar maple,C-19-S,Control,Control,2019,South,small,,Yes,NA,NA,7,11.19,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,33.92,No,NA,23.075,23.5440774,1.477,31.325,1.60625
+244,323,sugar maple,C-19-S,Control,Control,2019,South,small,,Yes,NA,NA,5.6,9.76,,NA,NA,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,NA,37.1425,No,NA,22.35,22.80433933,1.46525,31.325,1.60625
+245,324,sugar maple,C-19-S,Control,Control,2019,South,small,,Yes,NA,NA,3.9,4.8,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,28.035,Yes,NA,22.925,23.39102815,1.47475,31.325,1.60625
+246,325,sugar maple,IC+TSI-18-M,IC+TSI,IC+TSI,2018,Middle,small,,Yes,NA,NA,5.8,6.67,,NA,NA,No,Yes,No,No,Yes,No,No,Yes,Yes,No,NA,30.5375,No,NA,14.375,16.3531079,1.34375,27.575,1.546
+247,326,sugar maple,IC+TSI-18-M,IC+TSI,IC+TSI,2018,Middle,small,,Yes,NA,NA,3.9,4.42,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,28.53,No,NA,16.1,18.31548085,1.37025,27.575,1.546
+248,327,sugar maple,C-19-S,Control,Control,2019,South,small,,Yes,NA,NA,3.6,6.64,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,21.5575,No,NA,20.425,20.8402072,1.43775,31.325,1.60625
+249,328,elm,C-19-S,Control,Control,2019,South,small,,Yes,NA,NA,5,6.35,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,30.07,Yes,NA,23.2,23.67161845,1.4805,31.325,1.60625
+250,329,sugar maple,C-19-S,Control,Control,2019,South,small,,Yes,NA,NA,5.1,7.96,,NA,NA,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,NA,34.205,No,NA,18.375,18.74853401,1.40475,31.325,1.60625
+251,33,sugar maple,IC-18-S,IC,IC,2018,South,Large,,Yes,11.1,12.1,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,32.1575,Yes,NA,20.3,28.90250196,1.435,18.425,1.4065
+252,330,sugar maple,IC+TSI-19-M,IC+TSI,Control,2019,Middle,small,,Yes,NA,NA,7.1,10.69,two measures,NA,NA,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,NA,38.36875,No,NA,34.95,35.66047694,1.683,31.325,1.60625
+253,331,red maple,IC+TSI-18-M,IC+TSI,IC+TSI,2018,Middle,small,,Yes,NA,NA,6.1,9.32,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,29.11,Yes,NA,22.925,27.44188819,1.475,25.675,1.51725
+254,332,red maple,IC+TSI-19-M,IC+TSI,Control,2019,Middle,small,,Yes,NA,NA,8.1,11.84,,NA,NA,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,NA,39.16,No,NA,16.725,19.02648554,1.37975,27.575,1.546
+255,333,sugar maple,IC+TSI-18-M,IC+TSI,IC+TSI,2018,Middle,Large,,Yes,NA,NA,NA,NA,NA,NA,NA,No,No,No,No,No,No,No,No,Yes,No,NA,NA,No,NA,16.2,19.39186865,1.3725,25.675,1.51725
+256,334,red maple,IC+TSI-19-M,IC+TSI,Control,2019,Middle,small,Target Tree fallen down,No,NA,NA,7.2,10.1,,NA,NA,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,NA,NA,No,NA,NA,NA,NA,27.575,1.546
+257,335,sugar maple,IC+TSI-18-M,IC+TSI,IC+TSI,2018,Middle,small,,Yes,NA,NA,3.9,4.54,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,32.4725,Yes,NA,22.35,25.42552776,1.46575,27.575,1.546
+258,336,sugar maple,IC+TSI-19-M,IC+TSI,Control,2019,Middle,small,,Yes,NA,NA,4.2,6.19,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,41.5025,Yes,NA,14.075,16.01182565,1.3395,27.575,1.546
+259,337,sugar maple,IC+TSI-18-M,IC+TSI,IC+TSI,2018,Middle,small,,Yes,NA,NA,4.6,4.65,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,27.445,Yes,NA,26.5,30.1465989,1.52925,27.575,1.546
+260,338,elm,IC+TSI-18-M,IC+TSI,IC+TSI,2018,Middle,small,,Yes,NA,NA,7.3,10.02,,NA,NA,No,Yes,No,No,Yes,No,No,Yes,Yes,No,NA,29.2875,Yes,NA,25.55,29.06587177,1.51925,27.575,1.546
+261,339,red maple,IC+TSI-19-M,IC+TSI,Control,2019,Middle,small,,Yes,NA,NA,5.5,6.96,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,39.575,Yes,NA,15.55,17.68979672,1.362,27.575,1.546
+262,34,tulip poplar,IC-18-S,IC,IC,2018,South,Large,,Yes,20.1,20.9,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,33.12,Yes,NA,31.825,34.81092651,1.619,28.975,1.57225
+263,340,red maple,IC+TSI-18-M,IC+TSI,IC+TSI,2018,Middle,small,,Yes,NA,NA,NA,NA,NA,NA,NA,No,No,No,No,No,No,No,No,Yes,No,NA,24.6975,No,NA,16.775,20.08016028,1.381,25.675,1.51725
+264,341,sugar maple,IC+TSI-19-M,IC+TSI,Control,2019,Middle,small,,Yes,NA,NA,4.2,7.54,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,39.5675,Yes,NA,23.325,26.53469508,1.483,27.575,1.546
+265,342,elm,IC+TSI-19-M,IC+TSI,Control,2019,Middle,small,,Yes,NA,NA,3.3,3.73,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,36.885,Yes,NA,18.2,19.93604378,1.40325,28.925,1.5675
+266,343,red maple,IC+TSI-18-M,IC+TSI,IC+TSI,2018,Middle,small,,Yes,NA,NA,6.4,8.66,,NA,NA,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,NA,37.0675,No,NA,15.325,17.43383503,1.3575,27.575,1.546
+267,344,tulip poplar,C-18-S,Control,Control,2018,South,Large,,Yes,62.8,63.9,NA,NA,NA,Yes,Yes,No,Yes,No,No,Yes,No,No,Yes,Yes,No,NA,32.76,Yes,NA,16.375,16.375,1.37425,31.975,1.61625
+268,345,sugar maple,IC+TSI-18-M,IC+TSI,IC+TSI,2018,Middle,Large,,Yes,16.7,16.7,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,19.715,29.7825,No,10.0675,8.05,9.636082879,1.241,25.675,1.51725
+269,346,sugar maple,IC-18-N,IC,IC,2018,North,Large,,Yes,8.8,8.8,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,18.895,35.0125,Yes,16.1175,23.7,25.9606724,1.48775,28.925,1.5675
+270,347,sugar maple,IC-19-N,IC,Control,2019,North,small,,Yes,NA,NA,2.5,4.52,,NA,NA,No,No,No,No,No,No,No,No,Yes,No,NA,34.365,Yes,NA,13.9,16.63870211,1.33675,25.675,1.51725
+271,348,sugar maple,IC-19-N,IC,Control,2019,North,small,,Yes,NA,NA,5.8,7.43,,NA,NA,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,NA,43.88,Yes,NA,30.95,37.04804535,1.6,25.675,1.51725
+272,349,red maple,IC+TSI-18-N,IC+TSI,IC+TSI,2018,North,small,,Yes,NA,NA,7.2,9.51,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,37.6075,Yes,NA,23.825,27.10349883,1.49375,27.575,1.546
+273,35,sugar maple,IC-18-S,IC,IC,2018,South,Large,,Yes,24.2,24.6,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,26.8075,33.66,Yes,6.8525,14.875,21.17855747,1.3515,18.425,1.4065
+274,350,elm,IC-18-N,IC,IC,2018,North,small,,Yes,NA,NA,8.7,12.67,two measures,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,37.8025,Yes,NA,34.75,38.06469898,1.67675,28.925,1.5675
+275,351,red maple,IC-19-N,IC,Control,2019,North,small,,Yes,NA,NA,4.25,7.44,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,32.63,Yes,NA,26.075,31.21252932,1.52275,25.675,1.51725
+276,352,red maple,IC-19-N,IC,Control,2019,North,small,,Yes,NA,NA,5.4,7.2,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,38.21,No,NA,21.225,25.40693902,1.4485,25.675,1.51725
+277,353,red maple,IC-19-N,IC,Control,2019,North,small,,Yes,NA,NA,5.1,8.43,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,29.7525,Yes,NA,24.95,29.86587178,1.513,25.675,1.51725
+278,354,sugar maple,IC-18-N,IC,IC,2018,North,small,,Yes,NA,NA,5.6,8.51,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,38.1075,No,NA,19.85,22.58150899,1.42825,27.575,1.546
+279,355,red maple,IC+TSI-19-N,IC+TSI,Control,2019,North,small,,Yes,NA,NA,6.3,8.94,,NA,NA,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,NA,29.1725,Yes,NA,16.175,19.72869429,1.37175,24.95,1.5055
+280,356,red maple,IC+TSI-19-N,IC+TSI,Control,2019,North,small,,Yes,NA,NA,7.3,12.72,,NA,NA,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,NA,35.6975,No,NA,8.6,10.48944488,1.25075,24.95,1.5055
+281,357,sugar maple,IC+TSI-19-N,IC+TSI,Control,2019,North,small,,Yes,NA,NA,2.5,3.28,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,23.8425,Yes,NA,22.825,27.83971853,1.4735,24.95,1.5055
+282,358,sugar maple,IC-18-N,IC,IC,2018,North,small,,Yes,NA,NA,2.7,4.19,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,28.49,Yes,NA,35.225,38.58500782,1.67075,28.925,1.5675
+283,359,sugar maple,IC+TSI-19-N,IC+TSI,Control,2019,North,small,,Yes,NA,NA,7.4,9.86,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,23.1775,No,NA,14.1,17.19781079,1.33975,24.95,1.5055
+284,36,sugar maple,IC-18-S,IC,IC,2018,South,Large,,Yes,18.2,18.4,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,32.735,Yes,NA,6.075,8.297908523,1.20675,20.275,1.4355
+285,360,sugar maple,IC-18-N,IC,IC,2018,North,small,,Yes,NA,NA,3.8,9.52,,NA,NA,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,NA,31.42,No,NA,21.075,23.97507819,1.44825,27.575,1.546
+286,361,red maple,IC-19-N,IC,Control,2019,North,small,,Yes,NA,NA,6.6,8.38,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,39.2175,Yes,NA,21.925,26.24485927,1.4595,25.675,1.51725
+287,362,red maple,IC+TSI-19-N,IC+TSI,Control,2019,North,small,,Yes,NA,NA,5.9,8.16,,NA,NA,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,NA,40.4,Yes,NA,18.75,22.86942924,1.411,24.95,1.5055
+288,363,sugar maple,IC+TSI-19-N,IC+TSI,Control,2019,North,small,,Yes,NA,NA,5.7,10.9,,NA,NA,No,No,No,No,No,No,Yes,Yes,Yes,No,NA,22.755,No,NA,11.8,14.39249414,1.30325,24.95,1.5055
+289,364,sugar maple,IC+TSI-18-N,IC+TSI,IC+TSI,2018,North,small,,Yes,NA,NA,3.4,5.65,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,30.45,Yes,NA,28.925,34.62406177,1.57625,25.675,1.51725
+290,365,red maple,IC+TSI-18-N,IC+TSI,IC+TSI,2018,North,small,,Yes,NA,NA,8.7,13,,NA,NA,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,NA,33.915,No,NA,21.025,25.16753323,1.44575,25.675,1.51725
+291,366,sugar maple,IC+TSI-18-N,IC+TSI,IC+TSI,2018,North,small,,Yes,NA,NA,4.3,6.52,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,25.235,Yes,NA,17.325,20.73852619,1.38925,25.675,1.51725
+292,367,red maple,IC+TSI-18-N,IC+TSI,IC+TSI,2018,North,small,,Yes,NA,NA,11.1,13.58,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,25.445,No,NA,9.65,11.55132916,1.26825,25.675,1.51725
+293,368,sugar maple,IC+TSI-18-N,IC+TSI,IC+TSI,2018,North,small,,Yes,NA,NA,7,11.02,,NA,NA,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,NA,33.2675,Yes,NA,10.775,12.89798671,1.28525,25.675,1.51725
+294,369,sugar maple,IC+TSI-18-N,IC+TSI,IC+TSI,2018,North,small,,Yes,NA,NA,3.7,4.86,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,23.5225,Yes,NA,10.7,12.80820954,1.28525,25.675,1.51725
+295,37,sugar maple,IC-18-S,IC,IC,2018,South,Large,,Yes,13.9,14.3,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,28.685,Yes,NA,7.525,10.27847928,1.23225,20.275,1.4355
+296,371,red maple,IC-19-N,IC,Control,2019,North,Large,,Yes,14.7,14.9,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,29.9425,42.9375,Yes,12.995,34.5,41.29749805,2.40525,25.675,1.51725
+297,372,red maple,IC+TSI-19-N,IC+TSI,Control,2019,North,Large,,Yes,19.25,19.3,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,27.9375,40.81,Yes,12.8725,11.375,13.87412041,1.29575,24.95,1.5055
+298,373,tulip poplar,IC+TSI-19-N,IC+TSI,Control,2019,North,Large,,Yes,26.7,27.3,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,22.695,40.9725,Yes,18.2775,15.075,18.0452111,1.3545,25.675,1.51725
+299,374,tulip poplar,IC+TSI-18-N,IC+TSI,IC+TSI,2018,North,Large,Tree Girdled,No,31.5,,NA,NA,NA,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,16.4875,34.4725,No,17.985,24.675,28.07046521,1.5085,27.575,1.546
+300,375,red maple,IC+TSI-19-N,IC+TSI,Control,2019,North,Large,,Yes,13.8,13.8,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,22.89,37.5875,Yes,14.6975,15.775,18.88313135,1.36475,25.675,1.51725
+301,376,red maple,IC-18-N,IC,IC,2018,North,Large,,Yes,13.3,13.2,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,16.965,29.1375,No,12.1725,35.175,38.53023847,1.684,28.925,1.5675
+302,377,red maple,IC+TSI-19-M,IC+TSI,Control,2019,Middle,Large,,Yes,10.4,10.4,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,38.835,No,NA,19.175,21.00404613,1.41925,28.925,1.5675
+303,378,red maple,IC+TSI-18-M,IC+TSI,IC+TSI,2018,Middle,Large,,Yes,15.9,15.9,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,Yes,Yes,Yes,No,NA,36.5675,Yes,NA,27.825,31.65392885,1.553,27.575,1.546
+304,379,red maple,IC+TSI-19-M,IC+TSI,Control,2019,Middle,Large,,Yes,19.6,19.8,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,20.51,34.6,Yes,14.09,21.85,23.93420641,1.458,28.925,1.5675
+305,38,sugar maple,IC-18-S,IC,IC,2018,South,Large,,Yes,20.9,21,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,26.565,Yes,NA,9.05,12.36149336,1.25825,20.275,1.4355
+306,380,sugar maple,IC+TSI-18-M,IC+TSI,IC+TSI,2018,Middle,Large,,Yes,9.4,9.3,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,21.865,34.31,No,12.445,18.275,20.78977717,1.404,27.575,1.546
+307,381,red maple,IC+TSI-18-M,IC+TSI,IC+TSI,2018,Middle,Large,,Yes,23.3,23.7,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,22.115,35.6025,No,13.4875,24.7,29.56661454,1.50225,25.675,1.51725
+308,382,red maple,IC+TSI-19-M,IC+TSI,Control,2019,Middle,Large,,Yes,18.6,18.9,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,28.3325,30.3675,No,2.035,19.775,21.66127834,1.42675,28.925,1.5675
+309,383,tulip poplar,IC+TSI-19-M,IC+TSI,Control,2019,Middle,Large,,Yes,28.3,29.6,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,32.6175,34.5025,No,1.885,18.275,20.01819781,1.40425,28.925,1.5675
+310,384,red maple,C-19-S,Control,Control,2019,South,Large,,Yes,18,18.1,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,31.055,39.8675,Yes,8.8125,26,26.52853792,1.52225,31.325,1.60625
+311,385,sugar maple,C-19-S,Control,Control,2019,South,Large,,Yes,15,15.1,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,24.03,27.215,No,3.185,14.925,15.2284011,1.353,31.325,1.60625
+312,386,red maple,C-18-S,Control,Control,2018,South,Large,,Yes,NA,21,NA,NA,NA,Yes,Yes,No,Yes,No,No,Yes,No,No,Yes,Yes,Yes,NA,33.1825,No,NA,18.95,18.95,1.4135,31.975,1.61625
+313,387,sugar maple,C-18-S,Control,Control,2018,South,Large,,Yes,NA,10.8,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,25.9925,26.8225,Yes,0.83,23.975,26.11194293,1.49075,29.125,1.572
+314,388,red maple,C-18-S,Control,Control,2018,South,Large,,Yes,NA,16.8,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,35.71,Yes,NA,23.75,25.86688819,1.4865,29.125,1.572
+315,389,sugar maple,C-18-S,Control,Control,2018,South,Large,,Yes,NA,20.2,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,20.905,32.675,No,11.77,26.95,29.35211102,1.53675,29.125,1.572
+316,39,sugar maple,IC-18-S,IC,IC,2018,South,Large,,Yes,11.3,11.3,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,31.4725,Yes,NA,10.4,14.20547303,1.28025,20.275,1.4355
+317,390,red maple,C-19-S,Control,Control,2019,South,Large,,Yes,NA,12.2,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,35.4875,26.0675,Yes,-9.42,23.35,23.82466771,1.4805,31.325,1.60625
+318,391,red maple,C-19-S,Control,Control,2019,South,Large,,Yes,NA,26.7,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,37.5025,31.0675,Yes,-6.435,20.95,21.37587959,1.4445,31.325,1.60625
+319,392,red maple,C-19-M,Control,Control,2019,Middle,Large,,Yes,NA,13.9,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,22.185,29.2675,No,7.0825,20.475,22.42804926,1.438,28.925,1.5675
+320,393,tulip poplar,C-19-M,Control,Control,2019,Middle,Large,,Yes,NA,27.6,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,20.2875,29.285,Yes,8.9975,13.325,14.59603206,1.3275,28.925,1.5675
+321,394,tulip poplar,C-18-M,Control,Control,2018,Middle,Large,,Yes,NA,31.2,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,14.385,19.235,Yes,4.85,9,9.85848319,1.25725,28.925,1.5675
+322,395,sugar maple,C-18-M,Control,Control,2018,Middle,Large,,Yes,NA,19,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,23.01,32.3175,No,9.3075,21.4,23.44128225,1.4545,28.925,1.5675
+323,396,tulip poplar,IC+TSI-18-N,IC+TSI,IC+TSI,2018,North,Large,,Yes,NA,17.4,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,14.8575,24.0725,No,9.215,11.525,13.11092651,1.2975,27.575,1.546
+324,397,red maple,IC+TSI-18-N,IC+TSI,IC+TSI,2018,North,Large,,Yes,NA,11.5,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,19.26,35.435,No,16.175,11.075,12.59900313,1.29125,27.575,1.546
+325,398,red maple,IC+TSI-19-N,IC+TSI,Control,2019,North,Large,,Yes,NA,18.6,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,19.05666667,32.1675,Yes,13.11083333,7.525,9.178264268,1.23175,24.95,1.5055
+326,399,tulip poplar,IC-19-N,IC,Control,2019,North,Large,,Yes,28.2,28.4,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,39.735,41.175,Yes,1.44,13.6,16.27959343,1.33175,25.675,1.51725
+327,4,red maple,IC+TSI-19-S,IC+TSI,Control,2019,South,Large,,Yes,12.6,12.7,NA,NA,NA,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,31.6975,37.73,No,6.0325,18.525,20.26307662,1.40725,28.975,1.57225
+328,40,tulip poplar,IC-19-S,IC,Control,2019,South,Large,,Yes,37.6,38.5,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,33.2675,No,NA,11.35,15.50308835,1.29575,20.275,1.4355
+329,400,red maple,IC-19-N,IC,Control,2019,North,Large,,Yes,11.5,,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,37.2675,44.135,Yes,6.8675,13.225,15.83070758,1.3245,25.675,1.51725
+330,401,sugar maple,C-18-N,Control,Control,2018,North,small,,Yes,NA,NA,NA,NA,NA,NA,NA,No,No,No,No,No,No,No,No,Yes,No,NA,27.7375,Yes,NA,13.5,16.46598905,1.33,24.95,1.5055
+331,402,Unknown,,NA,NA,NA,NA,small,Not in plot,No,NA,NA,NA,NA,NA,NA,NA,No,No,No,No,No,No,No,No,Yes,No,NA,NA,No,NA,NA,NA,NA,24.95,1.5055
+332,403,Unknown,,NA,NA,NA,NA,small,Not in plot,No,NA,NA,NA,NA,NA,NA,NA,No,No,No,No,No,No,No,No,Yes,No,NA,NA,No,NA,NA,NA,NA,24.95,1.5055
+333,404,sugar maple,C-18-N,Control,Control,2018,North,small,,Yes,NA,NA,NA,NA,NA,NA,NA,No,No,No,No,No,No,No,No,Yes,No,NA,24.66,Yes,NA,17.725,21.21733777,1.39525,25.675,1.51725
+334,405,sugar maple,C-19-N,Control,Control,2019,North,small,,Yes,NA,NA,NA,NA,NA,NA,NA,No,No,No,No,No,No,No,No,Yes,No,NA,23.7875,Yes,NA,9.925,12.10555121,1.2725,24.95,1.5055
+335,406,Red Maple,C-19-N,Control,Control,2019,North,small,,Yes,NA,NA,NA,NA,NA,NA,NA,No,No,No,No,No,No,No,No,Yes,No,NA,20.98,Yes,NA,15.075,18.38702111,1.353,24.95,1.5055
+336,407,Unknown,,NA,NA,NA,NA,small,Not in plot,No,NA,NA,NA,NA,NA,NA,NA,No,No,No,No,No,No,No,No,Yes,No,NA,NA,No,NA,NA,NA,NA,24.95,1.5055
+337,408,Red Maple,C-19-N,Control,Control,2019,North,small,,Yes,NA,NA,NA,NA,NA,NA,NA,No,Yes,No,No,Yes,No,No,No,Yes,No,NA,24.805,Yes,NA,15.275,18.28461689,1.3585,25.675,1.51725
+338,409,sugar maple,C-19-N,Control,Control,2019,North,small,,Yes,NA,NA,NA,NA,NA,NA,NA,No,No,No,No,No,No,No,No,Yes,No,NA,22.27,Yes,NA,12.65,14.39073495,1.3175,27.575,1.546
+339,41,red maple,IC-18-S,IC,IC,2018,South,Large,,Yes,16.4,17.3,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,29.0275,Yes,NA,15.4,21.92603597,1.36,18.425,1.4065
+340,410,sugar maple,C-19-N,Control,Control,2019,North,small,,Yes,NA,NA,NA,NA,NA,NA,NA,No,No,No,No,No,No,No,No,Yes,No,NA,25.7325,Yes,NA,14.75,17.6561767,1.34975,25.675,1.51725
+341,411,sugar maple,C-19-N,Control,Control,2019,North,small,,Yes,NA,NA,NA,NA,NA,NA,NA,No,No,No,No,No,No,No,No,Yes,No,NA,24.9925,Yes,NA,20.45,24.94292416,1.4385,24.95,1.5055
+342,412,red maple,C-18-N,Control,Control,2018,North,small,,Yes,NA,NA,NA,NA,NA,NA,NA,No,Yes,No,No,Yes,No,No,No,Yes,No,NA,24.49,No,NA,37.825,46.13526192,1.717,24.95,1.5055
+343,42,red maple,IC-18-S,IC,IC,2018,South,Large,,Yes,6.8,7.2,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,28.1075,Yes,NA,14.325,20.39548476,1.34425,18.425,1.4065
+344,43,sugar maple,IC-18-S,IC,IC,2018,South,Large,,Yes,16,16.2,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,29.6675,Yes,NA,9.975,13.62496091,1.27375,20.275,1.4355
+345,44,sugar maple,IC-19-S,IC,Control,2019,South,Large,,Yes,12.2,12.3,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,30.635,Yes,NA,10.85,15.44788898,1.2885,18.425,1.4065
+346,45,tulip poplar,IC-18-S,IC,IC,2018,South,Large,,Yes,29.5,30,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,33.0225,Yes,NA,14.8,21.07177482,1.3515,18.425,1.4065
+347,46,sugar maple,IC-19-S,IC,Control,2019,South,Large,,Yes,9.7,9.8,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,33.1475,Yes,NA,10.75,15.30551212,1.28625,18.425,1.4065
+348,47,tulip poplar,IC-18-S,IC,IC,2018,South,Large,,Yes,8.6,8.8,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,35.245,Yes,NA,19.25,27.40754496,1.4195,18.425,1.4065
+349,48,red maple,IC-18-S,IC,IC,2018,South,Large,,Yes,28.7,30.4,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,36.035,Yes,NA,NA,NA,NA,NA,NA
+350,49,tulip poplar,IC-18-S,IC,IC,2018,South,Large,,Yes,23.3,25,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,31.755,Yes,NA,28.475,40.54181001,1.56625,18.425,1.4065
+351,5,sugar maple,IC+TSI-18-S,IC+TSI,IC+TSI,2018,South,Large,,Yes,10.6,10.6,NA,NA,NA,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,29.0675,36.16,No,7.0925,17.775,19.44270915,1.3965,28.975,1.57225
+352,50,tulip poplar,IC-18-S,IC,IC,2018,South,Large,,Yes,32,32.5,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,26.4175,36.3625,Yes,9.945,11.675,15.94700938,1.30275,20.275,1.4355
+353,51,sugar maple,IC-18-S,IC,IC,2018,South,Large,,Yes,8.3,8.8,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,34.095,Yes,NA,13.85,19.71919468,1.3365,18.425,1.4065
+354,52,sugar maple,IC-19-S,IC,Control,2019,South,Large,,Yes,8.8,8.5,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,38.34,No,NA,11.4,15.57138389,1.29725,20.275,1.4355
+355,53,sugar maple,IC-18-S,IC,IC,2018,South,Large,,Yes,9.5,10,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,33.67,Yes,NA,12.5,17.07388585,1.31525,20.275,1.4355
+356,54,tulip poplar,IC-19-S,IC,Control,2019,South,Large,,Yes,20.4,21.8,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,31.7825,Yes,NA,10.7,15.23432369,1.2845,18.425,1.4065
+357,55,red maple,IC-19-S,IC,Control,2019,South,Large,,Yes,12.7,13.5,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,29.535,32.8475,Yes,3.3125,19.125,26.12304535,1.418,20.275,1.4355
+358,56,tulip poplar,IC-18-S,IC,IC,2018,South,Large,,Yes,27.8,29.1,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,NA,40.0475,Yes,NA,23.05,25.1044957,1.4775,29.125,1.572
+359,57,sugar maple,IC-18-S,IC,IC,2018,South,Large,,Yes,11.1,11.2,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,42.7475,Yes,NA,12.775,18.18864347,1.31925,18.425,1.4065
+360,58,sugar maple,IC-18-S,IC,IC,2018,South,Large,,Yes,17.4,17.6,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,34.375,Yes,NA,10.75,15.30551212,1.28675,18.425,1.4065
+361,59,red maple,IC-18-S,IC,IC,2018,South,Large,,Yes,29.5,30.1,NA,NA,NA,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,30.3675,41.715,Yes,11.3475,15.05,20.55695856,1.354,20.275,1.4355
+362,6,red maple,IC+TSI-18-S,IC+TSI,IC+TSI,2018,South,Large,,Yes,11.3,11.3,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,35.5575,Yes,NA,25.275,25.275,1.5105,31.975,1.61625
+363,60,red maple,IC-18-S,IC,IC,2018,South,Large,,Yes,13.3,13.5,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,36.1425,Yes,NA,28.025,30.52292807,1.5535,29.125,1.572
+364,61,red maple,IC-18-S,IC,IC,2018,South,Large,,Yes,10.9,11.2,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,35.8375,Yes,NA,15.8,22.49554339,1.365,18.425,1.4065
+365,62,sugar maple,IC-18-S,IC,IC,2018,South,Large,,Yes,14.7,15.2,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,38.27,Yes,NA,12.35,17.58354183,1.31375,18.425,1.4065
+366,63,tulip poplar,IC-19-S,IC,Control,2019,South,Large,,Yes,32.35,32.8,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,46.61,Yes,NA,11.825,16.15189601,1.3035,20.275,1.4355
+367,64,tulip poplar,IC-18-S,IC,IC,2018,South,Large,,Yes,25.9,26.4,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,38.6925,Yes,NA,33.025,35.96858874,1.6335,29.125,1.572
+368,65,tulip poplar,IC-18-S,IC,IC,2018,South,Large,,Yes,43,44.5,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,38.805,Yes,NA,27.15,29.56993745,1.541,29.125,1.572
+369,66,red maple,IC-18-S,IC,IC,2018,South,Large,,Yes,27.9,28.2,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,32.1725,Yes,NA,31.6,44.99108679,1.61225,18.425,1.4065
+370,67,red maple,IC-18-S,IC,IC,2018,South,Large,,Yes,9.9,10.3,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,39.0325,Yes,NA,34.125,48.58610243,1.658,18.425,1.4065
+371,68,red maple,IC-18-S,IC,IC,2018,South,Large,,Yes,17.8,18.2,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,31.5825,Yes,NA,12.825,18.2598319,1.32025,18.425,1.4065
+372,69,tulip poplar,IC-18-S,IC,IC,2018,South,Large,,Yes,28.6,29,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,41.965,Yes,NA,27.5,29.9511337,1.54775,29.125,1.572
+373,7,tulip poplar,IC+TSI-18-S,IC+TSI,IC+TSI,2018,South,Large,,Yes,39.6,40.5,NA,NA,NA,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,29.3675,37.7125,No,8.345,24.975,24.975,1.5055,31.975,1.61625
+374,70,sugar maple,IC-18-S,IC,IC,2018,South,Large,,Yes,8.7,8.8,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,37.3525,Yes,NA,31.15,33.92646599,1.6055,29.125,1.572
+375,71,sugar maple,IC-18-S,IC,IC,2018,South,Large,,Yes,7.6,7.7,NA,NA,NA,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,NA,43.57,Yes,NA,14.825,20.24962862,1.35075,20.275,1.4355
+376,72,red maple,IC-18-S,IC,IC,2018,South,Large,,Yes,8.9,9.3,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,40.5175,Yes,NA,10.625,15.12754105,1.28425,18.425,1.4065
+377,73,tulip poplar,IC-18-M,IC,IC,2018,Middle,Large,,Yes,17.3,17.4,NA,NA,NA,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,24.4775,38.9975,Yes,14.52,22.075,22.93797889,1.462,30.725,1.5965
+378,74,red maple,IC-18-S,IC,IC,2018,South,Large,,Yes,20.8,21.15,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,NA,32.415,Yes,NA,16.6,20.24706802,1.378,24.95,1.5055
+379,75,red maple,IC-18-S,IC,IC,2018,South,Large,,Yes,18.2,18.7,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,34.325,Yes,NA,12.575,17.90388976,1.31625,18.425,1.4065
+380,76,sugar maple,IC-18-M,IC,IC,2018,Middle,Large,,Yes,7.2,7.4,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,27.3725,Yes,NA,18.7,19.43103988,1.41025,30.725,1.5965
+381,77,red maple,IC-18-S,IC,IC,2018,South,Large,,Yes,9.9,10,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,29.7175,No,NA,12.25,17.44116498,1.31175,18.425,1.4065
+382,78,sugar maple,IC+TSI-18-S,IC+TSI,IC+TSI,2018,South,Large,,Yes,10.1,10.3,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,29.785,45.3375,No,15.5525,11.575,15.8104183,1.3005,20.275,1.4355
+383,79,sugar maple,IC-18-M,IC,IC,2018,Middle,Large,,Yes,8,8,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,28.615,Yes,NA,19.675,20.44415559,1.425,30.725,1.5965
+384,8,sugar maple,IC+TSI-19-S,IC+TSI,Control,2019,South,Large,,Yes,10.4,10.6,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,21.09,Yes,NA,16.525,18.07543002,1.3765,28.975,1.57225
+385,80,sugar maple,IC-18-M,IC,IC,2018,Middle,Large,,Yes,9.9,9.9,NA,NA,NA,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,29.48,35.7975,Yes,6.3175,14.525,14.525,1.34525,31.975,1.61625
+386,81,sugar maple,IC-18-M,IC,IC,2018,Middle,Large,,Yes,19.1,19.1,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,28.4725,Yes,NA,15.35,15.35,1.359,31.975,1.61625
+387,82,sugar maple,IC-18-M,IC,IC,2018,Middle,Large,,Yes,10.08,10.9,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,24.285,Yes,NA,13,13,1.32075,31.975,1.61625
+388,83,sugar maple,IC-18-M,IC,IC,2018,Middle,Large,,Yes,10.3,10.4,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,23.3425,Yes,NA,17.7,17.7,1.395,31.975,1.61625
+389,84,sugar maple,IC-18-M,IC,IC,2018,Middle,Large,,Yes,19.7,19.7,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,22.5925,No,NA,14.4,14.4,1.34375,31.975,1.61625
+390,85,sugar maple,IC-18-M,IC,IC,2018,Middle,Large,,Yes,12.7,13,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,21.9175,No,NA,15.825,16.44364738,1.36725,30.725,1.5965
+391,857,red oak,IC+TSI-18-S,IC+TSI,IC+TSI,2018,South,Large,,Yes,NA,31.6,NA,NA,NA,NA,Yes,No,No,No,No,No,No,No,No,Yes,No,NA,27.94,No,NA,20.775,20.775,1.44175,31.975,1.61625
+392,859,red oak,IC-18-M,IC,IC,2018,Middle,Large,,Yes,NA,23.2,NA,NA,NA,NA,Yes,No,No,No,No,No,No,No,No,Yes,No,NA,22.655,No,NA,19.45,20.21035966,1.34525,30.725,1.5965
+393,86,sugar maple,IC-18-M,IC,IC,2018,Middle,Large,,Yes,9.17,9.7,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,23.575,Yes,NA,10.2,10.2,1.2765,31.975,1.61625
+394,860,red maple,IC-18-S,IC,IC,2018,South,Large,,Yes,NA,34.2,NA,NA,NA,NA,Yes,No,No,No,No,No,No,No,No,Yes,No,NA,28.9125,Yes,NA,12.35,16.86899922,1.31175,20.275,1.4355
+395,861,red oak,IC+TSI-18-S,IC+TSI,IC+TSI,2018,South,Large,,Yes,NA,52.6,NA,NA,NA,NA,Yes,No,No,No,No,No,No,No,No,Yes,No,NA,35.1425,Yes,NA,22,22,1.46075,31.975,1.61625
+396,864,tulip poplar,IC-18-N,IC,IC,2018,North,Large,,Yes,NA,8.07,NA,NA,NA,NA,Yes,No,Yes,No,No,Yes,No,No,No,Yes,No,NA,21.625,No,NA,13.2,15.01641908,1.32575,27.575,1.546
+397,87,sugar maple,IC-18-M,IC,IC,2018,Middle,Large,,Yes,9.3,9.6,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,23.06,No,NA,8.25,8.572517592,1.24525,30.725,1.5965
+398,874,red oak,IC-18-S,IC,IC,2018,South,Large,,Yes,NA,34.8,NA,NA,NA,NA,Yes,No,No,No,No,No,No,No,No,Yes,No,NA,29.9,Yes,NA,8.975,12.25905004,1.2575,20.275,1.4355
+399,88,tulip poplar,IC-18-M,IC,IC,2018,Middle,Large,,Yes,14.8,14.6,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,29.5125,Yes,NA,25.8,26.80860047,1.51775,30.725,1.5965
+400,880,red maple,IC-18-S,IC,IC,2018,South,Large,,Yes,NA,42.2,NA,NA,NA,NA,Yes,No,No,No,No,No,No,No,No,Yes,No,NA,39.22,Yes,NA,34.55,37.62951525,1.65925,29.125,1.572
+401,881,tulip poplar,IC-18-M,IC,IC,2018,Middle,Large,,Yes,NA,24.9,NA,NA,NA,NA,Yes,No,No,No,No,No,No,No,No,Yes,No,NA,37.685,Yes,NA,27.175,28.2373534,1.54525,30.725,1.5965
+402,882,red oak,IC+TSI-18-N,IC+TSI,IC+TSI,2018,North,Large,,Yes,NA,31,NA,NA,NA,NA,Yes,No,No,No,No,No,No,No,No,Yes,No,NA,30.3425,Yes,NA,30.725,34.95299062,1.60625,27.575,1.546
+403,883,red maple,IC-18-N,IC,IC,2018,North,Large,,Yes,NA,22.9,NA,NA,NA,NA,Yes,No,No,No,No,No,No,No,No,Yes,No,NA,27.0475,No,NA,19.25,21.08620016,1.41925,28.925,1.5675
+404,884,tulip poplar,IC-18-M,IC,IC,2018,Middle,Large,,Yes,NA,25.5,NA,NA,NA,NA,Yes,No,No,No,No,No,No,No,No,Yes,No,NA,35.135,No,NA,20.975,21.79497655,1.44475,30.725,1.5965
+405,885,sugar maple,IC-18-N,IC,IC,2018,North,Large,,Yes,NA,11,NA,NA,NA,NA,Yes,No,Yes,No,No,Yes,No,No,No,Yes,No,NA,23.115,Yes,NA,18.85,21.44390149,1.41225,27.575,1.546
+406,886,red oak,IC+TSI-18-N,IC+TSI,IC+TSI,2018,North,Large,,Yes,NA,28.7,NA,NA,NA,NA,Yes,No,No,No,No,No,No,No,No,Yes,No,NA,19.8775,Yes,NA,11.025,12.54212275,1.29075,27.575,1.546
+407,888,sugar maple,IC-18-M,IC,IC,2018,Middle,Large,,Yes,NA,27.1,NA,NA,NA,NA,Yes,No,No,No,No,No,No,No,No,Yes,No,NA,36.2325,Yes,NA,25.325,25.325,1.51125,31.975,1.61625
+408,889,red oak,IC+TSI-18-N,IC+TSI,IC+TSI,2018,North,Large,,Yes,NA,12.19,NA,NA,NA,NA,Yes,No,No,No,No,No,No,No,No,Yes,No,NA,29.6875,Yes,NA,15.65,18.73350274,1.36325,25.675,1.51725
+409,89,tulip poplar,IC-18-M,IC,IC,2018,Middle,Large,,Yes,28.3,28.6,NA,NA,NA,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,21.9175,28.1,Yes,6.1825,20.425,21.22347537,1.43675,30.725,1.5965
+410,890,tulip poplar,IC+TSI-18-N,IC+TSI,IC+TSI,2018,North,Large,,Yes,NA,45.2,NA,NA,NA,NA,Yes,No,No,No,No,No,No,No,No,Yes,No,NA,27.435,Yes,NA,14.575,16.5806294,1.3465,27.575,1.546
+411,891,tulip poplar,IC+TSI-18-N,IC+TSI,IC+TSI,2018,North,Large,,Yes,NA,28.4,NA,NA,NA,NA,Yes,No,No,No,No,No,No,No,No,Yes,No,NA,22.7425,Yes,NA,13.05,14.84577795,1.323,27.575,1.546
+412,892,red maple,IC-19-N,IC,Control,2019,North,Large,,Yes,NA,14.4,NA,NA,NA,NA,Yes,No,Yes,No,No,Yes,No,No,No,Yes,No,NA,35.8475,Yes,NA,16.575,19.8407545,1.3785,25.675,1.51725
+413,893,red maple,IC-19-N,IC,Control,2019,North,Large,,Yes,NA,22.3,NA,NA,NA,NA,Yes,No,No,No,No,No,No,No,No,Yes,No,NA,36.1075,Yes,NA,24.9,29.80602033,1.50425,25.675,1.51725
+414,894,tulip poplar,IC-19-N,IC,Control,2019,North,Large,,Yes,NA,23.6,NA,NA,NA,NA,Yes,No,No,No,No,No,No,No,No,Yes,No,NA,34.695,Yes,NA,15.65,18.73350274,1.36375,25.675,1.51725
+415,895,tulip poplar,IC-18-S,IC,IC,2018,South,Large,,Yes,NA,36.4,NA,NA,NA,NA,Yes,No,No,No,No,No,No,No,No,Yes,No,NA,41.9675,Yes,NA,12.775,17.44951134,1.319,20.275,1.4355
+416,897,red maple,IC+TSI-18-M,IC+TSI,IC+TSI,2018,Middle,Large,,Yes,NA,26.4,NA,NA,NA,NA,Yes,No,No,No,No,No,No,No,No,Yes,No,NA,29.5125,Yes,NA,15.975,19.12253714,1.36875,25.675,1.51725
+417,898,red maple,IC-18-N,IC,IC,2018,North,Large,,Yes,NA,36.3,NA,NA,NA,NA,Yes,No,No,No,No,No,No,No,No,Yes,No,NA,27.855,Yes,NA,10.325,11.7457975,1.279,27.575,1.546
+418,9,sugar maple,IC+TSI-19-S,IC+TSI,Control,2019,South,Large,,Yes,14.7,15.1,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,32.2725,Yes,NA,15.75,17.22771697,1.365,28.975,1.57225
+419,90,tulip poplar,IC-19-M,IC,Control,2019,Middle,Large,,Yes,28.7,28.9,NA,NA,NA,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,22.7625,25.975,No,3.2125,16.3,16.93721658,1.37325,30.725,1.5965
+420,900,tulip poplar,IC-18-M,IC,IC,2018,Middle,Large,,Yes,NA,30.5,NA,NA,NA,NA,Yes,No,No,No,No,No,No,No,No,Yes,No,NA,23.5925,Yes,NA,22.725,23.61338937,1.47125,30.725,1.5965
+421,901,elm,IC-18-S,IC,IC,2018,South,small,,Yes,NA,NA,4,4.8,,NA,NA,No,No,No,No,No,No,No,No,Yes,No,NA,36.695,Yes,NA,34.3,37.35723221,1.65475,29.125,1.572
+422,902,sugar maple,IC-18-S,IC,IC,2018,South,small,,Yes,NA,NA,3.8,5.96,,NA,NA,No,No,No,No,No,No,No,No,Yes,No,NA,39.2025,Yes,NA,18.425,20.06725958,1.40575,29.125,1.572
+423,903,sugar maple,IC-18-S,IC,IC,2018,South,small,,Yes,NA,NA,4.6,7.16,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,39.7625,Yes,NA,17.625,25.09392103,1.39425,18.425,1.4065
+424,904,elm,IC-18-S,IC,IC,2018,South,small,,Yes,NA,NA,7,8.64,,NA,NA,No,No,No,No,No,No,Yes,Yes,Yes,No,NA,41.0825,Yes,NA,34.475,49.08442143,1.65725,18.425,1.4065
+425,905,sugar maple,IC-18-S,IC,IC,2018,South,small,,Yes,NA,NA,3,6.04,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,42.415,No,NA,24.6,35.0247068,1.50075,18.425,1.4065
+426,906,sugar maple,IC-18-S,IC,IC,2018,South,small,,Yes,NA,NA,2.1,4.6,,NA,NA,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,NA,36.24,Yes,NA,18.55,26.41090696,1.4085,18.425,1.4065
+427,907,elm,IC-18-S,IC,IC,2018,South,small,,Yes,NA,NA,7.7,7.93,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,42.2275,Yes,NA,20.925,22.88825254,1.444,28.975,1.57225
+428,908,sugar maple,IC-18-S,IC,IC,2018,South,small,,Yes,NA,NA,6.2,6.58,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,44.66,Yes,NA,21.15,23.13436279,1.447,28.975,1.57225
+429,909,elm,IC-18-S,IC,IC,2018,South,small,,Yes,NA,NA,7.7,8.01,,NA,NA,No,No,No,No,No,No,No,No,Yes,No,NA,NA,No,NA,18.55,26.41090696,1.40675,18.425,1.4065
+430,91,tulip poplar,IC-19-M,IC,Control,2019,Middle,Large,,Yes,13.7,13.8,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,27.5425,Yes,NA,13.325,13.59587568,1.32875,31.325,1.60625
+431,910,elm,IC-18-S,IC,IC,2018,South,small,,Yes,NA,NA,3.9,5.81,,NA,NA,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,NA,34.34,Yes,NA,31.375,42.85545348,1.60625,20.275,1.4355
+432,911,elm,IC-18-S,IC,IC,2018,South,small,,Yes,NA,NA,3.7,9.34,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,32.6275,Yes,NA,15.8,22.49554339,1.36625,18.425,1.4065
+433,912,red oak,IC-19-S,IC,Control,2019,South,small,,Yes,NA,NA,3.1,5.11,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,29.3825,Yes,NA,14.075,15.3295348,1.33925,29.125,1.572
+434,913,sugar maple,IC-19-S,IC,Control,2019,South,small,,Yes,NA,NA,5,6.59,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,30.185,Yes,NA,16,17.42611415,1.368,29.125,1.572
+435,914,elm,IC-19-S,IC,Control,2019,South,small,,Yes,NA,NA,3,4.3,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,36.2925,No,NA,22.05,24.01536356,1.4605,29.125,1.572
+436,915,elm,IC-19-S,IC,Control,2019,South,small,,Yes,NA,NA,5.1,8,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,24.3925,Yes,NA,11.625,15.87871384,1.3005,20.275,1.4355
+437,92,red maple,IC-18-M,IC,IC,2018,Middle,Large,,Yes,15.7,15.5,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,24.6225,Yes,NA,24.3,25.24996091,1.49575,30.725,1.5965
+438,925,elm,IC-19-S,IC,Control,2019,South,small,,Yes,NA,NA,6.1,9.36,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,36.4325,No,NA,27.9,30.38678655,1.5505,29.125,1.572
+439,926,sugar maple,IC-19-S,IC,Control,2019,South,small,,Yes,NA,NA,5.1,7.52,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,28.135,Yes,NA,20.15,21.94601251,1.4325,29.125,1.572
+440,927,sugar maple,IC-19-S,IC,Control,2019,South,small,,Yes,NA,NA,4.8,9.29,,NA,NA,No,No,No,No,No,No,No,Yes,Yes,No,NA,26.5425,No,NA,10.075,10.97300626,1.27525,29.125,1.572
+441,929,red maple,C-19-M,Control,Control,2019,Middle,Large,,Yes,14.8,14.9,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,22.995,Yes,NA,14.125,15.47234167,1.34075,28.925,1.5675
+442,93,tulip poplar,IC-18-M,IC,IC,2018,Middle,Large,,Yes,23,23.1,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,20.0675,Yes,NA,22.025,22.88602424,1.461,30.725,1.5965
+443,930,tulip poplar,IC-19-S,IC,Control,2019,South,Large,,Yes,22.1,22.4,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,25.4475,Yes,NA,14.175,19.36178655,1.339,20.275,1.4355
+444,931,red maple,IC+TSI-19-M,IC+TSI,Control,2019,Middle,Large,,Yes,19.2,19.3,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,34.6875,35.4575,Yes,0.77,29.825,30.43129398,1.5855,31.325,1.60625
+445,936,tulip poplar,IC+TSI-19-M,IC+TSI,Control,2019,Middle,Large,,Yes,27.5,27.5,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,34.7225,36.7775,Yes,2.055,17.175,18.81327209,1.38675,28.925,1.5675
+446,94,red maple,IC-18-M,IC,IC,2018,Middle,Large,,Yes,15.6,15.8,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,30.255,Yes,NA,21.825,22.67820563,1.43525,30.725,1.5965
+447,940,tulip poplar,C-19-S,Control,Control,2019,South,Large,,Yes,29.1,29.2,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,20.8275,36.1875,No,15.36,18.15,18.51896013,1.402,31.325,1.60625
+448,95,tulip poplar,IC-18-M,IC,IC,2018,Middle,Large,,Yes,25.3,25.5,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,39.7625,Yes,NA,22.7,23.58741204,1.47075,30.725,1.5965
+449,96,tulip poplar,IC-18-M,IC,IC,2018,Middle,Large,,Yes,15,15.3,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,NA,32.3675,Yes,NA,27.75,28.8348319,1.5505,30.725,1.5965
+450,961,sugar maple,C-19-M,Control,Control,2019,Middle,Large,,Yes,19.3,18.8,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,27.2175,38.085,No,10.8675,18.375,20.12773651,1.40375,28.925,1.5675
+451,969,tulip poplar,C-18-M,Control,Control,2018,Middle,Large,,Yes,33.2,33.9,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,28.81,Yes,NA,13.45,14.73295544,1.3285,28.925,1.5675
+452,97,tulip poplar,IC-18-M,IC,IC,2018,Middle,Large,,Yes,21.4,21.9,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,35.5675,Yes,NA,22.75,23.63936669,1.47125,30.725,1.5965
+453,978,sugar maple,C-19-M,Control,Control,2019,Middle,Large,,Yes,15.9,15.9,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,18.5525,27.82,No,9.2675,4.4,4.819702893,1.176,28.925,1.5675
+454,98,red maple,IC-18-M,IC,IC,2018,Middle,Large,,Yes,8.3,8.4,NA,NA,NA,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,41.38,28.045,Yes,-13.335,27.125,28.18539875,1.5385,30.725,1.5965
+455,981,red maple,IC+TSI-19-M,IC+TSI,Control,2019,Middle,Large,,Yes,24.1,24.5,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,40.275,Yes,NA,15.225,17.32007428,1.35725,27.575,1.546
+456,99,tulip poplar,IC-18-M,IC,IC,2018,Middle,Large,,Yes,14,14.1,NA,NA,NA,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,NA,32.835,Yes,NA,26.925,27.97758014,1.53575,30.725,1.5965
+457,996,tulip poplar,IC+TSI-18-M,IC+TSI,IC+TSI,2018,Middle,Large,,Yes,31.5,32.1,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,21.895,33.665,Yes,11.77,15.7,18.79335418,1.36425,25.675,1.51725
+458,999,tulip poplar,C-18-M,Control,Control,2018,Middle,Large,,Yes,30.8,30.9,NA,NA,NA,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,25.855,24.2025,No,-1.6525,32.55,35.65484754,1.6245,28.925,1.5675
+459,no tag,NA,NA,NA,NA,NA,NA,Large,NA,Yes,NA,NA,NA,NA,NA,NA,NA,No,No,No,No,No,No,No,No,No,No,NA,41.35,Yes,NA,NA,NA,NA,NA,NA
+460,Unknown,NA,NA,NA,NA,NA,NA,Large,NA,Yes,NA,NA,NA,NA,NA,NA,NA,No,Yes,No,No,No,No,No,No,No,No,NA,NA,No,NA,NA,NA,NA,NA,NA
+461,WPT 18,NA,NA,NA,NA,NA,NA,Large,NA,Yes,NA,NA,NA,NA,NA,NA,NA,Yes,No,No,No,No,No,No,No,No,No,NA,NA,No,NA,NA,NA,NA,NA,NA
+462,WPT 27,NA,NA,NA,NA,NA,NA,Large,NA,Yes,NA,NA,NA,NA,NA,NA,NA,Yes,No,No,No,No,No,No,No,No,No,NA,NA,No,NA,NA,NA,NA,NA,NA
+463,WPT 3,NA,NA,NA,NA,NA,NA,Large,NA,Yes,NA,NA,NA,NA,NA,NA,NA,Yes,No,No,No,No,No,No,No,No,No,NA,NA,No,NA,NA,NA,NA,NA,NA
+464,NA,NA,NA,NA,NA,NA,NA,Large,NA,Yes,NA,NA,NA,NA,NA,NA,NA,No,No,No,No,No,No,No,No,No,No,NA,NA,No,NA,NA,NA,NA,NA,NA

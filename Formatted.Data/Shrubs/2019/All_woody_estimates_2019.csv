@@ -1,0 +1,6357 @@
+,Tree,Direction,Species,Cover.Class
+1447,300,N,Blackberry,2
+3575,59,N,Blackberry,2
+5,165,N,Blackberry,1
+12,165,S,Blackberry,1
+19,103,N,Blackberry,1
+26,103,S,Blackberry,1
+33,104,N,Blackberry,1
+40,104,S,Blackberry,1
+47,125,N,Blackberry,1
+54,125,S,Blackberry,1
+61,112,N,Blackberry,1
+68,112,S,Blackberry,1
+82,120,S,Blackberry,1
+117,119,N,Blackberry,1
+124,119,S,Blackberry,1
+131,106,N,Blackberry,1
+138,106,S,Blackberry,1
+159,108,N,Blackberry,1
+166,108,S,Blackberry,1
+173,118,N,Blackberry,1
+243,981,N,Blackberry,1
+257,195,N,Blackberry,1
+264,195,S,Blackberry,1
+369,381,N,Blackberry,1
+397,378,N,Blackberry,1
+404,378,S,Blackberry,1
+411,961,N,Blackberry,1
+418,961,S,Blackberry,1
+439,303,N,Blackberry,1
+446,303,S,Blackberry,1
+453,302,N,Blackberry,1
+460,302,S,Blackberry,1
+467,301,N,Blackberry,1
+474,301,S,Blackberry,1
+481,379,N,Blackberry,1
+488,379,S,Blackberry,1
+705,376,N,Blackberry,1
+719,374,N,Blackberry,1
+733,882,N,Blackberry,1
+1097,308,N,Blackberry,1
+1104,308,S,Blackberry,1
+1167,999,N,Blackberry,1
+1181,143,N,Blackberry,1
+1195,102,N,Blackberry,1
+1202,102,S,Blackberry,1
+1216,105,S,Blackberry,1
+1349,272,N,Blackberry,1
+1356,272,S,Blackberry,1
+1363,293,N,Blackberry,1
+1377,299,N,Blackberry,1
+1384,299,S,Blackberry,1
+1454,300,S,Blackberry,1
+1545,74,N,Blackberry,1
+1552,74,S,Blackberry,1
+1573,400,N,Blackberry,1
+1615,77,N,Blackberry,1
+1622,77,S,Blackberry,1
+1643,67,N,Blackberry,1
+1650,67,S,Blackberry,1
+1657,75,N,Blackberry,1
+1664,75,S,Blackberry,1
+1678,72,S,Blackberry,1
+1685,68,N,Blackberry,1
+1692,68,S,Blackberry,1
+1699,31,N,Blackberry,1
+1706,31,S,Blackberry,1
+1720,24,S,Blackberry,1
+1734,26,S,Blackberry,1
+1741,30,N,Blackberry,1
+1748,30,S,Blackberry,1
+1755,42,N,Blackberry,1
+1762,42,S,Blackberry,1
+1769,41,N,Blackberry,1
+1776,41,S,Blackberry,1
+1783,93,N,Blackberry,1
+1797,99,N,Blackberry,1
+1804,99,S,Blackberry,1
+1825,92,N,Blackberry,1
+1832,92,S,Blackberry,1
+1839,900,N,Blackberry,1
+1846,900,S,Blackberry,1
+1853,88,N,Blackberry,1
+1860,88,S,Blackberry,1
+1874,3,S,Blackberry,1
+1937,176,N,Blackberry,1
+1965,138,N,Blackberry,1
+2147,131,N,Blackberry,1
+2154,131,S,Blackberry,1
+2161,129,N,Blackberry,1
+2168,129,S,Blackberry,1
+2196,7,S,Blackberry,1
+2231,23,N,Blackberry,1
+2259,857,N,Blackberry,1
+2280,1,S,Blackberry,1
+2301,390,N,Blackberry,1
+2357,387,N,Blackberry,1
+2364,387,S,Blackberry,1
+2385,181,N,Blackberry,1
+2392,181,S,Blackberry,1
+2406,385,S,Blackberry,1
+2413,180,N,Blackberry,1
+2420,180,S,Blackberry,1
+2434,175,S,Blackberry,1
+2448,384,S,Blackberry,1
+2469,33,N,Blackberry,1
+2511,36,N,Blackberry,1
+2525,37,N,Blackberry,1
+2539,34,N,Blackberry,1
+2546,34,S,Blackberry,1
+2553,28,N,Blackberry,1
+2560,28,S,Blackberry,1
+2581,45,N,Blackberry,1
+2588,45,S,Blackberry,1
+2595,47,N,Blackberry,1
+2602,47,S,Blackberry,1
+2616,48,S,Blackberry,1
+2637,61,N,Blackberry,1
+2658,58,S,Blackberry,1
+2665,57,N,Blackberry,1
+2693,880,N,Blackberry,1
+2700,880,S,Blackberry,1
+2707,69,N,Blackberry,1
+2714,69,S,Blackberry,1
+2721,70,N,Blackberry,1
+2728,70,S,Blackberry,1
+2735,64,N,Blackberry,1
+2756,895,S,Blackberry,1
+2770,111,S,Blackberry,1
+2777,135,N,Blackberry,1
+2833,91,N,Blackberry,1
+2840,91,S,Blackberry,1
+2854,85,S,Blackberry,1
+2861,87,N,Blackberry,1
+2882,89,S,Blackberry,1
+2931,84,N,Blackberry,1
+2945,83,N,Blackberry,1
+2952,83,S,Blackberry,1
+2980,123,S,Blackberry,1
+2994,124,S,Blackberry,1
+3029,133,N,Blackberry,1
+3036,133,S,Blackberry,1
+3050,121,S,Blackberry,1
+3057,86,N,Blackberry,1
+3064,86,S,Blackberry,1
+3078,110,S,Blackberry,1
+3085,109,N,Blackberry,1
+3092,109,S,Blackberry,1
+3099,95,N,Blackberry,1
+3106,95,S,Blackberry,1
+3127,881,N,Blackberry,1
+3134,881,S,Blackberry,1
+3169,79,N,Blackberry,1
+3183,113,N,Blackberry,1
+3190,113,S,Blackberry,1
+3197,116,N,Blackberry,1
+3204,116,S,Blackberry,1
+3218,94,S,Blackberry,1
+3225,888,N,Blackberry,1
+3239,122,N,Blackberry,1
+3246,122,S,Blackberry,1
+3253,76,N,Blackberry,1
+3274,184,S,Blackberry,1
+3309,186,N,Blackberry,1
+3316,186,S,Blackberry,1
+3323,388,N,Blackberry,1
+3330,388,S,Blackberry,1
+3351,98,N,Blackberry,1
+3358,98,S,Blackberry,1
+3365,44,N,Blackberry,1
+3372,44,S,Blackberry,1
+3400,43,S,Blackberry,1
+3414,46,S,Blackberry,1
+3449,39,N,Blackberry,1
+3463,50,N,Blackberry,1
+3470,50,S,Blackberry,1
+3477,71,N,Blackberry,1
+3491,78,N,Blackberry,1
+3505,389,N,Blackberry,1
+3512,389,S,Blackberry,1
+3519,22,N,Blackberry,1
+3526,22,S,Blackberry,1
+3533,27,N,Blackberry,1
+3540,27,S,Blackberry,1
+3547,35,N,Blackberry,1
+3554,35,S,Blackberry,1
+3561,25,N,Blackberry,1
+3568,25,S,Blackberry,1
+3582,59,S,Blackberry,1
+3596,193,S,Blackberry,1
+3603,172,N,Blackberry,1
+3624,391,S,Blackberry,1
+3666,11,S,Blackberry,1
+3771,19,N,Blackberry,1
+3841,149,N,Blackberry,1
+3848,149,S,Blackberry,1
+3862,150,S,Blackberry,1
+3869,146,N,Blackberry,1
+3883,153,N,Blackberry,1
+3890,153,S,Blackberry,1
+3897,147,N,Blackberry,1
+3904,147,S,Blackberry,1
+3911,148,N,Blackberry,1
+3918,148,S,Blackberry,1
+3953,930,N,Blackberry,1
+3960,930,S,Blackberry,1
+3967,55,N,Blackberry,1
+3974,55,S,Blackberry,1
+3981,54,N,Blackberry,1
+3988,54,S,Blackberry,1
+4016,52,S,Blackberry,1
+4023,53,N,Blackberry,1
+4030,53,S,Blackberry,1
+4051,65,N,Blackberry,1
+4058,65,S,Blackberry,1
+4065,60,N,Blackberry,1
+4072,60,S,Blackberry,1
+4079,56,N,Blackberry,1
+4086,56,S,Blackberry,1
+4100,910,S,Blackberry,1
+4107,909,N,Blackberry,1
+4114,909,S,Blackberry,1
+4121,248,N,Blackberry,1
+4128,248,S,Blackberry,1
+4142,925,S,Blackberry,1
+4149,208,N,Blackberry,1
+4170,203,S,Blackberry,1
+4177,214,N,Blackberry,1
+4191,210,N,Blackberry,1
+4205,915,N,Blackberry,1
+4212,915,S,Blackberry,1
+4226,211,S,Blackberry,1
+4282,211,S,Blackberry,1
+4289,914,N,Blackberry,1
+4296,914,S,Blackberry,1
+4366,156,S,Blackberry,1
+4373,157,N,Blackberry,1
+4415,226,N,Blackberry,1
+4590,322,S,Blackberry,1
+4674,312,S,Blackberry,1
+4681,317,N,Blackberry,1
+4688,317,S,Blackberry,1
+4695,328,N,Blackberry,1
+4702,328,S,Blackberry,1
+4723,320,N,Blackberry,1
+4730,320,S,Blackberry,1
+4751,311,N,Blackberry,1
+4758,311,S,Blackberry,1
+4779,313,N,Blackberry,1
+4786,313,S,Blackberry,1
+4828,908,S,Blackberry,1
+4849,207,N,Blackberry,1
+4856,207,S,Blackberry,1
+4863,901,N,Blackberry,1
+4870,901,S,Blackberry,1
+4891,205,N,Blackberry,1
+4898,205,S,Blackberry,1
+4905,204,N,Blackberry,1
+4919,911,N,Blackberry,1
+4926,911,S,Blackberry,1
+4933,913,N,Blackberry,1
+4961,926,N,Blackberry,1
+4968,926,S,Blackberry,1
+5003,927,N,Blackberry,1
+5024,216,S,Blackberry,1
+5038,213,S,Blackberry,1
+5115,339,N,Blackberry,1
+5122,339,S,Blackberry,1
+5129,341,N,Blackberry,1
+5136,341,S,Blackberry,1
+5143,342,N,Blackberry,1
+5150,342,S,Blackberry,1
+5241,325,N,Blackberry,1
+5248,325,S,Blackberry,1
+5255,337,N,Blackberry,1
+5262,337,S,Blackberry,1
+5283,358,N,Blackberry,1
+5290,358,S,Blackberry,1
+5297,335,N,Blackberry,1
+5304,335,S,Blackberry,1
+5311,343,N,Blackberry,1
+5318,343,S,Blackberry,1
+5367,239,N,Blackberry,1
+5374,239,S,Blackberry,1
+5381,237,N,Blackberry,1
+5388,237,S,Blackberry,1
+5409,247,N,Blackberry,1
+5416,247,S,Blackberry,1
+5423,238,N,Blackberry,1
+5430,238,S,Blackberry,1
+5444,242,S,Blackberry,1
+5451,231,N,Blackberry,1
+5458,231,S,Blackberry,1
+5465,246,N,Blackberry,1
+5472,246,S,Blackberry,1
+5479,249,N,Blackberry,1
+5486,249,S,Blackberry,1
+5507,232,N,Blackberry,1
+5514,232,S,Blackberry,1
+5521,233,N,Blackberry,1
+5528,233,S,Blackberry,1
+5535,243,N,Blackberry,1
+5542,243,S,Blackberry,1
+5549,245,N,Blackberry,1
+5556,245,S,Blackberry,1
+5563,244,N,Blackberry,1
+5570,244,S,Blackberry,1
+5577,235,N,Blackberry,1
+5591,234,N,Blackberry,1
+5598,234,S,Blackberry,1
+5605,240,N,Blackberry,1
+5612,240,S,Blackberry,1
+5647,228,N,Blackberry,1
+5654,228,S,Blackberry,1
+5899,362,N,Blackberry,1
+5955,361,N,Blackberry,1
+6018,276,S,Blackberry,1
+6025,285,N,Blackberry,1
+6039,281,N,Blackberry,1
+6046,281,S,Blackberry,1
+6137,905,N,Blackberry,1
+6144,905,S,Blackberry,1
+6151,903,N,Blackberry,1
+6158,903,S,Blackberry,1
+6165,904,N,Blackberry,1
+6172,904,S,Blackberry,1
+6179,273,N,Blackberry,1
+6186,273,S,Blackberry,1
+6207,280,N,Blackberry,1
+6214,280,S,Blackberry,1
+6221,251,N,Blackberry,1
+6228,251,S,Blackberry,1
+6249,277,N,Blackberry,1
+6277,229,N,Blackberry,1
+6284,229,S,Blackberry,1
+6291,236,N,Blackberry,1
+6298,236,S,Blackberry,1
+6305,275,N,Blackberry,1
+6319,286,N,Blackberry,1
+6333,274,N,Blackberry,1
+6340,274,S,Blackberry,1
+6354,287,S,Blackberry,1
+75,120,N,Blackberry,0
+89,114,N,Blackberry,0
+96,114,S,Blackberry,0
+103,115,N,Blackberry,0
+110,115,S,Blackberry,0
+145,107,N,Blackberry,0
+152,107,S,Blackberry,0
+180,118,S,Blackberry,0
+187,931,N,Blackberry,0
+194,931,S,Blackberry,0
+201,178,N,Blackberry,0
+208,178,S,Blackberry,0
+215,936,N,Blackberry,0
+222,936,S,Blackberry,0
+229,377,N,Blackberry,0
+236,377,S,Blackberry,0
+250,981,S,Blackberry,0
+271,192,N,Blackberry,0
+278,192,S,Blackberry,0
+285,291,N,Blackberry,0
+292,291,S,Blackberry,0
+299,185,N,Blackberry,0
+306,185,S,Blackberry,0
+313,345,N,Blackberry,0
+320,345,S,Blackberry,0
+327,289,N,Blackberry,0
+334,289,S,Blackberry,0
+341,996,N,Blackberry,0
+348,996,S,Blackberry,0
+355,897,N,Blackberry,0
+362,897,S,Blackberry,0
+376,381,S,Blackberry,0
+383,380,N,Blackberry,0
+390,380,S,Blackberry,0
+425,304,N,Blackberry,0
+432,304,S,Blackberry,0
+495,383,N,Blackberry,0
+502,383,S,Blackberry,0
+509,382,N,Blackberry,0
+516,382,S,Blackberry,0
+523,392,N,Blackberry,0
+530,392,S,Blackberry,0
+537,393,N,Blackberry,0
+544,393,S,Blackberry,0
+551,305,N,Blackberry,0
+558,305,S,Blackberry,0
+565,378,N,Blackberry,0
+572,378,S,Blackberry,0
+579,306,N,Blackberry,0
+586,306,S,Blackberry,0
+593,375,N,Blackberry,0
+600,375,S,Blackberry,0
+607,255,N,Blackberry,0
+614,255,S,Blackberry,0
+621,254,N,Blackberry,0
+628,254,S,Blackberry,0
+635,197,N,Blackberry,0
+642,197,S,Blackberry,0
+649,259,N,Blackberry,0
+656,259,S,Blackberry,0
+663,373,N,Blackberry,0
+670,373,S,Blackberry,0
+677,292,N,Blackberry,0
+684,292,S,Blackberry,0
+691,290,N,Blackberry,0
+698,290,S,Blackberry,0
+712,376,S,Blackberry,0
+726,374,S,Blackberry,0
+740,882,S,Blackberry,0
+747,196,N,Blackberry,0
+754,196,S,Blackberry,0
+761,261,N,Blackberry,0
+768,261,S,Blackberry,0
+775,886,N,Blackberry,0
+782,886,S,Blackberry,0
+789,191,N,Blackberry,0
+796,191,S,Blackberry,0
+803,190,N,Blackberry,0
+810,190,S,Blackberry,0
+817,890,N,Blackberry,0
+824,890,S,Blackberry,0
+831,397,N,Blackberry,0
+838,397,S,Blackberry,0
+845,396,N,Blackberry,0
+852,396,S,Blackberry,0
+859,296,N,Blackberry,0
+866,296,S,Blackberry,0
+873,891,N,Blackberry,0
+880,891,S,Blackberry,0
+887,263,N,Blackberry,0
+894,263,S,Blackberry,0
+901,256,N,Blackberry,0
+908,256,S,Blackberry,0
+915,270,N,Blackberry,0
+922,270,S,Blackberry,0
+929,187,N,Blackberry,0
+936,187,S,Blackberry,0
+943,260,N,Blackberry,0
+950,260,S,Blackberry,0
+957,262,N,Blackberry,0
+964,262,S,Blackberry,0
+971,264,N,Blackberry,0
+978,264,S,Blackberry,0
+985,265,N,Blackberry,0
+992,265,S,Blackberry,0
+999,266,N,Blackberry,0
+1006,266,S,Blackberry,0
+1013,398,N,Blackberry,0
+1020,398,S,Blackberry,0
+1027,200,N,Blackberry,0
+1034,200,S,Blackberry,0
+1041,269,N,Blackberry,0
+1048,269,S,Blackberry,0
+1055,394,N,Blackberry,0
+1062,394,S,Blackberry,0
+1069,309,N,Blackberry,0
+1076,309,S,Blackberry,0
+1083,969,N,Blackberry,0
+1090,969,S,Blackberry,0
+1111,395,N,Blackberry,0
+1118,395,S,Blackberry,0
+1125,883,N,Blackberry,0
+1132,883,S,Blackberry,0
+1139,929,N,Blackberry,0
+1146,929,S,Blackberry,0
+1153,307,N,Blackberry,0
+1160,307,S,Blackberry,0
+1174,999,S,Blackberry,0
+1188,143,S,Blackberry,0
+1209,105,N,Blackberry,0
+1223,189,N,Blackberry,0
+1230,189,S,Blackberry,0
+1237,258,N,Blackberry,0
+1244,258,S,Blackberry,0
+1251,288,N,Blackberry,0
+1258,288,S,Blackberry,0
+1265,399,N,Blackberry,0
+1272,399,S,Blackberry,0
+1279,372,N,Blackberry,0
+1286,372,S,Blackberry,0
+1293,199,N,Blackberry,0
+1300,199,S,Blackberry,0
+1307,894,N,Blackberry,0
+1314,894,S,Blackberry,0
+1321,371,N,Blackberry,0
+1328,371,S,Blackberry,0
+1335,253,N,Blackberry,0
+1342,253,S,Blackberry,0
+1370,293,S,Blackberry,0
+1391,257,N,Blackberry,0
+1398,257,S,Blackberry,0
+1405,188,N,Blackberry,0
+1412,188,S,Blackberry,0
+1419,346,N,Blackberry,0
+1426,346,S,Blackberry,0
+1433,864,N,Blackberry,0
+1440,864,S,Blackberry,0
+1461,198,N,Blackberry,0
+1468,198,S,Blackberry,0
+1475,297,N,Blackberry,0
+1482,297,S,Blackberry,0
+1489,898,N,Blackberry,0
+1496,898,S,Blackberry,0
+1503,885,N,Blackberry,0
+1510,885,S,Blackberry,0
+1517,310,N,Blackberry,0
+1524,310,S,Blackberry,0
+1531,889,N,Blackberry,0
+1538,889,S,Blackberry,0
+1559,252,N,Blackberry,0
+1566,252,S,Blackberry,0
+1580,400,S,Blackberry,0
+1587,893,N,Blackberry,0
+1594,893,S,Blackberry,0
+1601,892,N,Blackberry,0
+1608,892,S,Blackberry,0
+1629,66,N,Blackberry,0
+1636,66,S,Blackberry,0
+1671,72,N,Blackberry,0
+1713,24,N,Blackberry,0
+1727,26,N,Blackberry,0
+1790,93,S,Blackberry,0
+1811,97,N,Blackberry,0
+1818,97,S,Blackberry,0
+1867,3,N,Blackberry,0
+1881,21,N,Blackberry,0
+1888,21,S,Blackberry,0
+1895,132,N,Blackberry,0
+1902,132,S,Blackberry,0
+1909,174,N,Blackberry,0
+1916,174,S,Blackberry,0
+1923,9,N,Blackberry,0
+1930,9,S,Blackberry,0
+1944,176,S,Blackberry,0
+1951,14,N,Blackberry,0
+1958,14,S,Blackberry,0
+1972,138,S,Blackberry,0
+1979,201,N,Blackberry,0
+1986,201,S,Blackberry,0
+1993,202,N,Blackberry,0
+2000,202,S,Blackberry,0
+2007,139,N,Blackberry,0
+2014,139,S,Blackberry,0
+2021,140,N,Blackberry,0
+2028,140,S,Blackberry,0
+2035,134,N,Blackberry,0
+2042,134,S,Blackberry,0
+2049,126,N,Blackberry,0
+2056,126,S,Blackberry,0
+2063,127,N,Blackberry,0
+2070,127,S,Blackberry,0
+2077,137,N,Blackberry,0
+2084,137,S,Blackberry,0
+2091,861,N,Blackberry,0
+2098,861,S,Blackberry,0
+2105,136,N,Blackberry,0
+2112,136,S,Blackberry,0
+2119,130,N,Blackberry,0
+2126,130,S,Blackberry,0
+2133,128,N,Blackberry,0
+2140,128,S,Blackberry,0
+2175,2,N,Blackberry,0
+2182,2,S,Blackberry,0
+2189,7,N,Blackberry,0
+2203,17,N,Blackberry,0
+2210,17,S,Blackberry,0
+2217,12,N,Blackberry,0
+2224,12,S,Blackberry,0
+2238,23,S,Blackberry,0
+2245,166,N,Blackberry,0
+2252,166,S,Blackberry,0
+2266,857,S,Blackberry,0
+2273,1,N,Blackberry,0
+2287,141,N,Blackberry,0
+2294,141,S,Blackberry,0
+2308,390,S,Blackberry,0
+2315,177,N,Blackberry,0
+2322,177,S,Blackberry,0
+2329,344,N,Blackberry,0
+2336,344,S,Blackberry,0
+2343,386,N,Blackberry,0
+2350,386,S,Blackberry,0
+2371,182,N,Blackberry,0
+2378,182,S,Blackberry,0
+2399,385,N,Blackberry,0
+2427,175,N,Blackberry,0
+2441,384,N,Blackberry,0
+2455,940,N,Blackberry,0
+2462,940,S,Blackberry,0
+2476,33,S,Blackberry,0
+2483,29,N,Blackberry,0
+2490,29,S,Blackberry,0
+2497,32,N,Blackberry,0
+2504,32,S,Blackberry,0
+2518,36,S,Blackberry,0
+2532,37,S,Blackberry,0
+2567,51,N,Blackberry,0
+2574,51,S,Blackberry,0
+2609,48,N,Blackberry,0
+2623,49,N,Blackberry,0
+2630,49,S,Blackberry,0
+2644,61,S,Blackberry,0
+2651,58,N,Blackberry,0
+2672,57,S,Blackberry,0
+2679,62,N,Blackberry,0
+2686,62,S,Blackberry,0
+2742,64,S,Blackberry,0
+2763,111,N,Blackberry,0
+2784,135,S,Blackberry,0
+2791,100,N,Blackberry,0
+2798,100,S,Blackberry,0
+2805,859,N,Blackberry,0
+2812,859,S,Blackberry,0
+2819,90,N,Blackberry,0
+2826,90,S,Blackberry,0
+2847,85,N,Blackberry,0
+2868,87,S,Blackberry,0
+2875,89,N,Blackberry,0
+2889,81,N,Blackberry,0
+2896,81,S,Blackberry,0
+2903,80,N,Blackberry,0
+2910,80,S,Blackberry,0
+2917,86,N,Blackberry,0
+2924,86,S,Blackberry,0
+2938,84,S,Blackberry,0
+2959,82,N,Blackberry,0
+2966,82,S,Blackberry,0
+2973,123,N,Blackberry,0
+2987,124,N,Blackberry,0
+3001,142,N,Blackberry,0
+3008,142,S,Blackberry,0
+3015,117,N,Blackberry,0
+3022,117,S,Blackberry,0
+3043,121,N,Blackberry,0
+3071,110,N,Blackberry,0
+3113,295,N,Blackberry,0
+3120,295,S,Blackberry,0
+3141,884,N,Blackberry,0
+3148,884,S,Blackberry,0
+3155,73,N,Blackberry,0
+3162,73,S,Blackberry,0
+3176,79,S,Blackberry,0
+3211,94,N,Blackberry,0
+3232,888,S,Blackberry,0
+3260,76,S,Blackberry,0
+3267,184,N,Blackberry,0
+3281,179,N,Blackberry,0
+3288,179,S,Blackberry,0
+3295,183,N,Blackberry,0
+3302,183,S,Blackberry,0
+3337,194,N,Blackberry,0
+3344,194,S,Blackberry,0
+3379,874,N,Blackberry,0
+3386,874,S,Blackberry,0
+3393,43,N,Blackberry,0
+3407,46,N,Blackberry,0
+3421,38,N,Blackberry,0
+3428,38,S,Blackberry,0
+3435,860,N,Blackberry,0
+3442,860,S,Blackberry,0
+3456,39,S,Blackberry,0
+3484,71,S,Blackberry,0
+3498,78,S,Blackberry,0
+3589,193,N,Blackberry,0
+3610,172,S,Blackberry,0
+3617,391,N,Blackberry,0
+3631,10,N,Blackberry,0
+3638,10,S,Blackberry,0
+3645,6,N,Blackberry,0
+3652,6,S,Blackberry,0
+3659,11,N,Blackberry,0
+3673,4,N,Blackberry,0
+3680,4,S,Blackberry,0
+3687,167,N,Blackberry,0
+3694,167,S,Blackberry,0
+3701,5,N,Blackberry,0
+3708,5,S,Blackberry,0
+3715,13,N,Blackberry,0
+3722,13,S,Blackberry,0
+3729,8,N,Blackberry,0
+3736,8,S,Blackberry,0
+3743,16,N,Blackberry,0
+3750,16,S,Blackberry,0
+3757,15,N,Blackberry,0
+3764,15,S,Blackberry,0
+3778,19,S,Blackberry,0
+3785,20,N,Blackberry,0
+3792,20,S,Blackberry,0
+3799,145,N,Blackberry,0
+3806,145,S,Blackberry,0
+3813,18,N,Blackberry,0
+3820,18,S,Blackberry,0
+3827,173,N,Blackberry,0
+3834,173,S,Blackberry,0
+3855,150,N,Blackberry,0
+3876,146,S,Blackberry,0
+3925,63,N,Blackberry,0
+3932,63,S,Blackberry,0
+3939,152,N,Blackberry,0
+3946,152,S,Blackberry,0
+3995,151,N,Blackberry,0
+4002,151,S,Blackberry,0
+4009,52,N,Blackberry,0
+4037,40,N,Blackberry,0
+4044,40,S,Blackberry,0
+4093,910,N,Blackberry,0
+4135,925,N,Blackberry,0
+4156,208,S,Blackberry,0
+4163,203,N,Blackberry,0
+4184,214,S,Blackberry,0
+4198,210,S,Blackberry,0
+4219,211,N,Blackberry,0
+4233,250,N,Blackberry,0
+4240,250,S,Blackberry,0
+4247,206,N,Blackberry,0
+4254,206,S,Blackberry,0
+4261,161,N,Blackberry,0
+4268,161,S,Blackberry,0
+4275,211,N,Blackberry,0
+4303,160,N,Blackberry,0
+4310,160,S,Blackberry,0
+4317,159,N,Blackberry,0
+4324,159,S,Blackberry,0
+4331,162,N,Blackberry,0
+4338,162,S,Blackberry,0
+4345,158,N,Blackberry,0
+4352,158,S,Blackberry,0
+4359,156,N,Blackberry,0
+4380,157,S,Blackberry,0
+4387,154,N,Blackberry,0
+4394,154,S,Blackberry,0
+4401,225,N,Blackberry,0
+4408,225,S,Blackberry,0
+4422,226,S,Blackberry,0
+4429,224,N,Blackberry,0
+4436,224,S,Blackberry,0
+4443,223,N,Blackberry,0
+4450,223,S,Blackberry,0
+4457,221,N,Blackberry,0
+4464,221,S,Blackberry,0
+4471,222,N,Blackberry,0
+4478,222,S,Blackberry,0
+4485,218,N,Blackberry,0
+4492,218,S,Blackberry,0
+4499,217,N,Blackberry,0
+4506,217,S,Blackberry,0
+4513,215,N,Blackberry,0
+4520,215,S,Blackberry,0
+4527,212,N,Blackberry,0
+4534,212,S,Blackberry,0
+4541,209,N,Blackberry,0
+4548,209,S,Blackberry,0
+4555,327,N,Blackberry,0
+4562,327,S,Blackberry,0
+4569,321,N,Blackberry,0
+4576,321,S,Blackberry,0
+4583,322,N,Blackberry,0
+4597,323,N,Blackberry,0
+4604,323,S,Blackberry,0
+4611,324,N,Blackberry,0
+4618,324,S,Blackberry,0
+4625,315,N,Blackberry,0
+4632,315,S,Blackberry,0
+4639,278,N,Blackberry,0
+4646,278,S,Blackberry,0
+4653,318,N,Blackberry,0
+4660,318,S,Blackberry,0
+4667,312,N,Blackberry,0
+4709,329,N,Blackberry,0
+4716,329,S,Blackberry,0
+4737,314,N,Blackberry,0
+4744,314,S,Blackberry,0
+4765,316,N,Blackberry,0
+4772,316,S,Blackberry,0
+4793,319,N,Blackberry,0
+4800,319,S,Blackberry,0
+4807,907,N,Blackberry,0
+4814,907,S,Blackberry,0
+4821,908,N,Blackberry,0
+4835,906,N,Blackberry,0
+4842,906,S,Blackberry,0
+4877,902,N,Blackberry,0
+4884,902,S,Blackberry,0
+4912,204,S,Blackberry,0
+4940,913,S,Blackberry,0
+4947,912,N,Blackberry,0
+4954,912,S,Blackberry,0
+4975,163,N,Blackberry,0
+4982,163,S,Blackberry,0
+4989,161,N,Blackberry,0
+4996,161,S,Blackberry,0
+5010,927,S,Blackberry,0
+5017,216,N,Blackberry,0
+5031,213,N,Blackberry,0
+5045,164,N,Blackberry,0
+5052,164,S,Blackberry,0
+5059,155,N,Blackberry,0
+5066,155,S,Blackberry,0
+5073,219,N,Blackberry,0
+5080,219,S,Blackberry,0
+5087,220,N,Blackberry,0
+5094,220,S,Blackberry,0
+5101,330,N,Blackberry,0
+5108,330,S,Blackberry,0
+5157,363,N,Blackberry,0
+5164,363,S,Blackberry,0
+5171,354,N,Blackberry,0
+5178,354,S,Blackberry,0
+5185,360,N,Blackberry,0
+5192,360,S,Blackberry,0
+5199,333,N,Blackberry,0
+5206,333,S,Blackberry,0
+5213,326,N,Blackberry,0
+5220,326,S,Blackberry,0
+5227,336,N,Blackberry,0
+5234,336,S,Blackberry,0
+5269,340,N,Blackberry,0
+5276,340,S,Blackberry,0
+5325,331,N,Blackberry,0
+5332,331,S,Blackberry,0
+5339,338,N,Blackberry,0
+5346,338,S,Blackberry,0
+5353,350,N,Blackberry,0
+5360,350,S,Blackberry,0
+5395,332,N,Blackberry,0
+5402,332,S,Blackberry,0
+5437,242,N,Blackberry,0
+5493,241,N,Blackberry,0
+5500,241,S,Blackberry,0
+5584,235,S,Blackberry,0
+5619,227,N,Blackberry,0
+5626,227,S,Blackberry,0
+5633,230,N,Blackberry,0
+5640,230,S,Blackberry,0
+5661,401,N,Blackberry,0
+5668,401,S,Blackberry,0
+5675,402,N,Blackberry,0
+5682,402,S,Blackberry,0
+5689,403,N,Blackberry,0
+5696,403,S,Blackberry,0
+5703,404,N,Blackberry,0
+5710,404,S,Blackberry,0
+5717,406,N,Blackberry,0
+5724,406,S,Blackberry,0
+5731,405,N,Blackberry,0
+5738,405,S,Blackberry,0
+5745,408,N,Blackberry,0
+5752,408,S,Blackberry,0
+5759,410,N,Blackberry,0
+5766,410,S,Blackberry,0
+5773,409,N,Blackberry,0
+5780,409,S,Blackberry,0
+5787,412,N,Blackberry,0
+5794,412,S,Blackberry,0
+5801,411,N,Blackberry,0
+5808,411,S,Blackberry,0
+5815,407,N,Blackberry,0
+5822,407,S,Blackberry,0
+5829,357,N,Blackberry,0
+5836,357,S,Blackberry,0
+5843,355,N,Blackberry,0
+5850,355,S,Blackberry,0
+5857,359,N,Blackberry,0
+5864,359,S,Blackberry,0
+5871,353,N,Blackberry,0
+5878,353,S,Blackberry,0
+5885,356,N,Blackberry,0
+5892,356,S,Blackberry,0
+5906,362,S,Blackberry,0
+5913,349,N,Blackberry,0
+5920,349,S,Blackberry,0
+5927,364,N,Blackberry,0
+5934,364,S,Blackberry,0
+5941,365,N,Blackberry,0
+5948,365,S,Blackberry,0
+5962,361,S,Blackberry,0
+5969,347,N,Blackberry,0
+5976,347,S,Blackberry,0
+5983,348,N,Blackberry,0
+5990,348,S,Blackberry,0
+5997,351,N,Blackberry,0
+6004,351,S,Blackberry,0
+6011,276,N,Blackberry,0
+6032,285,S,Blackberry,0
+6053,284,N,Blackberry,0
+6060,284,S,Blackberry,0
+6067,367,N,Blackberry,0
+6074,367,S,Blackberry,0
+6081,368,N,Blackberry,0
+6088,368,S,Blackberry,0
+6095,369,N,Blackberry,0
+6102,369,S,Blackberry,0
+6109,366,N,Blackberry,0
+6116,366,S,Blackberry,0
+6123,352,N,Blackberry,0
+6130,352,S,Blackberry,0
+6193,288,N,Blackberry,0
+6200,288,S,Blackberry,0
+6235,279,N,Blackberry,0
+6242,279,S,Blackberry,0
+6256,277,S,Blackberry,0
+6263,283,N,Blackberry,0
+6270,283,S,Blackberry,0
+6312,275,S,Blackberry,0
+6326,286,S,Blackberry,0
+6347,287,N,Blackberry,0
+2749,895,N,Blackberry,
+5629,230,N,Buckthorn,5
+1282,372,S,Buckthorn,3
+1310,894,S,Buckthorn,3
+1317,371,N,Buckthorn,3
+2584,45,S,Buckthorn,3
+2647,58,N,Buckthorn,3
+2689,880,N,Buckthorn,3
+3067,110,N,Buckthorn,3
+3613,391,N,Buckthorn,3
+4726,320,S,Buckthorn,3
+4761,316,N,Buckthorn,3
+4831,906,N,Buckthorn,3
+5538,243,S,Buckthorn,3
+5552,245,S,Buckthorn,3
+449,302,N,Buckthorn,2
+456,302,S,Buckthorn,2
+463,301,N,Buckthorn,2
+470,301,S,Buckthorn,2
+603,255,N,Buckthorn,2
+610,255,S,Buckthorn,2
+624,254,S,Buckthorn,2
+659,373,N,Buckthorn,2
+666,373,S,Buckthorn,2
+1261,399,N,Buckthorn,2
+1268,399,S,Buckthorn,2
+1275,372,N,Buckthorn,2
+1303,894,N,Buckthorn,2
+1324,371,S,Buckthorn,2
+1352,272,S,Buckthorn,2
+1373,299,N,Buckthorn,2
+1471,297,N,Buckthorn,2
+1555,252,N,Buckthorn,2
+1604,892,S,Buckthorn,2
+1625,66,N,Buckthorn,2
+1632,66,S,Buckthorn,2
+1653,75,N,Buckthorn,2
+2297,390,N,Buckthorn,2
+2304,390,S,Buckthorn,2
+2360,387,S,Buckthorn,2
+2444,384,S,Buckthorn,2
+2654,58,S,Buckthorn,2
+2675,62,N,Buckthorn,2
+2850,85,S,Buckthorn,2
+2871,89,N,Buckthorn,2
+3165,79,N,Buckthorn,2
+3186,113,S,Buckthorn,2
+3270,184,S,Buckthorn,2
+3291,183,N,Buckthorn,2
+3319,388,N,Buckthorn,2
+3347,98,N,Buckthorn,2
+3473,71,N,Buckthorn,2
+3557,25,N,Buckthorn,2
+3578,59,S,Buckthorn,2
+3585,193,N,Buckthorn,2
+3599,172,N,Buckthorn,2
+3620,391,S,Buckthorn,2
+3879,153,N,Buckthorn,2
+4054,65,S,Buckthorn,2
+4075,56,N,Buckthorn,2
+4082,56,S,Buckthorn,2
+4243,206,N,Buckthorn,2
+4250,206,S,Buckthorn,2
+4593,323,N,Buckthorn,2
+4607,324,N,Buckthorn,2
+4614,324,S,Buckthorn,2
+4642,278,S,Buckthorn,2
+4691,328,N,Buckthorn,2
+4719,320,N,Buckthorn,2
+4768,316,S,Buckthorn,2
+4775,313,N,Buckthorn,2
+4803,907,N,Buckthorn,2
+4810,907,S,Buckthorn,2
+4817,908,N,Buckthorn,2
+4824,908,S,Buckthorn,2
+4838,906,S,Buckthorn,2
+4901,204,N,Buckthorn,2
+5139,342,N,Buckthorn,2
+5391,332,N,Buckthorn,2
+5398,332,S,Buckthorn,2
+5531,243,N,Buckthorn,2
+5545,245,N,Buckthorn,2
+5853,359,N,Buckthorn,2
+5860,359,S,Buckthorn,2
+5937,365,N,Buckthorn,2
+5965,347,N,Buckthorn,2
+5979,348,N,Buckthorn,2
+5986,348,S,Buckthorn,2
+5993,351,N,Buckthorn,2
+6000,351,S,Buckthorn,2
+6140,905,S,Buckthorn,2
+6154,903,S,Buckthorn,2
+6168,904,S,Buckthorn,2
+1,165,N,Buckthorn,1
+8,165,S,Buckthorn,1
+15,103,N,Buckthorn,1
+22,103,S,Buckthorn,1
+29,104,N,Buckthorn,1
+36,104,S,Buckthorn,1
+43,125,N,Buckthorn,1
+50,125,S,Buckthorn,1
+57,112,N,Buckthorn,1
+64,112,S,Buckthorn,1
+71,120,N,Buckthorn,1
+85,114,N,Buckthorn,1
+92,114,S,Buckthorn,1
+99,115,N,Buckthorn,1
+106,115,S,Buckthorn,1
+113,119,N,Buckthorn,1
+120,119,S,Buckthorn,1
+127,106,N,Buckthorn,1
+134,106,S,Buckthorn,1
+141,107,N,Buckthorn,1
+148,107,S,Buckthorn,1
+155,108,N,Buckthorn,1
+162,108,S,Buckthorn,1
+169,118,N,Buckthorn,1
+183,931,N,Buckthorn,1
+190,931,S,Buckthorn,1
+197,178,N,Buckthorn,1
+204,178,S,Buckthorn,1
+211,936,N,Buckthorn,1
+218,936,S,Buckthorn,1
+225,377,N,Buckthorn,1
+232,377,S,Buckthorn,1
+239,981,N,Buckthorn,1
+246,981,S,Buckthorn,1
+253,195,N,Buckthorn,1
+260,195,S,Buckthorn,1
+267,192,N,Buckthorn,1
+274,192,S,Buckthorn,1
+281,291,N,Buckthorn,1
+288,291,S,Buckthorn,1
+295,185,N,Buckthorn,1
+302,185,S,Buckthorn,1
+323,289,N,Buckthorn,1
+337,996,N,Buckthorn,1
+344,996,S,Buckthorn,1
+351,897,N,Buckthorn,1
+358,897,S,Buckthorn,1
+365,381,N,Buckthorn,1
+372,381,S,Buckthorn,1
+379,380,N,Buckthorn,1
+386,380,S,Buckthorn,1
+407,961,N,Buckthorn,1
+414,961,S,Buckthorn,1
+421,304,N,Buckthorn,1
+435,303,N,Buckthorn,1
+477,379,N,Buckthorn,1
+484,379,S,Buckthorn,1
+491,383,N,Buckthorn,1
+498,383,S,Buckthorn,1
+505,382,N,Buckthorn,1
+512,382,S,Buckthorn,1
+526,392,S,Buckthorn,1
+554,305,S,Buckthorn,1
+582,306,S,Buckthorn,1
+589,375,N,Buckthorn,1
+596,375,S,Buckthorn,1
+617,254,N,Buckthorn,1
+631,197,N,Buckthorn,1
+638,197,S,Buckthorn,1
+645,259,N,Buckthorn,1
+652,259,S,Buckthorn,1
+701,376,N,Buckthorn,1
+708,376,S,Buckthorn,1
+715,374,N,Buckthorn,1
+722,374,S,Buckthorn,1
+729,882,N,Buckthorn,1
+736,882,S,Buckthorn,1
+743,196,N,Buckthorn,1
+750,196,S,Buckthorn,1
+792,191,S,Buckthorn,1
+799,190,N,Buckthorn,1
+806,190,S,Buckthorn,1
+813,890,N,Buckthorn,1
+820,890,S,Buckthorn,1
+834,397,S,Buckthorn,1
+841,396,N,Buckthorn,1
+848,396,S,Buckthorn,1
+855,296,N,Buckthorn,1
+862,296,S,Buckthorn,1
+869,891,N,Buckthorn,1
+876,891,S,Buckthorn,1
+897,256,N,Buckthorn,1
+925,187,N,Buckthorn,1
+939,260,N,Buckthorn,1
+1065,309,N,Buckthorn,1
+1072,309,S,Buckthorn,1
+1079,969,N,Buckthorn,1
+1093,308,N,Buckthorn,1
+1100,308,S,Buckthorn,1
+1114,395,S,Buckthorn,1
+1121,883,N,Buckthorn,1
+1128,883,S,Buckthorn,1
+1163,999,N,Buckthorn,1
+1170,999,S,Buckthorn,1
+1177,143,N,Buckthorn,1
+1184,143,S,Buckthorn,1
+1191,102,N,Buckthorn,1
+1198,102,S,Buckthorn,1
+1205,105,N,Buckthorn,1
+1212,105,S,Buckthorn,1
+1219,189,N,Buckthorn,1
+1226,189,S,Buckthorn,1
+1233,258,N,Buckthorn,1
+1240,258,S,Buckthorn,1
+1254,288,S,Buckthorn,1
+1296,199,S,Buckthorn,1
+1331,253,N,Buckthorn,1
+1338,253,S,Buckthorn,1
+1345,272,N,Buckthorn,1
+1359,293,N,Buckthorn,1
+1366,293,S,Buckthorn,1
+1380,299,S,Buckthorn,1
+1387,257,N,Buckthorn,1
+1394,257,S,Buckthorn,1
+1401,188,N,Buckthorn,1
+1408,188,S,Buckthorn,1
+1415,346,N,Buckthorn,1
+1422,346,S,Buckthorn,1
+1429,864,N,Buckthorn,1
+1436,864,S,Buckthorn,1
+1450,300,S,Buckthorn,1
+1457,198,N,Buckthorn,1
+1464,198,S,Buckthorn,1
+1478,297,S,Buckthorn,1
+1492,898,S,Buckthorn,1
+1506,885,S,Buckthorn,1
+1541,74,N,Buckthorn,1
+1548,74,S,Buckthorn,1
+1562,252,S,Buckthorn,1
+1569,400,N,Buckthorn,1
+1576,400,S,Buckthorn,1
+1583,893,N,Buckthorn,1
+1590,893,S,Buckthorn,1
+1597,892,N,Buckthorn,1
+1618,77,S,Buckthorn,1
+1639,67,N,Buckthorn,1
+1660,75,S,Buckthorn,1
+1667,72,N,Buckthorn,1
+1674,72,S,Buckthorn,1
+1681,68,N,Buckthorn,1
+1688,68,S,Buckthorn,1
+1695,31,N,Buckthorn,1
+1702,31,S,Buckthorn,1
+1723,26,N,Buckthorn,1
+1730,26,S,Buckthorn,1
+1737,30,N,Buckthorn,1
+1758,42,S,Buckthorn,1
+1772,41,S,Buckthorn,1
+1779,93,N,Buckthorn,1
+1786,93,S,Buckthorn,1
+1793,99,N,Buckthorn,1
+1800,99,S,Buckthorn,1
+1807,97,N,Buckthorn,1
+1814,97,S,Buckthorn,1
+1821,92,N,Buckthorn,1
+1828,92,S,Buckthorn,1
+1835,900,N,Buckthorn,1
+1842,900,S,Buckthorn,1
+1849,88,N,Buckthorn,1
+1856,88,S,Buckthorn,1
+1863,3,N,Buckthorn,1
+1870,3,S,Buckthorn,1
+1877,21,N,Buckthorn,1
+1884,21,S,Buckthorn,1
+1919,9,N,Buckthorn,1
+1926,9,S,Buckthorn,1
+1933,176,N,Buckthorn,1
+1940,176,S,Buckthorn,1
+1961,138,N,Buckthorn,1
+1968,138,S,Buckthorn,1
+1975,201,N,Buckthorn,1
+1989,202,N,Buckthorn,1
+2045,126,N,Buckthorn,1
+2052,126,S,Buckthorn,1
+2059,127,N,Buckthorn,1
+2066,127,S,Buckthorn,1
+2073,137,N,Buckthorn,1
+2115,130,N,Buckthorn,1
+2122,130,S,Buckthorn,1
+2129,128,N,Buckthorn,1
+2136,128,S,Buckthorn,1
+2157,129,N,Buckthorn,1
+2171,2,N,Buckthorn,1
+2178,2,S,Buckthorn,1
+2185,7,N,Buckthorn,1
+2192,7,S,Buckthorn,1
+2199,17,N,Buckthorn,1
+2206,17,S,Buckthorn,1
+2213,12,N,Buckthorn,1
+2220,12,S,Buckthorn,1
+2227,23,N,Buckthorn,1
+2234,23,S,Buckthorn,1
+2241,166,N,Buckthorn,1
+2248,166,S,Buckthorn,1
+2255,857,N,Buckthorn,1
+2276,1,S,Buckthorn,1
+2283,141,N,Buckthorn,1
+2311,177,N,Buckthorn,1
+2318,177,S,Buckthorn,1
+2325,344,N,Buckthorn,1
+2332,344,S,Buckthorn,1
+2339,386,N,Buckthorn,1
+2346,386,S,Buckthorn,1
+2353,387,N,Buckthorn,1
+2367,182,N,Buckthorn,1
+2374,182,S,Buckthorn,1
+2381,181,N,Buckthorn,1
+2388,181,S,Buckthorn,1
+2395,385,N,Buckthorn,1
+2402,385,S,Buckthorn,1
+2409,180,N,Buckthorn,1
+2416,180,S,Buckthorn,1
+2423,175,N,Buckthorn,1
+2430,175,S,Buckthorn,1
+2451,940,N,Buckthorn,1
+2458,940,S,Buckthorn,1
+2472,33,S,Buckthorn,1
+2479,29,N,Buckthorn,1
+2486,29,S,Buckthorn,1
+2493,32,N,Buckthorn,1
+2500,32,S,Buckthorn,1
+2507,36,N,Buckthorn,1
+2514,36,S,Buckthorn,1
+2521,37,N,Buckthorn,1
+2542,34,S,Buckthorn,1
+2549,28,N,Buckthorn,1
+2556,28,S,Buckthorn,1
+2563,51,N,Buckthorn,1
+2570,51,S,Buckthorn,1
+2577,45,N,Buckthorn,1
+2591,47,N,Buckthorn,1
+2598,47,S,Buckthorn,1
+2612,48,S,Buckthorn,1
+2633,61,N,Buckthorn,1
+2640,61,S,Buckthorn,1
+2661,57,N,Buckthorn,1
+2668,57,S,Buckthorn,1
+2682,62,S,Buckthorn,1
+2696,880,S,Buckthorn,1
+2703,69,N,Buckthorn,1
+2710,69,S,Buckthorn,1
+2717,70,N,Buckthorn,1
+2724,70,S,Buckthorn,1
+2731,64,N,Buckthorn,1
+2738,64,S,Buckthorn,1
+2745,895,N,Buckthorn,1
+2752,895,S,Buckthorn,1
+2759,111,N,Buckthorn,1
+2780,135,S,Buckthorn,1
+2801,859,N,Buckthorn,1
+2808,859,S,Buckthorn,1
+2815,90,N,Buckthorn,1
+2822,90,S,Buckthorn,1
+2829,91,N,Buckthorn,1
+2836,91,S,Buckthorn,1
+2843,85,N,Buckthorn,1
+2857,87,N,Buckthorn,1
+2864,87,S,Buckthorn,1
+2878,89,S,Buckthorn,1
+2885,81,N,Buckthorn,1
+2892,81,S,Buckthorn,1
+2899,80,N,Buckthorn,1
+2906,80,S,Buckthorn,1
+2920,86,S,Buckthorn,1
+2927,84,N,Buckthorn,1
+2934,84,S,Buckthorn,1
+2941,83,N,Buckthorn,1
+2948,83,S,Buckthorn,1
+2955,82,N,Buckthorn,1
+2962,82,S,Buckthorn,1
+2969,123,N,Buckthorn,1
+2983,124,N,Buckthorn,1
+3011,117,N,Buckthorn,1
+3018,117,S,Buckthorn,1
+3025,133,N,Buckthorn,1
+3032,133,S,Buckthorn,1
+3039,121,N,Buckthorn,1
+3046,121,S,Buckthorn,1
+3053,86,N,Buckthorn,1
+3060,86,S,Buckthorn,1
+3074,110,S,Buckthorn,1
+3081,109,N,Buckthorn,1
+3088,109,S,Buckthorn,1
+3095,95,N,Buckthorn,1
+3102,95,S,Buckthorn,1
+3123,881,N,Buckthorn,1
+3130,881,S,Buckthorn,1
+3137,884,N,Buckthorn,1
+3144,884,S,Buckthorn,1
+3151,73,N,Buckthorn,1
+3158,73,S,Buckthorn,1
+3172,79,S,Buckthorn,1
+3179,113,N,Buckthorn,1
+3193,116,N,Buckthorn,1
+3200,116,S,Buckthorn,1
+3207,94,N,Buckthorn,1
+3214,94,S,Buckthorn,1
+3242,122,S,Buckthorn,1
+3249,76,N,Buckthorn,1
+3256,76,S,Buckthorn,1
+3263,184,N,Buckthorn,1
+3277,179,N,Buckthorn,1
+3284,179,S,Buckthorn,1
+3298,183,S,Buckthorn,1
+3305,186,N,Buckthorn,1
+3312,186,S,Buckthorn,1
+3326,388,S,Buckthorn,1
+3333,194,N,Buckthorn,1
+3340,194,S,Buckthorn,1
+3354,98,S,Buckthorn,1
+3361,44,N,Buckthorn,1
+3375,874,N,Buckthorn,1
+3403,46,N,Buckthorn,1
+3410,46,S,Buckthorn,1
+3417,38,N,Buckthorn,1
+3424,38,S,Buckthorn,1
+3438,860,S,Buckthorn,1
+3445,39,N,Buckthorn,1
+3452,39,S,Buckthorn,1
+3459,50,N,Buckthorn,1
+3466,50,S,Buckthorn,1
+3480,71,S,Buckthorn,1
+3487,78,N,Buckthorn,1
+3494,78,S,Buckthorn,1
+3508,389,S,Buckthorn,1
+3515,22,N,Buckthorn,1
+3522,22,S,Buckthorn,1
+3529,27,N,Buckthorn,1
+3536,27,S,Buckthorn,1
+3571,59,N,Buckthorn,1
+3592,193,S,Buckthorn,1
+3606,172,S,Buckthorn,1
+3627,10,N,Buckthorn,1
+3634,10,S,Buckthorn,1
+3641,6,N,Buckthorn,1
+3648,6,S,Buckthorn,1
+3655,11,N,Buckthorn,1
+3662,11,S,Buckthorn,1
+3669,4,N,Buckthorn,1
+3683,167,N,Buckthorn,1
+3697,5,N,Buckthorn,1
+3704,5,S,Buckthorn,1
+3711,13,N,Buckthorn,1
+3718,13,S,Buckthorn,1
+3725,8,N,Buckthorn,1
+3732,8,S,Buckthorn,1
+3739,16,N,Buckthorn,1
+3746,16,S,Buckthorn,1
+3753,15,N,Buckthorn,1
+3760,15,S,Buckthorn,1
+3774,19,S,Buckthorn,1
+3781,20,N,Buckthorn,1
+3788,20,S,Buckthorn,1
+3795,145,N,Buckthorn,1
+3802,145,S,Buckthorn,1
+3809,18,N,Buckthorn,1
+3816,18,S,Buckthorn,1
+3830,173,S,Buckthorn,1
+3837,149,N,Buckthorn,1
+3858,150,S,Buckthorn,1
+3865,146,N,Buckthorn,1
+3872,146,S,Buckthorn,1
+3886,153,S,Buckthorn,1
+3893,147,N,Buckthorn,1
+3900,147,S,Buckthorn,1
+3907,148,N,Buckthorn,1
+3914,148,S,Buckthorn,1
+3921,63,N,Buckthorn,1
+3928,63,S,Buckthorn,1
+3935,152,N,Buckthorn,1
+3942,152,S,Buckthorn,1
+3949,930,N,Buckthorn,1
+3956,930,S,Buckthorn,1
+3970,55,S,Buckthorn,1
+3977,54,N,Buckthorn,1
+3984,54,S,Buckthorn,1
+4005,52,N,Buckthorn,1
+4012,52,S,Buckthorn,1
+4019,53,N,Buckthorn,1
+4026,53,S,Buckthorn,1
+4040,40,S,Buckthorn,1
+4047,65,N,Buckthorn,1
+4061,60,N,Buckthorn,1
+4068,60,S,Buckthorn,1
+4103,909,N,Buckthorn,1
+4110,909,S,Buckthorn,1
+4124,248,S,Buckthorn,1
+4138,925,S,Buckthorn,1
+4152,208,S,Buckthorn,1
+4166,203,S,Buckthorn,1
+4173,214,N,Buckthorn,1
+4201,915,N,Buckthorn,1
+4208,915,S,Buckthorn,1
+4215,211,N,Buckthorn,1
+4222,211,S,Buckthorn,1
+4229,250,N,Buckthorn,1
+4236,250,S,Buckthorn,1
+4257,161,N,Buckthorn,1
+4264,161,S,Buckthorn,1
+4271,211,N,Buckthorn,1
+4278,211,S,Buckthorn,1
+4285,914,N,Buckthorn,1
+4292,914,S,Buckthorn,1
+4306,160,S,Buckthorn,1
+4313,159,N,Buckthorn,1
+4320,159,S,Buckthorn,1
+4327,162,N,Buckthorn,1
+4334,162,S,Buckthorn,1
+4341,158,N,Buckthorn,1
+4348,158,S,Buckthorn,1
+4355,156,N,Buckthorn,1
+4362,156,S,Buckthorn,1
+4369,157,N,Buckthorn,1
+4376,157,S,Buckthorn,1
+4383,154,N,Buckthorn,1
+4390,154,S,Buckthorn,1
+4397,225,N,Buckthorn,1
+4404,225,S,Buckthorn,1
+4411,226,N,Buckthorn,1
+4418,226,S,Buckthorn,1
+4425,224,N,Buckthorn,1
+4439,223,N,Buckthorn,1
+4446,223,S,Buckthorn,1
+4495,217,N,Buckthorn,1
+4502,217,S,Buckthorn,1
+4509,215,N,Buckthorn,1
+4516,215,S,Buckthorn,1
+4523,212,N,Buckthorn,1
+4530,212,S,Buckthorn,1
+4537,209,N,Buckthorn,1
+4551,327,N,Buckthorn,1
+4565,321,N,Buckthorn,1
+4572,321,S,Buckthorn,1
+4579,322,N,Buckthorn,1
+4586,322,S,Buckthorn,1
+4600,323,S,Buckthorn,1
+4621,315,N,Buckthorn,1
+4628,315,S,Buckthorn,1
+4635,278,N,Buckthorn,1
+4649,318,N,Buckthorn,1
+4656,318,S,Buckthorn,1
+4663,312,N,Buckthorn,1
+4670,312,S,Buckthorn,1
+4677,317,N,Buckthorn,1
+4684,317,S,Buckthorn,1
+4698,328,S,Buckthorn,1
+4705,329,N,Buckthorn,1
+4712,329,S,Buckthorn,1
+4733,314,N,Buckthorn,1
+4740,314,S,Buckthorn,1
+4754,311,S,Buckthorn,1
+4782,313,S,Buckthorn,1
+4789,319,N,Buckthorn,1
+4796,319,S,Buckthorn,1
+4852,207,S,Buckthorn,1
+4859,901,N,Buckthorn,1
+4873,902,N,Buckthorn,1
+4880,902,S,Buckthorn,1
+4887,205,N,Buckthorn,1
+4908,204,S,Buckthorn,1
+4922,911,S,Buckthorn,1
+4936,913,S,Buckthorn,1
+4943,912,N,Buckthorn,1
+4950,912,S,Buckthorn,1
+4957,926,N,Buckthorn,1
+4964,926,S,Buckthorn,1
+4971,163,N,Buckthorn,1
+4978,163,S,Buckthorn,1
+4985,161,N,Buckthorn,1
+4992,161,S,Buckthorn,1
+4999,927,N,Buckthorn,1
+5020,216,S,Buckthorn,1
+5027,213,N,Buckthorn,1
+5034,213,S,Buckthorn,1
+5041,164,N,Buckthorn,1
+5048,164,S,Buckthorn,1
+5055,155,N,Buckthorn,1
+5062,155,S,Buckthorn,1
+5069,219,N,Buckthorn,1
+5076,219,S,Buckthorn,1
+5083,220,N,Buckthorn,1
+5090,220,S,Buckthorn,1
+5097,330,N,Buckthorn,1
+5104,330,S,Buckthorn,1
+5111,339,N,Buckthorn,1
+5118,339,S,Buckthorn,1
+5125,341,N,Buckthorn,1
+5132,341,S,Buckthorn,1
+5146,342,S,Buckthorn,1
+5153,363,N,Buckthorn,1
+5160,363,S,Buckthorn,1
+5167,354,N,Buckthorn,1
+5174,354,S,Buckthorn,1
+5188,360,S,Buckthorn,1
+5195,333,N,Buckthorn,1
+5202,333,S,Buckthorn,1
+5209,326,N,Buckthorn,1
+5216,326,S,Buckthorn,1
+5223,336,N,Buckthorn,1
+5230,336,S,Buckthorn,1
+5244,325,S,Buckthorn,1
+5258,337,S,Buckthorn,1
+5265,340,N,Buckthorn,1
+5272,340,S,Buckthorn,1
+5279,358,N,Buckthorn,1
+5286,358,S,Buckthorn,1
+5300,335,S,Buckthorn,1
+5307,343,N,Buckthorn,1
+5314,343,S,Buckthorn,1
+5321,331,N,Buckthorn,1
+5328,331,S,Buckthorn,1
+5335,338,N,Buckthorn,1
+5342,338,S,Buckthorn,1
+5349,350,N,Buckthorn,1
+5356,350,S,Buckthorn,1
+5370,239,S,Buckthorn,1
+5377,237,N,Buckthorn,1
+5405,247,N,Buckthorn,1
+5412,247,S,Buckthorn,1
+5419,238,N,Buckthorn,1
+5426,238,S,Buckthorn,1
+5433,242,N,Buckthorn,1
+5440,242,S,Buckthorn,1
+5454,231,S,Buckthorn,1
+5475,249,N,Buckthorn,1
+5482,249,S,Buckthorn,1
+5489,241,N,Buckthorn,1
+5496,241,S,Buckthorn,1
+5503,232,N,Buckthorn,1
+5510,232,S,Buckthorn,1
+5517,233,N,Buckthorn,1
+5524,233,S,Buckthorn,1
+5559,244,N,Buckthorn,1
+5566,244,S,Buckthorn,1
+5573,235,N,Buckthorn,1
+5580,235,S,Buckthorn,1
+5587,234,N,Buckthorn,1
+5594,234,S,Buckthorn,1
+5601,240,N,Buckthorn,1
+5608,240,S,Buckthorn,1
+5622,227,S,Buckthorn,1
+5643,228,N,Buckthorn,1
+5650,228,S,Buckthorn,1
+5720,406,S,Buckthorn,1
+5811,407,N,Buckthorn,1
+5825,357,N,Buckthorn,1
+5839,355,N,Buckthorn,1
+5846,355,S,Buckthorn,1
+5867,353,N,Buckthorn,1
+5874,353,S,Buckthorn,1
+5881,356,N,Buckthorn,1
+5888,356,S,Buckthorn,1
+5895,362,N,Buckthorn,1
+5902,362,S,Buckthorn,1
+5909,349,N,Buckthorn,1
+5916,349,S,Buckthorn,1
+5944,365,S,Buckthorn,1
+5951,361,N,Buckthorn,1
+5958,361,S,Buckthorn,1
+5972,347,S,Buckthorn,1
+6007,276,N,Buckthorn,1
+6014,276,S,Buckthorn,1
+6028,285,S,Buckthorn,1
+6035,281,N,Buckthorn,1
+6042,281,S,Buckthorn,1
+6056,284,S,Buckthorn,1
+6077,368,N,Buckthorn,1
+6084,368,S,Buckthorn,1
+6105,366,N,Buckthorn,1
+6119,352,N,Buckthorn,1
+6126,352,S,Buckthorn,1
+6133,905,N,Buckthorn,1
+6147,903,N,Buckthorn,1
+6161,904,N,Buckthorn,1
+6175,273,N,Buckthorn,1
+6203,280,N,Buckthorn,1
+6217,251,N,Buckthorn,1
+6224,251,S,Buckthorn,1
+6231,279,N,Buckthorn,1
+6238,279,S,Buckthorn,1
+6245,277,N,Buckthorn,1
+6252,277,S,Buckthorn,1
+6259,283,N,Buckthorn,1
+6266,283,S,Buckthorn,1
+6273,229,N,Buckthorn,1
+6280,229,S,Buckthorn,1
+6287,236,N,Buckthorn,1
+6294,236,S,Buckthorn,1
+6301,275,N,Buckthorn,1
+6308,275,S,Buckthorn,1
+6315,286,N,Buckthorn,1
+6322,286,S,Buckthorn,1
+6329,274,N,Buckthorn,1
+6336,274,S,Buckthorn,1
+78,120,S,Buckthorn,0
+176,118,S,Buckthorn,0
+309,345,N,Buckthorn,0
+316,345,S,Buckthorn,0
+330,289,S,Buckthorn,0
+393,378,N,Buckthorn,0
+400,378,S,Buckthorn,0
+428,304,S,Buckthorn,0
+442,303,S,Buckthorn,0
+519,392,N,Buckthorn,0
+533,393,N,Buckthorn,0
+540,393,S,Buckthorn,0
+547,305,N,Buckthorn,0
+561,378,N,Buckthorn,0
+568,378,S,Buckthorn,0
+575,306,N,Buckthorn,0
+673,292,N,Buckthorn,0
+680,292,S,Buckthorn,0
+687,290,N,Buckthorn,0
+694,290,S,Buckthorn,0
+757,261,N,Buckthorn,0
+764,261,S,Buckthorn,0
+771,886,N,Buckthorn,0
+778,886,S,Buckthorn,0
+785,191,N,Buckthorn,0
+827,397,N,Buckthorn,0
+883,263,N,Buckthorn,0
+890,263,S,Buckthorn,0
+904,256,S,Buckthorn,0
+911,270,N,Buckthorn,0
+918,270,S,Buckthorn,0
+932,187,S,Buckthorn,0
+946,260,S,Buckthorn,0
+953,262,N,Buckthorn,0
+960,262,S,Buckthorn,0
+967,264,N,Buckthorn,0
+974,264,S,Buckthorn,0
+981,265,N,Buckthorn,0
+988,265,S,Buckthorn,0
+995,266,N,Buckthorn,0
+1002,266,S,Buckthorn,0
+1009,398,N,Buckthorn,0
+1016,398,S,Buckthorn,0
+1023,200,N,Buckthorn,0
+1030,200,S,Buckthorn,0
+1037,269,N,Buckthorn,0
+1044,269,S,Buckthorn,0
+1051,394,N,Buckthorn,0
+1058,394,S,Buckthorn,0
+1086,969,S,Buckthorn,0
+1107,395,N,Buckthorn,0
+1135,929,N,Buckthorn,0
+1142,929,S,Buckthorn,0
+1149,307,N,Buckthorn,0
+1156,307,S,Buckthorn,0
+1247,288,N,Buckthorn,0
+1289,199,N,Buckthorn,0
+1443,300,N,Buckthorn,0
+1485,898,N,Buckthorn,0
+1499,885,N,Buckthorn,0
+1513,310,N,Buckthorn,0
+1520,310,S,Buckthorn,0
+1527,889,N,Buckthorn,0
+1534,889,S,Buckthorn,0
+1611,77,N,Buckthorn,0
+1646,67,S,Buckthorn,0
+1709,24,N,Buckthorn,0
+1716,24,S,Buckthorn,0
+1744,30,S,Buckthorn,0
+1751,42,N,Buckthorn,0
+1765,41,N,Buckthorn,0
+1891,132,N,Buckthorn,0
+1898,132,S,Buckthorn,0
+1905,174,N,Buckthorn,0
+1912,174,S,Buckthorn,0
+1947,14,N,Buckthorn,0
+1954,14,S,Buckthorn,0
+1982,201,S,Buckthorn,0
+1996,202,S,Buckthorn,0
+2003,139,N,Buckthorn,0
+2010,139,S,Buckthorn,0
+2017,140,N,Buckthorn,0
+2024,140,S,Buckthorn,0
+2031,134,N,Buckthorn,0
+2038,134,S,Buckthorn,0
+2080,137,S,Buckthorn,0
+2087,861,N,Buckthorn,0
+2094,861,S,Buckthorn,0
+2101,136,N,Buckthorn,0
+2108,136,S,Buckthorn,0
+2143,131,N,Buckthorn,0
+2150,131,S,Buckthorn,0
+2164,129,S,Buckthorn,0
+2262,857,S,Buckthorn,0
+2269,1,N,Buckthorn,0
+2290,141,S,Buckthorn,0
+2437,384,N,Buckthorn,0
+2465,33,N,Buckthorn,0
+2528,37,S,Buckthorn,0
+2535,34,N,Buckthorn,0
+2605,48,N,Buckthorn,0
+2619,49,N+BB325,Buckthorn,0
+2626,49,S,Buckthorn,0
+2766,111,S,Buckthorn,0
+2773,135,N,Buckthorn,0
+2787,100,N,Buckthorn,0
+2794,100,S,Buckthorn,0
+2913,86,N,Buckthorn,0
+2976,123,S,Buckthorn,0
+2990,124,S,Buckthorn,0
+2997,142,N,Buckthorn,0
+3004,142,S,Buckthorn,0
+3109,295,N,Buckthorn,0
+3116,295,S,Buckthorn,0
+3221,888,N,Buckthorn,0
+3228,888,S,Buckthorn,0
+3235,122,N,Buckthorn,0
+3368,44,S,Buckthorn,0
+3382,874,S,Buckthorn,0
+3389,43,N,Buckthorn,0
+3396,43,S,Buckthorn,0
+3431,860,N,Buckthorn,0
+3501,389,N,Buckthorn,0
+3543,35,N,Buckthorn,0
+3550,35,S,Buckthorn,0
+3564,25,S,Buckthorn,0
+3676,4,S,Buckthorn,0
+3690,167,S,Buckthorn,0
+3767,19,N,Buckthorn,0
+3823,173,N,Buckthorn,0
+3844,149,S,Buckthorn,0
+3851,150,N,Buckthorn,0
+3963,55,N,Buckthorn,0
+3991,151,N,Buckthorn,0
+3998,151,S,Buckthorn,0
+4033,40,N,Buckthorn,0
+4089,910,N,Buckthorn,0
+4096,910,S,Buckthorn,0
+4117,248,N,Buckthorn,0
+4131,925,N,Buckthorn,0
+4145,208,N,Buckthorn,0
+4159,203,N,Buckthorn,0
+4180,214,S,Buckthorn,0
+4187,210,N,Buckthorn,0
+4194,210,S,Buckthorn,0
+4299,160,N,Buckthorn,0
+4432,224,S,Buckthorn,0
+4453,221,N,Buckthorn,0
+4460,221,S,Buckthorn,0
+4467,222,N,Buckthorn,0
+4474,222,S,Buckthorn,0
+4481,218,N,Buckthorn,0
+4488,218,S,Buckthorn,0
+4544,209,S,Buckthorn,0
+4558,327,S,Buckthorn,0
+4747,311,N,Buckthorn,0
+4845,207,N,Buckthorn,0
+4866,901,S,Buckthorn,0
+4894,205,S,Buckthorn,0
+4915,911,N,Buckthorn,0
+4929,913,N,Buckthorn,0
+5006,927,S,Buckthorn,0
+5013,216,N,Buckthorn,0
+5181,360,N,Buckthorn,0
+5237,325,N,Buckthorn,0
+5251,337,N,Buckthorn,0
+5293,335,N,Buckthorn,0
+5363,239,N,Buckthorn,0
+5384,237,S,Buckthorn,0
+5447,231,N,Buckthorn,0
+5461,246,N,Buckthorn,0
+5468,246,S,Buckthorn,0
+5615,227,N,Buckthorn,0
+5636,230,S,Buckthorn,0
+5657,401,N,Buckthorn,0
+5664,401,S,Buckthorn,0
+5671,402,N,Buckthorn,0
+5678,402,S,Buckthorn,0
+5685,403,N,Buckthorn,0
+5692,403,S,Buckthorn,0
+5699,404,N,Buckthorn,0
+5706,404,S,Buckthorn,0
+5713,406,N,Buckthorn,0
+5727,405,N,Buckthorn,0
+5734,405,S,Buckthorn,0
+5741,408,N,Buckthorn,0
+5748,408,S,Buckthorn,0
+5755,410,N,Buckthorn,0
+5762,410,S,Buckthorn,0
+5769,409,N,Buckthorn,0
+5776,409,S,Buckthorn,0
+5783,412,N,Buckthorn,0
+5790,412,S,Buckthorn,0
+5797,411,N,Buckthorn,0
+5804,411,S,Buckthorn,0
+5818,407,S,Buckthorn,0
+5832,357,S,Buckthorn,0
+5923,364,N,Buckthorn,0
+5930,364,S,Buckthorn,0
+6021,285,N,Buckthorn,0
+6049,284,N,Buckthorn,0
+6063,367,N,Buckthorn,0
+6070,367,S,Buckthorn,0
+6091,369,N,Buckthorn,0
+6098,369,S,Buckthorn,0
+6112,366,S,Buckthorn,0
+6182,273,S,Buckthorn,0
+6189,288,N,Buckthorn,0
+6196,288,S,Buckthorn,0
+6210,280,S,Buckthorn,0
+6343,287,N,Buckthorn,0
+6350,287,S,Buckthorn,0
+207,178,S,Honeysuckle,3
+648,259,N,Honeysuckle,3
+5450,231,N,Honeysuckle,3
+186,931,N,Honeysuckle,2
+193,931,S,Honeysuckle,2
+396,378,N,Honeysuckle,2
+480,379,N,Honeysuckle,2
+655,259,S,Honeysuckle,2
+1201,102,S,Honeysuckle,2
+1768,41,N,Honeysuckle,2
+2153,131,S,Honeysuckle,2
+3868,146,N,Honeysuckle,2
+4757,311,S,Honeysuckle,2
+4911,204,S,Honeysuckle,2
+5100,330,N,Honeysuckle,2
+5121,339,S,Honeysuckle,2
+5135,341,S,Honeysuckle,2
+5149,342,S,Honeysuckle,2
+5457,231,S,Honeysuckle,2
+5485,249,S,Honeysuckle,2
+6038,281,N,Honeysuckle,2
+6206,280,N,Honeysuckle,2
+11,165,S,Honeysuckle,1
+32,104,N,Honeysuckle,1
+39,104,S,Honeysuckle,1
+46,125,N,Honeysuckle,1
+67,112,S,Honeysuckle,1
+81,120,S,Honeysuckle,1
+116,119,N,Honeysuckle,1
+123,119,S,Honeysuckle,1
+130,106,N,Honeysuckle,1
+137,106,S,Honeysuckle,1
+144,107,N,Honeysuckle,1
+158,108,N,Honeysuckle,1
+165,108,S,Honeysuckle,1
+200,178,N,Honeysuckle,1
+214,936,N,Honeysuckle,1
+228,377,N,Honeysuckle,1
+249,981,S,Honeysuckle,1
+256,195,N,Honeysuckle,1
+263,195,S,Honeysuckle,1
+270,192,N,Honeysuckle,1
+277,192,S,Honeysuckle,1
+326,289,N,Honeysuckle,1
+333,289,S,Honeysuckle,1
+368,381,N,Honeysuckle,1
+375,381,S,Honeysuckle,1
+382,380,N,Honeysuckle,1
+417,961,S,Honeysuckle,1
+438,303,N,Honeysuckle,1
+445,303,S,Honeysuckle,1
+452,302,N,Honeysuckle,1
+459,302,S,Honeysuckle,1
+466,301,N,Honeysuckle,1
+473,301,S,Honeysuckle,1
+494,383,N,Honeysuckle,1
+501,383,S,Honeysuckle,1
+508,382,N,Honeysuckle,1
+599,375,S,Honeysuckle,1
+1019,398,S,Honeysuckle,1
+1124,883,N,Honeysuckle,1
+1131,883,S,Honeysuckle,1
+1166,999,N,Honeysuckle,1
+1180,143,N,Honeysuckle,1
+1194,102,N,Honeysuckle,1
+1208,105,N,Honeysuckle,1
+1264,399,N,Honeysuckle,1
+1313,894,S,Honeysuckle,1
+1320,371,N,Honeysuckle,1
+1327,371,S,Honeysuckle,1
+1341,253,S,Honeysuckle,1
+1348,272,N,Honeysuckle,1
+1355,272,S,Honeysuckle,1
+1460,198,N,Honeysuckle,1
+1467,198,S,Honeysuckle,1
+1502,885,N,Honeysuckle,1
+1565,252,S,Honeysuckle,1
+1593,893,S,Honeysuckle,1
+1635,66,S,Honeysuckle,1
+1656,75,N,Honeysuckle,1
+1663,75,S,Honeysuckle,1
+1677,72,S,Honeysuckle,1
+1726,26,N,Honeysuckle,1
+1747,30,S,Honeysuckle,1
+1775,41,S,Honeysuckle,1
+1929,9,S,Honeysuckle,1
+1950,14,N,Honeysuckle,1
+2132,128,N,Honeysuckle,1
+2139,128,S,Honeysuckle,1
+2160,129,N,Honeysuckle,1
+2188,7,N,Honeysuckle,1
+2202,17,N,Honeysuckle,1
+2209,17,S,Honeysuckle,1
+2216,12,N,Honeysuckle,1
+2251,166,S,Honeysuckle,1
+2307,390,S,Honeysuckle,1
+2363,387,S,Honeysuckle,1
+2377,182,S,Honeysuckle,1
+2405,385,S,Honeysuckle,1
+2440,384,N,Honeysuckle,1
+2496,32,N,Honeysuckle,1
+2538,34,N,Honeysuckle,1
+2573,51,S,Honeysuckle,1
+2587,45,S,Honeysuckle,1
+2664,57,N,Honeysuckle,1
+2748,895,N,Honeysuckle,1
+2846,85,N,Honeysuckle,1
+2853,85,S,Honeysuckle,1
+2874,89,N,Honeysuckle,1
+2937,84,S,Honeysuckle,1
+3014,117,N,Honeysuckle,1
+3021,117,S,Honeysuckle,1
+3028,133,N,Honeysuckle,1
+3035,133,S,Honeysuckle,1
+3070,110,N,Honeysuckle,1
+3084,109,N,Honeysuckle,1
+3091,109,S,Honeysuckle,1
+3098,95,N,Honeysuckle,1
+3133,881,S,Honeysuckle,1
+3161,73,S,Honeysuckle,1
+3182,113,N,Honeysuckle,1
+3238,122,N,Honeysuckle,1
+3280,179,N,Honeysuckle,1
+3287,179,S,Honeysuckle,1
+3294,183,N,Honeysuckle,1
+3315,186,S,Honeysuckle,1
+3350,98,N,Honeysuckle,1
+3364,44,N,Honeysuckle,1
+3378,874,N,Honeysuckle,1
+3420,38,N,Honeysuckle,1
+3504,389,N,Honeysuckle,1
+3525,22,S,Honeysuckle,1
+3532,27,N,Honeysuckle,1
+3553,35,S,Honeysuckle,1
+3595,193,S,Honeysuckle,1
+3616,391,N,Honeysuckle,1
+3742,16,N,Honeysuckle,1
+3819,18,S,Honeysuckle,1
+3833,173,S,Honeysuckle,1
+3875,146,S,Honeysuckle,1
+3896,147,N,Honeysuckle,1
+3903,147,S,Honeysuckle,1
+3910,148,N,Honeysuckle,1
+3924,63,N,Honeysuckle,1
+3931,63,S,Honeysuckle,1
+3952,930,N,Honeysuckle,1
+3959,930,S,Honeysuckle,1
+3980,54,N,Honeysuckle,1
+4071,60,S,Honeysuckle,1
+4120,248,N,Honeysuckle,1
+4127,248,S,Honeysuckle,1
+4148,208,N,Honeysuckle,1
+4162,203,N,Honeysuckle,1
+4176,214,N,Honeysuckle,1
+4197,210,S,Honeysuckle,1
+4204,915,N,Honeysuckle,1
+4211,915,S,Honeysuckle,1
+4232,250,N,Honeysuckle,1
+4239,250,S,Honeysuckle,1
+4316,159,N,Honeysuckle,1
+4358,156,N,Honeysuckle,1
+4372,157,N,Honeysuckle,1
+4386,154,N,Honeysuckle,1
+4400,225,N,Honeysuckle,1
+4442,223,N,Honeysuckle,1
+4449,223,S,Honeysuckle,1
+4561,327,S,Honeysuckle,1
+4568,321,N,Honeysuckle,1
+4631,315,S,Honeysuckle,1
+4652,318,N,Honeysuckle,1
+4666,312,N,Honeysuckle,1
+4673,312,S,Honeysuckle,1
+4708,329,N,Honeysuckle,1
+4722,320,N,Honeysuckle,1
+4729,320,S,Honeysuckle,1
+4736,314,N,Honeysuckle,1
+4743,314,S,Honeysuckle,1
+4778,313,N,Honeysuckle,1
+4785,313,S,Honeysuckle,1
+4799,319,S,Honeysuckle,1
+4932,913,N,Honeysuckle,1
+5051,164,S,Honeysuckle,1
+5107,330,S,Honeysuckle,1
+5114,339,N,Honeysuckle,1
+5177,354,S,Honeysuckle,1
+5240,325,N,Honeysuckle,1
+5247,325,S,Honeysuckle,1
+5254,337,N,Honeysuckle,1
+5261,337,S,Honeysuckle,1
+5282,358,N,Honeysuckle,1
+5289,358,S,Honeysuckle,1
+5296,335,N,Honeysuckle,1
+5331,331,S,Honeysuckle,1
+5359,350,S,Honeysuckle,1
+5387,237,S,Honeysuckle,1
+5408,247,N,Honeysuckle,1
+5471,246,S,Honeysuckle,1
+5478,249,N,Honeysuckle,1
+5506,232,N,Honeysuckle,1
+5520,233,N,Honeysuckle,1
+5534,243,N,Honeysuckle,1
+5541,243,S,Honeysuckle,1
+5548,245,N,Honeysuckle,1
+5555,245,S,Honeysuckle,1
+5583,235,S,Honeysuckle,1
+5632,230,N,Honeysuckle,1
+5821,407,S,Honeysuckle,1
+5968,347,N,Honeysuckle,1
+5982,348,N,Honeysuckle,1
+6003,351,S,Honeysuckle,1
+6017,276,S,Honeysuckle,1
+6045,281,S,Honeysuckle,1
+6122,352,N,Honeysuckle,1
+6220,251,N,Honeysuckle,1
+6276,229,N,Honeysuckle,1
+6304,275,N,Honeysuckle,1
+4,165,N,Honeysuckle,0
+18,103,N,Honeysuckle,0
+25,103,S,Honeysuckle,0
+53,125,S,Honeysuckle,0
+60,112,N,Honeysuckle,0
+74,120,N,Honeysuckle,0
+88,114,N,Honeysuckle,0
+95,114,S,Honeysuckle,0
+102,115,N,Honeysuckle,0
+109,115,S,Honeysuckle,0
+151,107,S,Honeysuckle,0
+172,118,N,Honeysuckle,0
+179,118,S,Honeysuckle,0
+221,936,S,Honeysuckle,0
+235,377,S,Honeysuckle,0
+242,981,N,Honeysuckle,0
+284,291,N,Honeysuckle,0
+291,291,S,Honeysuckle,0
+298,185,N,Honeysuckle,0
+305,185,S,Honeysuckle,0
+312,345,N,Honeysuckle,0
+319,345,S,Honeysuckle,0
+340,996,N,Honeysuckle,0
+347,996,S,Honeysuckle,0
+354,897,N,Honeysuckle,0
+361,897,S,Honeysuckle,0
+389,380,S,Honeysuckle,0
+403,378,S,Honeysuckle,0
+410,961,N,Honeysuckle,0
+424,304,N,Honeysuckle,0
+431,304,S,Honeysuckle,0
+487,379,S,Honeysuckle,0
+515,382,S,Honeysuckle,0
+522,392,N,Honeysuckle,0
+529,392,S,Honeysuckle,0
+536,393,N,Honeysuckle,0
+543,393,S,Honeysuckle,0
+550,305,N,Honeysuckle,0
+557,305,S,Honeysuckle,0
+564,378,N,Honeysuckle,0
+571,378,S,Honeysuckle,0
+578,306,N,Honeysuckle,0
+585,306,S,Honeysuckle,0
+592,375,N,Honeysuckle,0
+606,255,N,Honeysuckle,0
+613,255,S,Honeysuckle,0
+620,254,N,Honeysuckle,0
+627,254,S,Honeysuckle,0
+634,197,N,Honeysuckle,0
+641,197,S,Honeysuckle,0
+662,373,N,Honeysuckle,0
+669,373,S,Honeysuckle,0
+676,292,N,Honeysuckle,0
+683,292,S,Honeysuckle,0
+690,290,N,Honeysuckle,0
+697,290,S,Honeysuckle,0
+704,376,N,Honeysuckle,0
+711,376,S,Honeysuckle,0
+718,374,N,Honeysuckle,0
+725,374,S,Honeysuckle,0
+732,882,N,Honeysuckle,0
+739,882,S,Honeysuckle,0
+746,196,N,Honeysuckle,0
+753,196,S,Honeysuckle,0
+760,261,N,Honeysuckle,0
+767,261,S,Honeysuckle,0
+774,886,N,Honeysuckle,0
+781,886,S,Honeysuckle,0
+788,191,N,Honeysuckle,0
+795,191,S,Honeysuckle,0
+802,190,N,Honeysuckle,0
+809,190,S,Honeysuckle,0
+816,890,N,Honeysuckle,0
+823,890,S,Honeysuckle,0
+830,397,N,Honeysuckle,0
+837,397,S,Honeysuckle,0
+844,396,N,Honeysuckle,0
+851,396,S,Honeysuckle,0
+858,296,N,Honeysuckle,0
+865,296,S,Honeysuckle,0
+872,891,N,Honeysuckle,0
+879,891,S,Honeysuckle,0
+886,263,N,Honeysuckle,0
+893,263,S,Honeysuckle,0
+900,256,N,Honeysuckle,0
+907,256,S,Honeysuckle,0
+914,270,N,Honeysuckle,0
+921,270,S,Honeysuckle,0
+928,187,N,Honeysuckle,0
+935,187,S,Honeysuckle,0
+942,260,N,Honeysuckle,0
+949,260,S,Honeysuckle,0
+956,262,N,Honeysuckle,0
+963,262,S,Honeysuckle,0
+970,264,N,Honeysuckle,0
+977,264,S,Honeysuckle,0
+984,265,N,Honeysuckle,0
+991,265,S,Honeysuckle,0
+998,266,N,Honeysuckle,0
+1005,266,S,Honeysuckle,0
+1012,398,N,Honeysuckle,0
+1026,200,N,Honeysuckle,0
+1033,200,S,Honeysuckle,0
+1040,269,N,Honeysuckle,0
+1047,269,S,Honeysuckle,0
+1054,394,N,Honeysuckle,0
+1061,394,S,Honeysuckle,0
+1068,309,N,Honeysuckle,0
+1075,309,S,Honeysuckle,0
+1082,969,N,Honeysuckle,0
+1089,969,S,Honeysuckle,0
+1096,308,N,Honeysuckle,0
+1103,308,S,Honeysuckle,0
+1110,395,N,Honeysuckle,0
+1117,395,S,Honeysuckle,0
+1138,929,N,Honeysuckle,0
+1145,929,S,Honeysuckle,0
+1152,307,N,Honeysuckle,0
+1159,307,S,Honeysuckle,0
+1173,999,S,Honeysuckle,0
+1187,143,S,Honeysuckle,0
+1215,105,S,Honeysuckle,0
+1222,189,N,Honeysuckle,0
+1229,189,S,Honeysuckle,0
+1236,258,N,Honeysuckle,0
+1243,258,S,Honeysuckle,0
+1250,288,N,Honeysuckle,0
+1257,288,S,Honeysuckle,0
+1271,399,S,Honeysuckle,0
+1278,372,N,Honeysuckle,0
+1285,372,S,Honeysuckle,0
+1292,199,N,Honeysuckle,0
+1299,199,S,Honeysuckle,0
+1306,894,N,Honeysuckle,0
+1334,253,N,Honeysuckle,0
+1362,293,N,Honeysuckle,0
+1369,293,S,Honeysuckle,0
+1376,299,N,Honeysuckle,0
+1383,299,S,Honeysuckle,0
+1390,257,N,Honeysuckle,0
+1397,257,S,Honeysuckle,0
+1404,188,N,Honeysuckle,0
+1411,188,S,Honeysuckle,0
+1418,346,N,Honeysuckle,0
+1425,346,S,Honeysuckle,0
+1432,864,N,Honeysuckle,0
+1439,864,S,Honeysuckle,0
+1446,300,N,Honeysuckle,0
+1453,300,S,Honeysuckle,0
+1474,297,N,Honeysuckle,0
+1481,297,S,Honeysuckle,0
+1488,898,N,Honeysuckle,0
+1495,898,S,Honeysuckle,0
+1509,885,S,Honeysuckle,0
+1516,310,N,Honeysuckle,0
+1523,310,S,Honeysuckle,0
+1530,889,N,Honeysuckle,0
+1537,889,S,Honeysuckle,0
+1544,74,N,Honeysuckle,0
+1551,74,S,Honeysuckle,0
+1558,252,N,Honeysuckle,0
+1572,400,N,Honeysuckle,0
+1579,400,S,Honeysuckle,0
+1586,893,N,Honeysuckle,0
+1600,892,N,Honeysuckle,0
+1607,892,S,Honeysuckle,0
+1614,77,N,Honeysuckle,0
+1621,77,S,Honeysuckle,0
+1628,66,N,Honeysuckle,0
+1642,67,N,Honeysuckle,0
+1649,67,S,Honeysuckle,0
+1670,72,N,Honeysuckle,0
+1684,68,N,Honeysuckle,0
+1691,68,S,Honeysuckle,0
+1698,31,N,Honeysuckle,0
+1705,31,S,Honeysuckle,0
+1712,24,N,Honeysuckle,0
+1719,24,S,Honeysuckle,0
+1733,26,S,Honeysuckle,0
+1740,30,N,Honeysuckle,0
+1754,42,N,Honeysuckle,0
+1761,42,S,Honeysuckle,0
+1782,93,N,Honeysuckle,0
+1789,93,S,Honeysuckle,0
+1796,99,N,Honeysuckle,0
+1803,99,S,Honeysuckle,0
+1810,97,N,Honeysuckle,0
+1817,97,S,Honeysuckle,0
+1824,92,N,Honeysuckle,0
+1831,92,S,Honeysuckle,0
+1838,900,N,Honeysuckle,0
+1845,900,S,Honeysuckle,0
+1852,88,N,Honeysuckle,0
+1859,88,S,Honeysuckle,0
+1866,3,N,Honeysuckle,0
+1873,3,S,Honeysuckle,0
+1880,21,N,Honeysuckle,0
+1887,21,S,Honeysuckle,0
+1894,132,N,Honeysuckle,0
+1901,132,S,Honeysuckle,0
+1908,174,N,Honeysuckle,0
+1915,174,S,Honeysuckle,0
+1922,9,N,Honeysuckle,0
+1936,176,N,Honeysuckle,0
+1943,176,S,Honeysuckle,0
+1957,14,S,Honeysuckle,0
+1964,138,N,Honeysuckle,0
+1971,138,S,Honeysuckle,0
+1978,201,N,Honeysuckle,0
+1985,201,S,Honeysuckle,0
+1992,202,N,Honeysuckle,0
+1999,202,S,Honeysuckle,0
+2006,139,N,Honeysuckle,0
+2013,139,S,Honeysuckle,0
+2020,140,N,Honeysuckle,0
+2027,140,S,Honeysuckle,0
+2034,134,N,Honeysuckle,0
+2041,134,S,Honeysuckle,0
+2048,126,N,Honeysuckle,0
+2055,126,S,Honeysuckle,0
+2062,127,N,Honeysuckle,0
+2069,127,S,Honeysuckle,0
+2076,137,N,Honeysuckle,0
+2083,137,S,Honeysuckle,0
+2090,861,N,Honeysuckle,0
+2097,861,S,Honeysuckle,0
+2104,136,N,Honeysuckle,0
+2111,136,S,Honeysuckle,0
+2118,130,N,Honeysuckle,0
+2125,130,S,Honeysuckle,0
+2146,131,N,Honeysuckle,0
+2167,129,S,Honeysuckle,0
+2174,2,N,Honeysuckle,0
+2181,2,S,Honeysuckle,0
+2195,7,S,Honeysuckle,0
+2223,12,S,Honeysuckle,0
+2230,23,N,Honeysuckle,0
+2237,23,S,Honeysuckle,0
+2244,166,N,Honeysuckle,0
+2258,857,N,Honeysuckle,0
+2265,857,S,Honeysuckle,0
+2272,1,N,Honeysuckle,0
+2279,1,S,Honeysuckle,0
+2286,141,N,Honeysuckle,0
+2293,141,S,Honeysuckle,0
+2300,390,N,Honeysuckle,0
+2314,177,N,Honeysuckle,0
+2321,177,S,Honeysuckle,0
+2328,344,N,Honeysuckle,0
+2335,344,S,Honeysuckle,0
+2342,386,N,Honeysuckle,0
+2349,386,S,Honeysuckle,0
+2356,387,N,Honeysuckle,0
+2370,182,N,Honeysuckle,0
+2384,181,N,Honeysuckle,0
+2391,181,S,Honeysuckle,0
+2398,385,N,Honeysuckle,0
+2412,180,N,Honeysuckle,0
+2419,180,S,Honeysuckle,0
+2426,175,N,Honeysuckle,0
+2433,175,S,Honeysuckle,0
+2447,384,S,Honeysuckle,0
+2454,940,N,Honeysuckle,0
+2461,940,S,Honeysuckle,0
+2468,33,N,Honeysuckle,0
+2475,33,S,Honeysuckle,0
+2482,29,N,Honeysuckle,0
+2489,29,S,Honeysuckle,0
+2503,32,S,Honeysuckle,0
+2510,36,N,Honeysuckle,0
+2517,36,S,Honeysuckle,0
+2524,37,N,Honeysuckle,0
+2531,37,S,Honeysuckle,0
+2545,34,S,Honeysuckle,0
+2552,28,N,Honeysuckle,0
+2559,28,S,Honeysuckle,0
+2566,51,N,Honeysuckle,0
+2580,45,N,Honeysuckle,0
+2594,47,N,Honeysuckle,0
+2601,47,S,Honeysuckle,0
+2608,48,N,Honeysuckle,0
+2615,48,S,Honeysuckle,0
+2622,49,N,Honeysuckle,0
+2629,49,S,Honeysuckle,0
+2636,61,N,Honeysuckle,0
+2643,61,S,Honeysuckle,0
+2650,58,N,Honeysuckle,0
+2657,58,S,Honeysuckle,0
+2671,57,S,Honeysuckle,0
+2678,62,N,Honeysuckle,0
+2685,62,S,Honeysuckle,0
+2692,880,N,Honeysuckle,0
+2699,880,S,Honeysuckle,0
+2706,69,N,Honeysuckle,0
+2713,69,S,Honeysuckle,0
+2720,70,N,Honeysuckle,0
+2727,70,S,Honeysuckle,0
+2734,64,N,Honeysuckle,0
+2741,64,S,Honeysuckle,0
+2755,895,S,Honeysuckle,0
+2762,111,N,Honeysuckle,0
+2769,111,S,Honeysuckle,0
+2776,135,N,Honeysuckle,0
+2783,135,S,Honeysuckle,0
+2790,100,N,Honeysuckle,0
+2797,100,S,Honeysuckle,0
+2804,859,N,Honeysuckle,0
+2811,859,S,Honeysuckle,0
+2818,90,N,Honeysuckle,0
+2825,90,S,Honeysuckle,0
+2832,91,N,Honeysuckle,0
+2839,91,S,Honeysuckle,0
+2860,87,N,Honeysuckle,0
+2867,87,S,Honeysuckle,0
+2881,89,S,Honeysuckle,0
+2888,81,N,Honeysuckle,0
+2895,81,S,Honeysuckle,0
+2902,80,N,Honeysuckle,0
+2909,80,S,Honeysuckle,0
+2916,86,N,Honeysuckle,0
+2923,86,S,Honeysuckle,0
+2930,84,N,Honeysuckle,0
+2944,83,N,Honeysuckle,0
+2951,83,S,Honeysuckle,0
+2958,82,N,Honeysuckle,0
+2965,82,S,Honeysuckle,0
+2972,123,N,Honeysuckle,0
+2979,123,S,Honeysuckle,0
+2986,124,N,Honeysuckle,0
+2993,124,S,Honeysuckle,0
+3000,142,N,Honeysuckle,0
+3007,142,S,Honeysuckle,0
+3042,121,N,Honeysuckle,0
+3049,121,S,Honeysuckle,0
+3056,86,N,Honeysuckle,0
+3063,86,S,Honeysuckle,0
+3077,110,S,Honeysuckle,0
+3105,95,S,Honeysuckle,0
+3112,295,N,Honeysuckle,0
+3119,295,S,Honeysuckle,0
+3126,881,N,Honeysuckle,0
+3140,884,N,Honeysuckle,0
+3147,884,S,Honeysuckle,0
+3154,73,N,Honeysuckle,0
+3168,79,N,Honeysuckle,0
+3175,79,S,Honeysuckle,0
+3189,113,S,Honeysuckle,0
+3196,116,N,Honeysuckle,0
+3203,116,S,Honeysuckle,0
+3210,94,N,Honeysuckle,0
+3217,94,S,Honeysuckle,0
+3224,888,N,Honeysuckle,0
+3231,888,S,Honeysuckle,0
+3245,122,S,Honeysuckle,0
+3252,76,N,Honeysuckle,0
+3259,76,S,Honeysuckle,0
+3266,184,N,Honeysuckle,0
+3273,184,S,Honeysuckle,0
+3301,183,S,Honeysuckle,0
+3308,186,N,Honeysuckle,0
+3322,388,N,Honeysuckle,0
+3329,388,S,Honeysuckle,0
+3336,194,N,Honeysuckle,0
+3343,194,S,Honeysuckle,0
+3357,98,S,Honeysuckle,0
+3371,44,S,Honeysuckle,0
+3385,874,S,Honeysuckle,0
+3392,43,N,Honeysuckle,0
+3399,43,S,Honeysuckle,0
+3406,46,N,Honeysuckle,0
+3413,46,S,Honeysuckle,0
+3427,38,S,Honeysuckle,0
+3434,860,N,Honeysuckle,0
+3441,860,S,Honeysuckle,0
+3448,39,N,Honeysuckle,0
+3455,39,S,Honeysuckle,0
+3462,50,N,Honeysuckle,0
+3469,50,S,Honeysuckle,0
+3476,71,N,Honeysuckle,0
+3483,71,S,Honeysuckle,0
+3490,78,N,Honeysuckle,0
+3497,78,S,Honeysuckle,0
+3511,389,S,Honeysuckle,0
+3518,22,N,Honeysuckle,0
+3539,27,S,Honeysuckle,0
+3546,35,N,Honeysuckle,0
+3560,25,N,Honeysuckle,0
+3567,25,S,Honeysuckle,0
+3574,59,N,Honeysuckle,0
+3581,59,S,Honeysuckle,0
+3588,193,N,Honeysuckle,0
+3602,172,N,Honeysuckle,0
+3609,172,S,Honeysuckle,0
+3623,391,S,Honeysuckle,0
+3630,10,N,Honeysuckle,0
+3637,10,S,Honeysuckle,0
+3644,6,N,Honeysuckle,0
+3651,6,S,Honeysuckle,0
+3658,11,N,Honeysuckle,0
+3665,11,S,Honeysuckle,0
+3672,4,N,Honeysuckle,0
+3679,4,S,Honeysuckle,0
+3686,167,N,Honeysuckle,0
+3693,167,S,Honeysuckle,0
+3700,5,N,Honeysuckle,0
+3707,5,S,Honeysuckle,0
+3714,13,N,Honeysuckle,0
+3721,13,S,Honeysuckle,0
+3728,8,N,Honeysuckle,0
+3735,8,S,Honeysuckle,0
+3749,16,S,Honeysuckle,0
+3756,15,N,Honeysuckle,0
+3763,15,S,Honeysuckle,0
+3770,19,N,Honeysuckle,0
+3777,19,S,Honeysuckle,0
+3784,20,N,Honeysuckle,0
+3791,20,S,Honeysuckle,0
+3798,145,N,Honeysuckle,0
+3805,145,S,Honeysuckle,0
+3812,18,N,Honeysuckle,0
+3826,173,N,Honeysuckle,0
+3840,149,N,Honeysuckle,0
+3847,149,S,Honeysuckle,0
+3854,150,N,Honeysuckle,0
+3861,150,S,Honeysuckle,0
+3882,153,N,Honeysuckle,0
+3889,153,S,Honeysuckle,0
+3917,148,S,Honeysuckle,0
+3938,152,N,Honeysuckle,0
+3945,152,S,Honeysuckle,0
+3966,55,N,Honeysuckle,0
+3973,55,S,Honeysuckle,0
+3987,54,S,Honeysuckle,0
+3994,151,N,Honeysuckle,0
+4001,151,S,Honeysuckle,0
+4008,52,N,Honeysuckle,0
+4015,52,S,Honeysuckle,0
+4022,53,N,Honeysuckle,0
+4029,53,S,Honeysuckle,0
+4036,40,N,Honeysuckle,0
+4043,40,S,Honeysuckle,0
+4050,65,N,Honeysuckle,0
+4057,65,S,Honeysuckle,0
+4064,60,N,Honeysuckle,0
+4078,56,N,Honeysuckle,0
+4085,56,S,Honeysuckle,0
+4092,910,N,Honeysuckle,0
+4099,910,S,Honeysuckle,0
+4106,909,N,Honeysuckle,0
+4113,909,S,Honeysuckle,0
+4134,925,N,Honeysuckle,0
+4141,925,S,Honeysuckle,0
+4155,208,S,Honeysuckle,0
+4169,203,S,Honeysuckle,0
+4183,214,S,Honeysuckle,0
+4190,210,N,Honeysuckle,0
+4218,211,N,Honeysuckle,0
+4225,211,S,Honeysuckle,0
+4246,206,N,Honeysuckle,0
+4253,206,S,Honeysuckle,0
+4260,161,N,Honeysuckle,0
+4267,161,S,Honeysuckle,0
+4274,211,N,Honeysuckle,0
+4281,211,S,Honeysuckle,0
+4288,914,N,Honeysuckle,0
+4295,914,S,Honeysuckle,0
+4302,160,N,Honeysuckle,0
+4309,160,S,Honeysuckle,0
+4323,159,S,Honeysuckle,0
+4330,162,N,Honeysuckle,0
+4337,162,S,Honeysuckle,0
+4344,158,N,Honeysuckle,0
+4351,158,S,Honeysuckle,0
+4365,156,S,Honeysuckle,0
+4379,157,S,Honeysuckle,0
+4393,154,S,Honeysuckle,0
+4407,225,S,Honeysuckle,0
+4414,226,N,Honeysuckle,0
+4421,226,S,Honeysuckle,0
+4428,224,N,Honeysuckle,0
+4435,224,S,Honeysuckle,0
+4456,221,N,Honeysuckle,0
+4463,221,S,Honeysuckle,0
+4470,222,N,Honeysuckle,0
+4477,222,S,Honeysuckle,0
+4484,218,N,Honeysuckle,0
+4491,218,S,Honeysuckle,0
+4498,217,N,Honeysuckle,0
+4505,217,S,Honeysuckle,0
+4512,215,N,Honeysuckle,0
+4519,215,S,Honeysuckle,0
+4526,212,N,Honeysuckle,0
+4533,212,S,Honeysuckle,0
+4540,209,N,Honeysuckle,0
+4547,209,S,Honeysuckle,0
+4554,327,N,Honeysuckle,0
+4575,321,S,Honeysuckle,0
+4582,322,N,Honeysuckle,0
+4589,322,S,Honeysuckle,0
+4596,323,N,Honeysuckle,0
+4603,323,S,Honeysuckle,0
+4610,324,N,Honeysuckle,0
+4617,324,S,Honeysuckle,0
+4624,315,N,Honeysuckle,0
+4638,278,N,Honeysuckle,0
+4645,278,S,Honeysuckle,0
+4659,318,S,Honeysuckle,0
+4680,317,N,Honeysuckle,0
+4687,317,S,Honeysuckle,0
+4694,328,N,Honeysuckle,0
+4701,328,S,Honeysuckle,0
+4715,329,S,Honeysuckle,0
+4750,311,N,Honeysuckle,0
+4764,316,N,Honeysuckle,0
+4771,316,S,Honeysuckle,0
+4792,319,N,Honeysuckle,0
+4806,907,N,Honeysuckle,0
+4813,907,S,Honeysuckle,0
+4820,908,N,Honeysuckle,0
+4827,908,S,Honeysuckle,0
+4834,906,N,Honeysuckle,0
+4841,906,S,Honeysuckle,0
+4848,207,N,Honeysuckle,0
+4855,207,S,Honeysuckle,0
+4862,901,N,Honeysuckle,0
+4869,901,S,Honeysuckle,0
+4876,902,N,Honeysuckle,0
+4883,902,S,Honeysuckle,0
+4890,205,N,Honeysuckle,0
+4897,205,S,Honeysuckle,0
+4904,204,N,Honeysuckle,0
+4918,911,N,Honeysuckle,0
+4925,911,S,Honeysuckle,0
+4939,913,S,Honeysuckle,0
+4946,912,N,Honeysuckle,0
+4953,912,S,Honeysuckle,0
+4960,926,N,Honeysuckle,0
+4967,926,S,Honeysuckle,0
+4974,163,N,Honeysuckle,0
+4981,163,S,Honeysuckle,0
+4988,161,N,Honeysuckle,0
+4995,161,S,Honeysuckle,0
+5002,927,N,Honeysuckle,0
+5009,927,S,Honeysuckle,0
+5016,216,N,Honeysuckle,0
+5023,216,S,Honeysuckle,0
+5030,213,N,Honeysuckle,0
+5037,213,S,Honeysuckle,0
+5044,164,N,Honeysuckle,0
+5058,155,N,Honeysuckle,0
+5065,155,S,Honeysuckle,0
+5072,219,N,Honeysuckle,0
+5079,219,S,Honeysuckle,0
+5086,220,N,Honeysuckle,0
+5093,220,S,Honeysuckle,0
+5128,341,N,Honeysuckle,0
+5142,342,N,Honeysuckle,0
+5156,363,N,Honeysuckle,0
+5163,363,S,Honeysuckle,0
+5170,354,N,Honeysuckle,0
+5184,360,N,Honeysuckle,0
+5191,360,S,Honeysuckle,0
+5198,333,N,Honeysuckle,0
+5205,333,S,Honeysuckle,0
+5212,326,N,Honeysuckle,0
+5219,326,S,Honeysuckle,0
+5226,336,N,Honeysuckle,0
+5233,336,S,Honeysuckle,0
+5268,340,N,Honeysuckle,0
+5275,340,S,Honeysuckle,0
+5303,335,S,Honeysuckle,0
+5310,343,N,Honeysuckle,0
+5317,343,S,Honeysuckle,0
+5324,331,N,Honeysuckle,0
+5338,338,N,Honeysuckle,0
+5345,338,S,Honeysuckle,0
+5352,350,N,Honeysuckle,0
+5366,239,N,Honeysuckle,0
+5373,239,S,Honeysuckle,0
+5380,237,N,Honeysuckle,0
+5394,332,N,Honeysuckle,0
+5401,332,S,Honeysuckle,0
+5415,247,S,Honeysuckle,0
+5422,238,N,Honeysuckle,0
+5429,238,S,Honeysuckle,0
+5436,242,N,Honeysuckle,0
+5443,242,S,Honeysuckle,0
+5464,246,N,Honeysuckle,0
+5492,241,N,Honeysuckle,0
+5499,241,S,Honeysuckle,0
+5513,232,S,Honeysuckle,0
+5527,233,S,Honeysuckle,0
+5562,244,N,Honeysuckle,0
+5569,244,S,Honeysuckle,0
+5576,235,N,Honeysuckle,0
+5590,234,N,Honeysuckle,0
+5597,234,S,Honeysuckle,0
+5604,240,N,Honeysuckle,0
+5611,240,S,Honeysuckle,0
+5618,227,N,Honeysuckle,0
+5625,227,S,Honeysuckle,0
+5639,230,S,Honeysuckle,0
+5646,228,N,Honeysuckle,0
+5653,228,S,Honeysuckle,0
+5660,401,N,Honeysuckle,0
+5667,401,S,Honeysuckle,0
+5674,402,N,Honeysuckle,0
+5681,402,S,Honeysuckle,0
+5688,403,N,Honeysuckle,0
+5695,403,S,Honeysuckle,0
+5702,404,N,Honeysuckle,0
+5709,404,S,Honeysuckle,0
+5716,406,N,Honeysuckle,0
+5723,406,S,Honeysuckle,0
+5730,405,N,Honeysuckle,0
+5737,405,S,Honeysuckle,0
+5744,408,N,Honeysuckle,0
+5751,408,S,Honeysuckle,0
+5758,410,N,Honeysuckle,0
+5765,410,S,Honeysuckle,0
+5772,409,N,Honeysuckle,0
+5779,409,S,Honeysuckle,0
+5786,412,N,Honeysuckle,0
+5793,412,S,Honeysuckle,0
+5800,411,N,Honeysuckle,0
+5807,411,S,Honeysuckle,0
+5814,407,N,Honeysuckle,0
+5828,357,N,Honeysuckle,0
+5835,357,S,Honeysuckle,0
+5842,355,N,Honeysuckle,0
+5849,355,S,Honeysuckle,0
+5856,359,N,Honeysuckle,0
+5863,359,S,Honeysuckle,0
+5870,353,N,Honeysuckle,0
+5877,353,S,Honeysuckle,0
+5884,356,N,Honeysuckle,0
+5891,356,S,Honeysuckle,0
+5898,362,N,Honeysuckle,0
+5905,362,S,Honeysuckle,0
+5912,349,N,Honeysuckle,0
+5919,349,S,Honeysuckle,0
+5926,364,N,Honeysuckle,0
+5933,364,S,Honeysuckle,0
+5940,365,N,Honeysuckle,0
+5947,365,S,Honeysuckle,0
+5954,361,N,Honeysuckle,0
+5961,361,S,Honeysuckle,0
+5975,347,S,Honeysuckle,0
+5989,348,S,Honeysuckle,0
+5996,351,N,Honeysuckle,0
+6010,276,N,Honeysuckle,0
+6024,285,N,Honeysuckle,0
+6031,285,S,Honeysuckle,0
+6052,284,N,Honeysuckle,0
+6059,284,S,Honeysuckle,0
+6066,367,N,Honeysuckle,0
+6073,367,S,Honeysuckle,0
+6080,368,N,Honeysuckle,0
+6087,368,S,Honeysuckle,0
+6094,369,N,Honeysuckle,0
+6101,369,S,Honeysuckle,0
+6108,366,N,Honeysuckle,0
+6115,366,S,Honeysuckle,0
+6129,352,S,Honeysuckle,0
+6136,905,N,Honeysuckle,0
+6143,905,S,Honeysuckle,0
+6150,903,N,Honeysuckle,0
+6157,903,S,Honeysuckle,0
+6164,904,N,Honeysuckle,0
+6171,904,S,Honeysuckle,0
+6178,273,N,Honeysuckle,0
+6185,273,S,Honeysuckle,0
+6192,288,N,Honeysuckle,0
+6199,288,S,Honeysuckle,0
+6213,280,S,Honeysuckle,0
+6227,251,S,Honeysuckle,0
+6234,279,N,Honeysuckle,0
+6241,279,S,Honeysuckle,0
+6248,277,N,Honeysuckle,0
+6255,277,S,Honeysuckle,0
+6262,283,N,Honeysuckle,0
+6269,283,S,Honeysuckle,0
+6283,229,S,Honeysuckle,0
+6290,236,N,Honeysuckle,0
+6297,236,S,Honeysuckle,0
+6311,275,S,Honeysuckle,0
+6318,286,N,Honeysuckle,0
+6325,286,S,Honeysuckle,0
+6332,274,N,Honeysuckle,0
+6339,274,S,Honeysuckle,0
+6346,287,N,Honeysuckle,0
+6353,287,S,Honeysuckle,0
+2240,23,S,Mapleleaf Viburnum,NA
+2303,390,N,Mapleleaf Viburnum,NA
+2310,390,S,Mapleleaf Viburnum,NA
+2317,177,N,Mapleleaf Viburnum,NA
+2324,177,S,Mapleleaf Viburnum,NA
+2331,344,N,Mapleleaf Viburnum,NA
+2338,344,S,Mapleleaf Viburnum,NA
+2345,386,N,Mapleleaf Viburnum,NA
+2352,386,S,Mapleleaf Viburnum,NA
+2359,387,N,Mapleleaf Viburnum,NA
+2366,387,S,Mapleleaf Viburnum,NA
+2373,182,N,Mapleleaf Viburnum,NA
+2380,182,S,Mapleleaf Viburnum,NA
+2387,181,N,Mapleleaf Viburnum,NA
+2394,181,S,Mapleleaf Viburnum,NA
+2401,385,N,Mapleleaf Viburnum,NA
+2408,385,S,Mapleleaf Viburnum,NA
+2415,180,N,Mapleleaf Viburnum,NA
+2422,180,S,Mapleleaf Viburnum,NA
+2429,175,N,Mapleleaf Viburnum,NA
+2436,175,S,Mapleleaf Viburnum,NA
+2443,384,N,Mapleleaf Viburnum,NA
+2450,384,S,Mapleleaf Viburnum,NA
+2457,940,N,Mapleleaf Viburnum,NA
+2464,940,S,Mapleleaf Viburnum,NA
+3605,172,N,Mapleleaf Viburnum,3
+2863,87,N,Mapleleaf Viburnum,2
+4683,317,N,Mapleleaf Viburnum,2
+105,115,N,Mapleleaf Viburnum,1
+112,115,S,Mapleleaf Viburnum,1
+203,178,N,Mapleleaf Viburnum,1
+210,178,S,Mapleleaf Viburnum,1
+231,377,N,Mapleleaf Viburnum,1
+238,377,S,Mapleleaf Viburnum,1
+252,981,S,Mapleleaf Viburnum,1
+455,302,N,Mapleleaf Viburnum,1
+469,301,N,Mapleleaf Viburnum,1
+483,379,N,Mapleleaf Viburnum,1
+707,376,N,Mapleleaf Viburnum,1
+756,196,S,Mapleleaf Viburnum,1
+763,261,N,Mapleleaf Viburnum,1
+777,886,N,Mapleleaf Viburnum,1
+791,191,N,Mapleleaf Viburnum,1
+812,190,S,Mapleleaf Viburnum,1
+826,890,S,Mapleleaf Viburnum,1
+1015,398,N,Mapleleaf Viburnum,1
+1022,398,S,Mapleleaf Viburnum,1
+1036,200,S,Mapleleaf Viburnum,1
+1043,269,N,Mapleleaf Viburnum,1
+1050,269,S,Mapleleaf Viburnum,1
+1113,395,N,Mapleleaf Viburnum,1
+1120,395,S,Mapleleaf Viburnum,1
+1169,999,N,Mapleleaf Viburnum,1
+1176,999,S,Mapleleaf Viburnum,1
+1183,143,N,Mapleleaf Viburnum,1
+1197,102,N,Mapleleaf Viburnum,1
+1253,288,N,Mapleleaf Viburnum,1
+1309,894,N,Mapleleaf Viburnum,1
+1330,371,S,Mapleleaf Viburnum,1
+1337,253,N,Mapleleaf Viburnum,1
+1344,253,S,Mapleleaf Viburnum,1
+1351,272,N,Mapleleaf Viburnum,1
+1358,272,S,Mapleleaf Viburnum,1
+1568,252,S,Mapleleaf Viburnum,1
+1603,892,N,Mapleleaf Viburnum,1
+1610,892,S,Mapleleaf Viburnum,1
+1631,66,N,Mapleleaf Viburnum,1
+1680,72,S,Mapleleaf Viburnum,1
+1729,26,N,Mapleleaf Viburnum,1
+1785,93,N,Mapleleaf Viburnum,1
+1981,201,N,Mapleleaf Viburnum,1
+2534,37,S,Mapleleaf Viburnum,1
+2541,34,N,Mapleleaf Viburnum,1
+2877,89,N,Mapleleaf Viburnum,1
+2891,81,N,Mapleleaf Viburnum,1
+2912,80,S,Mapleleaf Viburnum,1
+2919,86,N,Mapleleaf Viburnum,1
+2926,86,S,Mapleleaf Viburnum,1
+3066,86,S,Mapleleaf Viburnum,1
+3108,95,S,Mapleleaf Viburnum,1
+3115,295,N,Mapleleaf Viburnum,1
+3220,94,S,Mapleleaf Viburnum,1
+3318,186,S,Mapleleaf Viburnum,1
+3416,46,S,Mapleleaf Viburnum,1
+3465,50,N,Mapleleaf Viburnum,1
+3507,389,N,Mapleleaf Viburnum,1
+3528,22,S,Mapleleaf Viburnum,1
+3570,25,S,Mapleleaf Viburnum,1
+3584,59,S,Mapleleaf Viburnum,1
+3766,15,S,Mapleleaf Viburnum,1
+3892,153,S,Mapleleaf Viburnum,1
+3920,148,S,Mapleleaf Viburnum,1
+4781,313,N,Mapleleaf Viburnum,1
+4963,926,N,Mapleleaf Viburnum,1
+5033,213,N,Mapleleaf Viburnum,1
+5390,237,S,Mapleleaf Viburnum,1
+5397,332,N,Mapleleaf Viburnum,1
+5411,247,N,Mapleleaf Viburnum,1
+5565,244,N,Mapleleaf Viburnum,1
+5572,244,S,Mapleleaf Viburnum,1
+5600,234,S,Mapleleaf Viburnum,1
+5607,240,N,Mapleleaf Viburnum,1
+5614,240,S,Mapleleaf Viburnum,1
+5649,228,N,Mapleleaf Viburnum,1
+5656,228,S,Mapleleaf Viburnum,1
+5677,402,N,Mapleleaf Viburnum,1
+5684,402,S,Mapleleaf Viburnum,1
+5698,403,S,Mapleleaf Viburnum,1
+5754,408,S,Mapleleaf Viburnum,1
+5761,410,N,Mapleleaf Viburnum,1
+5775,409,N,Mapleleaf Viburnum,1
+5782,409,S,Mapleleaf Viburnum,1
+6048,281,S,Mapleleaf Viburnum,1
+6202,288,S,Mapleleaf Viburnum,1
+6230,251,S,Mapleleaf Viburnum,1
+7,165,N,Mapleleaf Viburnum,0
+14,165,S,Mapleleaf Viburnum,0
+21,103,N,Mapleleaf Viburnum,0
+28,103,S,Mapleleaf Viburnum,0
+35,104,N,Mapleleaf Viburnum,0
+42,104,S,Mapleleaf Viburnum,0
+49,125,N,Mapleleaf Viburnum,0
+56,125,S,Mapleleaf Viburnum,0
+63,112,N,Mapleleaf Viburnum,0
+70,112,S,Mapleleaf Viburnum,0
+77,120,N,Mapleleaf Viburnum,0
+84,120,S,Mapleleaf Viburnum,0
+91,114,N,Mapleleaf Viburnum,0
+98,114,S,Mapleleaf Viburnum,0
+119,119,N,Mapleleaf Viburnum,0
+126,119,S,Mapleleaf Viburnum,0
+133,106,N,Mapleleaf Viburnum,0
+140,106,S,Mapleleaf Viburnum,0
+147,107,N,Mapleleaf Viburnum,0
+154,107,S,Mapleleaf Viburnum,0
+161,108,N,Mapleleaf Viburnum,0
+168,108,S,Mapleleaf Viburnum,0
+175,118,N,Mapleleaf Viburnum,0
+182,118,S,Mapleleaf Viburnum,0
+189,931,N,Mapleleaf Viburnum,0
+196,931,S,Mapleleaf Viburnum,0
+217,936,N,Mapleleaf Viburnum,0
+224,936,S,Mapleleaf Viburnum,0
+245,981,N,Mapleleaf Viburnum,0
+259,195,N,Mapleleaf Viburnum,0
+266,195,S,Mapleleaf Viburnum,0
+273,192,N,Mapleleaf Viburnum,0
+280,192,S,Mapleleaf Viburnum,0
+287,291,N,Mapleleaf Viburnum,0
+294,291,S,Mapleleaf Viburnum,0
+301,185,N,Mapleleaf Viburnum,0
+308,185,S,Mapleleaf Viburnum,0
+315,345,N,Mapleleaf Viburnum,0
+322,345,S,Mapleleaf Viburnum,0
+329,289,N,Mapleleaf Viburnum,0
+336,289,S,Mapleleaf Viburnum,0
+343,996,N,Mapleleaf Viburnum,0
+350,996,S,Mapleleaf Viburnum,0
+357,897,N,Mapleleaf Viburnum,0
+364,897,S,Mapleleaf Viburnum,0
+371,381,N,Mapleleaf Viburnum,0
+378,381,S,Mapleleaf Viburnum,0
+385,380,N,Mapleleaf Viburnum,0
+392,380,S,Mapleleaf Viburnum,0
+399,378,N,Mapleleaf Viburnum,0
+406,378,S,Mapleleaf Viburnum,0
+413,961,N,Mapleleaf Viburnum,0
+420,961,S,Mapleleaf Viburnum,0
+427,304,N,Mapleleaf Viburnum,0
+434,304,S,Mapleleaf Viburnum,0
+441,303,N,Mapleleaf Viburnum,0
+448,303,S,Mapleleaf Viburnum,0
+462,302,S,Mapleleaf Viburnum,0
+476,301,S,Mapleleaf Viburnum,0
+490,379,S,Mapleleaf Viburnum,0
+497,383,N,Mapleleaf Viburnum,0
+504,383,S,Mapleleaf Viburnum,0
+511,382,N,Mapleleaf Viburnum,0
+518,382,S,Mapleleaf Viburnum,0
+525,392,N,Mapleleaf Viburnum,0
+532,392,S,Mapleleaf Viburnum,0
+539,393,N,Mapleleaf Viburnum,0
+546,393,S,Mapleleaf Viburnum,0
+553,305,N,Mapleleaf Viburnum,0
+560,305,S,Mapleleaf Viburnum,0
+567,378,N,Mapleleaf Viburnum,0
+574,378,S,Mapleleaf Viburnum,0
+581,306,N,Mapleleaf Viburnum,0
+588,306,S,Mapleleaf Viburnum,0
+595,375,N,Mapleleaf Viburnum,0
+602,375,S,Mapleleaf Viburnum,0
+609,255,N,Mapleleaf Viburnum,0
+616,255,S,Mapleleaf Viburnum,0
+623,254,N,Mapleleaf Viburnum,0
+630,254,S,Mapleleaf Viburnum,0
+637,197,N,Mapleleaf Viburnum,0
+644,197,S,Mapleleaf Viburnum,0
+651,259,N,Mapleleaf Viburnum,0
+658,259,S,Mapleleaf Viburnum,0
+665,373,N,Mapleleaf Viburnum,0
+672,373,S,Mapleleaf Viburnum,0
+679,292,N,Mapleleaf Viburnum,0
+686,292,S,Mapleleaf Viburnum,0
+693,290,N,Mapleleaf Viburnum,0
+700,290,S,Mapleleaf Viburnum,0
+714,376,S,Mapleleaf Viburnum,0
+721,374,N,Mapleleaf Viburnum,0
+728,374,S,Mapleleaf Viburnum,0
+735,882,N,Mapleleaf Viburnum,0
+742,882,S,Mapleleaf Viburnum,0
+749,196,N,Mapleleaf Viburnum,0
+770,261,S,Mapleleaf Viburnum,0
+784,886,S,Mapleleaf Viburnum,0
+798,191,S,Mapleleaf Viburnum,0
+805,190,N,Mapleleaf Viburnum,0
+819,890,N,Mapleleaf Viburnum,0
+833,397,N,Mapleleaf Viburnum,0
+840,397,S,Mapleleaf Viburnum,0
+847,396,N,Mapleleaf Viburnum,0
+854,396,S,Mapleleaf Viburnum,0
+861,296,N,Mapleleaf Viburnum,0
+868,296,S,Mapleleaf Viburnum,0
+875,891,N,Mapleleaf Viburnum,0
+882,891,S,Mapleleaf Viburnum,0
+889,263,N,Mapleleaf Viburnum,0
+896,263,S,Mapleleaf Viburnum,0
+903,256,N,Mapleleaf Viburnum,0
+910,256,S,Mapleleaf Viburnum,0
+917,270,N,Mapleleaf Viburnum,0
+924,270,S,Mapleleaf Viburnum,0
+931,187,N,Mapleleaf Viburnum,0
+938,187,S,Mapleleaf Viburnum,0
+945,260,N,Mapleleaf Viburnum,0
+952,260,S,Mapleleaf Viburnum,0
+959,262,N,Mapleleaf Viburnum,0
+966,262,S,Mapleleaf Viburnum,0
+973,264,N,Mapleleaf Viburnum,0
+980,264,S,Mapleleaf Viburnum,0
+987,265,N,Mapleleaf Viburnum,0
+994,265,S,Mapleleaf Viburnum,0
+1001,266,N,Mapleleaf Viburnum,0
+1008,266,S,Mapleleaf Viburnum,0
+1029,200,N,Mapleleaf Viburnum,0
+1057,394,N,Mapleleaf Viburnum,0
+1064,394,S,Mapleleaf Viburnum,0
+1071,309,N,Mapleleaf Viburnum,0
+1078,309,S,Mapleleaf Viburnum,0
+1085,969,N,Mapleleaf Viburnum,0
+1092,969,S,Mapleleaf Viburnum,0
+1099,308,N,Mapleleaf Viburnum,0
+1106,308,S,Mapleleaf Viburnum,0
+1127,883,N,Mapleleaf Viburnum,0
+1134,883,S,Mapleleaf Viburnum,0
+1141,929,N,Mapleleaf Viburnum,0
+1148,929,S,Mapleleaf Viburnum,0
+1155,307,N,Mapleleaf Viburnum,0
+1162,307,S,Mapleleaf Viburnum,0
+1190,143,S,Mapleleaf Viburnum,0
+1204,102,S,Mapleleaf Viburnum,0
+1211,105,N,Mapleleaf Viburnum,0
+1218,105,S,Mapleleaf Viburnum,0
+1225,189,N,Mapleleaf Viburnum,0
+1232,189,S,Mapleleaf Viburnum,0
+1239,258,N,Mapleleaf Viburnum,0
+1246,258,S,Mapleleaf Viburnum,0
+1260,288,S,Mapleleaf Viburnum,0
+1267,399,N,Mapleleaf Viburnum,0
+1274,399,S,Mapleleaf Viburnum,0
+1281,372,N,Mapleleaf Viburnum,0
+1288,372,S,Mapleleaf Viburnum,0
+1295,199,N,Mapleleaf Viburnum,0
+1302,199,S,Mapleleaf Viburnum,0
+1316,894,S,Mapleleaf Viburnum,0
+1323,371,N,Mapleleaf Viburnum,0
+1365,293,N,Mapleleaf Viburnum,0
+1372,293,S,Mapleleaf Viburnum,0
+1379,299,N,Mapleleaf Viburnum,0
+1386,299,S,Mapleleaf Viburnum,0
+1393,257,N,Mapleleaf Viburnum,0
+1400,257,S,Mapleleaf Viburnum,0
+1407,188,N,Mapleleaf Viburnum,0
+1414,188,S,Mapleleaf Viburnum,0
+1421,346,N,Mapleleaf Viburnum,0
+1428,346,S,Mapleleaf Viburnum,0
+1435,864,N,Mapleleaf Viburnum,0
+1442,864,S,Mapleleaf Viburnum,0
+1449,300,N,Mapleleaf Viburnum,0
+1456,300,S,Mapleleaf Viburnum,0
+1463,198,N,Mapleleaf Viburnum,0
+1470,198,S,Mapleleaf Viburnum,0
+1477,297,N,Mapleleaf Viburnum,0
+1484,297,S,Mapleleaf Viburnum,0
+1491,898,N,Mapleleaf Viburnum,0
+1498,898,S,Mapleleaf Viburnum,0
+1505,885,N,Mapleleaf Viburnum,0
+1512,885,S,Mapleleaf Viburnum,0
+1519,310,N,Mapleleaf Viburnum,0
+1526,310,S,Mapleleaf Viburnum,0
+1533,889,N,Mapleleaf Viburnum,0
+1540,889,S,Mapleleaf Viburnum,0
+1547,74,N,Mapleleaf Viburnum,0
+1554,74,S,Mapleleaf Viburnum,0
+1561,252,N,Mapleleaf Viburnum,0
+1575,400,N,Mapleleaf Viburnum,0
+1582,400,S,Mapleleaf Viburnum,0
+1589,893,N,Mapleleaf Viburnum,0
+1596,893,S,Mapleleaf Viburnum,0
+1617,77,N,Mapleleaf Viburnum,0
+1624,77,S,Mapleleaf Viburnum,0
+1638,66,S,Mapleleaf Viburnum,0
+1645,67,N,Mapleleaf Viburnum,0
+1652,67,S,Mapleleaf Viburnum,0
+1659,75,N,Mapleleaf Viburnum,0
+1666,75,S,Mapleleaf Viburnum,0
+1673,72,N,Mapleleaf Viburnum,0
+1687,68,N,Mapleleaf Viburnum,0
+1694,68,S,Mapleleaf Viburnum,0
+1701,31,N,Mapleleaf Viburnum,0
+1708,31,S,Mapleleaf Viburnum,0
+1715,24,N,Mapleleaf Viburnum,0
+1722,24,S,Mapleleaf Viburnum,0
+1736,26,S,Mapleleaf Viburnum,0
+1743,30,N,Mapleleaf Viburnum,0
+1750,30,S,Mapleleaf Viburnum,0
+1757,42,N,Mapleleaf Viburnum,0
+1764,42,S,Mapleleaf Viburnum,0
+1771,41,N,Mapleleaf Viburnum,0
+1778,41,S,Mapleleaf Viburnum,0
+1792,93,S,Mapleleaf Viburnum,0
+1799,99,N,Mapleleaf Viburnum,0
+1806,99,S,Mapleleaf Viburnum,0
+1813,97,N,Mapleleaf Viburnum,0
+1820,97,S,Mapleleaf Viburnum,0
+1827,92,N,Mapleleaf Viburnum,0
+1834,92,S,Mapleleaf Viburnum,0
+1841,900,N,Mapleleaf Viburnum,0
+1848,900,S,Mapleleaf Viburnum,0
+1855,88,N,Mapleleaf Viburnum,0
+1862,88,S,Mapleleaf Viburnum,0
+1869,3,N,Mapleleaf Viburnum,0
+1876,3,S,Mapleleaf Viburnum,0
+1883,21,N,Mapleleaf Viburnum,0
+1890,21,S,Mapleleaf Viburnum,0
+1897,132,N,Mapleleaf Viburnum,0
+1904,132,S,Mapleleaf Viburnum,0
+1911,174,N,Mapleleaf Viburnum,0
+1918,174,S,Mapleleaf Viburnum,0
+1925,9,N,Mapleleaf Viburnum,0
+1932,9,S,Mapleleaf Viburnum,0
+1939,176,N,Mapleleaf Viburnum,0
+1946,176,S,Mapleleaf Viburnum,0
+1953,14,N,Mapleleaf Viburnum,0
+1960,14,S,Mapleleaf Viburnum,0
+1967,138,N,Mapleleaf Viburnum,0
+1974,138,S,Mapleleaf Viburnum,0
+1988,201,S,Mapleleaf Viburnum,0
+1995,202,N,Mapleleaf Viburnum,0
+2002,202,S,Mapleleaf Viburnum,0
+2009,139,N,Mapleleaf Viburnum,0
+2016,139,S,Mapleleaf Viburnum,0
+2023,140,N,Mapleleaf Viburnum,0
+2030,140,S,Mapleleaf Viburnum,0
+2037,134,N,Mapleleaf Viburnum,0
+2044,134,S,Mapleleaf Viburnum,0
+2051,126,N,Mapleleaf Viburnum,0
+2058,126,S,Mapleleaf Viburnum,0
+2065,127,N,Mapleleaf Viburnum,0
+2072,127,S,Mapleleaf Viburnum,0
+2079,137,N,Mapleleaf Viburnum,0
+2086,137,S,Mapleleaf Viburnum,0
+2093,861,N,Mapleleaf Viburnum,0
+2100,861,S,Mapleleaf Viburnum,0
+2107,136,N,Mapleleaf Viburnum,0
+2114,136,S,Mapleleaf Viburnum,0
+2121,130,N,Mapleleaf Viburnum,0
+2128,130,S,Mapleleaf Viburnum,0
+2135,128,N,Mapleleaf Viburnum,0
+2142,128,S,Mapleleaf Viburnum,0
+2149,131,N,Mapleleaf Viburnum,0
+2156,131,S,Mapleleaf Viburnum,0
+2163,129,N,Mapleleaf Viburnum,0
+2170,129,S,Mapleleaf Viburnum,0
+2177,2,N,Mapleleaf Viburnum,0
+2184,2,S,Mapleleaf Viburnum,0
+2191,7,N,Mapleleaf Viburnum,0
+2198,7,S,Mapleleaf Viburnum,0
+2205,17,N,Mapleleaf Viburnum,0
+2212,17,S,Mapleleaf Viburnum,0
+2219,12,N,Mapleleaf Viburnum,0
+2226,12,S,Mapleleaf Viburnum,0
+2233,23,N,Mapleleaf Viburnum,0
+2247,166,N,Mapleleaf Viburnum,0
+2254,166,S,Mapleleaf Viburnum,0
+2261,857,N,Mapleleaf Viburnum,0
+2268,857,S,Mapleleaf Viburnum,0
+2275,1,N,Mapleleaf Viburnum,0
+2282,1,S,Mapleleaf Viburnum,0
+2289,141,N,Mapleleaf Viburnum,0
+2296,141,S,Mapleleaf Viburnum,0
+2471,33,N,Mapleleaf Viburnum,0
+2478,33,S,Mapleleaf Viburnum,0
+2485,29,N,Mapleleaf Viburnum,0
+2492,29,S,Mapleleaf Viburnum,0
+2499,32,N,Mapleleaf Viburnum,0
+2506,32,S,Mapleleaf Viburnum,0
+2513,36,N,Mapleleaf Viburnum,0
+2520,36,S,Mapleleaf Viburnum,0
+2527,37,N,Mapleleaf Viburnum,0
+2548,34,S,Mapleleaf Viburnum,0
+2555,28,N,Mapleleaf Viburnum,0
+2562,28,S,Mapleleaf Viburnum,0
+2569,51,N,Mapleleaf Viburnum,0
+2576,51,S,Mapleleaf Viburnum,0
+2583,45,N,Mapleleaf Viburnum,0
+2590,45,S,Mapleleaf Viburnum,0
+2597,47,N,Mapleleaf Viburnum,0
+2604,47,S,Mapleleaf Viburnum,0
+2611,48,N,Mapleleaf Viburnum,0
+2618,48,S,Mapleleaf Viburnum,0
+2625,49,N,Mapleleaf Viburnum,0
+2632,49,S,Mapleleaf Viburnum,0
+2639,61,N,Mapleleaf Viburnum,0
+2646,61,S,Mapleleaf Viburnum,0
+2653,58,N,Mapleleaf Viburnum,0
+2660,58,S,Mapleleaf Viburnum,0
+2667,57,N,Mapleleaf Viburnum,0
+2674,57,S,Mapleleaf Viburnum,0
+2681,62,N,Mapleleaf Viburnum,0
+2688,62,S,Mapleleaf Viburnum,0
+2695,880,N,Mapleleaf Viburnum,0
+2702,880,S,Mapleleaf Viburnum,0
+2709,69,N,Mapleleaf Viburnum,0
+2716,69,S,Mapleleaf Viburnum,0
+2723,70,N,Mapleleaf Viburnum,0
+2730,70,S,Mapleleaf Viburnum,0
+2737,64,N,Mapleleaf Viburnum,0
+2744,64,S,Mapleleaf Viburnum,0
+2751,895,N,Mapleleaf Viburnum,0
+2758,895,S,Mapleleaf Viburnum,0
+2765,111,N,Mapleleaf Viburnum,0
+2772,111,S,Mapleleaf Viburnum,0
+2779,135,N,Mapleleaf Viburnum,0
+2786,135,S,Mapleleaf Viburnum,0
+2793,100,N,Mapleleaf Viburnum,0
+2800,100,S,Mapleleaf Viburnum,0
+2807,859,N,Mapleleaf Viburnum,0
+2814,859,S,Mapleleaf Viburnum,0
+2821,90,N,Mapleleaf Viburnum,0
+2828,90,S,Mapleleaf Viburnum,0
+2835,91,N,Mapleleaf Viburnum,0
+2842,91,S,Mapleleaf Viburnum,0
+2849,85,N,Mapleleaf Viburnum,0
+2856,85,S,Mapleleaf Viburnum,0
+2870,87,S,Mapleleaf Viburnum,0
+2884,89,S,Mapleleaf Viburnum,0
+2898,81,S,Mapleleaf Viburnum,0
+2905,80,N,Mapleleaf Viburnum,0
+2933,84,N,Mapleleaf Viburnum,0
+2940,84,S,Mapleleaf Viburnum,0
+2947,83,N,Mapleleaf Viburnum,0
+2954,83,S,Mapleleaf Viburnum,0
+2961,82,N,Mapleleaf Viburnum,0
+2968,82,S,Mapleleaf Viburnum,0
+2975,123,N,Mapleleaf Viburnum,0
+2982,123,S,Mapleleaf Viburnum,0
+2989,124,N,Mapleleaf Viburnum,0
+2996,124,S,Mapleleaf Viburnum,0
+3003,142,N,Mapleleaf Viburnum,0
+3010,142,S,Mapleleaf Viburnum,0
+3017,117,N,Mapleleaf Viburnum,0
+3024,117,S,Mapleleaf Viburnum,0
+3031,133,N,Mapleleaf Viburnum,0
+3038,133,S,Mapleleaf Viburnum,0
+3045,121,N,Mapleleaf Viburnum,0
+3052,121,S,Mapleleaf Viburnum,0
+3059,86,N,Mapleleaf Viburnum,0
+3073,110,N,Mapleleaf Viburnum,0
+3080,110,S,Mapleleaf Viburnum,0
+3087,109,N,Mapleleaf Viburnum,0
+3094,109,S,Mapleleaf Viburnum,0
+3101,95,N,Mapleleaf Viburnum,0
+3122,295,S,Mapleleaf Viburnum,0
+3129,881,N,Mapleleaf Viburnum,0
+3136,881,S,Mapleleaf Viburnum,0
+3143,884,N,Mapleleaf Viburnum,0
+3150,884,S,Mapleleaf Viburnum,0
+3157,73,N,Mapleleaf Viburnum,0
+3164,73,S,Mapleleaf Viburnum,0
+3171,79,N,Mapleleaf Viburnum,0
+3178,79,S,Mapleleaf Viburnum,0
+3185,113,N,Mapleleaf Viburnum,0
+3192,113,S,Mapleleaf Viburnum,0
+3199,116,N,Mapleleaf Viburnum,0
+3206,116,S,Mapleleaf Viburnum,0
+3213,94,N,Mapleleaf Viburnum,0
+3227,888,N,Mapleleaf Viburnum,0
+3234,888,S,Mapleleaf Viburnum,0
+3241,122,N,Mapleleaf Viburnum,0
+3248,122,S,Mapleleaf Viburnum,0
+3255,76,N,Mapleleaf Viburnum,0
+3262,76,S,Mapleleaf Viburnum,0
+3269,184,N,Mapleleaf Viburnum,0
+3276,184,S,Mapleleaf Viburnum,0
+3283,179,N,Mapleleaf Viburnum,0
+3290,179,S,Mapleleaf Viburnum,0
+3297,183,N,Mapleleaf Viburnum,0
+3304,183,S,Mapleleaf Viburnum,0
+3311,186,N,Mapleleaf Viburnum,0
+3325,388,N,Mapleleaf Viburnum,0
+3332,388,S,Mapleleaf Viburnum,0
+3339,194,N,Mapleleaf Viburnum,0
+3346,194,S,Mapleleaf Viburnum,0
+3353,98,N,Mapleleaf Viburnum,0
+3360,98,S,Mapleleaf Viburnum,0
+3367,44,N,Mapleleaf Viburnum,0
+3374,44,S,Mapleleaf Viburnum,0
+3381,874,N,Mapleleaf Viburnum,0
+3388,874,S,Mapleleaf Viburnum,0
+3395,43,N,Mapleleaf Viburnum,0
+3402,43,S,Mapleleaf Viburnum,0
+3409,46,N,Mapleleaf Viburnum,0
+3423,38,N,Mapleleaf Viburnum,0
+3430,38,S,Mapleleaf Viburnum,0
+3437,860,N,Mapleleaf Viburnum,0
+3444,860,S,Mapleleaf Viburnum,0
+3451,39,N,Mapleleaf Viburnum,0
+3458,39,S,Mapleleaf Viburnum,0
+3472,50,S,Mapleleaf Viburnum,0
+3479,71,N,Mapleleaf Viburnum,0
+3486,71,S,Mapleleaf Viburnum,0
+3493,78,N,Mapleleaf Viburnum,0
+3500,78,S,Mapleleaf Viburnum,0
+3514,389,S,Mapleleaf Viburnum,0
+3521,22,N,Mapleleaf Viburnum,0
+3535,27,N,Mapleleaf Viburnum,0
+3542,27,S,Mapleleaf Viburnum,0
+3549,35,N,Mapleleaf Viburnum,0
+3556,35,S,Mapleleaf Viburnum,0
+3563,25,N,Mapleleaf Viburnum,0
+3577,59,N,Mapleleaf Viburnum,0
+3591,193,N,Mapleleaf Viburnum,0
+3598,193,S,Mapleleaf Viburnum,0
+3612,172,S,Mapleleaf Viburnum,0
+3619,391,N,Mapleleaf Viburnum,0
+3626,391,S,Mapleleaf Viburnum,0
+3633,10,N,Mapleleaf Viburnum,0
+3640,10,S,Mapleleaf Viburnum,0
+3647,6,N,Mapleleaf Viburnum,0
+3654,6,S,Mapleleaf Viburnum,0
+3661,11,N,Mapleleaf Viburnum,0
+3668,11,S,Mapleleaf Viburnum,0
+3675,4,N,Mapleleaf Viburnum,0
+3682,4,S,Mapleleaf Viburnum,0
+3689,167,N,Mapleleaf Viburnum,0
+3696,167,S,Mapleleaf Viburnum,0
+3703,5,N,Mapleleaf Viburnum,0
+3710,5,S,Mapleleaf Viburnum,0
+3717,13,N,Mapleleaf Viburnum,0
+3724,13,S,Mapleleaf Viburnum,0
+3731,8,N,Mapleleaf Viburnum,0
+3738,8,S,Mapleleaf Viburnum,0
+3745,16,N,Mapleleaf Viburnum,0
+3752,16,S,Mapleleaf Viburnum,0
+3759,15,N,Mapleleaf Viburnum,0
+3773,19,N,Mapleleaf Viburnum,0
+3780,19,S,Mapleleaf Viburnum,0
+3787,20,N,Mapleleaf Viburnum,0
+3794,20,S,Mapleleaf Viburnum,0
+3801,145,N,Mapleleaf Viburnum,0
+3808,145,S,Mapleleaf Viburnum,0
+3815,18,N,Mapleleaf Viburnum,0
+3822,18,S,Mapleleaf Viburnum,0
+3829,173,N,Mapleleaf Viburnum,0
+3836,173,S,Mapleleaf Viburnum,0
+3843,149,N,Mapleleaf Viburnum,0
+3850,149,S,Mapleleaf Viburnum,0
+3857,150,N,Mapleleaf Viburnum,0
+3864,150,S,Mapleleaf Viburnum,0
+3871,146,N,Mapleleaf Viburnum,0
+3878,146,S,Mapleleaf Viburnum,0
+3885,153,N,Mapleleaf Viburnum,0
+3899,147,N,Mapleleaf Viburnum,0
+3906,147,S,Mapleleaf Viburnum,0
+3913,148,N,Mapleleaf Viburnum,0
+3927,63,N,Mapleleaf Viburnum,0
+3934,63,S,Mapleleaf Viburnum,0
+3941,152,N,Mapleleaf Viburnum,0
+3948,152,S,Mapleleaf Viburnum,0
+3955,930,N,Mapleleaf Viburnum,0
+3962,930,S,Mapleleaf Viburnum,0
+3969,55,N,Mapleleaf Viburnum,0
+3976,55,S,Mapleleaf Viburnum,0
+3983,54,N,Mapleleaf Viburnum,0
+3990,54,S,Mapleleaf Viburnum,0
+3997,151,N,Mapleleaf Viburnum,0
+4004,151,S,Mapleleaf Viburnum,0
+4011,52,N,Mapleleaf Viburnum,0
+4018,52,S,Mapleleaf Viburnum,0
+4025,53,N,Mapleleaf Viburnum,0
+4032,53,S,Mapleleaf Viburnum,0
+4039,40,N,Mapleleaf Viburnum,0
+4046,40,S,Mapleleaf Viburnum,0
+4053,65,N,Mapleleaf Viburnum,0
+4060,65,S,Mapleleaf Viburnum,0
+4067,60,N,Mapleleaf Viburnum,0
+4074,60,S,Mapleleaf Viburnum,0
+4081,56,N,Mapleleaf Viburnum,0
+4088,56,S,Mapleleaf Viburnum,0
+4095,910,N,Mapleleaf Viburnum,0
+4102,910,S,Mapleleaf Viburnum,0
+4109,909,N,Mapleleaf Viburnum,0
+4116,909,S,Mapleleaf Viburnum,0
+4123,248,N,Mapleleaf Viburnum,0
+4130,248,S,Mapleleaf Viburnum,0
+4137,925,N,Mapleleaf Viburnum,0
+4144,925,S,Mapleleaf Viburnum,0
+4151,208,N,Mapleleaf Viburnum,0
+4158,208,S,Mapleleaf Viburnum,0
+4165,203,N,Mapleleaf Viburnum,0
+4172,203,S,Mapleleaf Viburnum,0
+4179,214,N,Mapleleaf Viburnum,0
+4186,214,S,Mapleleaf Viburnum,0
+4193,210,N,Mapleleaf Viburnum,0
+4200,210,S,Mapleleaf Viburnum,0
+4207,915,N,Mapleleaf Viburnum,0
+4214,915,S,Mapleleaf Viburnum,0
+4221,211,N,Mapleleaf Viburnum,0
+4228,211,S,Mapleleaf Viburnum,0
+4235,250,N,Mapleleaf Viburnum,0
+4242,250,S,Mapleleaf Viburnum,0
+4249,206,N,Mapleleaf Viburnum,0
+4256,206,S,Mapleleaf Viburnum,0
+4263,161,N,Mapleleaf Viburnum,0
+4270,161,S,Mapleleaf Viburnum,0
+4277,211,N,Mapleleaf Viburnum,0
+4284,211,S,Mapleleaf Viburnum,0
+4291,914,N,Mapleleaf Viburnum,0
+4298,914,S,Mapleleaf Viburnum,0
+4305,160,N,Mapleleaf Viburnum,0
+4312,160,S,Mapleleaf Viburnum,0
+4319,159,N,Mapleleaf Viburnum,0
+4326,159,S,Mapleleaf Viburnum,0
+4333,162,N,Mapleleaf Viburnum,0
+4340,162,S,Mapleleaf Viburnum,0
+4347,158,N,Mapleleaf Viburnum,0
+4354,158,S,Mapleleaf Viburnum,0
+4361,156,N,Mapleleaf Viburnum,0
+4368,156,S,Mapleleaf Viburnum,0
+4375,157,N,Mapleleaf Viburnum,0
+4382,157,S,Mapleleaf Viburnum,0
+4389,154,N,Mapleleaf Viburnum,0
+4396,154,S,Mapleleaf Viburnum,0
+4403,225,N,Mapleleaf Viburnum,0
+4410,225,S,Mapleleaf Viburnum,0
+4417,226,N,Mapleleaf Viburnum,0
+4424,226,S,Mapleleaf Viburnum,0
+4431,224,N,Mapleleaf Viburnum,0
+4438,224,S,Mapleleaf Viburnum,0
+4445,223,N,Mapleleaf Viburnum,0
+4452,223,S,Mapleleaf Viburnum,0
+4459,221,N,Mapleleaf Viburnum,0
+4466,221,S,Mapleleaf Viburnum,0
+4473,222,N,Mapleleaf Viburnum,0
+4480,222,S,Mapleleaf Viburnum,0
+4487,218,N,Mapleleaf Viburnum,0
+4494,218,S,Mapleleaf Viburnum,0
+4501,217,N,Mapleleaf Viburnum,0
+4508,217,S,Mapleleaf Viburnum,0
+4515,215,N,Mapleleaf Viburnum,0
+4522,215,S,Mapleleaf Viburnum,0
+4529,212,N,Mapleleaf Viburnum,0
+4536,212,S,Mapleleaf Viburnum,0
+4543,209,N,Mapleleaf Viburnum,0
+4550,209,S,Mapleleaf Viburnum,0
+4557,327,N,Mapleleaf Viburnum,0
+4564,327,S,Mapleleaf Viburnum,0
+4571,321,N,Mapleleaf Viburnum,0
+4578,321,S,Mapleleaf Viburnum,0
+4585,322,N,Mapleleaf Viburnum,0
+4592,322,S,Mapleleaf Viburnum,0
+4599,323,N,Mapleleaf Viburnum,0
+4606,323,S,Mapleleaf Viburnum,0
+4613,324,N,Mapleleaf Viburnum,0
+4620,324,S,Mapleleaf Viburnum,0
+4627,315,N,Mapleleaf Viburnum,0
+4634,315,S,Mapleleaf Viburnum,0
+4641,278,N,Mapleleaf Viburnum,0
+4648,278,S,Mapleleaf Viburnum,0
+4655,318,N,Mapleleaf Viburnum,0
+4662,318,S,Mapleleaf Viburnum,0
+4669,312,N,Mapleleaf Viburnum,0
+4676,312,S,Mapleleaf Viburnum,0
+4690,317,S,Mapleleaf Viburnum,0
+4697,328,N,Mapleleaf Viburnum,0
+4704,328,S,Mapleleaf Viburnum,0
+4711,329,N,Mapleleaf Viburnum,0
+4718,329,S,Mapleleaf Viburnum,0
+4725,320,N,Mapleleaf Viburnum,0
+4732,320,S,Mapleleaf Viburnum,0
+4739,314,N,Mapleleaf Viburnum,0
+4746,314,S,Mapleleaf Viburnum,0
+4753,311,N,Mapleleaf Viburnum,0
+4760,311,S,Mapleleaf Viburnum,0
+4767,316,N,Mapleleaf Viburnum,0
+4774,316,S,Mapleleaf Viburnum,0
+4788,313,S,Mapleleaf Viburnum,0
+4795,319,N,Mapleleaf Viburnum,0
+4802,319,S,Mapleleaf Viburnum,0
+4809,907,N,Mapleleaf Viburnum,0
+4816,907,S,Mapleleaf Viburnum,0
+4823,908,N,Mapleleaf Viburnum,0
+4830,908,S,Mapleleaf Viburnum,0
+4837,906,N,Mapleleaf Viburnum,0
+4844,906,S,Mapleleaf Viburnum,0
+4851,207,N,Mapleleaf Viburnum,0
+4858,207,S,Mapleleaf Viburnum,0
+4865,901,N,Mapleleaf Viburnum,0
+4872,901,S,Mapleleaf Viburnum,0
+4879,902,N,Mapleleaf Viburnum,0
+4886,902,S,Mapleleaf Viburnum,0
+4893,205,N,Mapleleaf Viburnum,0
+4900,205,S,Mapleleaf Viburnum,0
+4907,204,N,Mapleleaf Viburnum,0
+4914,204,S,Mapleleaf Viburnum,0
+4921,911,N,Mapleleaf Viburnum,0
+4928,911,S,Mapleleaf Viburnum,0
+4935,913,N,Mapleleaf Viburnum,0
+4942,913,S,Mapleleaf Viburnum,0
+4949,912,N,Mapleleaf Viburnum,0
+4956,912,S,Mapleleaf Viburnum,0
+4970,926,S,Mapleleaf Viburnum,0
+4977,163,N,Mapleleaf Viburnum,0
+4984,163,S,Mapleleaf Viburnum,0
+4991,161,N,Mapleleaf Viburnum,0
+4998,161,S,Mapleleaf Viburnum,0
+5005,927,N,Mapleleaf Viburnum,0
+5012,927,S,Mapleleaf Viburnum,0
+5019,216,N,Mapleleaf Viburnum,0
+5026,216,S,Mapleleaf Viburnum,0
+5040,213,S,Mapleleaf Viburnum,0
+5047,164,N,Mapleleaf Viburnum,0
+5054,164,S,Mapleleaf Viburnum,0
+5061,155,N,Mapleleaf Viburnum,0
+5068,155,S,Mapleleaf Viburnum,0
+5075,219,N,Mapleleaf Viburnum,0
+5082,219,S,Mapleleaf Viburnum,0
+5089,220,N,Mapleleaf Viburnum,0
+5096,220,S,Mapleleaf Viburnum,0
+5103,330,N,Mapleleaf Viburnum,0
+5110,330,S,Mapleleaf Viburnum,0
+5117,339,N,Mapleleaf Viburnum,0
+5124,339,S,Mapleleaf Viburnum,0
+5131,341,N,Mapleleaf Viburnum,0
+5138,341,S,Mapleleaf Viburnum,0
+5145,342,N,Mapleleaf Viburnum,0
+5152,342,S,Mapleleaf Viburnum,0
+5159,363,N,Mapleleaf Viburnum,0
+5166,363,S,Mapleleaf Viburnum,0
+5173,354,N,Mapleleaf Viburnum,0
+5180,354,S,Mapleleaf Viburnum,0
+5187,360,N,Mapleleaf Viburnum,0
+5194,360,S,Mapleleaf Viburnum,0
+5201,333,N,Mapleleaf Viburnum,0
+5208,333,S,Mapleleaf Viburnum,0
+5215,326,N,Mapleleaf Viburnum,0
+5222,326,S,Mapleleaf Viburnum,0
+5229,336,N,Mapleleaf Viburnum,0
+5236,336,S,Mapleleaf Viburnum,0
+5243,325,N,Mapleleaf Viburnum,0
+5250,325,S,Mapleleaf Viburnum,0
+5257,337,N,Mapleleaf Viburnum,0
+5264,337,S,Mapleleaf Viburnum,0
+5271,340,N,Mapleleaf Viburnum,0
+5278,340,S,Mapleleaf Viburnum,0
+5285,358,N,Mapleleaf Viburnum,0
+5292,358,S,Mapleleaf Viburnum,0
+5299,335,N,Mapleleaf Viburnum,0
+5306,335,S,Mapleleaf Viburnum,0
+5313,343,N,Mapleleaf Viburnum,0
+5320,343,S,Mapleleaf Viburnum,0
+5327,331,N,Mapleleaf Viburnum,0
+5334,331,S,Mapleleaf Viburnum,0
+5341,338,N,Mapleleaf Viburnum,0
+5348,338,S,Mapleleaf Viburnum,0
+5355,350,N,Mapleleaf Viburnum,0
+5362,350,S,Mapleleaf Viburnum,0
+5369,239,N,Mapleleaf Viburnum,0
+5376,239,S,Mapleleaf Viburnum,0
+5383,237,N,Mapleleaf Viburnum,0
+5404,332,S,Mapleleaf Viburnum,0
+5418,247,S,Mapleleaf Viburnum,0
+5425,238,N,Mapleleaf Viburnum,0
+5432,238,S,Mapleleaf Viburnum,0
+5439,242,N,Mapleleaf Viburnum,0
+5446,242,S,Mapleleaf Viburnum,0
+5453,231,N,Mapleleaf Viburnum,0
+5460,231,S,Mapleleaf Viburnum,0
+5467,246,N,Mapleleaf Viburnum,0
+5474,246,S,Mapleleaf Viburnum,0
+5481,249,N,Mapleleaf Viburnum,0
+5488,249,S,Mapleleaf Viburnum,0
+5495,241,N,Mapleleaf Viburnum,0
+5502,241,S,Mapleleaf Viburnum,0
+5509,232,N,Mapleleaf Viburnum,0
+5516,232,S,Mapleleaf Viburnum,0
+5523,233,N,Mapleleaf Viburnum,0
+5530,233,S,Mapleleaf Viburnum,0
+5537,243,N,Mapleleaf Viburnum,0
+5544,243,S,Mapleleaf Viburnum,0
+5551,245,N,Mapleleaf Viburnum,0
+5558,245,S,Mapleleaf Viburnum,0
+5579,235,N,Mapleleaf Viburnum,0
+5586,235,S,Mapleleaf Viburnum,0
+5593,234,N,Mapleleaf Viburnum,0
+5621,227,N,Mapleleaf Viburnum,0
+5628,227,S,Mapleleaf Viburnum,0
+5635,230,N,Mapleleaf Viburnum,0
+5642,230,S,Mapleleaf Viburnum,0
+5663,401,N,Mapleleaf Viburnum,0
+5670,401,S,Mapleleaf Viburnum,0
+5691,403,N,Mapleleaf Viburnum,0
+5705,404,N,Mapleleaf Viburnum,0
+5712,404,S,Mapleleaf Viburnum,0
+5719,406,N,Mapleleaf Viburnum,0
+5726,406,S,Mapleleaf Viburnum,0
+5733,405,N,Mapleleaf Viburnum,0
+5740,405,S,Mapleleaf Viburnum,0
+5747,408,N,Mapleleaf Viburnum,0
+5768,410,S,Mapleleaf Viburnum,0
+5789,412,N,Mapleleaf Viburnum,0
+5796,412,S,Mapleleaf Viburnum,0
+5803,411,N,Mapleleaf Viburnum,0
+5810,411,S,Mapleleaf Viburnum,0
+5817,407,N,Mapleleaf Viburnum,0
+5824,407,S,Mapleleaf Viburnum,0
+5831,357,N,Mapleleaf Viburnum,0
+5838,357,S,Mapleleaf Viburnum,0
+5845,355,N,Mapleleaf Viburnum,0
+5852,355,S,Mapleleaf Viburnum,0
+5859,359,N,Mapleleaf Viburnum,0
+5866,359,S,Mapleleaf Viburnum,0
+5873,353,N,Mapleleaf Viburnum,0
+5880,353,S,Mapleleaf Viburnum,0
+5887,356,N,Mapleleaf Viburnum,0
+5894,356,S,Mapleleaf Viburnum,0
+5901,362,N,Mapleleaf Viburnum,0
+5908,362,S,Mapleleaf Viburnum,0
+5915,349,N,Mapleleaf Viburnum,0
+5922,349,S,Mapleleaf Viburnum,0
+5929,364,N,Mapleleaf Viburnum,0
+5936,364,S,Mapleleaf Viburnum,0
+5943,365,N,Mapleleaf Viburnum,0
+5950,365,S,Mapleleaf Viburnum,0
+5957,361,N,Mapleleaf Viburnum,0
+5964,361,S,Mapleleaf Viburnum,0
+5971,347,N,Mapleleaf Viburnum,0
+5978,347,S,Mapleleaf Viburnum,0
+5985,348,N,Mapleleaf Viburnum,0
+5992,348,S,Mapleleaf Viburnum,0
+5999,351,N,Mapleleaf Viburnum,0
+6006,351,S,Mapleleaf Viburnum,0
+6013,276,N,Mapleleaf Viburnum,0
+6020,276,S,Mapleleaf Viburnum,0
+6027,285,N,Mapleleaf Viburnum,0
+6034,285,S,Mapleleaf Viburnum,0
+6041,281,N,Mapleleaf Viburnum,0
+6055,284,N,Mapleleaf Viburnum,0
+6062,284,S,Mapleleaf Viburnum,0
+6069,367,N,Mapleleaf Viburnum,0
+6076,367,S,Mapleleaf Viburnum,0
+6083,368,N,Mapleleaf Viburnum,0
+6090,368,S,Mapleleaf Viburnum,0
+6097,369,N,Mapleleaf Viburnum,0
+6104,369,S,Mapleleaf Viburnum,0
+6111,366,N,Mapleleaf Viburnum,0
+6118,366,S,Mapleleaf Viburnum,0
+6125,352,N,Mapleleaf Viburnum,0
+6132,352,S,Mapleleaf Viburnum,0
+6139,905,N,Mapleleaf Viburnum,0
+6146,905,S,Mapleleaf Viburnum,0
+6153,903,N,Mapleleaf Viburnum,0
+6160,903,S,Mapleleaf Viburnum,0
+6167,904,N,Mapleleaf Viburnum,0
+6174,904,S,Mapleleaf Viburnum,0
+6181,273,N,Mapleleaf Viburnum,0
+6188,273,S,Mapleleaf Viburnum,0
+6195,288,N,Mapleleaf Viburnum,0
+6209,280,N,Mapleleaf Viburnum,0
+6216,280,S,Mapleleaf Viburnum,0
+6223,251,N,Mapleleaf Viburnum,0
+6237,279,N,Mapleleaf Viburnum,0
+6244,279,S,Mapleleaf Viburnum,0
+6251,277,N,Mapleleaf Viburnum,0
+6258,277,S,Mapleleaf Viburnum,0
+6265,283,N,Mapleleaf Viburnum,0
+6272,283,S,Mapleleaf Viburnum,0
+6279,229,N,Mapleleaf Viburnum,0
+6286,229,S,Mapleleaf Viburnum,0
+6293,236,N,Mapleleaf Viburnum,0
+6300,236,S,Mapleleaf Viburnum,0
+6307,275,N,Mapleleaf Viburnum,0
+6314,275,S,Mapleleaf Viburnum,0
+6321,286,N,Mapleleaf Viburnum,0
+6328,286,S,Mapleleaf Viburnum,0
+6335,274,N,Mapleleaf Viburnum,0
+6342,274,S,Mapleleaf Viburnum,0
+6349,287,N,Mapleleaf Viburnum,0
+6356,287,S,Mapleleaf Viburnum,0
+2656,58,S,Privet,1
+1375,299,N,Privet,3
+1333,253,N,Privet,2
+3083,109,N,Privet,2
+3559,25,N,Privet,2
+3958,930,S,Privet,2
+4819,908,N,Privet,2
+5624,227,S,Privet,2
+6296,236,S,Privet,2
+38,104,S,Privet,1
+136,106,S,Privet,1
+143,107,N,Privet,1
+213,936,N,Privet,1
+220,936,S,Privet,1
+234,377,S,Privet,1
+276,192,S,Privet,1
+353,897,N,Privet,1
+1102,308,S,Privet,1
+1109,395,N,Privet,1
+1123,883,N,Privet,1
+1172,999,S,Privet,1
+1179,143,N,Privet,1
+1312,894,S,Privet,1
+1417,346,N,Privet,1
+1424,346,S,Privet,1
+1452,300,S,Privet,1
+1459,198,N,Privet,1
+1494,898,S,Privet,1
+1543,74,N,Privet,1
+1550,74,S,Privet,1
+1571,400,N,Privet,1
+1606,892,S,Privet,1
+1697,31,N,Privet,1
+1732,26,S,Privet,1
+1739,30,N,Privet,1
+1970,138,S,Privet,1
+2271,1,N,Privet,1
+2292,141,S,Privet,1
+2362,387,S,Privet,1
+2446,384,S,Privet,1
+2530,37,S,Privet,1
+2635,61,N,Privet,1
+2649,58,N,Privet,1
+2768,111,S,Privet,1
+2922,86,S,Privet,1
+2992,124,S,Privet,1
+3020,117,S,Privet,1
+3055,86,N,Privet,1
+3244,122,S,Privet,1
+3335,194,N,Privet,1
+3342,194,S,Privet,1
+3384,874,S,Privet,1
+3391,43,N,Privet,1
+3405,46,N,Privet,1
+3412,46,S,Privet,1
+3531,27,N,Privet,1
+3580,59,S,Privet,1
+3755,15,N,Privet,1
+3811,18,N,Privet,1
+3818,18,S,Privet,1
+3825,173,N,Privet,1
+3937,152,N,Privet,1
+4231,250,N,Privet,1
+4490,218,S,Privet,1
+4637,278,N,Privet,1
+4679,317,N,Privet,1
+4693,328,N,Privet,1
+4721,320,N,Privet,1
+4728,320,S,Privet,1
+4910,204,S,Privet,1
+5050,164,S,Privet,1
+5078,219,S,Privet,1
+5085,220,N,Privet,1
+5092,220,S,Privet,1
+5176,354,S,Privet,1
+5246,325,S,Privet,1
+5358,350,S,Privet,1
+5414,247,S,Privet,1
+5512,232,S,Privet,1
+5827,357,N,Privet,1
+5988,348,S,Privet,1
+6009,276,N,Privet,1
+6023,285,N,Privet,1
+6030,285,S,Privet,1
+6184,273,S,Privet,1
+6289,236,N,Privet,1
+3,165,N,Privet,0
+10,165,S,Privet,0
+17,103,N,Privet,0
+24,103,S,Privet,0
+31,104,N,Privet,0
+45,125,N,Privet,0
+52,125,S,Privet,0
+59,112,N,Privet,0
+66,112,S,Privet,0
+73,120,N,Privet,0
+80,120,S,Privet,0
+87,114,N,Privet,0
+94,114,S,Privet,0
+101,115,N,Privet,0
+108,115,S,Privet,0
+115,119,N,Privet,0
+122,119,S,Privet,0
+129,106,N,Privet,0
+150,107,S,Privet,0
+157,108,N,Privet,0
+164,108,S,Privet,0
+171,118,N,Privet,0
+178,118,S,Privet,0
+185,931,N,Privet,0
+192,931,S,Privet,0
+199,178,N,Privet,0
+206,178,S,Privet,0
+227,377,N,Privet,0
+241,981,N,Privet,0
+248,981,S,Privet,0
+255,195,N,Privet,0
+262,195,S,Privet,0
+269,192,N,Privet,0
+283,291,N,Privet,0
+290,291,S,Privet,0
+297,185,N,Privet,0
+304,185,S,Privet,0
+311,345,N,Privet,0
+318,345,S,Privet,0
+325,289,N,Privet,0
+332,289,S,Privet,0
+339,996,N,Privet,0
+346,996,S,Privet,0
+360,897,S,Privet,0
+367,381,N,Privet,0
+374,381,S,Privet,0
+381,380,N,Privet,0
+388,380,S,Privet,0
+395,378,N,Privet,0
+402,378,S,Privet,0
+409,961,N,Privet,0
+416,961,S,Privet,0
+423,304,N,Privet,0
+430,304,S,Privet,0
+437,303,N,Privet,0
+444,303,S,Privet,0
+451,302,N,Privet,0
+458,302,S,Privet,0
+465,301,N,Privet,0
+472,301,S,Privet,0
+479,379,N,Privet,0
+486,379,S,Privet,0
+493,383,N,Privet,0
+500,383,S,Privet,0
+507,382,N,Privet,0
+514,382,S,Privet,0
+521,392,N,Privet,0
+528,392,S,Privet,0
+535,393,N,Privet,0
+542,393,S,Privet,0
+549,305,N,Privet,0
+556,305,S,Privet,0
+563,378,N,Privet,0
+570,378,S,Privet,0
+577,306,N,Privet,0
+584,306,S,Privet,0
+591,375,N,Privet,0
+598,375,S,Privet,0
+605,255,N,Privet,0
+612,255,S,Privet,0
+619,254,N,Privet,0
+626,254,S,Privet,0
+633,197,N,Privet,0
+640,197,S,Privet,0
+647,259,N,Privet,0
+654,259,S,Privet,0
+661,373,N,Privet,0
+668,373,S,Privet,0
+675,292,N,Privet,0
+682,292,S,Privet,0
+689,290,N,Privet,0
+696,290,S,Privet,0
+703,376,N,Privet,0
+710,376,S,Privet,0
+717,374,N,Privet,0
+724,374,S,Privet,0
+731,882,N,Privet,0
+738,882,S,Privet,0
+745,196,N,Privet,0
+752,196,S,Privet,0
+759,261,N,Privet,0
+766,261,S,Privet,0
+773,886,N,Privet,0
+780,886,S,Privet,0
+787,191,N,Privet,0
+794,191,S,Privet,0
+801,190,N,Privet,0
+808,190,S,Privet,0
+815,890,N,Privet,0
+822,890,S,Privet,0
+829,397,N,Privet,0
+836,397,S,Privet,0
+843,396,N,Privet,0
+850,396,S,Privet,0
+857,296,N,Privet,0
+864,296,S,Privet,0
+871,891,N,Privet,0
+878,891,S,Privet,0
+885,263,N,Privet,0
+892,263,S,Privet,0
+899,256,N,Privet,0
+906,256,S,Privet,0
+913,270,N,Privet,0
+920,270,S,Privet,0
+927,187,N,Privet,0
+934,187,S,Privet,0
+941,260,N,Privet,0
+948,260,S,Privet,0
+955,262,N,Privet,0
+962,262,S,Privet,0
+969,264,N,Privet,0
+976,264,S,Privet,0
+983,265,N,Privet,0
+990,265,S,Privet,0
+997,266,N,Privet,0
+1004,266,S,Privet,0
+1011,398,N,Privet,0
+1018,398,S,Privet,0
+1025,200,N,Privet,0
+1032,200,S,Privet,0
+1039,269,N,Privet,0
+1046,269,S,Privet,0
+1053,394,N,Privet,0
+1060,394,S,Privet,0
+1067,309,N,Privet,0
+1074,309,S,Privet,0
+1081,969,N,Privet,0
+1088,969,S,Privet,0
+1095,308,N,Privet,0
+1116,395,S,Privet,0
+1130,883,S,Privet,0
+1137,929,N,Privet,0
+1144,929,S,Privet,0
+1151,307,N,Privet,0
+1158,307,S,Privet,0
+1165,999,N,Privet,0
+1186,143,S,Privet,0
+1193,102,N,Privet,0
+1200,102,S,Privet,0
+1207,105,N,Privet,0
+1214,105,S,Privet,0
+1221,189,N,Privet,0
+1228,189,S,Privet,0
+1235,258,N,Privet,0
+1242,258,S,Privet,0
+1249,288,N,Privet,0
+1256,288,S,Privet,0
+1263,399,N,Privet,0
+1270,399,S,Privet,0
+1277,372,N,Privet,0
+1284,372,S,Privet,0
+1291,199,N,Privet,0
+1298,199,S,Privet,0
+1305,894,N,Privet,0
+1319,371,N,Privet,0
+1326,371,S,Privet,0
+1340,253,S,Privet,0
+1347,272,N,Privet,0
+1354,272,S,Privet,0
+1361,293,N,Privet,0
+1368,293,S,Privet,0
+1382,299,S,Privet,0
+1389,257,N,Privet,0
+1396,257,S,Privet,0
+1403,188,N,Privet,0
+1410,188,S,Privet,0
+1431,864,N,Privet,0
+1438,864,S,Privet,0
+1445,300,N,Privet,0
+1466,198,S,Privet,0
+1473,297,N,Privet,0
+1480,297,S,Privet,0
+1487,898,N,Privet,0
+1501,885,N,Privet,0
+1508,885,S,Privet,0
+1515,310,N,Privet,0
+1522,310,S,Privet,0
+1529,889,N,Privet,0
+1536,889,S,Privet,0
+1557,252,N,Privet,0
+1564,252,S,Privet,0
+1578,400,S,Privet,0
+1585,893,N,Privet,0
+1592,893,S,Privet,0
+1599,892,N,Privet,0
+1613,77,N,Privet,0
+1620,77,S,Privet,0
+1627,66,N,Privet,0
+1634,66,S,Privet,0
+1641,67,N,Privet,0
+1648,67,S,Privet,0
+1655,75,N,Privet,0
+1662,75,S,Privet,0
+1669,72,N,Privet,0
+1676,72,S,Privet,0
+1683,68,N,Privet,0
+1690,68,S,Privet,0
+1704,31,S,Privet,0
+1711,24,N,Privet,0
+1718,24,S,Privet,0
+1725,26,N,Privet,0
+1746,30,S,Privet,0
+1753,42,N,Privet,0
+1760,42,S,Privet,0
+1767,41,N,Privet,0
+1774,41,S,Privet,0
+1781,93,N,Privet,0
+1788,93,S,Privet,0
+1795,99,N,Privet,0
+1802,99,S,Privet,0
+1809,97,N,Privet,0
+1816,97,S,Privet,0
+1823,92,N,Privet,0
+1830,92,S,Privet,0
+1837,900,N,Privet,0
+1844,900,S,Privet,0
+1851,88,N,Privet,0
+1858,88,S,Privet,0
+1865,3,N,Privet,0
+1872,3,S,Privet,0
+1879,21,N,Privet,0
+1886,21,S,Privet,0
+1893,132,N,Privet,0
+1900,132,S,Privet,0
+1907,174,N,Privet,0
+1914,174,S,Privet,0
+1921,9,N,Privet,0
+1928,9,S,Privet,0
+1935,176,N,Privet,0
+1942,176,S,Privet,0
+1949,14,N,Privet,0
+1956,14,S,Privet,0
+1963,138,N,Privet,0
+1977,201,N,Privet,0
+1984,201,S,Privet,0
+1991,202,N,Privet,0
+1998,202,S,Privet,0
+2005,139,N,Privet,0
+2012,139,S,Privet,0
+2019,140,N,Privet,0
+2026,140,S,Privet,0
+2033,134,N,Privet,0
+2040,134,S,Privet,0
+2047,126,N,Privet,0
+2054,126,S,Privet,0
+2061,127,N,Privet,0
+2068,127,S,Privet,0
+2075,137,N,Privet,0
+2082,137,S,Privet,0
+2089,861,N,Privet,0
+2096,861,S,Privet,0
+2103,136,N,Privet,0
+2110,136,S,Privet,0
+2117,130,N,Privet,0
+2124,130,S,Privet,0
+2131,128,N,Privet,0
+2138,128,S,Privet,0
+2145,131,N,Privet,0
+2152,131,S,Privet,0
+2159,129,N,Privet,0
+2166,129,S,Privet,0
+2173,2,N,Privet,0
+2180,2,S,Privet,0
+2187,7,N,Privet,0
+2194,7,S,Privet,0
+2201,17,N,Privet,0
+2208,17,S,Privet,0
+2215,12,N,Privet,0
+2222,12,S,Privet,0
+2229,23,N,Privet,0
+2236,23,S,Privet,0
+2243,166,N,Privet,0
+2250,166,S,Privet,0
+2257,857,N,Privet,0
+2264,857,S,Privet,0
+2278,1,S,Privet,0
+2285,141,N,Privet,0
+2299,390,N,Privet,0
+2306,390,S,Privet,0
+2313,177,N,Privet,0
+2320,177,S,Privet,0
+2327,344,N,Privet,0
+2334,344,S,Privet,0
+2341,386,N,Privet,0
+2348,386,S,Privet,0
+2355,387,N,Privet,0
+2369,182,N,Privet,0
+2376,182,S,Privet,0
+2383,181,N,Privet,0
+2390,181,S,Privet,0
+2397,385,N,Privet,0
+2404,385,S,Privet,0
+2411,180,N,Privet,0
+2418,180,S,Privet,0
+2425,175,N,Privet,0
+2432,175,S,Privet,0
+2439,384,N,Privet,0
+2453,940,N,Privet,0
+2460,940,S,Privet,0
+2467,33,N,Privet,0
+2474,33,S,Privet,0
+2481,29,N,Privet,0
+2488,29,S,Privet,0
+2495,32,N,Privet,0
+2502,32,S,Privet,0
+2509,36,N,Privet,0
+2516,36,S,Privet,0
+2523,37,N,Privet,0
+2537,34,N,Privet,0
+2544,34,S,Privet,0
+2551,28,N,Privet,0
+2558,28,S,Privet,0
+2565,51,N,Privet,0
+2572,51,S,Privet,0
+2579,45,N,Privet,0
+2586,45,S,Privet,0
+2593,47,N,Privet,0
+2600,47,S,Privet,0
+2607,48,N,Privet,0
+2614,48,S,Privet,0
+2621,49,N,Privet,0
+2628,49,S,Privet,0
+2642,61,S,Privet,0
+2663,57,N,Privet,0
+2670,57,S,Privet,0
+2677,62,N,Privet,0
+2684,62,S,Privet,0
+2691,880,N,Privet,0
+2698,880,S,Privet,0
+2705,69,N,Privet,0
+2712,69,S,Privet,0
+2719,70,N,Privet,0
+2726,70,S,Privet,0
+2733,64,N,Privet,0
+2740,64,S,Privet,0
+2747,895,N,Privet,0
+2754,895,S,Privet,0
+2761,111,N,Privet,0
+2775,135,N,Privet,0
+2782,135,S,Privet,0
+2789,100,N,Privet,0
+2796,100,S,Privet,0
+2803,859,N,Privet,0
+2810,859,S,Privet,0
+2817,90,N,Privet,0
+2824,90,S,Privet,0
+2831,91,N,Privet,0
+2838,91,S,Privet,0
+2845,85,N,Privet,0
+2852,85,S,Privet,0
+2859,87,N,Privet,0
+2866,87,S,Privet,0
+2873,89,N,Privet,0
+2880,89,S,Privet,0
+2887,81,N,Privet,0
+2894,81,S,Privet,0
+2901,80,N,Privet,0
+2908,80,S,Privet,0
+2915,86,N,Privet,0
+2929,84,N,Privet,0
+2936,84,S,Privet,0
+2943,83,N,Privet,0
+2950,83,S,Privet,0
+2957,82,N,Privet,0
+2964,82,S,Privet,0
+2971,123,N,Privet,0
+2978,123,S,Privet,0
+2985,124,N,Privet,0
+2999,142,N,Privet,0
+3006,142,S,Privet,0
+3013,117,N,Privet,0
+3027,133,N,Privet,0
+3034,133,S,Privet,0
+3041,121,N,Privet,0
+3048,121,S,Privet,0
+3062,86,S,Privet,0
+3069,110,N,Privet,0
+3076,110,S,Privet,0
+3090,109,S,Privet,0
+3097,95,N,Privet,0
+3104,95,S,Privet,0
+3111,295,N,Privet,0
+3118,295,S,Privet,0
+3125,881,N,Privet,0
+3132,881,S,Privet,0
+3139,884,N,Privet,0
+3146,884,S,Privet,0
+3153,73,N,Privet,0
+3160,73,S,Privet,0
+3167,79,N,Privet,0
+3174,79,S,Privet,0
+3181,113,N,Privet,0
+3188,113,S,Privet,0
+3195,116,N,Privet,0
+3202,116,S,Privet,0
+3209,94,N,Privet,0
+3216,94,S,Privet,0
+3223,888,N,Privet,0
+3230,888,S,Privet,0
+3237,122,N,Privet,0
+3251,76,N,Privet,0
+3258,76,S,Privet,0
+3265,184,N,Privet,0
+3272,184,S,Privet,0
+3279,179,N,Privet,0
+3286,179,S,Privet,0
+3293,183,N,Privet,0
+3300,183,S,Privet,0
+3307,186,N,Privet,0
+3314,186,S,Privet,0
+3321,388,N,Privet,0
+3328,388,S,Privet,0
+3349,98,N,Privet,0
+3356,98,S,Privet,0
+3363,44,N,Privet,0
+3370,44,S,Privet,0
+3377,874,N,Privet,0
+3398,43,S,Privet,0
+3419,38,N,Privet,0
+3426,38,S,Privet,0
+3433,860,N,Privet,0
+3440,860,S,Privet,0
+3447,39,N,Privet,0
+3454,39,S,Privet,0
+3461,50,N,Privet,0
+3468,50,S,Privet,0
+3475,71,N,Privet,0
+3482,71,S,Privet,0
+3489,78,N,Privet,0
+3496,78,S,Privet,0
+3503,389,N,Privet,0
+3510,389,S,Privet,0
+3517,22,N,Privet,0
+3524,22,S,Privet,0
+3538,27,S,Privet,0
+3545,35,N,Privet,0
+3552,35,S,Privet,0
+3566,25,S,Privet,0
+3573,59,N,Privet,0
+3587,193,N,Privet,0
+3594,193,S,Privet,0
+3601,172,N,Privet,0
+3608,172,S,Privet,0
+3615,391,N,Privet,0
+3622,391,S,Privet,0
+3629,10,N,Privet,0
+3636,10,S,Privet,0
+3643,6,N,Privet,0
+3650,6,S,Privet,0
+3657,11,N,Privet,0
+3664,11,S,Privet,0
+3671,4,N,Privet,0
+3678,4,S,Privet,0
+3685,167,N,Privet,0
+3692,167,S,Privet,0
+3699,5,N,Privet,0
+3706,5,S,Privet,0
+3713,13,N,Privet,0
+3720,13,S,Privet,0
+3727,8,N,Privet,0
+3734,8,S,Privet,0
+3741,16,N,Privet,0
+3748,16,S,Privet,0
+3762,15,S,Privet,0
+3769,19,N,Privet,0
+3776,19,S,Privet,0
+3783,20,N,Privet,0
+3790,20,S,Privet,0
+3797,145,N,Privet,0
+3804,145,S,Privet,0
+3832,173,S,Privet,0
+3839,149,N,Privet,0
+3846,149,S,Privet,0
+3853,150,N,Privet,0
+3860,150,S,Privet,0
+3867,146,N,Privet,0
+3874,146,S,Privet,0
+3881,153,N,Privet,0
+3888,153,S,Privet,0
+3895,147,N,Privet,0
+3902,147,S,Privet,0
+3909,148,N,Privet,0
+3916,148,S,Privet,0
+3923,63,N,Privet,0
+3930,63,S,Privet,0
+3944,152,S,Privet,0
+3951,930,N,Privet,0
+3965,55,N,Privet,0
+3972,55,S,Privet,0
+3979,54,N,Privet,0
+3986,54,S,Privet,0
+3993,151,N,Privet,0
+4000,151,S,Privet,0
+4007,52,N,Privet,0
+4014,52,S,Privet,0
+4021,53,N,Privet,0
+4028,53,S,Privet,0
+4035,40,N,Privet,0
+4042,40,S,Privet,0
+4049,65,N,Privet,0
+4056,65,S,Privet,0
+4063,60,N,Privet,0
+4070,60,S,Privet,0
+4077,56,N,Privet,0
+4084,56,S,Privet,0
+4091,910,N,Privet,0
+4098,910,S,Privet,0
+4105,909,N,Privet,0
+4112,909,S,Privet,0
+4119,248,N,Privet,0
+4126,248,S,Privet,0
+4133,925,N,Privet,0
+4140,925,S,Privet,0
+4147,208,N,Privet,0
+4154,208,S,Privet,0
+4161,203,N,Privet,0
+4168,203,S,Privet,0
+4175,214,N,Privet,0
+4182,214,S,Privet,0
+4189,210,N,Privet,0
+4196,210,S,Privet,0
+4203,915,N,Privet,0
+4210,915,S,Privet,0
+4217,211,N,Privet,0
+4224,211,S,Privet,0
+4238,250,S,Privet,0
+4245,206,N,Privet,0
+4252,206,S,Privet,0
+4259,161,N,Privet,0
+4266,161,S,Privet,0
+4273,211,N,Privet,0
+4280,211,S,Privet,0
+4287,914,N,Privet,0
+4294,914,S,Privet,0
+4301,160,N,Privet,0
+4308,160,S,Privet,0
+4315,159,N,Privet,0
+4322,159,S,Privet,0
+4329,162,N,Privet,0
+4336,162,S,Privet,0
+4343,158,N,Privet,0
+4350,158,S,Privet,0
+4357,156,N,Privet,0
+4364,156,S,Privet,0
+4371,157,N,Privet,0
+4378,157,S,Privet,0
+4385,154,N,Privet,0
+4392,154,S,Privet,0
+4399,225,N,Privet,0
+4406,225,S,Privet,0
+4413,226,N,Privet,0
+4420,226,S,Privet,0
+4427,224,N,Privet,0
+4434,224,S,Privet,0
+4441,223,N,Privet,0
+4448,223,S,Privet,0
+4455,221,N,Privet,0
+4462,221,S,Privet,0
+4469,222,N,Privet,0
+4476,222,S,Privet,0
+4483,218,N,Privet,0
+4497,217,N,Privet,0
+4504,217,S,Privet,0
+4511,215,N,Privet,0
+4518,215,S,Privet,0
+4525,212,N,Privet,0
+4532,212,S,Privet,0
+4539,209,N,Privet,0
+4546,209,S,Privet,0
+4553,327,N,Privet,0
+4560,327,S,Privet,0
+4567,321,N,Privet,0
+4574,321,S,Privet,0
+4581,322,N,Privet,0
+4588,322,S,Privet,0
+4595,323,N,Privet,0
+4602,323,S,Privet,0
+4609,324,N,Privet,0
+4616,324,S,Privet,0
+4623,315,N,Privet,0
+4630,315,S,Privet,0
+4644,278,S,Privet,0
+4651,318,N,Privet,0
+4658,318,S,Privet,0
+4665,312,N,Privet,0
+4672,312,S,Privet,0
+4686,317,S,Privet,0
+4700,328,S,Privet,0
+4707,329,N,Privet,0
+4714,329,S,Privet,0
+4735,314,N,Privet,0
+4742,314,S,Privet,0
+4749,311,N,Privet,0
+4756,311,S,Privet,0
+4763,316,N,Privet,0
+4770,316,S,Privet,0
+4777,313,N,Privet,0
+4784,313,S,Privet,0
+4791,319,N,Privet,0
+4798,319,S,Privet,0
+4805,907,N,Privet,0
+4812,907,S,Privet,0
+4826,908,S,Privet,0
+4833,906,N,Privet,0
+4840,906,S,Privet,0
+4847,207,N,Privet,0
+4854,207,S,Privet,0
+4861,901,N,Privet,0
+4868,901,S,Privet,0
+4875,902,N,Privet,0
+4882,902,S,Privet,0
+4889,205,N,Privet,0
+4896,205,S,Privet,0
+4903,204,N,Privet,0
+4917,911,N,Privet,0
+4924,911,S,Privet,0
+4931,913,N,Privet,0
+4938,913,S,Privet,0
+4945,912,N,Privet,0
+4952,912,S,Privet,0
+4959,926,N,Privet,0
+4966,926,S,Privet,0
+4973,163,N,Privet,0
+4980,163,S,Privet,0
+4987,161,N,Privet,0
+4994,161,S,Privet,0
+5001,927,N,Privet,0
+5008,927,S,Privet,0
+5015,216,N,Privet,0
+5022,216,S,Privet,0
+5029,213,N,Privet,0
+5036,213,S,Privet,0
+5043,164,N,Privet,0
+5057,155,N,Privet,0
+5064,155,S,Privet,0
+5071,219,N,Privet,0
+5099,330,N,Privet,0
+5106,330,S,Privet,0
+5113,339,N,Privet,0
+5120,339,S,Privet,0
+5127,341,N,Privet,0
+5134,341,S,Privet,0
+5141,342,N,Privet,0
+5148,342,S,Privet,0
+5155,363,N,Privet,0
+5162,363,S,Privet,0
+5169,354,N,Privet,0
+5183,360,N,Privet,0
+5190,360,S,Privet,0
+5197,333,N,Privet,0
+5204,333,S,Privet,0
+5211,326,N,Privet,0
+5218,326,S,Privet,0
+5225,336,N,Privet,0
+5232,336,S,Privet,0
+5239,325,N,Privet,0
+5253,337,N,Privet,0
+5260,337,S,Privet,0
+5267,340,N,Privet,0
+5274,340,S,Privet,0
+5281,358,N,Privet,0
+5288,358,S,Privet,0
+5295,335,N,Privet,0
+5302,335,S,Privet,0
+5309,343,N,Privet,0
+5316,343,S,Privet,0
+5323,331,N,Privet,0
+5330,331,S,Privet,0
+5337,338,N,Privet,0
+5344,338,S,Privet,0
+5351,350,N,Privet,0
+5365,239,N,Privet,0
+5372,239,S,Privet,0
+5379,237,N,Privet,0
+5386,237,S,Privet,0
+5393,332,N,Privet,0
+5400,332,S,Privet,0
+5407,247,N,Privet,0
+5421,238,N,Privet,0
+5428,238,S,Privet,0
+5435,242,N,Privet,0
+5442,242,S,Privet,0
+5449,231,N,Privet,0
+5456,231,S,Privet,0
+5463,246,N,Privet,0
+5470,246,S,Privet,0
+5477,249,N,Privet,0
+5484,249,S,Privet,0
+5491,241,N,Privet,0
+5498,241,S,Privet,0
+5505,232,N,Privet,0
+5519,233,N,Privet,0
+5526,233,S,Privet,0
+5533,243,N,Privet,0
+5540,243,S,Privet,0
+5547,245,N,Privet,0
+5554,245,S,Privet,0
+5561,244,N,Privet,0
+5568,244,S,Privet,0
+5575,235,N,Privet,0
+5582,235,S,Privet,0
+5589,234,N,Privet,0
+5596,234,S,Privet,0
+5603,240,N,Privet,0
+5610,240,S,Privet,0
+5617,227,N,Privet,0
+5631,230,N,Privet,0
+5638,230,S,Privet,0
+5645,228,N,Privet,0
+5652,228,S,Privet,0
+5659,401,N,Privet,0
+5666,401,S,Privet,0
+5673,402,N,Privet,0
+5680,402,S,Privet,0
+5687,403,N,Privet,0
+5694,403,S,Privet,0
+5701,404,N,Privet,0
+5708,404,S,Privet,0
+5715,406,N,Privet,0
+5722,406,S,Privet,0
+5729,405,N,Privet,0
+5736,405,S,Privet,0
+5743,408,N,Privet,0
+5750,408,S,Privet,0
+5757,410,N,Privet,0
+5764,410,S,Privet,0
+5771,409,N,Privet,0
+5778,409,S,Privet,0
+5785,412,N,Privet,0
+5792,412,S,Privet,0
+5799,411,N,Privet,0
+5806,411,S,Privet,0
+5813,407,N,Privet,0
+5820,407,S,Privet,0
+5834,357,S,Privet,0
+5841,355,N,Privet,0
+5848,355,S,Privet,0
+5855,359,N,Privet,0
+5862,359,S,Privet,0
+5869,353,N,Privet,0
+5876,353,S,Privet,0
+5883,356,N,Privet,0
+5890,356,S,Privet,0
+5897,362,N,Privet,0
+5904,362,S,Privet,0
+5911,349,N,Privet,0
+5918,349,S,Privet,0
+5925,364,N,Privet,0
+5932,364,S,Privet,0
+5939,365,N,Privet,0
+5946,365,S,Privet,0
+5953,361,N,Privet,0
+5960,361,S,Privet,0
+5967,347,N,Privet,0
+5974,347,S,Privet,0
+5981,348,N,Privet,0
+5995,351,N,Privet,0
+6002,351,S,Privet,0
+6016,276,S,Privet,0
+6037,281,N,Privet,0
+6044,281,S,Privet,0
+6051,284,N,Privet,0
+6058,284,S,Privet,0
+6065,367,N,Privet,0
+6072,367,S,Privet,0
+6079,368,N,Privet,0
+6086,368,S,Privet,0
+6093,369,N,Privet,0
+6100,369,S,Privet,0
+6107,366,N,Privet,0
+6114,366,S,Privet,0
+6121,352,N,Privet,0
+6128,352,S,Privet,0
+6135,905,N,Privet,0
+6142,905,S,Privet,0
+6149,903,N,Privet,0
+6156,903,S,Privet,0
+6163,904,N,Privet,0
+6170,904,S,Privet,0
+6177,273,N,Privet,0
+6191,288,N,Privet,0
+6198,288,S,Privet,0
+6205,280,N,Privet,0
+6212,280,S,Privet,0
+6219,251,N,Privet,0
+6226,251,S,Privet,0
+6233,279,N,Privet,0
+6240,279,S,Privet,0
+6247,277,N,Privet,0
+6254,277,S,Privet,0
+6261,283,N,Privet,0
+6268,283,S,Privet,0
+6275,229,N,Privet,0
+6282,229,S,Privet,0
+6303,275,N,Privet,0
+6310,275,S,Privet,0
+6317,286,N,Privet,0
+6324,286,S,Privet,0
+6331,274,N,Privet,0
+6338,274,S,Privet,0
+6345,287,N,Privet,0
+6352,287,S,Privet,0
+4804,907,N,Rose,NA
+5322,331,N,Rose,NA
+3117,295,S,Rose,6
+6204,280,N,Rose,6
+443,303,S,Rose,5
+1213,105,S,Rose,5
+1549,74,S,Rose,5
+3971,55,S,Rose,5
+5364,239,N,Rose,5
+5385,237,S,Rose,5
+5406,247,N,Rose,5
+5469,246,S,Rose,5
+5483,249,S,Rose,5
+5581,235,S,Rose,5
+5602,240,N,Rose,5
+6008,276,N,Rose,5
+9,165,S,Rose,4
+58,112,N,Rose,4
+128,106,N,Rose,4
+135,106,S,Rose,4
+142,107,N,Rose,4
+163,108,S,Rose,4
+436,303,N,Rose,4
+646,259,N,Rose,4
+1192,102,N,Rose,4
+1206,105,N,Rose,4
+1451,300,S,Rose,4
+1647,67,S,Rose,4
+1843,900,S,Rose,4
+2165,129,S,Rose,4
+2354,387,N,Rose,4
+3194,116,N,Rose,4
+3257,76,S,Rose,4
+3306,186,N,Rose,4
+3838,149,N,Rose,4
+3845,149,S,Rose,4
+3873,146,S,Rose,4
+4020,53,N,Rose,4
+4027,53,S,Rose,4
+4118,248,N,Rose,4
+4146,208,N,Rose,4
+4181,214,S,Rose,4
+4846,207,N,Rose,4
+4958,926,N,Rose,4
+4965,926,S,Rose,4
+5035,213,S,Rose,4
+5371,239,S,Rose,4
+5413,247,S,Rose,4
+5420,238,N,Rose,4
+5434,242,N,Rose,4
+5441,242,S,Rose,4
+5455,231,S,Rose,4
+5462,246,N,Rose,4
+5476,249,N,Rose,4
+5539,243,S,Rose,4
+5560,244,N,Rose,4
+5588,234,N,Rose,4
+5952,361,N,Rose,4
+6218,251,N,Rose,4
+6288,236,N,Rose,4
+2,165,N,Rose,3
+23,103,S,Rose,3
+37,104,S,Rose,3
+44,125,N,Rose,3
+65,112,S,Rose,3
+79,120,S,Rose,3
+149,107,S,Rose,3
+156,108,N,Rose,3
+184,931,N,Rose,3
+198,178,N,Rose,3
+205,178,S,Rose,3
+233,377,S,Rose,3
+457,302,S,Rose,3
+485,379,S,Rose,3
+520,392,N,Rose,3
+709,376,S,Rose,3
+1094,308,N,Rose,3
+1185,143,S,Rose,3
+1199,102,S,Rose,3
+1374,299,N,Rose,3
+1745,30,S,Rose,3
+1752,42,N,Rose,3
+1822,92,N,Rose,3
+1836,900,N,Rose,3
+1850,88,N,Rose,3
+1857,88,S,Rose,3
+2438,384,N,Rose,3
+2578,45,N,Rose,3
+2669,57,S,Rose,3
+2683,62,S,Rose,3
+2690,880,N,Rose,3
+2851,85,S,Rose,3
+3026,133,N,Rose,3
+3061,86,S,Rose,3
+3089,109,S,Rose,3
+3103,95,S,Rose,3
+3110,295,N,Rose,3
+3124,881,N,Rose,3
+3138,884,N,Rose,3
+3208,94,N,Rose,3
+3215,94,S,Rose,3
+3222,888,N,Rose,3
+3250,76,N,Rose,3
+3313,186,S,Rose,3
+3467,50,S,Rose,3
+3551,35,S,Rose,3
+3866,146,N,Rose,3
+3880,153,N,Rose,3
+3908,148,N,Rose,3
+4013,52,S,Rose,3
+4132,925,N,Rose,3
+4153,208,S,Rose,3
+4160,203,N,Rose,3
+4167,203,S,Rose,3
+4440,223,N,Rose,3
+4685,317,S,Rose,3
+4748,311,N,Rose,3
+4853,207,S,Rose,3
+4860,901,N,Rose,3
+4902,204,N,Rose,3
+4916,911,N,Rose,3
+5133,341,S,Rose,3
+5378,237,N,Rose,3
+5427,238,S,Rose,3
+5448,231,N,Rose,3
+5532,243,N,Rose,3
+5553,245,S,Rose,3
+5567,244,S,Rose,3
+5595,234,S,Rose,3
+5609,240,S,Rose,3
+6022,285,N,Rose,3
+6162,904,N,Rose,3
+6169,904,S,Rose,3
+6211,280,S,Rose,3
+6225,251,S,Rose,3
+6274,229,N,Rose,3
+6295,236,S,Rose,3
+6309,275,S,Rose,3
+6323,286,S,Rose,3
+16,103,N,Rose,2
+30,104,N,Rose,2
+51,125,S,Rose,2
+72,120,N,Rose,2
+93,114,S,Rose,2
+170,118,N,Rose,2
+226,377,N,Rose,2
+366,381,N,Rose,2
+401,378,S,Rose,2
+408,961,N,Rose,2
+450,302,N,Rose,2
+464,301,N,Rose,2
+471,301,S,Rose,2
+653,259,S,Rose,2
+702,376,N,Rose,2
+1108,395,N,Rose,2
+1332,253,N,Rose,2
+1542,74,N,Rose,2
+1591,893,S,Rose,2
+1598,892,N,Rose,2
+1605,892,S,Rose,2
+1654,75,N,Rose,2
+1675,72,S,Rose,2
+1696,31,N,Rose,2
+1759,42,S,Rose,2
+1766,41,N,Rose,2
+1773,41,S,Rose,2
+1787,93,S,Rose,2
+1801,99,S,Rose,2
+1815,97,S,Rose,2
+2067,127,S,Rose,2
+2116,130,N,Rose,2
+2123,130,S,Rose,2
+2151,131,S,Rose,2
+2298,390,N,Rose,2
+2361,387,S,Rose,2
+2368,182,N,Rose,2
+2382,181,N,Rose,2
+2389,181,S,Rose,2
+2424,175,N,Rose,2
+2459,940,S,Rose,2
+2494,32,N,Rose,2
+2543,34,S,Rose,2
+2599,47,S,Rose,2
+2641,61,S,Rose,2
+2718,70,N,Rose,2
+2732,64,N,Rose,2
+2928,84,N,Rose,2
+3012,117,N,Rose,2
+3019,117,S,Rose,2
+3033,133,S,Rose,2
+3054,86,N,Rose,2
+3075,110,S,Rose,2
+3082,109,N,Rose,2
+3096,95,N,Rose,2
+3131,881,S,Rose,2
+3145,884,S,Rose,2
+3152,73,N,Rose,2
+3166,79,N,Rose,2
+3173,79,S,Rose,2
+3180,113,N,Rose,2
+3187,113,S,Rose,2
+3201,116,S,Rose,2
+3446,39,N,Rose,2
+3460,50,N,Rose,2
+3481,71,S,Rose,2
+3516,22,N,Rose,2
+3544,35,N,Rose,2
+3887,153,S,Rose,2
+3950,930,N,Rose,2
+3964,55,N,Rose,2
+4006,52,N,Rose,2
+4076,56,N,Rose,2
+4083,56,S,Rose,2
+4125,248,S,Rose,2
+4139,925,S,Rose,2
+4174,214,N,Rose,2
+4209,915,S,Rose,2
+4272,211,N,Rose,2
+4664,312,N,Rose,2
+4671,312,S,Rose,2
+4678,317,N,Rose,2
+4755,311,S,Rose,2
+4776,313,N,Rose,2
+4790,319,N,Rose,2
+4832,906,N,Rose,2
+4839,906,S,Rose,2
+4874,902,N,Rose,2
+4888,205,N,Rose,2
+4895,205,S,Rose,2
+4909,204,S,Rose,2
+4923,911,S,Rose,2
+4930,913,N,Rose,2
+5042,164,N,Rose,2
+5049,164,S,Rose,2
+5119,339,S,Rose,2
+5126,341,N,Rose,2
+5168,354,N,Rose,2
+5252,337,N,Rose,2
+5287,358,S,Rose,2
+5490,241,N,Rose,2
+5518,233,N,Rose,2
+5525,233,S,Rose,2
+5546,245,N,Rose,2
+5574,235,N,Rose,2
+5616,227,N,Rose,2
+5637,230,S,Rose,2
+5847,355,S,Rose,2
+5959,361,S,Rose,2
+6015,276,S,Rose,2
+6029,285,S,Rose,2
+6176,273,N,Rose,2
+6281,229,S,Rose,2
+86,114,N,Rose,1
+114,119,N,Rose,1
+121,119,S,Rose,1
+177,118,S,Rose,1
+191,931,S,Rose,1
+219,936,S,Rose,1
+247,981,S,Rose,1
+254,195,N,Rose,1
+261,195,S,Rose,1
+275,192,S,Rose,1
+289,291,S,Rose,1
+303,185,S,Rose,1
+310,345,N,Rose,1
+324,289,N,Rose,1
+331,289,S,Rose,1
+359,897,S,Rose,1
+373,381,S,Rose,1
+380,380,N,Rose,1
+387,380,S,Rose,1
+394,378,N,Rose,1
+415,961,S,Rose,1
+429,304,S,Rose,1
+478,379,N,Rose,1
+492,383,N,Rose,1
+499,383,S,Rose,1
+513,382,S,Rose,1
+590,375,N,Rose,1
+625,254,S,Rose,1
+660,373,N,Rose,1
+667,373,S,Rose,1
+716,374,N,Rose,1
+723,374,S,Rose,1
+730,882,N,Rose,1
+737,882,S,Rose,1
+744,196,N,Rose,1
+842,396,N,Rose,1
+849,396,S,Rose,1
+863,296,S,Rose,1
+877,891,S,Rose,1
+926,187,N,Rose,1
+933,187,S,Rose,1
+947,260,S,Rose,1
+1101,308,S,Rose,1
+1129,883,S,Rose,1
+1164,999,N,Rose,1
+1171,999,S,Rose,1
+1178,143,N,Rose,1
+1283,372,S,Rose,1
+1325,371,S,Rose,1
+1339,253,S,Rose,1
+1353,272,S,Rose,1
+1381,299,S,Rose,1
+1388,257,N,Rose,1
+1395,257,S,Rose,1
+1402,188,N,Rose,1
+1409,188,S,Rose,1
+1430,864,N,Rose,1
+1444,300,N,Rose,1
+1465,198,S,Rose,1
+1486,898,N,Rose,1
+1500,885,N,Rose,1
+1584,893,N,Rose,1
+1612,77,N,Rose,1
+1619,77,S,Rose,1
+1626,66,N,Rose,1
+1633,66,S,Rose,1
+1640,67,N,Rose,1
+1661,75,S,Rose,1
+1668,72,N,Rose,1
+1682,68,N,Rose,1
+1689,68,S,Rose,1
+1703,31,S,Rose,1
+1710,24,N,Rose,1
+1717,24,S,Rose,1
+1724,26,N,Rose,1
+1731,26,S,Rose,1
+1780,93,N,Rose,1
+1794,99,N,Rose,1
+1808,97,N,Rose,1
+1829,92,S,Rose,1
+1871,3,S,Rose,1
+1885,21,S,Rose,1
+1962,138,N,Rose,1
+1969,138,S,Rose,1
+2004,139,N,Rose,1
+2018,140,N,Rose,1
+2039,134,S,Rose,1
+2053,126,S,Rose,1
+2060,127,N,Rose,1
+2074,137,N,Rose,1
+2081,137,S,Rose,1
+2095,861,S,Rose,1
+2137,128,S,Rose,1
+2144,131,N,Rose,1
+2158,129,N,Rose,1
+2172,2,N,Rose,1
+2179,2,S,Rose,1
+2186,7,N,Rose,1
+2200,17,N,Rose,1
+2207,17,S,Rose,1
+2214,12,N,Rose,1
+2221,12,S,Rose,1
+2228,23,N,Rose,1
+2235,23,S,Rose,1
+2242,166,N,Rose,1
+2249,166,S,Rose,1
+2263,857,S,Rose,1
+2277,1,S,Rose,1
+2333,344,S,Rose,1
+2340,386,N,Rose,1
+2375,182,S,Rose,1
+2417,180,S,Rose,1
+2431,175,S,Rose,1
+2452,940,N,Rose,1
+2466,33,N,Rose,1
+2473,33,S,Rose,1
+2480,29,N,Rose,1
+2487,29,S,Rose,1
+2501,32,S,Rose,1
+2508,36,N,Rose,1
+2515,36,S,Rose,1
+2522,37,N,Rose,1
+2536,34,N,Rose,1
+2550,28,N,Rose,1
+2564,51,N,Rose,1
+2571,51,S,Rose,1
+2592,47,N,Rose,1
+2606,48,N,Rose,1
+2613,48,S,Rose,1
+2627,49,S,Rose,1
+2634,61,N,Rose,1
+2648,58,N,Rose,1
+2662,57,N,Rose,1
+2676,62,N,Rose,1
+2697,880,S,Rose,1
+2704,69,N,Rose,1
+2711,69,S,Rose,1
+2725,70,S,Rose,1
+2739,64,S,Rose,1
+2760,111,N,Rose,1
+2767,111,S,Rose,1
+2844,85,N,Rose,1
+2921,86,S,Rose,1
+2984,124,N,Rose,1
+2991,124,S,Rose,1
+3159,73,S,Rose,1
+3229,888,S,Rose,1
+3236,122,N,Rose,1
+3264,184,N,Rose,1
+3320,388,N,Rose,1
+3327,388,S,Rose,1
+3334,194,N,Rose,1
+3341,194,S,Rose,1
+3348,98,N,Rose,1
+3355,98,S,Rose,1
+3369,44,S,Rose,1
+3376,874,N,Rose,1
+3383,874,S,Rose,1
+3404,46,N,Rose,1
+3411,46,S,Rose,1
+3432,860,N,Rose,1
+3439,860,S,Rose,1
+3453,39,S,Rose,1
+3474,71,N,Rose,1
+3495,78,S,Rose,1
+3509,389,S,Rose,1
+3523,22,S,Rose,1
+3530,27,N,Rose,1
+3537,27,S,Rose,1
+3558,25,N,Rose,1
+3565,25,S,Rose,1
+3572,59,N,Rose,1
+3579,59,S,Rose,1
+3586,193,N,Rose,1
+3593,193,S,Rose,1
+3614,391,N,Rose,1
+3621,391,S,Rose,1
+3628,10,N,Rose,1
+3635,10,S,Rose,1
+3642,6,N,Rose,1
+3649,6,S,Rose,1
+3670,4,N,Rose,1
+3712,13,N,Rose,1
+3726,8,N,Rose,1
+3740,16,N,Rose,1
+3768,19,N,Rose,1
+3789,20,S,Rose,1
+3894,147,N,Rose,1
+3901,147,S,Rose,1
+3915,148,S,Rose,1
+3922,63,N,Rose,1
+3929,63,S,Rose,1
+3936,152,N,Rose,1
+3943,152,S,Rose,1
+3957,930,S,Rose,1
+3985,54,S,Rose,1
+3992,151,N,Rose,1
+4034,40,N,Rose,1
+4041,40,S,Rose,1
+4048,65,N,Rose,1
+4069,60,S,Rose,1
+4090,910,N,Rose,1
+4097,910,S,Rose,1
+4111,909,S,Rose,1
+4188,210,N,Rose,1
+4195,210,S,Rose,1
+4202,915,N,Rose,1
+4216,211,N,Rose,1
+4223,211,S,Rose,1
+4230,250,N,Rose,1
+4237,250,S,Rose,1
+4244,206,N,Rose,1
+4251,206,S,Rose,1
+4258,161,N,Rose,1
+4265,161,S,Rose,1
+4279,211,S,Rose,1
+4286,914,N,Rose,1
+4293,914,S,Rose,1
+4300,160,N,Rose,1
+4307,160,S,Rose,1
+4328,162,N,Rose,1
+4335,162,S,Rose,1
+4342,158,N,Rose,1
+4349,158,S,Rose,1
+4356,156,N,Rose,1
+4363,156,S,Rose,1
+4384,154,N,Rose,1
+4391,154,S,Rose,1
+4398,225,N,Rose,1
+4405,225,S,Rose,1
+4412,226,N,Rose,1
+4419,226,S,Rose,1
+4426,224,N,Rose,1
+4433,224,S,Rose,1
+4447,223,S,Rose,1
+4482,218,N,Rose,1
+4489,218,S,Rose,1
+4510,215,N,Rose,1
+4517,215,S,Rose,1
+4524,212,N,Rose,1
+4531,212,S,Rose,1
+4538,209,N,Rose,1
+4552,327,N,Rose,1
+4559,327,S,Rose,1
+4573,321,S,Rose,1
+4580,322,N,Rose,1
+4594,323,N,Rose,1
+4608,324,N,Rose,1
+4622,315,N,Rose,1
+4636,278,N,Rose,1
+4657,318,S,Rose,1
+4692,328,N,Rose,1
+4699,328,S,Rose,1
+4713,329,S,Rose,1
+4720,320,N,Rose,1
+4727,320,S,Rose,1
+4762,316,N,Rose,1
+4769,316,S,Rose,1
+4783,313,S,Rose,1
+4797,319,S,Rose,1
+4811,907,S,Rose,1
+4818,908,N,Rose,1
+4825,908,S,Rose,1
+4881,902,S,Rose,1
+4937,913,S,Rose,1
+4944,912,N,Rose,1
+4951,912,S,Rose,1
+4972,163,N,Rose,1
+4986,161,N,Rose,1
+4993,161,S,Rose,1
+5014,216,N,Rose,1
+5021,216,S,Rose,1
+5028,213,N,Rose,1
+5070,219,N,Rose,1
+5098,330,N,Rose,1
+5105,330,S,Rose,1
+5112,339,N,Rose,1
+5140,342,N,Rose,1
+5147,342,S,Rose,1
+5175,354,S,Rose,1
+5203,333,S,Rose,1
+5210,326,N,Rose,1
+5224,336,N,Rose,1
+5231,336,S,Rose,1
+5238,325,N,Rose,1
+5245,325,S,Rose,1
+5259,337,S,Rose,1
+5266,340,N,Rose,1
+5280,358,N,Rose,1
+5294,335,N,Rose,1
+5301,335,S,Rose,1
+5308,343,N,Rose,1
+5315,343,S,Rose,1
+5329,331,S,Rose,1
+5336,338,N,Rose,1
+5343,338,S,Rose,1
+5644,228,N,Rose,1
+5700,404,N,Rose,1
+5707,404,S,Rose,1
+5749,408,S,Rose,1
+5756,410,N,Rose,1
+5812,407,N,Rose,1
+5826,357,N,Rose,1
+5833,357,S,Rose,1
+5840,355,N,Rose,1
+5861,359,S,Rose,1
+5868,353,N,Rose,1
+5910,349,N,Rose,1
+5917,349,S,Rose,1
+6001,351,S,Rose,1
+6036,281,N,Rose,1
+6043,281,S,Rose,1
+6120,352,N,Rose,1
+6127,352,S,Rose,1
+6134,905,N,Rose,1
+6141,905,S,Rose,1
+6183,273,S,Rose,1
+6302,275,N,Rose,1
+6316,286,N,Rose,1
+6330,274,N,Rose,1
+6337,274,S,Rose,1
+6351,287,S,Rose,1
+100,115,N,Rose,0
+107,115,S,Rose,0
+212,936,N,Rose,0
+240,981,N,Rose,0
+268,192,N,Rose,0
+282,291,N,Rose,0
+296,185,N,Rose,0
+317,345,S,Rose,0
+338,996,N,Rose,0
+345,996,S,Rose,0
+352,897,N,Rose,0
+422,304,N,Rose,0
+506,382,N,Rose,0
+527,392,S,Rose,0
+534,393,N,Rose,0
+541,393,S,Rose,0
+548,305,N,Rose,0
+555,305,S,Rose,0
+562,378,N,Rose,0
+569,378,S,Rose,0
+576,306,N,Rose,0
+583,306,S,Rose,0
+597,375,S,Rose,0
+604,255,N,Rose,0
+611,255,S,Rose,0
+618,254,N,Rose,0
+632,197,N,Rose,0
+639,197,S,Rose,0
+674,292,N,Rose,0
+681,292,S,Rose,0
+688,290,N,Rose,0
+695,290,S,Rose,0
+751,196,S,Rose,0
+758,261,N,Rose,0
+765,261,S,Rose,0
+772,886,N,Rose,0
+779,886,S,Rose,0
+786,191,N,Rose,0
+793,191,S,Rose,0
+800,190,N,Rose,0
+807,190,S,Rose,0
+814,890,N,Rose,0
+821,890,S,Rose,0
+828,397,N,Rose,0
+835,397,S,Rose,0
+856,296,N,Rose,0
+870,891,N,Rose,0
+884,263,N,Rose,0
+891,263,S,Rose,0
+898,256,N,Rose,0
+905,256,S,Rose,0
+912,270,N,Rose,0
+919,270,S,Rose,0
+940,260,N,Rose,0
+954,262,N,Rose,0
+961,262,S,Rose,0
+968,264,N,Rose,0
+975,264,S,Rose,0
+982,265,N,Rose,0
+989,265,S,Rose,0
+996,266,N,Rose,0
+1003,266,S,Rose,0
+1010,398,N,Rose,0
+1017,398,S,Rose,0
+1024,200,N,Rose,0
+1031,200,S,Rose,0
+1038,269,N,Rose,0
+1045,269,S,Rose,0
+1052,394,N,Rose,0
+1059,394,S,Rose,0
+1066,309,N,Rose,0
+1073,309,S,Rose,0
+1080,969,N,Rose,0
+1087,969,S,Rose,0
+1115,395,S,Rose,0
+1122,883,N,Rose,0
+1136,929,N,Rose,0
+1143,929,S,Rose,0
+1150,307,N,Rose,0
+1157,307,S,Rose,0
+1220,189,N,Rose,0
+1227,189,S,Rose,0
+1234,258,N,Rose,0
+1241,258,S,Rose,0
+1248,288,N,Rose,0
+1255,288,S,Rose,0
+1262,399,N,Rose,0
+1269,399,S,Rose,0
+1276,372,N,Rose,0
+1290,199,N,Rose,0
+1297,199,S,Rose,0
+1304,894,N,Rose,0
+1311,894,S,Rose,0
+1318,371,N,Rose,0
+1346,272,N,Rose,0
+1360,293,N,Rose,0
+1367,293,S,Rose,0
+1416,346,N,Rose,0
+1423,346,S,Rose,0
+1437,864,S,Rose,0
+1458,198,N,Rose,0
+1472,297,N,Rose,0
+1479,297,S,Rose,0
+1493,898,S,Rose,0
+1507,885,S,Rose,0
+1514,310,N,Rose,0
+1521,310,S,Rose,0
+1528,889,N,Rose,0
+1535,889,S,Rose,0
+1556,252,N,Rose,0
+1563,252,S,Rose,0
+1570,400,N,Rose,0
+1577,400,S,Rose,0
+1738,30,N,Rose,0
+1864,3,N,Rose,0
+1878,21,N,Rose,0
+1892,132,N,Rose,0
+1899,132,S,Rose,0
+1906,174,N,Rose,0
+1913,174,S,Rose,0
+1920,9,N,Rose,0
+1927,9,S,Rose,0
+1934,176,N,Rose,0
+1941,176,S,Rose,0
+1948,14,N,Rose,0
+1955,14,S,Rose,0
+1976,201,N,Rose,0
+1983,201,S,Rose,0
+1990,202,N,Rose,0
+1997,202,S,Rose,0
+2011,139,S,Rose,0
+2025,140,S,Rose,0
+2032,134,N,Rose,0
+2046,126,N,Rose,0
+2088,861,N,Rose,0
+2102,136,N,Rose,0
+2109,136,S,Rose,0
+2130,128,N,Rose,0
+2193,7,S,Rose,0
+2256,857,N,Rose,0
+2270,1,N,Rose,0
+2284,141,N,Rose,0
+2291,141,S,Rose,0
+2305,390,S,Rose,0
+2312,177,N,Rose,0
+2319,177,S,Rose,0
+2326,344,N,Rose,0
+2347,386,S,Rose,0
+2396,385,N,Rose,0
+2403,385,S,Rose,0
+2410,180,N,Rose,0
+2445,384,S,Rose,0
+2529,37,S,Rose,0
+2557,28,S,Rose,0
+2585,45,S,Rose,0
+2620,49,S,Rose,0
+2746,895,N,Rose,0
+2753,895,S,Rose,0
+2774,135,N,Rose,0
+2781,135,S,Rose,0
+2788,100,N,Rose,0
+2795,100,S,Rose,0
+2802,859,N,Rose,0
+2809,859,S,Rose,0
+2816,90,N,Rose,0
+2823,90,S,Rose,0
+2830,91,N,Rose,0
+2837,91,S,Rose,0
+2858,87,N,Rose,0
+2865,87,S,Rose,0
+2872,89,N,Rose,0
+2879,89,S,Rose,0
+2886,81,N,Rose,0
+2893,81,S,Rose,0
+2900,80,N,Rose,0
+2907,80,S,Rose,0
+2914,86,N,Rose,0
+2935,84,S,Rose,0
+2942,83,N,Rose,0
+2949,83,S,Rose,0
+2956,82,N,Rose,0
+2963,82,S,Rose,0
+2970,123,N,Rose,0
+2977,123,S,Rose,0
+2998,142,N,Rose,0
+3005,142,S,Rose,0
+3040,121,N,Rose,0
+3047,121,S,Rose,0
+3068,110,N,Rose,0
+3243,122,S,Rose,0
+3271,184,S,Rose,0
+3278,179,N,Rose,0
+3285,179,S,Rose,0
+3292,183,N,Rose,0
+3299,183,S,Rose,0
+3362,44,N,Rose,0
+3390,43,N,Rose,0
+3397,43,S,Rose,0
+3418,38,N,Rose,0
+3425,38,S,Rose,0
+3488,78,N,Rose,0
+3502,389,N,Rose,0
+3600,172,N,Rose,0
+3607,172,S,Rose,0
+3656,11,N,Rose,0
+3663,11,S,Rose,0
+3677,4,S,Rose,0
+3684,167,N,Rose,0
+3691,167,S,Rose,0
+3698,5,N,Rose,0
+3705,5,S,Rose,0
+3719,13,S,Rose,0
+3733,8,S,Rose,0
+3747,16,S,Rose,0
+3754,15,N,Rose,0
+3761,15,S,Rose,0
+3775,19,S,Rose,0
+3782,20,N,Rose,0
+3796,145,N,Rose,0
+3803,145,S,Rose,0
+3810,18,N,Rose,0
+3817,18,S,Rose,0
+3824,173,N,Rose,0
+3831,173,S,Rose,0
+3852,150,N,Rose,0
+3859,150,S,Rose,0
+3978,54,N,Rose,0
+3999,151,S,Rose,0
+4055,65,S,Rose,0
+4062,60,N,Rose,0
+4104,909,N,Rose,0
+4314,159,N,Rose,0
+4321,159,S,Rose,0
+4370,157,N,Rose,0
+4377,157,S,Rose,0
+4454,221,N,Rose,0
+4461,221,S,Rose,0
+4468,222,N,Rose,0
+4475,222,S,Rose,0
+4496,217,N,Rose,0
+4503,217,S,Rose,0
+4545,209,S,Rose,0
+4566,321,N,Rose,0
+4587,322,S,Rose,0
+4601,323,S,Rose,0
+4615,324,S,Rose,0
+4629,315,S,Rose,0
+4643,278,S,Rose,0
+4650,318,N,Rose,0
+4706,329,N,Rose,0
+4734,314,N,Rose,0
+4741,314,S,Rose,0
+4867,901,S,Rose,0
+4979,163,S,Rose,0
+5000,927,N,Rose,0
+5007,927,S,Rose,0
+5056,155,N,Rose,0
+5063,155,S,Rose,0
+5077,219,S,Rose,0
+5084,220,N,Rose,0
+5091,220,S,Rose,0
+5154,363,N,Rose,0
+5161,363,S,Rose,0
+5182,360,N,Rose,0
+5189,360,S,Rose,0
+5196,333,N,Rose,0
+5217,326,S,Rose,0
+5273,340,S,Rose,0
+5350,350,N,Rose,0
+5357,350,S,Rose,0
+5392,332,N,Rose,0
+5399,332,S,Rose,0
+5497,241,S,Rose,0
+5504,232,N,Rose,0
+5511,232,S,Rose,0
+5623,227,S,Rose,0
+5630,230,N,Rose,0
+5651,228,S,Rose,0
+5658,401,N,Rose,0
+5665,401,S,Rose,0
+5672,402,N,Rose,0
+5679,402,S,Rose,0
+5686,403,N,Rose,0
+5693,403,S,Rose,0
+5714,406,N,Rose,0
+5721,406,S,Rose,0
+5728,405,N,Rose,0
+5735,405,S,Rose,0
+5742,408,N,Rose,0
+5763,410,S,Rose,0
+5770,409,N,Rose,0
+5777,409,S,Rose,0
+5784,412,N,Rose,0
+5791,412,S,Rose,0
+5798,411,N,Rose,0
+5805,411,S,Rose,0
+5819,407,S,Rose,0
+5854,359,N,Rose,0
+5875,353,S,Rose,0
+5882,356,N,Rose,0
+5889,356,S,Rose,0
+5896,362,N,Rose,0
+5903,362,S,Rose,0
+5924,364,N,Rose,0
+5931,364,S,Rose,0
+5938,365,N,Rose,0
+5945,365,S,Rose,0
+5966,347,N,Rose,0
+5973,347,S,Rose,0
+5980,348,N,Rose,0
+5987,348,S,Rose,0
+5994,351,N,Rose,0
+6050,284,N,Rose,0
+6057,284,S,Rose,0
+6064,367,N,Rose,0
+6071,367,S,Rose,0
+6078,368,N,Rose,0
+6085,368,S,Rose,0
+6092,369,N,Rose,0
+6099,369,S,Rose,0
+6106,366,N,Rose,0
+6113,366,S,Rose,0
+6148,903,N,Rose,0
+6155,903,S,Rose,0
+6190,288,N,Rose,0
+6197,288,S,Rose,0
+6232,279,N,Rose,0
+6239,279,S,Rose,0
+6246,277,N,Rose,0
+6253,277,S,Rose,0
+6260,283,N,Rose,0
+6267,283,S,Rose,0
+6344,287,N,Rose,0
+2655,58,S,Rose,
+2750,895,N,Spicebush,1
+1637,66,S,Spicebush,2
+1679,72,S,Spicebush,2
+1693,68,S,Spicebush,2
+2218,12,N,Spicebush,2
+3856,150,N,Spicebush,2
+3898,147,N,Spicebush,2
+3912,148,N,Spicebush,2
+4892,205,N,Spicebush,2
+4906,204,N,Spicebush,2
+6166,904,N,Spicebush,2
+496,383,N,Spicebush,1
+517,382,S,Spicebush,1
+846,396,N,Spicebush,1
+860,296,N,Spicebush,1
+874,891,N,Spicebush,1
+923,270,S,Spicebush,1
+1028,200,N,Spicebush,1
+1210,105,N,Spicebush,1
+1266,399,N,Spicebush,1
+1553,74,S,Spicebush,1
+1616,77,N,Spicebush,1
+1623,77,S,Spicebush,1
+1630,66,N,Spicebush,1
+1644,67,N,Spicebush,1
+1672,72,N,Spicebush,1
+1686,68,N,Spicebush,1
+1735,26,S,Spicebush,1
+1742,30,N,Spicebush,1
+1903,132,S,Spicebush,1
+2211,17,S,Spicebush,1
+2309,390,S,Spicebush,1
+2330,344,N,Spicebush,1
+2449,384,S,Spicebush,1
+2470,33,N,Spicebush,1
+2498,32,N,Spicebush,1
+2512,36,N,Spicebush,1
+2540,34,N,Spicebush,1
+2561,28,S,Spicebush,1
+2568,51,N,Spicebush,1
+2575,51,S,Spicebush,1
+2589,45,S,Spicebush,1
+2596,47,N,Spicebush,1
+2617,48,S,Spicebush,1
+2631,49,S,Spicebush,1
+2659,58,S,Spicebush,1
+2673,57,S,Spicebush,1
+2722,70,N,Spicebush,1
+2729,70,S,Spicebush,1
+2736,64,N,Spicebush,1
+2743,64,S,Spicebush,1
+3296,183,N,Spicebush,1
+3394,43,N,Spicebush,1
+3464,50,N,Spicebush,1
+3534,27,N,Spicebush,1
+3583,59,S,Spicebush,1
+3639,10,S,Spicebush,1
+3653,6,S,Spicebush,1
+3674,4,N,Spicebush,1
+3688,167,N,Spicebush,1
+3716,13,N,Spicebush,1
+3723,13,S,Spicebush,1
+3730,8,N,Spicebush,1
+3744,16,N,Spicebush,1
+3751,16,S,Spicebush,1
+3765,15,S,Spicebush,1
+3772,19,N,Spicebush,1
+3779,19,S,Spicebush,1
+3793,20,S,Spicebush,1
+3807,145,S,Spicebush,1
+3842,149,N,Spicebush,1
+3849,149,S,Spicebush,1
+3863,150,S,Spicebush,1
+3870,146,N,Spicebush,1
+3877,146,S,Spicebush,1
+3884,153,N,Spicebush,1
+3891,153,S,Spicebush,1
+3905,147,S,Spicebush,1
+3919,148,S,Spicebush,1
+3940,152,N,Spicebush,1
+3954,930,N,Spicebush,1
+3961,930,S,Spicebush,1
+4003,151,S,Spicebush,1
+4010,52,N,Spicebush,1
+4017,52,S,Spicebush,1
+4024,53,N,Spicebush,1
+4031,53,S,Spicebush,1
+4038,40,N,Spicebush,1
+4052,65,N,Spicebush,1
+4080,56,N,Spicebush,1
+4087,56,S,Spicebush,1
+4108,909,N,Spicebush,1
+4122,248,N,Spicebush,1
+4129,248,S,Spicebush,1
+4136,925,N,Spicebush,1
+4143,925,S,Spicebush,1
+4150,208,N,Spicebush,1
+4157,208,S,Spicebush,1
+4164,203,N,Spicebush,1
+4171,203,S,Spicebush,1
+4178,214,N,Spicebush,1
+4185,214,S,Spicebush,1
+4192,210,N,Spicebush,1
+4220,211,N,Spicebush,1
+4248,206,N,Spicebush,1
+4255,206,S,Spicebush,1
+4276,211,N,Spicebush,1
+4297,914,S,Spicebush,1
+4304,160,N,Spicebush,1
+4318,159,N,Spicebush,1
+4325,159,S,Spicebush,1
+4353,158,S,Spicebush,1
+4360,156,N,Spicebush,1
+4402,225,N,Spicebush,1
+4409,225,S,Spicebush,1
+4416,226,N,Spicebush,1
+4423,226,S,Spicebush,1
+4451,223,S,Spicebush,1
+4521,215,S,Spicebush,1
+4528,212,N,Spicebush,1
+4570,321,N,Spicebush,1
+4605,323,S,Spicebush,1
+4829,908,S,Spicebush,1
+4899,205,S,Spicebush,1
+4934,913,N,Spicebush,1
+4962,926,N,Spicebush,1
+4969,926,S,Spicebush,1
+5004,927,N,Spicebush,1
+5718,406,N,Spicebush,1
+5739,405,S,Spicebush,1
+6138,905,N,Spicebush,1
+6152,903,N,Spicebush,1
+6306,275,N,Spicebush,1
+6,165,N,Spicebush,0
+13,165,S,Spicebush,0
+20,103,N,Spicebush,0
+27,103,S,Spicebush,0
+34,104,N,Spicebush,0
+41,104,S,Spicebush,0
+48,125,N,Spicebush,0
+55,125,S,Spicebush,0
+62,112,N,Spicebush,0
+69,112,S,Spicebush,0
+76,120,N,Spicebush,0
+83,120,S,Spicebush,0
+90,114,N,Spicebush,0
+97,114,S,Spicebush,0
+104,115,N,Spicebush,0
+111,115,S,Spicebush,0
+118,119,N,Spicebush,0
+125,119,S,Spicebush,0
+132,106,N,Spicebush,0
+139,106,S,Spicebush,0
+146,107,N,Spicebush,0
+153,107,S,Spicebush,0
+160,108,N,Spicebush,0
+167,108,S,Spicebush,0
+174,118,N,Spicebush,0
+181,118,S,Spicebush,0
+188,931,N,Spicebush,0
+195,931,S,Spicebush,0
+202,178,N,Spicebush,0
+209,178,S,Spicebush,0
+216,936,N,Spicebush,0
+223,936,S,Spicebush,0
+230,377,N,Spicebush,0
+237,377,S,Spicebush,0
+244,981,N,Spicebush,0
+251,981,S,Spicebush,0
+258,195,N,Spicebush,0
+265,195,S,Spicebush,0
+272,192,N,Spicebush,0
+279,192,S,Spicebush,0
+286,291,N,Spicebush,0
+293,291,S,Spicebush,0
+300,185,N,Spicebush,0
+307,185,S,Spicebush,0
+314,345,N,Spicebush,0
+321,345,S,Spicebush,0
+328,289,N,Spicebush,0
+335,289,S,Spicebush,0
+342,996,N,Spicebush,0
+349,996,S,Spicebush,0
+356,897,N,Spicebush,0
+363,897,S,Spicebush,0
+370,381,N,Spicebush,0
+377,381,S,Spicebush,0
+384,380,N,Spicebush,0
+391,380,S,Spicebush,0
+398,378,N,Spicebush,0
+405,378,S,Spicebush,0
+412,961,N,Spicebush,0
+419,961,S,Spicebush,0
+426,304,N,Spicebush,0
+433,304,S,Spicebush,0
+440,303,N,Spicebush,0
+447,303,S,Spicebush,0
+454,302,N,Spicebush,0
+461,302,S,Spicebush,0
+468,301,N,Spicebush,0
+475,301,S,Spicebush,0
+482,379,N,Spicebush,0
+489,379,S,Spicebush,0
+503,383,S,Spicebush,0
+510,382,N,Spicebush,0
+524,392,N,Spicebush,0
+531,392,S,Spicebush,0
+538,393,N,Spicebush,0
+545,393,S,Spicebush,0
+552,305,N,Spicebush,0
+559,305,S,Spicebush,0
+566,378,N,Spicebush,0
+573,378,S,Spicebush,0
+580,306,N,Spicebush,0
+587,306,S,Spicebush,0
+594,375,N,Spicebush,0
+601,375,S,Spicebush,0
+608,255,N,Spicebush,0
+615,255,S,Spicebush,0
+622,254,N,Spicebush,0
+629,254,S,Spicebush,0
+636,197,N,Spicebush,0
+643,197,S,Spicebush,0
+650,259,N,Spicebush,0
+657,259,S,Spicebush,0
+664,373,N,Spicebush,0
+671,373,S,Spicebush,0
+678,292,N,Spicebush,0
+685,292,S,Spicebush,0
+692,290,N,Spicebush,0
+699,290,S,Spicebush,0
+706,376,N,Spicebush,0
+713,376,S,Spicebush,0
+720,374,N,Spicebush,0
+727,374,S,Spicebush,0
+734,882,N,Spicebush,0
+741,882,S,Spicebush,0
+748,196,N,Spicebush,0
+755,196,S,Spicebush,0
+762,261,N,Spicebush,0
+769,261,S,Spicebush,0
+776,886,N,Spicebush,0
+783,886,S,Spicebush,0
+790,191,N,Spicebush,0
+797,191,S,Spicebush,0
+804,190,N,Spicebush,0
+811,190,S,Spicebush,0
+818,890,N,Spicebush,0
+825,890,S,Spicebush,0
+832,397,N,Spicebush,0
+839,397,S,Spicebush,0
+853,396,S,Spicebush,0
+867,296,S,Spicebush,0
+881,891,S,Spicebush,0
+888,263,N,Spicebush,0
+895,263,S,Spicebush,0
+902,256,N,Spicebush,0
+909,256,S,Spicebush,0
+916,270,N,Spicebush,0
+930,187,N,Spicebush,0
+937,187,S,Spicebush,0
+944,260,N,Spicebush,0
+951,260,S,Spicebush,0
+958,262,N,Spicebush,0
+965,262,S,Spicebush,0
+972,264,N,Spicebush,0
+979,264,S,Spicebush,0
+986,265,N,Spicebush,0
+993,265,S,Spicebush,0
+1000,266,N,Spicebush,0
+1007,266,S,Spicebush,0
+1014,398,N,Spicebush,0
+1021,398,S,Spicebush,0
+1035,200,S,Spicebush,0
+1042,269,N,Spicebush,0
+1049,269,S,Spicebush,0
+1056,394,N,Spicebush,0
+1063,394,S,Spicebush,0
+1070,309,N,Spicebush,0
+1077,309,S,Spicebush,0
+1084,969,N,Spicebush,0
+1091,969,S,Spicebush,0
+1098,308,N,Spicebush,0
+1105,308,S,Spicebush,0
+1112,395,N,Spicebush,0
+1119,395,S,Spicebush,0
+1126,883,N,Spicebush,0
+1133,883,S,Spicebush,0
+1140,929,N,Spicebush,0
+1147,929,S,Spicebush,0
+1154,307,N,Spicebush,0
+1161,307,S,Spicebush,0
+1168,999,N,Spicebush,0
+1175,999,S,Spicebush,0
+1182,143,N,Spicebush,0
+1189,143,S,Spicebush,0
+1196,102,N,Spicebush,0
+1203,102,S,Spicebush,0
+1217,105,S,Spicebush,0
+1224,189,N,Spicebush,0
+1231,189,S,Spicebush,0
+1238,258,N,Spicebush,0
+1245,258,S,Spicebush,0
+1252,288,N,Spicebush,0
+1259,288,S,Spicebush,0
+1273,399,S,Spicebush,0
+1280,372,N,Spicebush,0
+1287,372,S,Spicebush,0
+1294,199,N,Spicebush,0
+1301,199,S,Spicebush,0
+1308,894,N,Spicebush,0
+1315,894,S,Spicebush,0
+1322,371,N,Spicebush,0
+1329,371,S,Spicebush,0
+1336,253,N,Spicebush,0
+1343,253,S,Spicebush,0
+1350,272,N,Spicebush,0
+1357,272,S,Spicebush,0
+1364,293,N,Spicebush,0
+1371,293,S,Spicebush,0
+1378,299,N,Spicebush,0
+1385,299,S,Spicebush,0
+1392,257,N,Spicebush,0
+1399,257,S,Spicebush,0
+1406,188,N,Spicebush,0
+1413,188,S,Spicebush,0
+1420,346,N,Spicebush,0
+1427,346,S,Spicebush,0
+1434,864,N,Spicebush,0
+1441,864,S,Spicebush,0
+1448,300,N,Spicebush,0
+1455,300,S,Spicebush,0
+1462,198,N,Spicebush,0
+1469,198,S,Spicebush,0
+1476,297,N,Spicebush,0
+1483,297,S,Spicebush,0
+1490,898,N,Spicebush,0
+1497,898,S,Spicebush,0
+1504,885,N,Spicebush,0
+1511,885,S,Spicebush,0
+1518,310,N,Spicebush,0
+1525,310,S,Spicebush,0
+1532,889,N,Spicebush,0
+1539,889,S,Spicebush,0
+1546,74,N,Spicebush,0
+1560,252,N,Spicebush,0
+1567,252,S,Spicebush,0
+1574,400,N,Spicebush,0
+1581,400,S,Spicebush,0
+1588,893,N,Spicebush,0
+1595,893,S,Spicebush,0
+1602,892,N,Spicebush,0
+1609,892,S,Spicebush,0
+1651,67,S,Spicebush,0
+1658,75,N,Spicebush,0
+1665,75,S,Spicebush,0
+1700,31,N,Spicebush,0
+1707,31,S,Spicebush,0
+1714,24,N,Spicebush,0
+1721,24,S,Spicebush,0
+1728,26,N,Spicebush,0
+1749,30,S,Spicebush,0
+1756,42,N,Spicebush,0
+1763,42,S,Spicebush,0
+1770,41,N,Spicebush,0
+1777,41,S,Spicebush,0
+1784,93,N,Spicebush,0
+1791,93,S,Spicebush,0
+1798,99,N,Spicebush,0
+1805,99,S,Spicebush,0
+1812,97,N,Spicebush,0
+1819,97,S,Spicebush,0
+1826,92,N,Spicebush,0
+1833,92,S,Spicebush,0
+1840,900,N,Spicebush,0
+1847,900,S,Spicebush,0
+1854,88,N,Spicebush,0
+1861,88,S,Spicebush,0
+1868,3,N,Spicebush,0
+1875,3,S,Spicebush,0
+1882,21,N,Spicebush,0
+1889,21,S,Spicebush,0
+1896,132,N,Spicebush,0
+1910,174,N,Spicebush,0
+1917,174,S,Spicebush,0
+1924,9,N,Spicebush,0
+1931,9,S,Spicebush,0
+1938,176,N,Spicebush,0
+1945,176,S,Spicebush,0
+1952,14,N,Spicebush,0
+1959,14,S,Spicebush,0
+1966,138,N,Spicebush,0
+1973,138,S,Spicebush,0
+1980,201,N,Spicebush,0
+1987,201,S,Spicebush,0
+1994,202,N,Spicebush,0
+2001,202,S,Spicebush,0
+2008,139,N,Spicebush,0
+2015,139,S,Spicebush,0
+2022,140,N,Spicebush,0
+2029,140,S,Spicebush,0
+2036,134,N,Spicebush,0
+2043,134,S,Spicebush,0
+2050,126,N,Spicebush,0
+2057,126,S,Spicebush,0
+2064,127,N,Spicebush,0
+2071,127,S,Spicebush,0
+2078,137,N,Spicebush,0
+2085,137,S,Spicebush,0
+2092,861,N,Spicebush,0
+2099,861,S,Spicebush,0
+2106,136,N,Spicebush,0
+2113,136,S,Spicebush,0
+2120,130,N,Spicebush,0
+2127,130,S,Spicebush,0
+2134,128,N,Spicebush,0
+2141,128,S,Spicebush,0
+2148,131,N,Spicebush,0
+2155,131,S,Spicebush,0
+2162,129,N,Spicebush,0
+2169,129,S,Spicebush,0
+2176,2,N,Spicebush,0
+2183,2,S,Spicebush,0
+2190,7,N,Spicebush,0
+2197,7,S,Spicebush,0
+2204,17,N,Spicebush,0
+2225,12,S,Spicebush,0
+2232,23,N,Spicebush,0
+2239,23,S,Spicebush,0
+2246,166,N,Spicebush,0
+2253,166,S,Spicebush,0
+2260,857,N,Spicebush,0
+2267,857,S,Spicebush,0
+2274,1,N,Spicebush,0
+2281,1,S,Spicebush,0
+2288,141,N,Spicebush,0
+2295,141,S,Spicebush,0
+2302,390,N,Spicebush,0
+2316,177,N,Spicebush,0
+2323,177,S,Spicebush,0
+2337,344,S,Spicebush,0
+2344,386,N,Spicebush,0
+2351,386,S,Spicebush,0
+2358,387,N,Spicebush,0
+2365,387,S,Spicebush,0
+2372,182,N,Spicebush,0
+2379,182,S,Spicebush,0
+2386,181,N,Spicebush,0
+2393,181,S,Spicebush,0
+2400,385,N,Spicebush,0
+2407,385,S,Spicebush,0
+2414,180,N,Spicebush,0
+2421,180,S,Spicebush,0
+2428,175,N,Spicebush,0
+2435,175,S,Spicebush,0
+2442,384,N,Spicebush,0
+2456,940,N,Spicebush,0
+2463,940,S,Spicebush,0
+2477,33,S,Spicebush,0
+2484,29,N,Spicebush,0
+2491,29,S,Spicebush,0
+2505,32,S,Spicebush,0
+2519,36,S,Spicebush,0
+2526,37,N,Spicebush,0
+2533,37,S,Spicebush,0
+2547,34,S,Spicebush,0
+2554,28,N,Spicebush,0
+2582,45,N,Spicebush,0
+2603,47,S,Spicebush,0
+2610,48,N,Spicebush,0
+2624,49,N,Spicebush,0
+2638,61,N,Spicebush,0
+2645,61,S,Spicebush,0
+2652,58,N,Spicebush,0
+2666,57,N,Spicebush,0
+2680,62,N,Spicebush,0
+2687,62,S,Spicebush,0
+2694,880,N,Spicebush,0
+2701,880,S,Spicebush,0
+2708,69,N,Spicebush,0
+2715,69,S,Spicebush,0
+2757,895,S,Spicebush,0
+2764,111,N,Spicebush,0
+2771,111,S,Spicebush,0
+2778,135,N,Spicebush,0
+2785,135,S,Spicebush,0
+2792,100,N,Spicebush,0
+2799,100,S,Spicebush,0
+2806,859,N,Spicebush,0
+2813,859,S,Spicebush,0
+2820,90,N,Spicebush,0
+2827,90,S,Spicebush,0
+2834,91,N,Spicebush,0
+2841,91,S,Spicebush,0
+2848,85,N,Spicebush,0
+2855,85,S,Spicebush,0
+2862,87,N,Spicebush,0
+2869,87,S,Spicebush,0
+2876,89,N,Spicebush,0
+2883,89,S,Spicebush,0
+2890,81,N,Spicebush,0
+2897,81,S,Spicebush,0
+2904,80,N,Spicebush,0
+2911,80,S,Spicebush,0
+2918,86,N,Spicebush,0
+2925,86,S,Spicebush,0
+2932,84,N,Spicebush,0
+2939,84,S,Spicebush,0
+2946,83,N,Spicebush,0
+2953,83,S,Spicebush,0
+2960,82,N,Spicebush,0
+2967,82,S,Spicebush,0
+2974,123,N,Spicebush,0
+2981,123,S,Spicebush,0
+2988,124,N,Spicebush,0
+2995,124,S,Spicebush,0
+3002,142,N,Spicebush,0
+3009,142,S,Spicebush,0
+3016,117,N,Spicebush,0
+3023,117,S,Spicebush,0
+3030,133,N,Spicebush,0
+3037,133,S,Spicebush,0
+3044,121,N,Spicebush,0
+3051,121,S,Spicebush,0
+3058,86,N,Spicebush,0
+3065,86,S,Spicebush,0
+3072,110,N,Spicebush,0
+3079,110,S,Spicebush,0
+3086,109,N,Spicebush,0
+3093,109,S,Spicebush,0
+3100,95,N,Spicebush,0
+3107,95,S,Spicebush,0
+3114,295,N,Spicebush,0
+3121,295,S,Spicebush,0
+3128,881,N,Spicebush,0
+3135,881,S,Spicebush,0
+3142,884,N,Spicebush,0
+3149,884,S,Spicebush,0
+3156,73,N,Spicebush,0
+3163,73,S,Spicebush,0
+3170,79,N,Spicebush,0
+3177,79,S,Spicebush,0
+3184,113,N,Spicebush,0
+3191,113,S,Spicebush,0
+3198,116,N,Spicebush,0
+3205,116,S,Spicebush,0
+3212,94,N,Spicebush,0
+3219,94,S,Spicebush,0
+3226,888,N,Spicebush,0
+3233,888,S,Spicebush,0
+3240,122,N,Spicebush,0
+3247,122,S,Spicebush,0
+3254,76,N,Spicebush,0
+3261,76,S,Spicebush,0
+3268,184,N,Spicebush,0
+3275,184,S,Spicebush,0
+3282,179,N,Spicebush,0
+3289,179,S,Spicebush,0
+3303,183,S,Spicebush,0
+3310,186,N,Spicebush,0
+3317,186,S,Spicebush,0
+3324,388,N,Spicebush,0
+3331,388,S,Spicebush,0
+3338,194,N,Spicebush,0
+3345,194,S,Spicebush,0
+3352,98,N,Spicebush,0
+3359,98,S,Spicebush,0
+3366,44,N,Spicebush,0
+3373,44,S,Spicebush,0
+3380,874,N,Spicebush,0
+3387,874,S,Spicebush,0
+3401,43,S,Spicebush,0
+3408,46,N,Spicebush,0
+3415,46,S,Spicebush,0
+3422,38,N,Spicebush,0
+3429,38,S,Spicebush,0
+3436,860,N,Spicebush,0
+3443,860,S,Spicebush,0
+3450,39,N,Spicebush,0
+3457,39,S,Spicebush,0
+3471,50,S,Spicebush,0
+3478,71,N,Spicebush,0
+3485,71,S,Spicebush,0
+3492,78,N,Spicebush,0
+3499,78,S,Spicebush,0
+3506,389,N,Spicebush,0
+3513,389,S,Spicebush,0
+3520,22,N,Spicebush,0
+3527,22,S,Spicebush,0
+3541,27,S,Spicebush,0
+3548,35,N,Spicebush,0
+3555,35,S,Spicebush,0
+3562,25,N,Spicebush,0
+3569,25,S,Spicebush,0
+3576,59,N,Spicebush,0
+3590,193,N,Spicebush,0
+3597,193,S,Spicebush,0
+3604,172,N,Spicebush,0
+3611,172,S,Spicebush,0
+3618,391,N,Spicebush,0
+3625,391,S,Spicebush,0
+3632,10,N,Spicebush,0
+3646,6,N,Spicebush,0
+3660,11,N,Spicebush,0
+3667,11,S,Spicebush,0
+3681,4,S,Spicebush,0
+3695,167,S,Spicebush,0
+3702,5,N,Spicebush,0
+3709,5,S,Spicebush,0
+3737,8,S,Spicebush,0
+3758,15,N,Spicebush,0
+3786,20,N,Spicebush,0
+3800,145,N,Spicebush,0
+3814,18,N,Spicebush,0
+3821,18,S,Spicebush,0
+3828,173,N,Spicebush,0
+3835,173,S,Spicebush,0
+3926,63,N,Spicebush,0
+3933,63,S,Spicebush,0
+3947,152,S,Spicebush,0
+3968,55,N,Spicebush,0
+3975,55,S,Spicebush,0
+3982,54,N,Spicebush,0
+3989,54,S,Spicebush,0
+3996,151,N,Spicebush,0
+4045,40,S,Spicebush,0
+4059,65,S,Spicebush,0
+4066,60,N,Spicebush,0
+4073,60,S,Spicebush,0
+4094,910,N,Spicebush,0
+4101,910,S,Spicebush,0
+4115,909,S,Spicebush,0
+4199,210,S,Spicebush,0
+4206,915,N,Spicebush,0
+4213,915,S,Spicebush,0
+4227,211,S,Spicebush,0
+4234,250,N,Spicebush,0
+4241,250,S,Spicebush,0
+4262,161,N,Spicebush,0
+4269,161,S,Spicebush,0
+4283,211,S,Spicebush,0
+4290,914,N,Spicebush,0
+4311,160,S,Spicebush,0
+4332,162,N,Spicebush,0
+4339,162,S,Spicebush,0
+4346,158,N,Spicebush,0
+4367,156,S,Spicebush,0
+4374,157,N,Spicebush,0
+4381,157,S,Spicebush,0
+4388,154,N,Spicebush,0
+4395,154,S,Spicebush,0
+4430,224,N,Spicebush,0
+4437,224,S,Spicebush,0
+4444,223,N,Spicebush,0
+4458,221,N,Spicebush,0
+4465,221,S,Spicebush,0
+4472,222,N,Spicebush,0
+4479,222,S,Spicebush,0
+4486,218,N,Spicebush,0
+4493,218,S,Spicebush,0
+4500,217,N,Spicebush,0
+4507,217,S,Spicebush,0
+4514,215,N,Spicebush,0
+4535,212,S,Spicebush,0
+4542,209,N,Spicebush,0
+4549,209,S,Spicebush,0
+4556,327,N,Spicebush,0
+4563,327,S,Spicebush,0
+4577,321,S,Spicebush,0
+4584,322,N,Spicebush,0
+4591,322,S,Spicebush,0
+4598,323,N,Spicebush,0
+4612,324,N,Spicebush,0
+4619,324,S,Spicebush,0
+4626,315,N,Spicebush,0
+4633,315,S,Spicebush,0
+4640,278,N,Spicebush,0
+4647,278,S,Spicebush,0
+4654,318,N,Spicebush,0
+4661,318,S,Spicebush,0
+4668,312,N,Spicebush,0
+4675,312,S,Spicebush,0
+4682,317,N,Spicebush,0
+4689,317,S,Spicebush,0
+4696,328,N,Spicebush,0
+4703,328,S,Spicebush,0
+4710,329,N,Spicebush,0
+4717,329,S,Spicebush,0
+4724,320,N,Spicebush,0
+4731,320,S,Spicebush,0
+4738,314,N,Spicebush,0
+4745,314,S,Spicebush,0
+4752,311,N,Spicebush,0
+4759,311,S,Spicebush,0
+4766,316,N,Spicebush,0
+4773,316,S,Spicebush,0
+4780,313,N,Spicebush,0
+4787,313,S,Spicebush,0
+4794,319,N,Spicebush,0
+4801,319,S,Spicebush,0
+4808,907,N,Spicebush,0
+4815,907,S,Spicebush,0
+4822,908,N,Spicebush,0
+4836,906,N,Spicebush,0
+4843,906,S,Spicebush,0
+4850,207,N,Spicebush,0
+4857,207,S,Spicebush,0
+4864,901,N,Spicebush,0
+4871,901,S,Spicebush,0
+4878,902,N,Spicebush,0
+4885,902,S,Spicebush,0
+4913,204,S,Spicebush,0
+4920,911,N,Spicebush,0
+4927,911,S,Spicebush,0
+4941,913,S,Spicebush,0
+4948,912,N,Spicebush,0
+4955,912,S,Spicebush,0
+4976,163,N,Spicebush,0
+4983,163,S,Spicebush,0
+4990,161,N,Spicebush,0
+4997,161,S,Spicebush,0
+5011,927,S,Spicebush,0
+5018,216,N,Spicebush,0
+5025,216,S,Spicebush,0
+5032,213,N,Spicebush,0
+5039,213,S,Spicebush,0
+5046,164,N,Spicebush,0
+5053,164,S,Spicebush,0
+5060,155,N,Spicebush,0
+5067,155,S,Spicebush,0
+5074,219,N,Spicebush,0
+5081,219,S,Spicebush,0
+5088,220,N,Spicebush,0
+5095,220,S,Spicebush,0
+5102,330,N,Spicebush,0
+5109,330,S,Spicebush,0
+5116,339,N,Spicebush,0
+5123,339,S,Spicebush,0
+5130,341,N,Spicebush,0
+5137,341,S,Spicebush,0
+5144,342,N,Spicebush,0
+5151,342,S,Spicebush,0
+5158,363,N,Spicebush,0
+5165,363,S,Spicebush,0
+5172,354,N,Spicebush,0
+5179,354,S,Spicebush,0
+5186,360,N,Spicebush,0
+5193,360,S,Spicebush,0
+5200,333,N,Spicebush,0
+5207,333,S,Spicebush,0
+5214,326,N,Spicebush,0
+5221,326,S,Spicebush,0
+5228,336,N,Spicebush,0
+5235,336,S,Spicebush,0
+5242,325,N,Spicebush,0
+5249,325,S,Spicebush,0
+5256,337,N,Spicebush,0
+5263,337,S,Spicebush,0
+5270,340,N,Spicebush,0
+5277,340,S,Spicebush,0
+5284,358,N,Spicebush,0
+5291,358,S,Spicebush,0
+5298,335,N,Spicebush,0
+5305,335,S,Spicebush,0
+5312,343,N,Spicebush,0
+5319,343,S,Spicebush,0
+5326,331,N,Spicebush,0
+5333,331,S,Spicebush,0
+5340,338,N,Spicebush,0
+5347,338,S,Spicebush,0
+5354,350,N,Spicebush,0
+5361,350,S,Spicebush,0
+5368,239,N,Spicebush,0
+5375,239,S,Spicebush,0
+5382,237,N,Spicebush,0
+5389,237,S,Spicebush,0
+5396,332,N,Spicebush,0
+5403,332,S,Spicebush,0
+5410,247,N,Spicebush,0
+5417,247,S,Spicebush,0
+5424,238,N,Spicebush,0
+5431,238,S,Spicebush,0
+5438,242,N,Spicebush,0
+5445,242,S,Spicebush,0
+5452,231,N,Spicebush,0
+5459,231,S,Spicebush,0
+5466,246,N,Spicebush,0
+5473,246,S,Spicebush,0
+5480,249,N,Spicebush,0
+5487,249,S,Spicebush,0
+5494,241,N,Spicebush,0
+5501,241,S,Spicebush,0
+5508,232,N,Spicebush,0
+5515,232,S,Spicebush,0
+5522,233,N,Spicebush,0
+5529,233,S,Spicebush,0
+5536,243,N,Spicebush,0
+5543,243,S,Spicebush,0
+5550,245,N,Spicebush,0
+5557,245,S,Spicebush,0
+5564,244,N,Spicebush,0
+5571,244,S,Spicebush,0
+5578,235,N,Spicebush,0
+5585,235,S,Spicebush,0
+5592,234,N,Spicebush,0
+5599,234,S,Spicebush,0
+5606,240,N,Spicebush,0
+5613,240,S,Spicebush,0
+5620,227,N,Spicebush,0
+5627,227,S,Spicebush,0
+5634,230,N,Spicebush,0
+5641,230,S,Spicebush,0
+5648,228,N,Spicebush,0
+5655,228,S,Spicebush,0
+5662,401,N,Spicebush,0
+5669,401,S,Spicebush,0
+5676,402,N,Spicebush,0
+5683,402,S,Spicebush,0
+5690,403,N,Spicebush,0
+5697,403,S,Spicebush,0
+5704,404,N,Spicebush,0
+5711,404,S,Spicebush,0
+5725,406,S,Spicebush,0
+5732,405,N,Spicebush,0
+5746,408,N,Spicebush,0
+5753,408,S,Spicebush,0
+5760,410,N,Spicebush,0
+5767,410,S,Spicebush,0
+5774,409,N,Spicebush,0
+5781,409,S,Spicebush,0
+5788,412,N,Spicebush,0
+5795,412,S,Spicebush,0
+5802,411,N,Spicebush,0
+5809,411,S,Spicebush,0
+5816,407,N,Spicebush,0
+5823,407,S,Spicebush,0
+5830,357,N,Spicebush,0
+5837,357,S,Spicebush,0
+5844,355,N,Spicebush,0
+5851,355,S,Spicebush,0
+5858,359,N,Spicebush,0
+5865,359,S,Spicebush,0
+5872,353,N,Spicebush,0
+5879,353,S,Spicebush,0
+5886,356,N,Spicebush,0
+5893,356,S,Spicebush,0
+5900,362,N,Spicebush,0
+5907,362,S,Spicebush,0
+5914,349,N,Spicebush,0
+5921,349,S,Spicebush,0
+5928,364,N,Spicebush,0
+5935,364,S,Spicebush,0
+5942,365,N,Spicebush,0
+5949,365,S,Spicebush,0
+5956,361,N,Spicebush,0
+5963,361,S,Spicebush,0
+5970,347,N,Spicebush,0
+5977,347,S,Spicebush,0
+5984,348,N,Spicebush,0
+5991,348,S,Spicebush,0
+5998,351,N,Spicebush,0
+6005,351,S,Spicebush,0
+6012,276,N,Spicebush,0
+6019,276,S,Spicebush,0
+6026,285,N,Spicebush,0
+6033,285,S,Spicebush,0
+6040,281,N,Spicebush,0
+6047,281,S,Spicebush,0
+6054,284,N,Spicebush,0
+6061,284,S,Spicebush,0
+6068,367,N,Spicebush,0
+6075,367,S,Spicebush,0
+6082,368,N,Spicebush,0
+6089,368,S,Spicebush,0
+6096,369,N,Spicebush,0
+6103,369,S,Spicebush,0
+6110,366,N,Spicebush,0
+6117,366,S,Spicebush,0
+6124,352,N,Spicebush,0
+6131,352,S,Spicebush,0
+6145,905,S,Spicebush,0
+6159,903,S,Spicebush,0
+6173,904,S,Spicebush,0
+6180,273,N,Spicebush,0
+6187,273,S,Spicebush,0
+6194,288,N,Spicebush,0
+6201,288,S,Spicebush,0
+6208,280,N,Spicebush,0
+6215,280,S,Spicebush,0
+6222,251,N,Spicebush,0
+6229,251,S,Spicebush,0
+6236,279,N,Spicebush,0
+6243,279,S,Spicebush,0
+6250,277,N,Spicebush,0
+6257,277,S,Spicebush,0
+6264,283,N,Spicebush,0
+6271,283,S,Spicebush,0
+6278,229,N,Spicebush,0
+6285,229,S,Spicebush,0
+6292,236,N,Spicebush,0
+6299,236,S,Spicebush,0
+6313,275,S,Spicebush,0
+6320,286,N,Spicebush,0
+6327,286,S,Spicebush,0
+6334,274,N,Spicebush,0
+6341,274,S,Spicebush,0
+6348,287,N,Spicebush,0
+6355,287,S,Spicebush,0

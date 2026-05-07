@@ -2,6 +2,7 @@ library(tidyverse)
 library(lmerTest)
 library(performance)
 library(emmeans)
+library(MASS)
 
 # merge all years together
 og.seedlings = read.csv("./Formatted.Data/WW_Seedlings.csv")
@@ -12,6 +13,8 @@ seeds.2025$Herb = as.character(seeds.2025$Herb)
 seedlings = full_join(og.seedlings,seeds.2025)
 
 write.csv(seedlings, file = "./Formatted.Data/all.seedling.years.csv")
+
+seedlings = read.csv("./Formatted.Data/all.seedling.years.csv", row.names = 1)
 
 # split by early and late
 
@@ -52,6 +55,22 @@ plot(abund.model)
 slopes = emtrends(abund.model, specs = "Treatment", var = "scale.Year")
 pairs(slopes)
 
+ggplot(abundance.plot, aes(x = Year, y = alive, color = Treatment))+
+  geom_smooth(method = "lm")
+
+# making year a factor for plotting
+abundance.plot$Year.fact = as.factor(abundance.plot$Year)
+
+ggplot(abundance.plot, aes(x = Year.fact, y = alive, color = Treatment))+
+  geom_boxplot()
+
+ggplot(abundance.plot, aes(x = Year.fact, y = alive, color = Treatment))+
+  geom_boxplot()+
+  theme_classic(base_size = 15)+
+  labs(x = "Year", y = "Seedling Abundance")
+
+ggsave(file = "./Plots/abund.seedlings.WW.png", height = 6, width = 8, dpi = 300)
+
 relative.abundance.plot = abundance.plot %>% 
   group_by(Plot_ID,Treatment,Block) %>% 
   mutate(baseline_2019 = alive[Year == 2019],
@@ -67,6 +86,13 @@ relative.abundance.plot$Year.fact = as.factor(relative.abundance.plot$Year)
 ggplot(relative.abundance.plot, aes(x = Year.fact, y = rel.abund, color = Treatment))+
   geom_boxplot()
 
+ggplot(relative.abundance.plot, aes(x = Year.fact, y = rel.abund, color = Treatment))+
+  geom_boxplot()+
+  theme_classic(base_size = 15)+
+  labs(x = "Year", y = "Relative Seedling Abundance")
+
+ggsave(file = "./Plots/relative.abund.seedlings.WW.png", height = 6, width = 8, dpi = 300)
+
 # remove 2019 that is 0 rel.abund
 relative.abundance.plot.2 = relative.abundance.plot %>% 
   filter(Year != 2019)
@@ -75,6 +101,7 @@ ggplot(relative.abundance.plot.2, aes(x = Year.fact, y = rel.abund, color = Trea
   geom_boxplot()
 
 rel.abund.model = lmer(rel.abund~Treatment*scale.Year + Block + (1|Plot_ID), data = relative.abundance.plot.2)
+summary(rel.abund.model)
 plot(rel.abund.model, which = 1)
 qqnorm(residuals(rel.abund.model))
 qqline(residuals(rel.abund.model))
@@ -95,7 +122,7 @@ pairs(slopes)
 
 AIC(rel.abund.model,log.rel.abund.model)
 
-### late surveys
+### late surveys (Doesn't include late 2025)
 
 abundance.plot = late %>% 
   group_by(Plot_ID,Treatment, Year, Block) %>% 
@@ -176,6 +203,8 @@ LITU = abundance.plot.sub %>%
   filter(Species == "LITU")
 QURU = abundance.plot.sub %>% 
   filter(Species == "QURU")
+QURU.pre.mast = QURU %>% 
+  filter(Year != 2025)
 
 ACRU.abund.model = glm.nb(alive~Treatment*scale.Year, data = ACRU)
 summary(ACRU.abund.model)
@@ -204,6 +233,16 @@ plot(QURU.abund.model)
 check_model(QURU.abund.model)
 slopes = emtrends(QURU.abund.model, specs = "Treatment", var = "scale.Year")
 pairs(slopes)
+
+QURU.abund.model.pre.mast = glm.nb(alive~Treatment*scale.Year, data = QURU.pre.mast)
+summary(QURU.abund.model.pre.mast)
+plot(QURU.abund.model.pre.mast)
+check_model(QURU.abund.model.pre.mast)
+slopes = emtrends(QURU.abund.model.pre.mast, specs = "Treatment", var = "scale.Year")
+pairs(slopes)
+
+ggplot(QURU.pre.mast, aes(x = Year, y = alive, color = Treatment))+
+  geom_smooth(method = "lm")
 
 # add a row for QURU IC+TSI 2019 since 0 recorded
 abundance.plot.sub[nrow(abundance.plot.sub) + 1, ] <- list(
@@ -458,26 +497,78 @@ slopes = emtrends(mort.rate.mod, specs = "Treatment", var = "scale.Year")
 pairs(slopes)
 
 
-#### Seeding to Sapling ###
+#### Seeding to Sapling ####
 # sapling is dbh > 1 cm
 
 sapling = early %>% 
-  filter(Diameter >= 10)
+  filter(Diameter >= 10) %>% 
+  filter(Banded_Year != 2025)
 
 # split by treatment
 C.sapling = sapling %>% 
   filter(Treatment == "Control")
+unique(C.sapling$Band)
 IC.sapling = sapling %>% 
   filter(Treatment == "IC")
+unique(IC.sapling$Band)
+# mistake for 1914, 173, 141
 IC.TSI.sapling = sapling %>% 
   filter(Treatment == "IC+TSI")
+unique(IC.TSI.sapling$Band)
+# mistake for 1623,651, 146, 123, 520, 612, 596, 1718, 1738, 728, 434, 
 
 # split early by treatment
 C.early = early %>% 
-  filter(Treatment == "Control")
+  filter(Treatment == "Control") %>% 
+  filter(Banded_Year != 2025)
+unique(C.early$Band)
 IC.early = early %>% 
-  filter(Treatment == "IC")
+  filter(Treatment == "IC") %>% 
+  filter(Banded_Year != 2025)
+unique(IC.early$Band)
 IC.TSI.early = early %>% 
-  filter(Treatment == "IC+TSI")
+  filter(Treatment == "IC+TSI") %>% 
+  filter(Banded_Year != 2025)
+unique(IC.TSI.early$Band)
 
+6/502*100
+32/425*100
+34/926*100
 
+table(sapling$Species)
+sapling.2 = sapling %>% 
+  filter(!Band %in% c(1914, 173, 141,1623,651, 146, 123, 520, 612, 596, 1718, 1738, 728, 434))
+table(sapling.2$Species)
+
+#### richness over years for each treatment ####
+
+richness = early %>% 
+  group_by(Treatment, Year, Species) %>% 
+  summarise(Count = n(), .groups = "drop") %>%  
+  ungroup()
+
+species_richness <- early %>%
+  group_by(Treatment, Year) %>%
+  summarise(
+    n_species = n_distinct(Species),
+    .groups = "drop"
+  )
+
+# summarizing by plot 
+species.richness.plot = early %>% 
+  group_by(Plot_ID,Treatment,Year,Block) %>% 
+  summarise(
+    n_species = n_distinct(Species),
+    .groups = "drop"
+  )
+
+species.richness.plot$scale.Year = scale(species.richness.plot$Year, center = TRUE, scale = FALSE)
+
+richness.model = glmer.nb(n_species~Treatment*scale.Year + Block + (1|Plot_ID), data = species.richness.plot)
+summary(richness.model)
+plot(richness.model)
+slopes = emtrends(richness.model, specs = "Treatment", var = "scale.Year")
+pairs(slopes)
+
+ggplot(species.richness.plot, aes(x = Year, y = n_species, color = Treatment))+
+  geom_smooth(method = "lm")

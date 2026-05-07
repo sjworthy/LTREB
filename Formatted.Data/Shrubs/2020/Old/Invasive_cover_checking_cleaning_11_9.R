@@ -1,0 +1,18 @@
+setwd("C:/Users/edawson-glass/Desktop")
+INC_2019 <-read.csv("R:/THA Research/Stuble Lab/WorkingWoods/Invasive Cover Surveys/2019/All_woody_estimates_2019.csv")
+INC_2020 <-read.csv("R:/THA Research/Stuble Lab/WorkingWoods/Invasive Cover Surveys/2020/Invasive Cover Surveys 2020_7.14.2020.csv")
+INC_2019$Year_X<-"2019"
+INC_2020$Year_Y<-"2020"
+INC_2019$ID<-paste(INC_2019$Tree, INC_2019$Direction, INC_2019$Species, sep = "_")
+INC_2020$ID<-paste(INC_2020$Tree, INC_2020$Direction, INC_2020$Species, sep = "_")
+m<-merge(INC_2019, INC_2020, by= "ID", all = T)
+library("plyr")
+T_19<-count(INC_2019, "Tree")
+T_20<-count(INC_2020, "Tree")
+m<-merge(T_19, T_20, by= "Tree", all = T)
+INC_2020 <-read.csv("R:/THA Research/Stuble Lab/WorkingWoods/Invasive Cover Surveys/2020/Invasive Cover Surveys 2020_11_9_20_EDG.csv")
+T_20<-count(INC_2020, "Tree")
+ML<-read.csv("R:/THA Research/Stuble Lab/WorkingWoods/Master Lists/Master Data List_12.10.2019.csv")
+ML<-subset(ML, !(Valid %in% "No"))
+M_count<-count(ML, "Tree")
+m<-merge(M_count, T_20, by= "Tree", all = T)

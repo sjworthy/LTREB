@@ -1,0 +1,2269 @@
+Tree,Direction,Species,Cover Class
+907,N,Rose,4
+331,N,Rose,4
+280,N,Rose,6
+239,N,Rose,5
+237,S,Rose,5
+247,N,Rose,5
+246,S,Rose,5
+249,S,Rose,5
+235,S,Rose,5
+240,N,Rose,5
+230,N,Buckthorn,5
+276,N,Rose,5
+248,N,Rose,4
+208,N,Rose,4
+214,S,Rose,4
+207,N,Rose,4
+926,N,Rose,4
+926,S,Rose,4
+213,S,Rose,4
+239,S,Rose,4
+247,S,Rose,4
+238,N,Rose,4
+242,N,Rose,4
+242,S,Rose,4
+231,S,Rose,4
+246,N,Rose,4
+249,N,Rose,4
+243,S,Rose,4
+244,N,Rose,4
+234,N,Rose,4
+361,N,Rose,4
+251,N,Rose,4
+236,N,Rose,4
+925,N,Rose,3
+208,S,Rose,3
+203,N,Rose,3
+203,S,Rose,3
+223,N,Rose,3
+317,S,Rose,3
+320,S,Buckthorn,3
+311,N,Rose,3
+316,N,Buckthorn,3
+906,N,Buckthorn,3
+207,S,Rose,3
+901,N,Rose,3
+204,N,Rose,3
+911,N,Rose,3
+341,S,Rose,3
+237,N,Rose,3
+238,S,Rose,3
+231,N,Rose,3
+231,N,Lonicera,3
+243,N,Rose,3
+243,S,Buckthorn,3
+245,S,Buckthorn,3
+245,S,Rose,3
+244,S,Rose,3
+234,S,Rose,3
+240,S,Rose,3
+285,N,Rose,3
+904,N,Rose,3
+904,S,Rose,3
+280,S,Rose,3
+251,S,Rose,3
+229,N,Rose,3
+236,S,Rose,3
+275,S,Rose,3
+286,S,Rose,3
+248,S,Rose,2
+925,S,Rose,2
+214,N,Rose,2
+915,S,Rose,2
+206,N,Buckthorn,2
+206,S,Buckthorn,2
+211,N,Rose,2
+323,N,Buckthorn,2
+324,N,Buckthorn,2
+324,S,Buckthorn,2
+278,S,Buckthorn,2
+312,N,Rose,2
+312,S,Rose,2
+317,N,Rose,2
+317,N,Maple Vib,2
+328,N,Buckthorn,2
+320,N,Buckthorn,2
+311,S,Rose,2
+311,S,Lonicera,2
+316,S,Buckthorn,2
+313,N,Buckthorn,2
+313,N,Rose,2
+319,N,Rose,2
+907,N,Buckthorn,2
+907,S,Buckthorn,2
+908,N,Buckthorn,2
+908,N,Privet,2
+908,S,Buckthorn,2
+906,N,Rose,2
+906,S,Buckthorn,2
+906,S,Rose,2
+902,N,Rose,2
+205,N,Rose,2
+205,N,Lindera,2
+205,S,Rose,2
+204,N,Buckthorn,2
+204,N,Lindera,2
+204,S,Rose,2
+204,S,Lonicera,2
+911,S,Rose,2
+913,N,Rose,2
+164,N,Rose,2
+164,S,Rose,2
+330,N,Lonicera,2
+339,S,Rose,2
+339,S,Lonicera,2
+341,N,Rose,2
+341,S,Lonicera,2
+342,N,Buckthorn,2
+342,S,Lonicera,2
+354,N,Rose,2
+337,N,Rose,2
+358,S,Rose,2
+332,N,Buckthorn,2
+332,S,Buckthorn,2
+231,S,Lonicera,2
+249,S,Lonicera,2
+241,N,Rose,2
+233,N,Rose,2
+233,S,Rose,2
+243,N,Buckthorn,2
+245,N,Buckthorn,2
+245,N,Rose,2
+235,N,Rose,2
+227,N,Rose,2
+227,S,Privet,2
+230,S,Rose,2
+355,S,Rose,2
+359,N,Buckthorn,2
+359,S,Buckthorn,2
+365,N,Buckthorn,2
+361,S,Rose,2
+347,N,Buckthorn,2
+348,N,Buckthorn,2
+348,S,Buckthorn,2
+351,N,Buckthorn,2
+351,S,Buckthorn,2
+276,S,Rose,2
+285,S,Rose,2
+281,N,Lonicera,2
+905,S,Buckthorn,2
+903,S,Buckthorn,2
+904,N,Lindera,2
+904,S,Buckthorn,2
+273,N,Rose,2
+280,N,Lonicera,2
+229,S,Rose,2
+236,S,Privet,2
+910,N,Rose,1
+910,S,Rose,1
+910,S,Rubus,1
+909,N,Buckthorn,1
+909,N,Rubus,1
+909,N,Lindera,1
+909,S,Buckthorn,1
+909,S,Rose,1
+909,S,Rubus,1
+248,N,Lonicera,1
+248,N,Rubus,1
+248,N,Lindera,1
+248,S,Buckthorn,1
+248,S,Lonicera,1
+248,S,Rubus,1
+248,S,Lindera,1
+925,N,Lindera,1
+925,S,Buckthorn,1
+925,S,Rubus,1
+925,S,Lindera,1
+208,N,Lonicera,1
+208,N,Rubus,1
+208,N,Lindera,1
+208,S,Buckthorn,1
+208,S,Lindera,1
+203,N,Lonicera,1
+203,N,Lindera,1
+203,S,Buckthorn,1
+203,S,Rubus,1
+203,S,Lindera,1
+214,N,Buckthorn,1
+214,N,Lonicera,1
+214,N,Rubus,1
+214,N,Lindera,1
+214,S,Lindera,1
+210,N,Rose,1
+210,N,Rubus,1
+210,N,Lindera,1
+210,S,Rose,1
+210,S,Lonicera,1
+915,N,Buckthorn,1
+915,N,Rose,1
+915,N,Lonicera,1
+915,N,Rubus,1
+915,S,Buckthorn,1
+915,S,Lonicera,1
+915,S,Rubus,1
+211,N,Buckthorn,1
+211,N,Rose,1
+211,N,Lindera,1
+211,S,Buckthorn,1
+211,S,Rose,1
+211,S,Rubus,1
+250,N,Buckthorn,1
+250,N,Rose,1
+250,N,Privet,1
+250,N,Lonicera,1
+250,S,Buckthorn,1
+250,S,Rose,1
+250,S,Lonicera,1
+206,N,Rose,1
+206,N,Lindera,1
+206,S,Rose,1
+206,S,Lindera,1
+161,N,Buckthorn,1
+161,N,Rose,1
+161,S,Buckthorn,1
+161,S,Rose,1
+211,N,Buckthorn,1
+211,N,Lindera,1
+211,S,Buckthorn,1
+211,S,Rose,1
+211,S,Rubus,1
+914,N,Buckthorn,1
+914,N,Rose,1
+914,N,Rubus,1
+914,S,Buckthorn,1
+914,S,Rose,1
+914,S,Rubus,1
+914,S,Lindera,1
+160,N,Rose,1
+160,N,Lindera,1
+160,S,Buckthorn,1
+160,S,Rose,1
+159,N,Buckthorn,1
+159,N,Lonicera,1
+159,N,Lindera,1
+159,S,Buckthorn,1
+159,S,Lindera,1
+162,N,Buckthorn,1
+162,N,Rose,1
+162,S,Buckthorn,1
+162,S,Rose,1
+158,N,Buckthorn,1
+158,N,Rose,1
+158,S,Buckthorn,1
+158,S,Rose,1
+158,S,Lindera,1
+156,N,Buckthorn,1
+156,N,Rose,1
+156,N,Lonicera,1
+156,N,Lindera,1
+156,S,Buckthorn,1
+156,S,Rose,1
+156,S,Rubus,1
+157,N,Buckthorn,1
+157,N,Lonicera,1
+157,N,Rubus,1
+157,S,Buckthorn,1
+154,N,Buckthorn,1
+154,N,Rose,1
+154,N,Lonicera,1
+154,S,Buckthorn,1
+154,S,Rose,1
+225,N,Buckthorn,1
+225,N,Rose,1
+225,N,Lonicera,1
+225,N,Lindera,1
+225,S,Buckthorn,1
+225,S,Rose,1
+225,S,Lindera,1
+226,N,Buckthorn,1
+226,N,Rose,1
+226,N,Rubus,1
+226,N,Lindera,1
+226,S,Buckthorn,1
+226,S,Rose,1
+226,S,Lindera,1
+224,N,Buckthorn,1
+224,N,Rose,1
+224,S,Rose,1
+223,N,Buckthorn,1
+223,N,Lonicera,1
+223,S,Buckthorn,1
+223,S,Rose,1
+223,S,Lonicera,1
+223,S,Lindera,1
+218,N,Rose,1
+218,S,Rose,1
+218,S,Privet,1
+217,N,Buckthorn,1
+217,S,Buckthorn,1
+215,N,Buckthorn,1
+215,N,Rose,1
+215,S,Buckthorn,1
+215,S,Rose,1
+215,S,Lindera,1
+212,N,Buckthorn,1
+212,N,Rose,1
+212,N,Lindera,1
+212,S,Buckthorn,1
+212,S,Rose,1
+209,N,Buckthorn,1
+209,N,Rose,1
+327,N,Buckthorn,1
+327,N,Rose,1
+327,S,Rose,1
+327,S,Lonicera,1
+321,N,Buckthorn,1
+321,N,Lonicera,1
+321,N,Lindera,1
+321,S,Buckthorn,1
+321,S,Rose,1
+322,N,Buckthorn,1
+322,N,Rose,1
+322,S,Buckthorn,1
+322,S,Rubus,1
+323,N,Rose,1
+323,S,Buckthorn,1
+323,S,Lindera,1
+324,N,Rose,1
+315,N,Buckthorn,1
+315,N,Rose,1
+315,S,Buckthorn,1
+315,S,Lonicera,1
+278,N,Buckthorn,1
+278,N,Rose,1
+278,N,Privet,1
+318,N,Buckthorn,1
+318,N,Lonicera,1
+318,S,Buckthorn,1
+318,S,Rose,1
+312,N,Buckthorn,1
+312,N,Lonicera,1
+312,S,Buckthorn,1
+312,S,Lonicera,1
+312,S,Rubus,1
+317,N,Buckthorn,1
+317,N,Privet,1
+317,N,Rubus,1
+317,S,Buckthorn,1
+317,S,Rubus,1
+328,N,Rose,1
+328,N,Privet,1
+328,N,Rubus,1
+328,S,Buckthorn,1
+328,S,Rose,1
+328,S,Rubus,1
+329,N,Buckthorn,1
+329,N,Lonicera,1
+329,S,Buckthorn,1
+329,S,Rose,1
+320,N,Rose,1
+320,N,Privet,1
+320,N,Lonicera,1
+320,N,Rubus,1
+320,S,Rose,1
+320,S,Privet,1
+320,S,Lonicera,1
+320,S,Rubus,1
+314,N,Buckthorn,1
+314,N,Lonicera,1
+314,S,Buckthorn,1
+314,S,Lonicera,1
+311,N,Rubus,1
+311,S,Buckthorn,1
+311,S,Rubus,1
+316,N,Rose,1
+316,S,Rose,1
+313,N,Lonicera,1
+313,N,Rubus,1
+313,N,Maple Vib,1
+313,S,Buckthorn,1
+313,S,Rose,1
+313,S,Lonicera,1
+313,S,Rubus,1
+319,N,Buckthorn,1
+319,S,Buckthorn,1
+319,S,Rose,1
+319,S,Lonicera,1
+907,S,Rose,1
+908,N,Rose,1
+908,S,Rose,1
+908,S,Rubus,1
+908,S,Lindera,1
+207,N,Rubus,1
+207,S,Buckthorn,1
+207,S,Rubus,1
+901,N,Buckthorn,1
+901,N,Rubus,1
+901,S,Rubus,1
+902,N,Buckthorn,1
+902,S,Buckthorn,1
+902,S,Rose,1
+205,N,Buckthorn,1
+205,N,Rubus,1
+205,S,Rubus,1
+205,S,Lindera,1
+204,N,Rubus,1
+204,S,Buckthorn,1
+204,S,Privet,1
+911,N,Rubus,1
+911,S,Buckthorn,1
+911,S,Rubus,1
+913,N,Lonicera,1
+913,N,Rubus,1
+913,N,Lindera,1
+913,S,Buckthorn,1
+913,S,Rose,1
+912,N,Buckthorn,1
+912,N,Rose,1
+912,S,Buckthorn,1
+912,S,Rose,1
+926,N,Buckthorn,1
+926,N,Rubus,1
+926,N,Lindera,1
+926,N,Maple Vib,1
+926,S,Buckthorn,1
+926,S,Rubus,1
+926,S,Lindera,1
+163,N,Buckthorn,1
+163,N,Rose,1
+163,S,Buckthorn,1
+161,N,Buckthorn,1
+161,N,Rose,1
+161,S,Buckthorn,1
+161,S,Rose,1
+927,N,Buckthorn,1
+927,N,Rubus,1
+927,N,Lindera,1
+216,N,Rose,1
+216,S,Buckthorn,1
+216,S,Rose,1
+216,S,Rubus,1
+213,N,Buckthorn,1
+213,N,Rose,1
+213,N,Maple Vib,1
+213,S,Buckthorn,1
+213,S,Rubus,1
+164,N,Buckthorn,1
+164,S,Buckthorn,1
+164,S,Privet,1
+164,S,Lonicera,1
+155,N,Buckthorn,1
+155,S,Buckthorn,1
+219,N,Buckthorn,1
+219,N,Rose,1
+219,S,Buckthorn,1
+219,S,Privet,1
+220,N,Buckthorn,1
+220,N,Privet,1
+220,S,Buckthorn,1
+220,S,Privet,1
+330,N,Buckthorn,1
+330,N,Rose,1
+330,S,Buckthorn,1
+330,S,Rose,1
+330,S,Lonicera,1
+339,N,Buckthorn,1
+339,N,Rose,1
+339,N,Lonicera,1
+339,N,Rubus,1
+339,S,Buckthorn,1
+339,S,Rubus,1
+341,N,Buckthorn,1
+341,N,Rubus,1
+341,S,Buckthorn,1
+341,S,Rubus,1
+342,N,Rose,1
+342,N,Rubus,1
+342,S,Buckthorn,1
+342,S,Rose,1
+342,S,Rubus,1
+363,N,Buckthorn,1
+363,S,Buckthorn,1
+354,N,Buckthorn,1
+354,S,Buckthorn,1
+354,S,Rose,1
+354,S,Privet,1
+354,S,Lonicera,1
+360,S,Buckthorn,1
+333,N,Buckthorn,1
+333,S,Buckthorn,1
+333,S,Rose,1
+326,N,Buckthorn,1
+326,N,Rose,1
+326,S,Buckthorn,1
+336,N,Buckthorn,1
+336,N,Rose,1
+336,S,Buckthorn,1
+336,S,Rose,1
+325,N,Rose,1
+325,N,Lonicera,1
+325,N,Rubus,1
+325,S,Buckthorn,1
+325,S,Rose,1
+325,S,Privet,1
+325,S,Lonicera,1
+325,S,Rubus,1
+337,N,Lonicera,1
+337,N,Rubus,1
+337,S,Buckthorn,1
+337,S,Rose,1
+337,S,Lonicera,1
+337,S,Rubus,1
+340,N,Buckthorn,1
+340,N,Rose,1
+340,S,Buckthorn,1
+358,N,Buckthorn,1
+358,N,Rose,1
+358,N,Lonicera,1
+358,N,Rubus,1
+358,S,Buckthorn,1
+358,S,Lonicera,1
+358,S,Rubus,1
+335,N,Rose,1
+335,N,Lonicera,1
+335,N,Rubus,1
+335,S,Buckthorn,1
+335,S,Rose,1
+335,S,Rubus,1
+343,N,Buckthorn,1
+343,N,Rose,1
+343,N,Rubus,1
+343,S,Buckthorn,1
+343,S,Rose,1
+343,S,Rubus,1
+331,N,Buckthorn,1
+331,S,Buckthorn,1
+331,S,Rose,1
+331,S,Lonicera,1
+338,N,Buckthorn,1
+338,N,Rose,1
+338,S,Buckthorn,1
+338,S,Rose,1
+350,N,Buckthorn,1
+350,S,Buckthorn,1
+350,S,Privet,1
+350,S,Lonicera,1
+239,N,Rubus,1
+239,S,Buckthorn,1
+239,S,Rubus,1
+237,N,Buckthorn,1
+237,N,Rubus,1
+237,S,Lonicera,1
+237,S,Rubus,1
+237,S,Maple Vib,1
+332,N,Maple Vib,1
+247,N,Buckthorn,1
+247,N,Lonicera,1
+247,N,Rubus,1
+247,N,Maple Vib,1
+247,S,Buckthorn,1
+247,S,Privet,1
+247,S,Rubus,1
+238,N,Buckthorn,1
+238,N,Rubus,1
+238,S,Buckthorn,1
+238,S,Rubus,1
+242,N,Buckthorn,1
+242,S,Buckthorn,1
+242,S,Rubus,1
+231,N,Rubus,1
+231,S,Buckthorn,1
+231,S,Rubus,1
+246,N,Rubus,1
+246,S,Lonicera,1
+246,S,Rubus,1
+249,N,Buckthorn,1
+249,N,Lonicera,1
+249,N,Rubus,1
+249,S,Buckthorn,1
+249,S,Rubus,1
+241,N,Buckthorn,1
+241,S,Buckthorn,1
+232,N,Buckthorn,1
+232,N,Lonicera,1
+232,N,Rubus,1
+232,S,Buckthorn,1
+232,S,Privet,1
+232,S,Rubus,1
+233,N,Buckthorn,1
+233,N,Lonicera,1
+233,N,Rubus,1
+233,S,Buckthorn,1
+233,S,Rubus,1
+243,N,Lonicera,1
+243,N,Rubus,1
+243,S,Lonicera,1
+243,S,Rubus,1
+245,N,Lonicera,1
+245,N,Rubus,1
+245,S,Lonicera,1
+245,S,Rubus,1
+244,N,Buckthorn,1
+244,N,Rubus,1
+244,N,Maple Vib,1
+244,S,Buckthorn,1
+244,S,Rubus,1
+244,S,Maple Vib,1
+235,N,Buckthorn,1
+235,N,Rubus,1
+235,S,Buckthorn,1
+235,S,Lonicera,1
+234,N,Buckthorn,1
+234,N,Rubus,1
+234,S,Buckthorn,1
+234,S,Rubus,1
+234,S,Maple Vib,1
+240,N,Buckthorn,1
+240,N,Rubus,1
+240,N,Maple Vib,1
+240,S,Buckthorn,1
+240,S,Rubus,1
+240,S,Maple Vib,1
+227,S,Buckthorn,1
+230,N,Lonicera,1
+228,N,Buckthorn,1
+228,N,Rose,1
+228,N,Rubus,1
+228,N,Maple Vib,1
+228,S,Buckthorn,1
+228,S,Rubus,1
+228,S,Maple Vib,1
+402,N,Maple Vib,1
+402,S,Maple Vib,1
+403,S,Maple Vib,1
+404,N,Rose,1
+404,S,Rose,1
+406,N,Lindera,1
+406,S,Buckthorn,1
+405,S,Lindera,1
+408,S,Rose,1
+408,S,Maple Vib,1
+410,N,Rose,1
+410,N,Maple Vib,1
+409,N,Maple Vib,1
+409,S,Maple Vib,1
+407,N,Buckthorn,1
+407,N,Rose,1
+407,S,Lonicera,1
+357,N,Buckthorn,1
+357,N,Rose,1
+357,N,Privet,1
+357,S,Rose,1
+355,N,Buckthorn,1
+355,N,Rose,1
+355,S,Buckthorn,1
+359,S,Rose,1
+353,N,Buckthorn,1
+353,N,Rose,1
+353,S,Buckthorn,1
+356,N,Buckthorn,1
+356,S,Buckthorn,1
+362,N,Buckthorn,1
+362,N,Rubus,1
+362,S,Buckthorn,1
+349,N,Buckthorn,1
+349,N,Rose,1
+349,S,Buckthorn,1
+349,S,Rose,1
+365,S,Buckthorn,1
+361,N,Buckthorn,1
+361,N,Rubus,1
+361,S,Buckthorn,1
+347,N,Lonicera,1
+347,S,Buckthorn,1
+348,N,Lonicera,1
+348,S,Privet,1
+351,S,Rose,1
+351,S,Lonicera,1
+276,N,Buckthorn,1
+276,N,Privet,1
+276,S,Buckthorn,1
+276,S,Lonicera,1
+276,S,Rubus,1
+285,N,Privet,1
+285,N,Rubus,1
+285,S,Buckthorn,1
+285,S,Privet,1
+281,N,Buckthorn,1
+281,N,Rose,1
+281,N,Rubus,1
+281,S,Buckthorn,1
+281,S,Rose,1
+281,S,Lonicera,1
+281,S,Rubus,1
+281,S,Maple Vib,1
+284,S,Buckthorn,1
+368,N,Buckthorn,1
+368,S,Buckthorn,1
+366,N,Buckthorn,1
+352,N,Buckthorn,1
+352,N,Rose,1
+352,N,Lonicera,1
+352,S,Buckthorn,1
+352,S,Rose,1
+905,N,Buckthorn,1
+905,N,Rose,1
+905,N,Rubus,1
+905,N,Lindera,1
+905,S,Rose,1
+905,S,Rubus,1
+903,N,Buckthorn,1
+903,N,Rubus,1
+903,N,Lindera,1
+903,S,Rubus,1
+904,N,Buckthorn,1
+904,N,Rubus,1
+904,S,Rubus,1
+273,N,Buckthorn,1
+273,N,Rubus,1
+273,S,Rose,1
+273,S,Privet,1
+273,S,Rubus,1
+288,S,Maple Vib,1
+280,N,Buckthorn,1
+280,N,Rubus,1
+280,S,Rubus,1
+251,N,Buckthorn,1
+251,N,Lonicera,1
+251,N,Rubus,1
+251,S,Buckthorn,1
+251,S,Rubus,1
+251,S,Maple Vib,1
+279,N,Buckthorn,1
+279,S,Buckthorn,1
+277,N,Buckthorn,1
+277,N,Rubus,1
+277,S,Buckthorn,1
+283,N,Buckthorn,1
+283,S,Buckthorn,1
+229,N,Buckthorn,1
+229,N,Lonicera,1
+229,N,Rubus,1
+229,S,Buckthorn,1
+229,S,Rubus,1
+236,N,Buckthorn,1
+236,N,Privet,1
+236,N,Rubus,1
+236,S,Buckthorn,1
+236,S,Rubus,1
+275,N,Buckthorn,1
+275,N,Rose,1
+275,N,Lonicera,1
+275,N,Rubus,1
+275,N,Lindera,1
+275,S,Buckthorn,1
+286,N,Buckthorn,1
+286,N,Rose,1
+286,N,Rubus,1
+286,S,Buckthorn,1
+274,N,Buckthorn,1
+274,N,Rose,1
+274,N,Rubus,1
+274,S,Buckthorn,1
+274,S,Rose,1
+274,S,Rubus,1
+287,S,Rose,1
+287,S,Rubus,1
+910,N,Buckthorn,0
+910,N,Privet,0
+910,N,Lonicera,0
+910,N,Rubus,0
+910,N,Lindera,0
+910,N,Maple Vib,0
+910,S,Buckthorn,0
+910,S,Privet,0
+910,S,Lonicera,0
+910,S,Lindera,0
+910,S,Maple Vib,0
+909,N,Rose,0
+909,N,Privet,0
+909,N,Lonicera,0
+909,N,Maple Vib,0
+909,S,Privet,0
+909,S,Lonicera,0
+909,S,Lindera,0
+909,S,Maple Vib,0
+248,N,Buckthorn,0
+248,N,Privet,0
+248,N,Maple Vib,0
+248,S,Privet,0
+248,S,Maple Vib,0
+925,N,Buckthorn,0
+925,N,Privet,0
+925,N,Lonicera,0
+925,N,Rubus,0
+925,N,Maple Vib,0
+925,S,Privet,0
+925,S,Lonicera,0
+925,S,Maple Vib,0
+208,N,Buckthorn,0
+208,N,Privet,0
+208,N,Maple Vib,0
+208,S,Privet,0
+208,S,Lonicera,0
+208,S,Rubus,0
+208,S,Maple Vib,0
+203,N,Buckthorn,0
+203,N,Privet,0
+203,N,Rubus,0
+203,N,Maple Vib,0
+203,S,Privet,0
+203,S,Lonicera,0
+203,S,Maple Vib,0
+214,N,Privet,0
+214,N,Maple Vib,0
+214,S,Buckthorn,0
+214,S,Privet,0
+214,S,Lonicera,0
+214,S,Rubus,0
+214,S,Maple Vib,0
+210,N,Buckthorn,0
+210,N,Privet,0
+210,N,Lonicera,0
+210,N,Maple Vib,0
+210,S,Buckthorn,0
+210,S,Privet,0
+210,S,Rubus,0
+210,S,Lindera,0
+210,S,Maple Vib,0
+915,N,Privet,0
+915,N,Lindera,0
+915,N,Maple Vib,0
+915,S,Privet,0
+915,S,Lindera,0
+915,S,Maple Vib,0
+211,N,Privet,0
+211,N,Lonicera,0
+211,N,Rubus,0
+211,N,Maple Vib,0
+211,S,Privet,0
+211,S,Lonicera,0
+211,S,Lindera,0
+211,S,Maple Vib,0
+250,N,Rubus,0
+250,N,Lindera,0
+250,N,Maple Vib,0
+250,S,Privet,0
+250,S,Rubus,0
+250,S,Lindera,0
+250,S,Maple Vib,0
+206,N,Privet,0
+206,N,Lonicera,0
+206,N,Rubus,0
+206,N,Maple Vib,0
+206,S,Privet,0
+206,S,Lonicera,0
+206,S,Rubus,0
+206,S,Maple Vib,0
+161,N,Privet,0
+161,N,Lonicera,0
+161,N,Rubus,0
+161,N,Lindera,0
+161,N,Maple Vib,0
+161,S,Privet,0
+161,S,Lonicera,0
+161,S,Rubus,0
+161,S,Lindera,0
+161,S,Maple Vib,0
+211,N,Privet,0
+211,N,Lonicera,0
+211,N,Rubus,0
+211,N,Maple Vib,0
+211,S,Privet,0
+211,S,Lonicera,0
+211,S,Lindera,0
+211,S,Maple Vib,0
+914,N,Privet,0
+914,N,Lonicera,0
+914,N,Lindera,0
+914,N,Maple Vib,0
+914,S,Privet,0
+914,S,Lonicera,0
+914,S,Maple Vib,0
+160,N,Buckthorn,0
+160,N,Privet,0
+160,N,Lonicera,0
+160,N,Rubus,0
+160,N,Maple Vib,0
+160,S,Privet,0
+160,S,Lonicera,0
+160,S,Rubus,0
+160,S,Lindera,0
+160,S,Maple Vib,0
+159,N,Rose,0
+159,N,Privet,0
+159,N,Rubus,0
+159,N,Maple Vib,0
+159,S,Rose,0
+159,S,Privet,0
+159,S,Lonicera,0
+159,S,Rubus,0
+159,S,Maple Vib,0
+162,N,Privet,0
+162,N,Lonicera,0
+162,N,Rubus,0
+162,N,Lindera,0
+162,N,Maple Vib,0
+162,S,Privet,0
+162,S,Lonicera,0
+162,S,Rubus,0
+162,S,Lindera,0
+162,S,Maple Vib,0
+158,N,Privet,0
+158,N,Lonicera,0
+158,N,Rubus,0
+158,N,Lindera,0
+158,N,Maple Vib,0
+158,S,Privet,0
+158,S,Lonicera,0
+158,S,Rubus,0
+158,S,Maple Vib,0
+156,N,Privet,0
+156,N,Rubus,0
+156,N,Maple Vib,0
+156,S,Privet,0
+156,S,Lonicera,0
+156,S,Lindera,0
+156,S,Maple Vib,0
+157,N,Rose,0
+157,N,Privet,0
+157,N,Lindera,0
+157,N,Maple Vib,0
+157,S,Rose,0
+157,S,Privet,0
+157,S,Lonicera,0
+157,S,Rubus,0
+157,S,Lindera,0
+157,S,Maple Vib,0
+154,N,Privet,0
+154,N,Rubus,0
+154,N,Lindera,0
+154,N,Maple Vib,0
+154,S,Privet,0
+154,S,Lonicera,0
+154,S,Rubus,0
+154,S,Lindera,0
+154,S,Maple Vib,0
+225,N,Privet,0
+225,N,Rubus,0
+225,N,Maple Vib,0
+225,S,Privet,0
+225,S,Lonicera,0
+225,S,Rubus,0
+225,S,Maple Vib,0
+226,N,Privet,0
+226,N,Lonicera,0
+226,N,Maple Vib,0
+226,S,Privet,0
+226,S,Lonicera,0
+226,S,Rubus,0
+226,S,Maple Vib,0
+224,N,Privet,0
+224,N,Lonicera,0
+224,N,Rubus,0
+224,N,Lindera,0
+224,N,Maple Vib,0
+224,S,Buckthorn,0
+224,S,Privet,0
+224,S,Lonicera,0
+224,S,Rubus,0
+224,S,Lindera,0
+224,S,Maple Vib,0
+223,N,Privet,0
+223,N,Rubus,0
+223,N,Lindera,0
+223,N,Maple Vib,0
+223,S,Privet,0
+223,S,Rubus,0
+223,S,Maple Vib,0
+221,N,Buckthorn,0
+221,N,Rose,0
+221,N,Privet,0
+221,N,Lonicera,0
+221,N,Rubus,0
+221,N,Lindera,0
+221,N,Maple Vib,0
+221,S,Buckthorn,0
+221,S,Rose,0
+221,S,Privet,0
+221,S,Lonicera,0
+221,S,Rubus,0
+221,S,Lindera,0
+221,S,Maple Vib,0
+222,N,Buckthorn,0
+222,N,Rose,0
+222,N,Privet,0
+222,N,Lonicera,0
+222,N,Rubus,0
+222,N,Lindera,0
+222,N,Maple Vib,0
+222,S,Buckthorn,0
+222,S,Rose,0
+222,S,Privet,0
+222,S,Lonicera,0
+222,S,Rubus,0
+222,S,Lindera,0
+222,S,Maple Vib,0
+218,N,Buckthorn,0
+218,N,Privet,0
+218,N,Lonicera,0
+218,N,Rubus,0
+218,N,Lindera,0
+218,N,Maple Vib,0
+218,S,Buckthorn,0
+218,S,Lonicera,0
+218,S,Rubus,0
+218,S,Lindera,0
+218,S,Maple Vib,0
+217,N,Rose,0
+217,N,Privet,0
+217,N,Lonicera,0
+217,N,Rubus,0
+217,N,Lindera,0
+217,N,Maple Vib,0
+217,S,Rose,0
+217,S,Privet,0
+217,S,Lonicera,0
+217,S,Rubus,0
+217,S,Lindera,0
+217,S,Maple Vib,0
+215,N,Privet,0
+215,N,Lonicera,0
+215,N,Rubus,0
+215,N,Lindera,0
+215,N,Maple Vib,0
+215,S,Privet,0
+215,S,Lonicera,0
+215,S,Rubus,0
+215,S,Maple Vib,0
+212,N,Privet,0
+212,N,Lonicera,0
+212,N,Rubus,0
+212,N,Maple Vib,0
+212,S,Privet,0
+212,S,Lonicera,0
+212,S,Rubus,0
+212,S,Lindera,0
+212,S,Maple Vib,0
+209,N,Privet,0
+209,N,Lonicera,0
+209,N,Rubus,0
+209,N,Lindera,0
+209,N,Maple Vib,0
+209,S,Buckthorn,0
+209,S,Rose,0
+209,S,Privet,0
+209,S,Lonicera,0
+209,S,Rubus,0
+209,S,Lindera,0
+209,S,Maple Vib,0
+327,N,Privet,0
+327,N,Lonicera,0
+327,N,Rubus,0
+327,N,Lindera,0
+327,N,Maple Vib,0
+327,S,Buckthorn,0
+327,S,Privet,0
+327,S,Rubus,0
+327,S,Lindera,0
+327,S,Maple Vib,0
+321,N,Rose,0
+321,N,Privet,0
+321,N,Rubus,0
+321,N,Maple Vib,0
+321,S,Privet,0
+321,S,Lonicera,0
+321,S,Rubus,0
+321,S,Lindera,0
+321,S,Maple Vib,0
+322,N,Privet,0
+322,N,Lonicera,0
+322,N,Rubus,0
+322,N,Lindera,0
+322,N,Maple Vib,0
+322,S,Rose,0
+322,S,Privet,0
+322,S,Lonicera,0
+322,S,Lindera,0
+322,S,Maple Vib,0
+323,N,Privet,0
+323,N,Lonicera,0
+323,N,Rubus,0
+323,N,Lindera,0
+323,N,Maple Vib,0
+323,S,Rose,0
+323,S,Privet,0
+323,S,Lonicera,0
+323,S,Rubus,0
+323,S,Maple Vib,0
+324,N,Privet,0
+324,N,Lonicera,0
+324,N,Rubus,0
+324,N,Lindera,0
+324,N,Maple Vib,0
+324,S,Rose,0
+324,S,Privet,0
+324,S,Lonicera,0
+324,S,Rubus,0
+324,S,Lindera,0
+324,S,Maple Vib,0
+315,N,Privet,0
+315,N,Lonicera,0
+315,N,Rubus,0
+315,N,Lindera,0
+315,N,Maple Vib,0
+315,S,Rose,0
+315,S,Privet,0
+315,S,Rubus,0
+315,S,Lindera,0
+315,S,Maple Vib,0
+278,N,Lonicera,0
+278,N,Rubus,0
+278,N,Lindera,0
+278,N,Maple Vib,0
+278,S,Rose,0
+278,S,Privet,0
+278,S,Lonicera,0
+278,S,Rubus,0
+278,S,Lindera,0
+278,S,Maple Vib,0
+318,N,Rose,0
+318,N,Privet,0
+318,N,Rubus,0
+318,N,Lindera,0
+318,N,Maple Vib,0
+318,S,Privet,0
+318,S,Lonicera,0
+318,S,Rubus,0
+318,S,Lindera,0
+318,S,Maple Vib,0
+312,N,Privet,0
+312,N,Rubus,0
+312,N,Lindera,0
+312,N,Maple Vib,0
+312,S,Privet,0
+312,S,Lindera,0
+312,S,Maple Vib,0
+317,N,Lonicera,0
+317,N,Lindera,0
+317,S,Privet,0
+317,S,Lonicera,0
+317,S,Lindera,0
+317,S,Maple Vib,0
+328,N,Lonicera,0
+328,N,Lindera,0
+328,N,Maple Vib,0
+328,S,Privet,0
+328,S,Lonicera,0
+328,S,Lindera,0
+328,S,Maple Vib,0
+329,N,Rose,0
+329,N,Privet,0
+329,N,Rubus,0
+329,N,Lindera,0
+329,N,Maple Vib,0
+329,S,Privet,0
+329,S,Lonicera,0
+329,S,Rubus,0
+329,S,Lindera,0
+329,S,Maple Vib,0
+320,N,Lindera,0
+320,N,Maple Vib,0
+320,S,Lindera,0
+320,S,Maple Vib,0
+314,N,Rose,0
+314,N,Privet,0
+314,N,Rubus,0
+314,N,Lindera,0
+314,N,Maple Vib,0
+314,S,Rose,0
+314,S,Privet,0
+314,S,Rubus,0
+314,S,Lindera,0
+314,S,Maple Vib,0
+311,N,Buckthorn,0
+311,N,Privet,0
+311,N,Lonicera,0
+311,N,Lindera,0
+311,N,Maple Vib,0
+311,S,Privet,0
+311,S,Lindera,0
+311,S,Maple Vib,0
+316,N,Privet,0
+316,N,Lonicera,0
+316,N,Rubus,0
+316,N,Lindera,0
+316,N,Maple Vib,0
+316,S,Privet,0
+316,S,Lonicera,0
+316,S,Rubus,0
+316,S,Lindera,0
+316,S,Maple Vib,0
+313,N,Privet,0
+313,N,Lindera,0
+313,S,Privet,0
+313,S,Lindera,0
+313,S,Maple Vib,0
+319,N,Privet,0
+319,N,Lonicera,0
+319,N,Rubus,0
+319,N,Lindera,0
+319,N,Maple Vib,0
+319,S,Privet,0
+319,S,Rubus,0
+319,S,Lindera,0
+319,S,Maple Vib,0
+907,N,Privet,0
+907,N,Lonicera,0
+907,N,Rubus,0
+907,N,Lindera,0
+907,N,Maple Vib,0
+907,S,Privet,0
+907,S,Lonicera,0
+907,S,Rubus,0
+907,S,Lindera,0
+907,S,Maple Vib,0
+908,N,Lonicera,0
+908,N,Rubus,0
+908,N,Lindera,0
+908,N,Maple Vib,0
+908,S,Privet,0
+908,S,Lonicera,0
+908,S,Maple Vib,0
+906,N,Privet,0
+906,N,Lonicera,0
+906,N,Rubus,0
+906,N,Lindera,0
+906,N,Maple Vib,0
+906,S,Privet,0
+906,S,Lonicera,0
+906,S,Rubus,0
+906,S,Lindera,0
+906,S,Maple Vib,0
+207,N,Buckthorn,0
+207,N,Privet,0
+207,N,Lonicera,0
+207,N,Lindera,0
+207,N,Maple Vib,0
+207,S,Privet,0
+207,S,Lonicera,0
+207,S,Lindera,0
+207,S,Maple Vib,0
+901,N,Privet,0
+901,N,Lonicera,0
+901,N,Lindera,0
+901,N,Maple Vib,0
+901,S,Buckthorn,0
+901,S,Rose,0
+901,S,Privet,0
+901,S,Lonicera,0
+901,S,Lindera,0
+901,S,Maple Vib,0
+902,N,Privet,0
+902,N,Lonicera,0
+902,N,Rubus,0
+902,N,Lindera,0
+902,N,Maple Vib,0
+902,S,Privet,0
+902,S,Lonicera,0
+902,S,Rubus,0
+902,S,Lindera,0
+902,S,Maple Vib,0
+205,N,Privet,0
+205,N,Lonicera,0
+205,N,Maple Vib,0
+205,S,Buckthorn,0
+205,S,Privet,0
+205,S,Lonicera,0
+205,S,Maple Vib,0
+204,N,Privet,0
+204,N,Lonicera,0
+204,N,Maple Vib,0
+204,S,Rubus,0
+204,S,Lindera,0
+204,S,Maple Vib,0
+911,N,Buckthorn,0
+911,N,Privet,0
+911,N,Lonicera,0
+911,N,Lindera,0
+911,N,Maple Vib,0
+911,S,Privet,0
+911,S,Lonicera,0
+911,S,Lindera,0
+911,S,Maple Vib,0
+913,N,Buckthorn,0
+913,N,Privet,0
+913,N,Maple Vib,0
+913,S,Privet,0
+913,S,Lonicera,0
+913,S,Rubus,0
+913,S,Lindera,0
+913,S,Maple Vib,0
+912,N,Privet,0
+912,N,Lonicera,0
+912,N,Rubus,0
+912,N,Lindera,0
+912,N,Maple Vib,0
+912,S,Privet,0
+912,S,Lonicera,0
+912,S,Rubus,0
+912,S,Lindera,0
+912,S,Maple Vib,0
+926,N,Privet,0
+926,N,Lonicera,0
+926,S,Privet,0
+926,S,Lonicera,0
+926,S,Maple Vib,0
+163,N,Privet,0
+163,N,Lonicera,0
+163,N,Rubus,0
+163,N,Lindera,0
+163,N,Maple Vib,0
+163,S,Rose,0
+163,S,Privet,0
+163,S,Lonicera,0
+163,S,Rubus,0
+163,S,Lindera,0
+163,S,Maple Vib,0
+161,N,Privet,0
+161,N,Lonicera,0
+161,N,Rubus,0
+161,N,Lindera,0
+161,N,Maple Vib,0
+161,S,Privet,0
+161,S,Lonicera,0
+161,S,Rubus,0
+161,S,Lindera,0
+161,S,Maple Vib,0
+927,N,Rose,0
+927,N,Privet,0
+927,N,Lonicera,0
+927,N,Maple Vib,0
+927,S,Buckthorn,0
+927,S,Rose,0
+927,S,Privet,0
+927,S,Lonicera,0
+927,S,Rubus,0
+927,S,Lindera,0
+927,S,Maple Vib,0
+216,N,Buckthorn,0
+216,N,Privet,0
+216,N,Lonicera,0
+216,N,Rubus,0
+216,N,Lindera,0
+216,N,Maple Vib,0
+216,S,Privet,0
+216,S,Lonicera,0
+216,S,Lindera,0
+216,S,Maple Vib,0
+213,N,Privet,0
+213,N,Lonicera,0
+213,N,Rubus,0
+213,N,Lindera,0
+213,S,Privet,0
+213,S,Lonicera,0
+213,S,Lindera,0
+213,S,Maple Vib,0
+164,N,Privet,0
+164,N,Lonicera,0
+164,N,Rubus,0
+164,N,Lindera,0
+164,N,Maple Vib,0
+164,S,Rubus,0
+164,S,Lindera,0
+164,S,Maple Vib,0
+155,N,Rose,0
+155,N,Privet,0
+155,N,Lonicera,0
+155,N,Rubus,0
+155,N,Lindera,0
+155,N,Maple Vib,0
+155,S,Rose,0
+155,S,Privet,0
+155,S,Lonicera,0
+155,S,Rubus,0
+155,S,Lindera,0
+155,S,Maple Vib,0
+219,N,Privet,0
+219,N,Lonicera,0
+219,N,Rubus,0
+219,N,Lindera,0
+219,N,Maple Vib,0
+219,S,Rose,0
+219,S,Lonicera,0
+219,S,Rubus,0
+219,S,Lindera,0
+219,S,Maple Vib,0
+220,N,Rose,0
+220,N,Lonicera,0
+220,N,Rubus,0
+220,N,Lindera,0
+220,N,Maple Vib,0
+220,S,Rose,0
+220,S,Lonicera,0
+220,S,Rubus,0
+220,S,Lindera,0
+220,S,Maple Vib,0
+330,N,Privet,0
+330,N,Rubus,0
+330,N,Lindera,0
+330,N,Maple Vib,0
+330,S,Privet,0
+330,S,Rubus,0
+330,S,Lindera,0
+330,S,Maple Vib,0
+339,N,Privet,0
+339,N,Lindera,0
+339,N,Maple Vib,0
+339,S,Privet,0
+339,S,Lindera,0
+339,S,Maple Vib,0
+341,N,Privet,0
+341,N,Lonicera,0
+341,N,Lindera,0
+341,N,Maple Vib,0
+341,S,Privet,0
+341,S,Lindera,0
+341,S,Maple Vib,0
+342,N,Privet,0
+342,N,Lonicera,0
+342,N,Lindera,0
+342,N,Maple Vib,0
+342,S,Privet,0
+342,S,Lindera,0
+342,S,Maple Vib,0
+363,N,Rose,0
+363,N,Privet,0
+363,N,Lonicera,0
+363,N,Rubus,0
+363,N,Lindera,0
+363,N,Maple Vib,0
+363,S,Rose,0
+363,S,Privet,0
+363,S,Lonicera,0
+363,S,Rubus,0
+363,S,Lindera,0
+363,S,Maple Vib,0
+354,N,Privet,0
+354,N,Lonicera,0
+354,N,Rubus,0
+354,N,Lindera,0
+354,N,Maple Vib,0
+354,S,Rubus,0
+354,S,Lindera,0
+354,S,Maple Vib,0
+360,N,Buckthorn,0
+360,N,Rose,0
+360,N,Privet,0
+360,N,Lonicera,0
+360,N,Rubus,0
+360,N,Lindera,0
+360,N,Maple Vib,0
+360,S,Rose,0
+360,S,Privet,0
+360,S,Lonicera,0
+360,S,Rubus,0
+360,S,Lindera,0
+360,S,Maple Vib,0
+333,N,Rose,0
+333,N,Privet,0
+333,N,Lonicera,0
+333,N,Rubus,0
+333,N,Lindera,0
+333,N,Maple Vib,0
+333,S,Privet,0
+333,S,Lonicera,0
+333,S,Rubus,0
+333,S,Lindera,0
+333,S,Maple Vib,0
+326,N,Privet,0
+326,N,Lonicera,0
+326,N,Rubus,0
+326,N,Lindera,0
+326,N,Maple Vib,0
+326,S,Rose,0
+326,S,Privet,0
+326,S,Lonicera,0
+326,S,Rubus,0
+326,S,Lindera,0
+326,S,Maple Vib,0
+336,N,Privet,0
+336,N,Lonicera,0
+336,N,Rubus,0
+336,N,Lindera,0
+336,N,Maple Vib,0
+336,S,Privet,0
+336,S,Lonicera,0
+336,S,Rubus,0
+336,S,Lindera,0
+336,S,Maple Vib,0
+325,N,Buckthorn,0
+325,N,Privet,0
+325,N,Lindera,0
+325,N,Maple Vib,0
+325,S,Lindera,0
+325,S,Maple Vib,0
+337,N,Buckthorn,0
+337,N,Privet,0
+337,N,Lindera,0
+337,N,Maple Vib,0
+337,S,Privet,0
+337,S,Lindera,0
+337,S,Maple Vib,0
+340,N,Privet,0
+340,N,Lonicera,0
+340,N,Rubus,0
+340,N,Lindera,0
+340,N,Maple Vib,0
+340,S,Rose,0
+340,S,Privet,0
+340,S,Lonicera,0
+340,S,Rubus,0
+340,S,Lindera,0
+340,S,Maple Vib,0
+358,N,Privet,0
+358,N,Lindera,0
+358,N,Maple Vib,0
+358,S,Privet,0
+358,S,Lindera,0
+358,S,Maple Vib,0
+335,N,Buckthorn,0
+335,N,Privet,0
+335,N,Lindera,0
+335,N,Maple Vib,0
+335,S,Privet,0
+335,S,Lonicera,0
+335,S,Lindera,0
+335,S,Maple Vib,0
+343,N,Privet,0
+343,N,Lonicera,0
+343,N,Lindera,0
+343,N,Maple Vib,0
+343,S,Privet,0
+343,S,Lonicera,0
+343,S,Lindera,0
+343,S,Maple Vib,0
+331,N,Privet,0
+331,N,Lonicera,0
+331,N,Rubus,0
+331,N,Lindera,0
+331,N,Maple Vib,0
+331,S,Privet,0
+331,S,Rubus,0
+331,S,Lindera,0
+331,S,Maple Vib,0
+338,N,Privet,0
+338,N,Lonicera,0
+338,N,Rubus,0
+338,N,Lindera,0
+338,N,Maple Vib,0
+338,S,Privet,0
+338,S,Lonicera,0
+338,S,Rubus,0
+338,S,Lindera,0
+338,S,Maple Vib,0
+350,N,Rose,0
+350,N,Privet,0
+350,N,Lonicera,0
+350,N,Rubus,0
+350,N,Lindera,0
+350,N,Maple Vib,0
+350,S,Rose,0
+350,S,Rubus,0
+350,S,Lindera,0
+350,S,Maple Vib,0
+239,N,Buckthorn,0
+239,N,Privet,0
+239,N,Lonicera,0
+239,N,Lindera,0
+239,N,Maple Vib,0
+239,S,Privet,0
+239,S,Lonicera,0
+239,S,Lindera,0
+239,S,Maple Vib,0
+237,N,Privet,0
+237,N,Lonicera,0
+237,N,Lindera,0
+237,N,Maple Vib,0
+237,S,Buckthorn,0
+237,S,Privet,0
+237,S,Lindera,0
+332,N,Rose,0
+332,N,Privet,0
+332,N,Lonicera,0
+332,N,Rubus,0
+332,N,Lindera,0
+332,S,Rose,0
+332,S,Privet,0
+332,S,Lonicera,0
+332,S,Rubus,0
+332,S,Lindera,0
+332,S,Maple Vib,0
+247,N,Privet,0
+247,N,Lindera,0
+247,S,Lonicera,0
+247,S,Lindera,0
+247,S,Maple Vib,0
+238,N,Privet,0
+238,N,Lonicera,0
+238,N,Lindera,0
+238,N,Maple Vib,0
+238,S,Privet,0
+238,S,Lonicera,0
+238,S,Lindera,0
+238,S,Maple Vib,0
+242,N,Privet,0
+242,N,Lonicera,0
+242,N,Rubus,0
+242,N,Lindera,0
+242,N,Maple Vib,0
+242,S,Privet,0
+242,S,Lonicera,0
+242,S,Lindera,0
+242,S,Maple Vib,0
+231,N,Buckthorn,0
+231,N,Privet,0
+231,N,Lindera,0
+231,N,Maple Vib,0
+231,S,Privet,0
+231,S,Lindera,0
+231,S,Maple Vib,0
+246,N,Buckthorn,0
+246,N,Privet,0
+246,N,Lonicera,0
+246,N,Lindera,0
+246,N,Maple Vib,0
+246,S,Buckthorn,0
+246,S,Privet,0
+246,S,Lindera,0
+246,S,Maple Vib,0
+249,N,Privet,0
+249,N,Lindera,0
+249,N,Maple Vib,0
+249,S,Privet,0
+249,S,Lindera,0
+249,S,Maple Vib,0
+241,N,Privet,0
+241,N,Lonicera,0
+241,N,Rubus,0
+241,N,Lindera,0
+241,N,Maple Vib,0
+241,S,Rose,0
+241,S,Privet,0
+241,S,Lonicera,0
+241,S,Rubus,0
+241,S,Lindera,0
+241,S,Maple Vib,0
+232,N,Rose,0
+232,N,Privet,0
+232,N,Lindera,0
+232,N,Maple Vib,0
+232,S,Rose,0
+232,S,Lonicera,0
+232,S,Lindera,0
+232,S,Maple Vib,0
+233,N,Privet,0
+233,N,Lindera,0
+233,N,Maple Vib,0
+233,S,Privet,0
+233,S,Lonicera,0
+233,S,Lindera,0
+233,S,Maple Vib,0
+243,N,Privet,0
+243,N,Lindera,0
+243,N,Maple Vib,0
+243,S,Privet,0
+243,S,Lindera,0
+243,S,Maple Vib,0
+245,N,Privet,0
+245,N,Lindera,0
+245,N,Maple Vib,0
+245,S,Privet,0
+245,S,Lindera,0
+245,S,Maple Vib,0
+244,N,Privet,0
+244,N,Lonicera,0
+244,N,Lindera,0
+244,S,Privet,0
+244,S,Lonicera,0
+244,S,Lindera,0
+235,N,Privet,0
+235,N,Lonicera,0
+235,N,Lindera,0
+235,N,Maple Vib,0
+235,S,Privet,0
+235,S,Rubus,0
+235,S,Lindera,0
+235,S,Maple Vib,0
+234,N,Privet,0
+234,N,Lonicera,0
+234,N,Lindera,0
+234,N,Maple Vib,0
+234,S,Privet,0
+234,S,Lonicera,0
+234,S,Lindera,0
+240,N,Privet,0
+240,N,Lonicera,0
+240,N,Lindera,0
+240,S,Privet,0
+240,S,Lonicera,0
+240,S,Lindera,0
+227,N,Buckthorn,0
+227,N,Privet,0
+227,N,Lonicera,0
+227,N,Rubus,0
+227,N,Lindera,0
+227,N,Maple Vib,0
+227,S,Rose,0
+227,S,Lonicera,0
+227,S,Rubus,0
+227,S,Lindera,0
+227,S,Maple Vib,0
+230,N,Rose,0
+230,N,Privet,0
+230,N,Rubus,0
+230,N,Lindera,0
+230,N,Maple Vib,0
+230,S,Buckthorn,0
+230,S,Privet,0
+230,S,Lonicera,0
+230,S,Rubus,0
+230,S,Lindera,0
+230,S,Maple Vib,0
+228,N,Privet,0
+228,N,Lonicera,0
+228,N,Lindera,0
+228,S,Rose,0
+228,S,Privet,0
+228,S,Lonicera,0
+228,S,Lindera,0
+401,N,Buckthorn,0
+401,N,Rose,0
+401,N,Privet,0
+401,N,Lonicera,0
+401,N,Rubus,0
+401,N,Lindera,0
+401,N,Maple Vib,0
+401,S,Buckthorn,0
+401,S,Rose,0
+401,S,Privet,0
+401,S,Lonicera,0
+401,S,Rubus,0
+401,S,Lindera,0
+401,S,Maple Vib,0
+402,N,Buckthorn,0
+402,N,Rose,0
+402,N,Privet,0
+402,N,Lonicera,0
+402,N,Rubus,0
+402,N,Lindera,0
+402,S,Buckthorn,0
+402,S,Rose,0
+402,S,Privet,0
+402,S,Lonicera,0
+402,S,Rubus,0
+402,S,Lindera,0
+403,N,Buckthorn,0
+403,N,Rose,0
+403,N,Privet,0
+403,N,Lonicera,0
+403,N,Rubus,0
+403,N,Lindera,0
+403,N,Maple Vib,0
+403,S,Buckthorn,0
+403,S,Rose,0
+403,S,Privet,0
+403,S,Lonicera,0
+403,S,Rubus,0
+403,S,Lindera,0
+404,N,Buckthorn,0
+404,N,Privet,0
+404,N,Lonicera,0
+404,N,Rubus,0
+404,N,Lindera,0
+404,N,Maple Vib,0
+404,S,Buckthorn,0
+404,S,Privet,0
+404,S,Lonicera,0
+404,S,Rubus,0
+404,S,Lindera,0
+404,S,Maple Vib,0
+406,N,Buckthorn,0
+406,N,Rose,0
+406,N,Privet,0
+406,N,Lonicera,0
+406,N,Rubus,0
+406,N,Maple Vib,0
+406,S,Rose,0
+406,S,Privet,0
+406,S,Lonicera,0
+406,S,Rubus,0
+406,S,Lindera,0
+406,S,Maple Vib,0
+405,N,Buckthorn,0
+405,N,Rose,0
+405,N,Privet,0
+405,N,Lonicera,0
+405,N,Rubus,0
+405,N,Lindera,0
+405,N,Maple Vib,0
+405,S,Buckthorn,0
+405,S,Rose,0
+405,S,Privet,0
+405,S,Lonicera,0
+405,S,Rubus,0
+405,S,Maple Vib,0
+408,N,Buckthorn,0
+408,N,Rose,0
+408,N,Privet,0
+408,N,Lonicera,0
+408,N,Rubus,0
+408,N,Lindera,0
+408,N,Maple Vib,0
+408,S,Buckthorn,0
+408,S,Privet,0
+408,S,Lonicera,0
+408,S,Rubus,0
+408,S,Lindera,0
+410,N,Buckthorn,0
+410,N,Privet,0
+410,N,Lonicera,0
+410,N,Rubus,0
+410,N,Lindera,0
+410,S,Buckthorn,0
+410,S,Rose,0
+410,S,Privet,0
+410,S,Lonicera,0
+410,S,Rubus,0
+410,S,Lindera,0
+410,S,Maple Vib,0
+409,N,Buckthorn,0
+409,N,Rose,0
+409,N,Privet,0
+409,N,Lonicera,0
+409,N,Rubus,0
+409,N,Lindera,0
+409,S,Buckthorn,0
+409,S,Rose,0
+409,S,Privet,0
+409,S,Lonicera,0
+409,S,Rubus,0
+409,S,Lindera,0
+412,N,Buckthorn,0
+412,N,Rose,0
+412,N,Privet,0
+412,N,Lonicera,0
+412,N,Rubus,0
+412,N,Lindera,0
+412,N,Maple Vib,0
+412,S,Buckthorn,0
+412,S,Rose,0
+412,S,Privet,0
+412,S,Lonicera,0
+412,S,Rubus,0
+412,S,Lindera,0
+412,S,Maple Vib,0
+411,N,Buckthorn,0
+411,N,Rose,0
+411,N,Privet,0
+411,N,Lonicera,0
+411,N,Rubus,0
+411,N,Lindera,0
+411,N,Maple Vib,0
+411,S,Buckthorn,0
+411,S,Rose,0
+411,S,Privet,0
+411,S,Lonicera,0
+411,S,Rubus,0
+411,S,Lindera,0
+411,S,Maple Vib,0
+407,N,Privet,0
+407,N,Lonicera,0
+407,N,Rubus,0
+407,N,Lindera,0
+407,N,Maple Vib,0
+407,S,Buckthorn,0
+407,S,Rose,0
+407,S,Privet,0
+407,S,Rubus,0
+407,S,Lindera,0
+407,S,Maple Vib,0
+357,N,Lonicera,0
+357,N,Rubus,0
+357,N,Lindera,0
+357,N,Maple Vib,0
+357,S,Buckthorn,0
+357,S,Privet,0
+357,S,Lonicera,0
+357,S,Rubus,0
+357,S,Lindera,0
+357,S,Maple Vib,0
+355,N,Privet,0
+355,N,Lonicera,0
+355,N,Rubus,0
+355,N,Lindera,0
+355,N,Maple Vib,0
+355,S,Privet,0
+355,S,Lonicera,0
+355,S,Rubus,0
+355,S,Lindera,0
+355,S,Maple Vib,0
+359,N,Rose,0
+359,N,Privet,0
+359,N,Lonicera,0
+359,N,Rubus,0
+359,N,Lindera,0
+359,N,Maple Vib,0
+359,S,Privet,0
+359,S,Lonicera,0
+359,S,Rubus,0
+359,S,Lindera,0
+359,S,Maple Vib,0
+353,N,Privet,0
+353,N,Lonicera,0
+353,N,Rubus,0
+353,N,Lindera,0
+353,N,Maple Vib,0
+353,S,Rose,0
+353,S,Privet,0
+353,S,Lonicera,0
+353,S,Rubus,0
+353,S,Lindera,0
+353,S,Maple Vib,0
+356,N,Rose,0
+356,N,Privet,0
+356,N,Lonicera,0
+356,N,Rubus,0
+356,N,Lindera,0
+356,N,Maple Vib,0
+356,S,Rose,0
+356,S,Privet,0
+356,S,Lonicera,0
+356,S,Rubus,0
+356,S,Lindera,0
+356,S,Maple Vib,0
+362,N,Rose,0
+362,N,Privet,0
+362,N,Lonicera,0
+362,N,Lindera,0
+362,N,Maple Vib,0
+362,S,Rose,0
+362,S,Privet,0
+362,S,Lonicera,0
+362,S,Rubus,0
+362,S,Lindera,0
+362,S,Maple Vib,0
+349,N,Privet,0
+349,N,Lonicera,0
+349,N,Rubus,0
+349,N,Lindera,0
+349,N,Maple Vib,0
+349,S,Privet,0
+349,S,Lonicera,0
+349,S,Rubus,0
+349,S,Lindera,0
+349,S,Maple Vib,0
+364,N,Buckthorn,0
+364,N,Rose,0
+364,N,Privet,0
+364,N,Lonicera,0
+364,N,Rubus,0
+364,N,Lindera,0
+364,N,Maple Vib,0
+364,S,Buckthorn,0
+364,S,Rose,0
+364,S,Privet,0
+364,S,Lonicera,0
+364,S,Rubus,0
+364,S,Lindera,0
+364,S,Maple Vib,0
+365,N,Rose,0
+365,N,Privet,0
+365,N,Lonicera,0
+365,N,Rubus,0
+365,N,Lindera,0
+365,N,Maple Vib,0
+365,S,Rose,0
+365,S,Privet,0
+365,S,Lonicera,0
+365,S,Rubus,0
+365,S,Lindera,0
+365,S,Maple Vib,0
+361,N,Privet,0
+361,N,Lonicera,0
+361,N,Lindera,0
+361,N,Maple Vib,0
+361,S,Privet,0
+361,S,Lonicera,0
+361,S,Rubus,0
+361,S,Lindera,0
+361,S,Maple Vib,0
+347,N,Rose,0
+347,N,Privet,0
+347,N,Rubus,0
+347,N,Lindera,0
+347,N,Maple Vib,0
+347,S,Rose,0
+347,S,Privet,0
+347,S,Lonicera,0
+347,S,Rubus,0
+347,S,Lindera,0
+347,S,Maple Vib,0
+348,N,Rose,0
+348,N,Privet,0
+348,N,Rubus,0
+348,N,Lindera,0
+348,N,Maple Vib,0
+348,S,Rose,0
+348,S,Lonicera,0
+348,S,Rubus,0
+348,S,Lindera,0
+348,S,Maple Vib,0
+351,N,Rose,0
+351,N,Privet,0
+351,N,Lonicera,0
+351,N,Rubus,0
+351,N,Lindera,0
+351,N,Maple Vib,0
+351,S,Privet,0
+351,S,Rubus,0
+351,S,Lindera,0
+351,S,Maple Vib,0
+276,N,Lonicera,0
+276,N,Rubus,0
+276,N,Lindera,0
+276,N,Maple Vib,0
+276,S,Privet,0
+276,S,Lindera,0
+276,S,Maple Vib,0
+285,N,Buckthorn,0
+285,N,Lonicera,0
+285,N,Lindera,0
+285,N,Maple Vib,0
+285,S,Lonicera,0
+285,S,Rubus,0
+285,S,Lindera,0
+285,S,Maple Vib,0
+281,N,Privet,0
+281,N,Lindera,0
+281,N,Maple Vib,0
+281,S,Privet,0
+281,S,Lindera,0
+284,N,Buckthorn,0
+284,N,Rose,0
+284,N,Privet,0
+284,N,Lonicera,0
+284,N,Rubus,0
+284,N,Lindera,0
+284,N,Maple Vib,0
+284,S,Rose,0
+284,S,Privet,0
+284,S,Lonicera,0
+284,S,Rubus,0
+284,S,Lindera,0
+284,S,Maple Vib,0
+367,N,Buckthorn,0
+367,N,Rose,0
+367,N,Privet,0
+367,N,Lonicera,0
+367,N,Rubus,0
+367,N,Lindera,0
+367,N,Maple Vib,0
+367,S,Buckthorn,0
+367,S,Rose,0
+367,S,Privet,0
+367,S,Lonicera,0
+367,S,Rubus,0
+367,S,Lindera,0
+367,S,Maple Vib,0
+368,N,Rose,0
+368,N,Privet,0
+368,N,Lonicera,0
+368,N,Rubus,0
+368,N,Lindera,0
+368,N,Maple Vib,0
+368,S,Rose,0
+368,S,Privet,0
+368,S,Lonicera,0
+368,S,Rubus,0
+368,S,Lindera,0
+368,S,Maple Vib,0
+369,N,Buckthorn,0
+369,N,Rose,0
+369,N,Privet,0
+369,N,Lonicera,0
+369,N,Rubus,0
+369,N,Lindera,0
+369,N,Maple Vib,0
+369,S,Buckthorn,0
+369,S,Rose,0
+369,S,Privet,0
+369,S,Lonicera,0
+369,S,Rubus,0
+369,S,Lindera,0
+369,S,Maple Vib,0
+366,N,Rose,0
+366,N,Privet,0
+366,N,Lonicera,0
+366,N,Rubus,0
+366,N,Lindera,0
+366,N,Maple Vib,0
+366,S,Buckthorn,0
+366,S,Rose,0
+366,S,Privet,0
+366,S,Lonicera,0
+366,S,Rubus,0
+366,S,Lindera,0
+366,S,Maple Vib,0
+352,N,Privet,0
+352,N,Rubus,0
+352,N,Lindera,0
+352,N,Maple Vib,0
+352,S,Privet,0
+352,S,Lonicera,0
+352,S,Rubus,0
+352,S,Lindera,0
+352,S,Maple Vib,0
+905,N,Privet,0
+905,N,Lonicera,0
+905,N,Maple Vib,0
+905,S,Privet,0
+905,S,Lonicera,0
+905,S,Lindera,0
+905,S,Maple Vib,0
+903,N,Rose,0
+903,N,Privet,0
+903,N,Lonicera,0
+903,N,Maple Vib,0
+903,S,Rose,0
+903,S,Privet,0
+903,S,Lonicera,0
+903,S,Lindera,0
+903,S,Maple Vib,0
+904,N,Privet,0
+904,N,Lonicera,0
+904,N,Maple Vib,0
+904,S,Privet,0
+904,S,Lonicera,0
+904,S,Lindera,0
+904,S,Maple Vib,0
+273,N,Privet,0
+273,N,Lonicera,0
+273,N,Lindera,0
+273,N,Maple Vib,0
+273,S,Buckthorn,0
+273,S,Lonicera,0
+273,S,Lindera,0
+273,S,Maple Vib,0
+288,N,Buckthorn,0
+288,N,Rose,0
+288,N,Privet,0
+288,N,Lonicera,0
+288,N,Rubus,0
+288,N,Lindera,0
+288,N,Maple Vib,0
+288,S,Buckthorn,0
+288,S,Rose,0
+288,S,Privet,0
+288,S,Lonicera,0
+288,S,Rubus,0
+288,S,Lindera,0
+280,N,Privet,0
+280,N,Lindera,0
+280,N,Maple Vib,0
+280,S,Buckthorn,0
+280,S,Privet,0
+280,S,Lonicera,0
+280,S,Lindera,0
+280,S,Maple Vib,0
+251,N,Privet,0
+251,N,Lindera,0
+251,N,Maple Vib,0
+251,S,Privet,0
+251,S,Lonicera,0
+251,S,Lindera,0
+279,N,Rose,0
+279,N,Privet,0
+279,N,Lonicera,0
+279,N,Rubus,0
+279,N,Lindera,0
+279,N,Maple Vib,0
+279,S,Rose,0
+279,S,Privet,0
+279,S,Lonicera,0
+279,S,Rubus,0
+279,S,Lindera,0
+279,S,Maple Vib,0
+277,N,Rose,0
+277,N,Privet,0
+277,N,Lonicera,0
+277,N,Lindera,0
+277,N,Maple Vib,0
+277,S,Rose,0
+277,S,Privet,0
+277,S,Lonicera,0
+277,S,Rubus,0
+277,S,Lindera,0
+277,S,Maple Vib,0
+283,N,Rose,0
+283,N,Privet,0
+283,N,Lonicera,0
+283,N,Rubus,0
+283,N,Lindera,0
+283,N,Maple Vib,0
+283,S,Rose,0
+283,S,Privet,0
+283,S,Lonicera,0
+283,S,Rubus,0
+283,S,Lindera,0
+283,S,Maple Vib,0
+229,N,Privet,0
+229,N,Lindera,0
+229,N,Maple Vib,0
+229,S,Privet,0
+229,S,Lonicera,0
+229,S,Lindera,0
+229,S,Maple Vib,0
+236,N,Lonicera,0
+236,N,Lindera,0
+236,N,Maple Vib,0
+236,S,Lonicera,0
+236,S,Lindera,0
+236,S,Maple Vib,0
+275,N,Privet,0
+275,N,Maple Vib,0
+275,S,Privet,0
+275,S,Lonicera,0
+275,S,Rubus,0
+275,S,Lindera,0
+275,S,Maple Vib,0
+286,N,Privet,0
+286,N,Lonicera,0
+286,N,Lindera,0
+286,N,Maple Vib,0
+286,S,Privet,0
+286,S,Lonicera,0
+286,S,Rubus,0
+286,S,Lindera,0
+286,S,Maple Vib,0
+274,N,Privet,0
+274,N,Lonicera,0
+274,N,Lindera,0
+274,N,Maple Vib,0
+274,S,Privet,0
+274,S,Lonicera,0
+274,S,Lindera,0
+274,S,Maple Vib,0
+287,N,Buckthorn,0
+287,N,Rose,0
+287,N,Privet,0
+287,N,Lonicera,0
+287,N,Rubus,0
+287,N,Lindera,0
+287,N,Maple Vib,0
+287,S,Buckthorn,0
+287,S,Privet,0
+287,S,Lonicera,0
+287,S,Lindera,0
+287,S,Maple Vib,0
