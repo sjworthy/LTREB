@@ -3,6 +3,8 @@ library(lmerTest)
 library(performance)
 library(emmeans)
 library(MASS)
+library(sjPlot)
+library(cowplot)
 
 # merge all years together
 og.seedlings = read.csv("./Formatted.Data/WW_Seedlings.csv")
@@ -178,7 +180,7 @@ pairs(slopes)
 
 ### common species abundance ####
 
-# ACRU, ACSA, LITU, QURU
+# ACRU, ACSA, LITU, QURU, FRAM, PRSE
 
 abundance.plot = early %>% 
   group_by(Treatment,Year,Species) %>% 
@@ -187,13 +189,15 @@ abundance.plot = early %>%
   ungroup()
 
 abundance.plot.sub = abundance.plot %>% 
-  filter(Species %in% c("ACRU","ACSA","LITU","QURU"))
+  filter(Species %in% c("ACRU","ACSA","LITU","QURU","PRSE","FRAM"))
+
+abundance.plot.sub$Treatment = as.factor(abundance.plot.sub$Treatment)
 
 ggplot(abundance.plot.sub, aes(x = Year, y = alive, color = Treatment))+
   geom_line()+
   facet_wrap(~Species)
 
-abundance.plot.sub$scale.Year = scale(abundance.plot.sub$Year, center = TRUE, scale = FALSE)
+abundance.plot.sub$scale.Year = as.numeric(scale(abundance.plot.sub$Year, center = TRUE, scale = FALSE))
 
 ACRU = abundance.plot.sub %>% 
   filter(Species == "ACRU")
@@ -203,6 +207,11 @@ LITU = abundance.plot.sub %>%
   filter(Species == "LITU")
 QURU = abundance.plot.sub %>% 
   filter(Species == "QURU")
+PRSE = abundance.plot.sub %>% 
+  filter(Species == "PRSE")
+FRAM = abundance.plot.sub %>% 
+  filter(Species == "FRAM")
+
 QURU.pre.mast = QURU %>% 
   filter(Year != 2025)
 
@@ -212,6 +221,35 @@ plot(ACRU.abund.model)
 check_model(ACRU.abund.model)
 slopes = emtrends(ACRU.abund.model, specs = "Treatment", var = "scale.Year")
 pairs(slopes)
+# significant increase in all treatments, treatments don't differ
+
+ACRU.plot = plot_model(ACRU.abund.model, type = "pred", terms = c("scale.Year","Treatment"),
+           line.size = 1.5, alpha = 0.1)+
+  theme_classic(base_size = 15)+
+  scale_x_continuous(
+    breaks = -3.02399999999989:2.97600000000011,
+    labels = 2019:2025)+
+  scale_color_manual(
+    values = c(
+      "Control" = "#CFA3EE",
+      "IC" = "#548F01",
+      "IC+TSI" = "#4E5462"),
+    labels = c(
+      "Control" = "C",
+      "IC" = "CD",
+      "IC+TSI" = "CD+ISR"))+
+  scale_fill_manual(
+    values = c(
+      "Control" = "#CFA3EE",
+      "IC" = "#548F01",
+      "IC+TSI" = "#4E5462"),
+    labels = c(
+      "Control" = "C",
+      "IC" = "CD",
+      "IC+TSI" = "CD+ISR"))+
+  theme(legend.position = "none")+
+  labs(x = "Year", y= "Abundance", title = "Acer rubra (red maple)")
+ACRU.plot
 
 ACSA.abund.model = glm.nb(alive~Treatment*scale.Year, data = ACSA)
 summary(ACSA.abund.model)
@@ -219,6 +257,35 @@ plot(ACSA.abund.model)
 check_model(ACSA.abund.model)
 slopes = emtrends(ACSA.abund.model, specs = "Treatment", var = "scale.Year")
 pairs(slopes)
+# significant decrease in control and IC+TSI, Control and IC significantly differ
+
+ACSA.plot = plot_model(ACSA.abund.model, type = "pred", terms = c("scale.Year","Treatment"),
+                       line.size = 1.5, alpha = 0.1)+
+  theme_classic(base_size = 15)+
+  scale_x_continuous(
+    breaks = -3.02399999999989:2.97600000000011,
+    labels = 2019:2025)+
+  scale_color_manual(
+    values = c(
+      "Control" = "#CFA3EE",
+      "IC" = "#548F01",
+      "IC+TSI" = "#4E5462"),
+    labels = c(
+      "Control" = "C",
+      "IC" = "CD",
+      "IC+TSI" = "CD+ISR"))+
+  scale_fill_manual(
+    values = c(
+      "Control" = "#CFA3EE",
+      "IC" = "#548F01",
+      "IC+TSI" = "#4E5462"),
+    labels = c(
+      "Control" = "C",
+      "IC" = "CD",
+      "IC+TSI" = "CD+ISR"))+
+  theme(legend.position = "none")+
+  labs(x = "Year", y= "Abundance", title = "Acer saccharum (sugar maple)")
+ACSA.plot
 
 LITU.abund.model = glm.nb(alive~Treatment*scale.Year, data = LITU)
 summary(LITU.abund.model)
@@ -226,6 +293,35 @@ plot(LITU.abund.model)
 check_model(LITU.abund.model)
 slopes = emtrends(LITU.abund.model, specs = "Treatment", var = "scale.Year")
 pairs(slopes)
+# significant increase in IC and IC+TSI, no difference in treatments
+
+LITU.plot = plot_model(LITU.abund.model, type = "pred", terms = c("scale.Year","Treatment"),
+                       line.size = 1.5, alpha = 0.1)+
+  theme_classic(base_size = 15)+
+  scale_x_continuous(
+    breaks = -3.02399999999989:2.97600000000011,
+    labels = 2019:2025)+
+  scale_color_manual(
+    values = c(
+      "Control" = "#CFA3EE",
+      "IC" = "#548F01",
+      "IC+TSI" = "#4E5462"),
+    labels = c(
+      "Control" = "C",
+      "IC" = "CD",
+      "IC+TSI" = "CD+ISR"))+
+  scale_fill_manual(
+    values = c(
+      "Control" = "#CFA3EE",
+      "IC" = "#548F01",
+      "IC+TSI" = "#4E5462"),
+    labels = c(
+      "Control" = "C",
+      "IC" = "CD",
+      "IC+TSI" = "CD+ISR"))+
+  theme(legend.position = "none")+
+  labs(x = "Year", y= "Abundance", title = "Liriodendron tulipifera (tulip tree)")
+LITU.plot
 
 QURU.abund.model = glm.nb(alive~Treatment*scale.Year, data = QURU)
 summary(QURU.abund.model)
@@ -233,6 +329,121 @@ plot(QURU.abund.model)
 check_model(QURU.abund.model)
 slopes = emtrends(QURU.abund.model, specs = "Treatment", var = "scale.Year")
 pairs(slopes)
+# significant increase in control, no difference in treatments
+
+QURU.plot = plot_model(QURU.abund.model, type = "pred", terms = c("scale.Year","Treatment"),
+                       line.size = 1.5, alpha = 0.1)+
+  theme_classic(base_size = 15)+
+  scale_x_continuous(
+    breaks = -3.02399999999989:2.97600000000011,
+    labels = 2019:2025)+
+  scale_color_manual(
+    values = c(
+      "Control" = "#CFA3EE",
+      "IC" = "#548F01",
+      "IC+TSI" = "#4E5462"),
+    labels = c(
+      "Control" = "C",
+      "IC" = "CD",
+      "IC+TSI" = "CD+ISR"))+
+  scale_fill_manual(
+    values = c(
+      "Control" = "#CFA3EE",
+      "IC" = "#548F01",
+      "IC+TSI" = "#4E5462"),
+    labels = c(
+      "Control" = "C",
+      "IC" = "CD",
+      "IC+TSI" = "CD+ISR"))+
+  theme(legend.position = "none")+
+  labs(x = "Year", y= "Abundance", title = "Quercus rubra (red oak)")
+QURU.plot
+
+PRSE.abund.model = glm.nb(alive~Treatment*scale.Year, data = PRSE)
+summary(PRSE.abund.model)
+plot(PRSE.abund.model)
+check_model(PRSE.abund.model)
+slopes = emtrends(PRSE.abund.model, specs = "Treatment", var = "scale.Year")
+pairs(slopes)
+
+PRSE.plot = plot_model(PRSE.abund.model, type = "pred", terms = c("scale.Year","Treatment"),
+                       line.size = 1.5, alpha = 0.1)+
+  theme_classic(base_size = 15)+
+  scale_x_continuous(
+    breaks = -3.02399999999989:2.97600000000011,
+    labels = 2019:2025)+
+  scale_color_manual(
+    values = c(
+      "Control" = "#CFA3EE",
+      "IC" = "#548F01",
+      "IC+TSI" = "#4E5462"),
+    labels = c(
+      "Control" = "C",
+      "IC" = "CD",
+      "IC+TSI" = "CD+ISR"))+
+  scale_fill_manual(
+    values = c(
+      "Control" = "#CFA3EE",
+      "IC" = "#548F01",
+      "IC+TSI" = "#4E5462"),
+    labels = c(
+      "Control" = "C",
+      "IC" = "CD",
+      "IC+TSI" = "CD+ISR"))+
+  theme(legend.position = "none")+
+  labs(x = "Year", y= "Abundance", title = "Prunus serotina (black cherry)")
+PRSE.plot
+
+FRAM.abund.model = glm.nb(alive~Treatment*scale.Year, data = FRAM)
+summary(FRAM.abund.model)
+plot(FRAM.abund.model)
+check_model(FRAM.abund.model)
+slopes = emtrends(FRAM.abund.model, specs = "Treatment", var = "scale.Year")
+pairs(slopes)
+# significant decreases for all treatments
+
+FRAM.plot = plot_model(FRAM.abund.model, type = "pred", terms = c("scale.Year","Treatment"),
+                       line.size = 1.5, alpha = 0.1)+
+  theme_classic(base_size = 15)+
+  scale_x_continuous(
+    breaks = -3.02399999999989:2.97600000000011,
+    labels = 2019:2025)+
+  scale_color_manual(
+    values = c(
+      "Control" = "#CFA3EE",
+      "IC" = "#548F01",
+      "IC+TSI" = "#4E5462"),
+    labels = c(
+      "Control" = "C",
+      "IC" = "CD",
+      "IC+TSI" = "CD+ISR"))+
+  scale_fill_manual(
+    values = c(
+      "Control" = "#CFA3EE",
+      "IC" = "#548F01",
+      "IC+TSI" = "#4E5462"),
+    labels = c(
+      "Control" = "C",
+      "IC" = "CD",
+      "IC+TSI" = "CD+ISR"))+
+  theme(legend.position = "none")+
+  labs(x = "Year", y= "Abundance", title = "Fraxinus americana (white ash)")
+FRAM.plot
+
+plot_grid(FRAM.plot,ACRU.plot,ACSA.plot,PRSE.plot,LITU.plot,QURU.plot)
+
+ggsave("./Plots/common.sp.abundance.png", width = 14, height = 8.5, dpi = 300)
+
+
+
+
+
+
+
+
+
+
+
 
 QURU.abund.model.pre.mast = glm.nb(alive~Treatment*scale.Year, data = QURU.pre.mast)
 summary(QURU.abund.model.pre.mast)
@@ -475,6 +686,37 @@ mort.rate.mod = glmer(y ~ Treatment*scale.Year + Block + (1|Plot_ID),
 summary(mort.rate.mod)
 slopes = emtrends(mort.rate.mod, specs = "Treatment", var = "scale.Year")
 pairs(slopes)
+# control significantly declining, IC+TSI significantly increasing, IC increasing
+# control and IC+TSI significantly differ from each other.
+
+
+plot_model(mort.rate.mod, type = "pred", terms = c("scale.Year","Treatment"),
+           line.size = 1.5, alpha = 0.1)+
+  theme_classic(base_size = 15)+
+  scale_x_continuous(
+    breaks = -3:3,
+    labels = 2019:2025)+
+  scale_color_manual(
+    values = c(
+      "Control" = "#CFA3EE",
+      "IC" = "#548F01",
+      "IC+TSI" = "#4E5462"),
+    labels = c(
+      "Control" = "C",
+      "IC" = "CD",
+      "IC+TSI" = "CD+ISR"))+
+  scale_fill_manual(
+    values = c(
+      "Control" = "#CFA3EE",
+      "IC" = "#548F01",
+      "IC+TSI" = "#4E5462"),
+    labels = c(
+      "Control" = "C",
+      "IC" = "CD",
+      "IC+TSI" = "CD+ISR"))+
+  labs(x = "Year", y= "Probability of Mortality", title = NULL)
+
+ggsave("./Plots/mortality.png", width = 6, height = 4, dpi = 300)
 
 # late
 abundance.plot = late %>% 
