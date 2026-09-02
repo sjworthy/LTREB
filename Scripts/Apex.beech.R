@@ -10,7 +10,7 @@ apex = read.csv("Formatted.Data/Apex.beech.csv")
 
 apex.trt = read.csv("Raw.Data/APEX Treatments.csv")
 apex.trt.2 = apex.trt %>% 
-  select(Block,GPS.Plot..,correct.treatments)
+  dplyr::select(Block,GPS.Plot..,correct.treatments)
 
 colnames(apex.trt.2)[2] = "Plot"
 apex.trt.2$Block[apex.trt.2$Block == "SF"] = "SC"
@@ -52,6 +52,9 @@ apex.controls = apex %>%
 
 apex.controls.arb = apex.controls %>% 
   filter(Block %in% c("PC","SC"))
+
+apex.2025 = apex.controls.arb %>% 
+  filter(Year == 2025)
 
 # make wide format
 
@@ -238,4 +241,107 @@ SC.12 = apex.arb.long %>%
 test.PC = lm(RGR~ Time, PC.12)
 test.SC = lm(RGR~Time, SC.12)
 
+#### Looking at all the APEX data, not just beech ####
 
+apex.all = read.csv("./Formatted.Data/apex.all.csv")
+
+# filter for on-site plots
+
+apex.all.arb = apex.all %>% 
+  filter(Block %in% c("PC","SC"))
+
+apex.sv = apex.all %>% 
+  filter(Block == "SV")
+
+# read in info about treatments
+
+apex.trt = read.csv("Raw.Data/APEX Treatments.csv")
+apex.trt.2 = apex.trt %>% 
+  dplyr::select(Block,GPS.Plot..,correct.treatments)
+
+colnames(apex.trt.2)[2] = "Plot"
+apex.trt.2$Block[apex.trt.2$Block == "SF"] = "SC"
+
+# merge
+apex.all.arb = left_join(apex.all.arb,apex.trt.2)
+apex.all.arb$correct.treatments[apex.all.arb$correct.treatments == "control"] = "Control"
+apex.all.arb$correct.treatments[apex.all.arb$correct.treatments == "lime"] = "Lime"
+apex.all.arb$correct.treatments[apex.all.arb$correct.treatments == "x-trt"] = "X-Trt"
+
+apex.sv.2 = left_join(apex.sv, apex.trt.2)
+apex.sv.2$correct.treatments[apex.sv.2$correct.treatments == "control"] = "Control"
+apex.sv.2$correct.treatments[apex.sv.2$correct.treatments == "lime"] = "Lime"
+apex.sv.2$correct.treatments[apex.sv.2$correct.treatments == "x-trt"] = "X-Trt"
+
+# subset out controls
+apex.all.arb.2 = apex.all.arb %>% 
+  filter(correct.treatments %in% c("Control"))
+
+table(apex.all.arb.2$Sci_name) # controls
+14/240*100
+
+table(apex.all.arb$Sci_name) # all plots
+51/953*100
+
+apex.sv.3 = apex.sv.2 %>% 
+  filter(correct.treatments %in% c("Control"))
+
+table(apex.sv.3$Sci_name) # SV controls
+81/151*100
+
+table(apex.sv.2$Sci_name) # SV all
+267/539*100
+
+apex.all.arb.beech = apex.all.arb.2 %>% 
+  filter(Sci_name %in% c("Fagus grandifolia"))
+
+apex.all.arb.all.beech = apex.all.arb %>% 
+  filter(Sci_name %in% c("Fagus grandifolia"))
+
+apex.sv.beech = apex.sv.2 %>% 
+  filter(Sci_name %in% c("Fagus grandifolia"))
+
+apex.sv.beech.control = apex.sv.3 %>% 
+  filter(Sci_name %in% c("Fagus grandifolia"))
+
+# basal area of beech
+
+#install.packages("dendrometry")
+library(dendrometry)
+
+apex.all.arb.all.beech$Basal_Area = basal_i(apex.all.arb.all.beech$DBH.2025)
+apex.arb.total.BA = apex.all.arb.all.beech %>% 
+  group_by(Block) %>% 
+  summarise(Total_Basal_Area = sum(Basal_Area, na.rm = TRUE))
+sum(apex.all.arb.all.beech$Basal_Area)
+# 23089.94 across 12 plots of 20 x 40 m which is slightly larger than 1 ha.
+
+apex.sv.beech$Basal_Area = basal_i(apex.sv.beech$DBH.2025)
+sum(apex.sv.beech$Basal_Area)
+# 71486.34 across 12 plots of 20 x 40 m which is slightly larger than 1 ha.
+
+apex.sv.beech.control$Basal_Area = basal_i(apex.sv.beech.control$DBH.2025)
+sum(apex.sv.beech.control$Basal_Area)
+# 23843.49 across 3 plots of 20 x 40 m which is slightly larger than 1 ha.
+
+# read in girdled tree data
+
+WW.girdled = read.csv("Formatted.Data/WW_Girdled_Trees.csv")
+
+WW.girdled.2 = WW.girdled %>% 
+  filter(Girdled. == "Yes")
+WW.girdled.2$DBH_1 = as.numeric(WW.girdled.2$DBH_1)
+
+WW.girdled.2$Basal_Area = basal_i(WW.girdled.2$DBH_1)
+
+WW.total.BA = WW.girdled.2 %>% 
+  group_by(Plot) %>% 
+  summarise(Total_Basal_Area = sum(Basal_Area, na.rm = TRUE))
+
+# basal area of girdled and felled trees
+
+WW.girdled$Basal_Area = basal_i(WW.girdled$DBH_1)
+
+WW.total.BA.GF = WW.girdled %>% 
+  group_by(Plot) %>% 
+  summarise(Total_Basal_Area = sum(Basal_Area, na.rm = TRUE))

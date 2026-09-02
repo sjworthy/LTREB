@@ -814,3 +814,80 @@ pairs(slopes)
 
 ggplot(species.richness.plot, aes(x = Year, y = n_species, color = Treatment))+
   geom_smooth(method = "lm")
+
+#### species diversity metrics ####
+
+library(vegan)
+
+# make the community data matrix
+species.richness.plot$Full_Plot_info = paste(species.richness.plot$Treatment,species.richness.plot$Year,species.richness.plot$Block, sep = "_")
+abund.cdm = matrix(data=NA, nrow = 63, ncol = 40)
+row.names(abund.cdm) = as.factor(unique(species.richness.plot$Full_Plot_info))
+colnames(abund.cdm) = sort(as.factor(unique(richness$Species)))
+
+#write.csv(abund.cdm, file = "./Formatted.Data/abund.cdm.csv")
+
+richness.block = early %>% 
+  group_by(Treatment, Year, ,Block, Species) %>% 
+  summarise(Count = n(), .groups = "drop") %>%  
+  ungroup()
+
+abund.cdm = read.csv("./Formatted.Data/abund.cdm.csv", header = T, row.names = 1)
+
+# calculate species richness
+richness = specnumber(abund.cdm)
+
+# Fisher's Alpha
+alpha = fisher.alpha(abund.cdm)
+
+# Inverse Simpson's Diversity
+invsimp = diversity(abund.cdm, index = "invsimpson")
+
+# evenness
+even = invsimp/richness
+
+# merge metrics together
+diversity.dat = as.data.frame(cbind(alpha,even,richness))
+diversity.dat = rownames_to_column(diversity.dat, "Full_Plot_info")
+diversity.dat.2 = diversity.dat %>% 
+  separate_wider_delim(cols = Full_Plot_info, delim = "_", names = c("Treatment","Year","Block"))
+
+diversity.dat.2$Year = as.numeric(diversity.dat.2$Year)
+diversity.dat.2$scale.Year = scale(diversity.dat.2$Year, center = TRUE, scale = FALSE)
+
+# alpha diversity model
+alpha.model = lm(alpha~Treatment*scale.Year + Block, data = diversity.dat.2)
+summary(alpha.model)
+plot(alpha.model)
+slopes = emtrends(alpha.model, specs = "Treatment", var = "scale.Year")
+pairs(slopes)
+
+ggplot(diversity.dat.2, aes(x = scale.Year, y = alpha, color = Treatment))+
+  geom_smooth(method = "lm")
+
+# evenness model
+evenness.model = lm(even~Treatment*scale.Year + Block, data = diversity.dat.2)
+summary(evenness.model)
+plot(evenness.model)
+slopes = emtrends(evenness.model, specs = "Treatment", var = "scale.Year")
+pairs(slopes)
+
+ggplot(diversity.dat.2, aes(x = scale.Year, y = alpha, color = Treatment))+
+  geom_smooth(method = "lm")
+
+# richness model
+richness.model = lm(richness~Treatment*scale.Year + Block, data = diversity.dat.2)
+summary(richness.model)
+plot(richness.model)
+slopes = emtrends(richness.model, specs = "Treatment", var = "scale.Year")
+pairs(slopes)
+
+ggplot(diversity.dat.2, aes(x = scale.Year, y = alpha, color = Treatment))+
+  geom_smooth(method = "lm")
+
+
+
+test = early %>% 
+  filter(Year == 2019)
+test.2 = test %>% 
+  filter(Tree == 4)

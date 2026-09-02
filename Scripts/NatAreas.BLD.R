@@ -207,9 +207,9 @@ ggsave("Plots/NatAreas.BLD.Canopy.Cover.Spring.png", height = 7, width = 7)
 #### Merge Small Tree and Canopy Data ####
 
 canopy = read.csv("./Formatted.Data/NatAreas_BLD_Canopy.csv") %>% 
-  select(Canopy_Tag_ID, Year,Season,Canopy.Cover,Percent_Class,Alive)
+  dplyr::select(Canopy_Tag_ID, Year,Season,Canopy.Cover,Percent_Class,Alive)
 small = read.csv("./Formatted.Data/NatAreas_BLD_Small_Tree.csv") %>% 
-  select(SmallTree_Tag_ID, Year,Season,Canopy.Cover,Percent_Class,Alive)
+  dplyr::select(SmallTree_Tag_ID, Year,Season,Canopy.Cover,Percent_Class,Alive)
 
 canopy <- canopy %>%
   rename(Tag_ID = Canopy_Tag_ID)
