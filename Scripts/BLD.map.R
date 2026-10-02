@@ -250,7 +250,8 @@ ggplot()+
                     drop = TRUE, na.translate = FALSE)+
   geom_sf(data = states.map.Beech,fill = NA, color = "black", linewidth = 1)+
   theme_classic(base_size = 15)+
-  #theme(legend.position = "none")+
+  ggtitle("Beech Leaf Disease Spread")+
+  theme(legend.position = "none")+
   labs(x = "Longitude", y = "Latitude")
 
 #ggsave("./Plots/Beech.plus.BLD.map.no.legend.png", width = 8, height = 10, dpi = 300)
